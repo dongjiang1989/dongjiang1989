@@ -2,6 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=dongjiang1989)
 
 ![](https://github-profile-trophy.vercel.app/?username=dongjiang1989)
+
+![dongjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjiang1989&show_icons=true&theme=transparent)
+
 <!--
 **dongjiang1989/dongjiang1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
