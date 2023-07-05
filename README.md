@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=dongjiang1989)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://github-profile-trophy.vercel.app/?username=dongjiang1989)
 
 ![dongjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjiang1989&show_icons=true&theme=transparent)
@@ -19,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
