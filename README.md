@@ -15,6 +15,10 @@
 
 ![dongjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjiang1989&show_icons=true&theme=transparent)
 
+![dongjiang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dongjiang1989&hide_border=true)
+
+![dongjiang's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjiang1989&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **dongjiang1989/dongjiang1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
