@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on https://kubeservice.cn
 
-💬 Ask me about Go, Kubernetes, Containerd, and Docker
+💬 Ask me about Go, Kubernetes, Containerd, and Docker, etc
 
 📫 How to reach me: [@kubeservice](https://twitter.com/kubeservice) on Twitter
 
