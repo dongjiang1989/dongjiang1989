@@ -6,7 +6,7 @@
 
 📫 How to reach me: [@kubeservice](https://twitter.com/kubeservice) on Twitter
 
-😄 Follow landscape me on https://landscape.cncf.io/card-mode?selected=kube-service-stack
+😄 Follow landscape me on [https://landscape.cncf.io/card-mode?selected=kube-service-stack](https://landscape.cncf.io/?item=platform--certified-kubernetes-distribution--kubeservice-stack)
 
 ![](https://komarev.com/ghpvc/?username=dongjiang1989)
 
