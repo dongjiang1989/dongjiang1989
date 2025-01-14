@@ -18,7 +18,7 @@
 
 ![dongjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjiang1989&show_icons=true&theme=transparent)
 
-[![dongjiang‘s Streak](https://streak-stats.demolab.com?user=dongjiang1989)](https://git.io/streak-stats)
+[![dongjiang‘s Streak](https://git-hub-streak-stats.vercel.app?user=dongjiang1989)](https://git.io/streak-stats)
 
 ![dongjiang's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjiang1989&show_icons=true&hide_border=true&layout=compact)
 
