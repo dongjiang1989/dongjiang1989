@@ -52,6 +52,5 @@ Here are some ideas to get you started:
 
 **Certifications**
 
-- [CKA](https://www.credly.com/badges/845e7527-5034-461e-9d93-4e6686c96101)
-- [CKAD](https://www.credly.com/badges/33fa39ed-b97c-4972-a8aa-cb758e7daa60)
+- [CKA](https://www.credly.com/badges/eadcf879-bbd5-4ed0-a4a7-d69a407789e7/public_url)
 
