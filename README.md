@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 | 2021 | Beijing | InfoQ                                   | Using a Serverless-like Solution at Beike Zhaofang to Reduce Costs and Improve Efficiency | [Download](https://ppt.infoq.cn/slide/show?cid=83&pid=3245) | -                                                       |
 | 2020 | Beijing | CloudNative Tech Salon Special Session   | Implementation of Cloud Container Engine Architecture   | [Download](https://www.kubeservice.cn/book/云容器云引擎架构实现.pdf) | -                                                       |
 
-- [KubeCon Keynote Speaker](https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6)
-
 **Certifications**
 
 - [CKA](https://www.credly.com/badges/eadcf879-bbd5-4ed0-a4a7-d69a407789e7/public_url)
+- [KubeCon Keynote Speaker](https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6)
+
 
