@@ -57,4 +57,6 @@ Here are some ideas to get you started:
 - [KubeCon Keynote Speaker](https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6)
 - [CNCF devstats score](https://devstats.cluster.fun/?user=dongjiang1989)
 
-<img src="https://images.credly.com/images/00f3949e-c9f9-44da-862a-c9f8fe797899/blob" ref="https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6" width="200" height="200">
+<a href="https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6" class="img-link" target="_blank">
+  <img src="https://images.credly.com/images/00f3949e-c9f9-44da-862a-c9f8fe797899/blob" width="200" height="200">
+</a>
