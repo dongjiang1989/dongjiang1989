@@ -44,13 +44,13 @@ ahmetb                         █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 11 | **16** | +45% | 📈 +5 |
+| **总活动量** | 10 | **16** | +60% | 📈 +6 |
 | Pull Request | 5 | 8 | +60% | 📈 +3 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 6 | 8 | +33% | 📈 +2 |
+| Commit | 5 | 8 | +60% | 📈 +3 |
 
 - 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
-- ❌ **不再活跃的仓库**：`dongjiang1989/myblog`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`
+- ❌ **不再活跃的仓库**：`kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---
@@ -74,7 +74,7 @@ ahmetb                         █                    6%
 | 2025-10-28（二） | 0 | ░░░░░ | — |
 | 2025-10-29（三） | 2 | ██░░░ | PR #3370 (kubernetes-sigs/controller-runtime); ahmetb/gen-crd-api-reference-docs: fix unsupported |
 | 2025-10-30（四） | 3 | ███░░ | PR #1299 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: Change sort to s; kubernetes-sigs/controller-runtime: change sort to |
-| 2025-10-31（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator)） |
+| 2025-10-31（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
 | 2025-11-01（六） | 0 | ░░░░░ | — |
 | 2025-11-02（日） | 1 | █░░░░ | kubernetes-sigs/controller-tools: Merge branch 'ma |
 | 2025-11-03（一） | 3 | ███░░ | PR #8065 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Merge pul; prometheus-operator/prometheus-operator: update pr |

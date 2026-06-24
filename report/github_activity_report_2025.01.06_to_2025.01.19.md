@@ -15,50 +15,50 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **25** 个 |
-| 涉及仓库数 | **35** 个 |
+| 涉及仓库数 | **34** 个 |
 | Pull Request 数 | **13** 个（已合并 10，开放 3） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **53** 次 |
-| 总活动量 | **67** |
+| Commit 数 | **49** 次 |
+| 总活动量 | **63** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ████                 22%
-prometheus-operator            ██                   13%
-dongjiang1989                  █                    9%
-prometheus                     █                    9%
+kubeservice-stack              ████                 24%
+prometheus-operator            ██                   14%
+prometheus                     █                    10%
 aimultiple-benchmark           █                    6%
-karmada-io                     █                    4%
+karmada-io                     █                    5%
 thockin                        █                    3%
 Carson-Ax                      █                    3%
 tennisleng                     █                    3%
 muhammedalimalik901-code       █                    3%
+dongjiang1989                  █                    3%
 Benqacemsalah                  █                    3%
-kubernetes-sigs                █                    1%
-golangci                       █                    1%
-rajendra-k10200                █                    1%
-grafana                        █                    1%
-0xkato                         █                    1%
-mayhemheroes                   █                    1%
-Synaptica-cor                  █                    1%
-bablubhandary                  █                    1%
-Rishi2600                      █                    1%
-elouafi-abderrahmane-2002      █                    1%
-mlops143681                    █                    1%
-SINDEKARHAS                    █                    1%
-CodeLinaro-mirror              █                    1%
-thanos-io                      █                    1%
+kubernetes-sigs                █                    2%
+golangci                       █                    2%
+rajendra-k10200                █                    2%
+grafana                        █                    2%
+0xkato                         █                    2%
+mayhemheroes                   █                    2%
+Synaptica-cor                  █                    2%
+bablubhandary                  █                    2%
+Rishi2600                      █                    2%
+elouafi-abderrahmane-2002      █                    2%
+mlops143681                    █                    2%
+SINDEKARHAS                    █                    2%
+CodeLinaro-mirror              █                    2%
+thanos-io                      █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（22%），涉及 5 个仓库，共 15 次活动。
+1. **kubeservice-stack** 是最大贡献方向（24%），涉及 5 个仓库，共 15 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 8 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-01-15**（20 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 32 个仓库提交了 **53** 次代码。
+6. 在 31 个仓库提交了 **49** 次代码。
 
 ---
 
@@ -66,10 +66,10 @@ thanos-io                      █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **67** | PR + Issue + Commit |
+| 📊 **总活动** | **63** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 10，开放 3 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 53 | 代码提交 |
+| 💻 **Commit** | 49 | 代码提交 |
 
 ---
 
@@ -77,18 +77,18 @@ thanos-io                      █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-01-06（一）** | **14** | ██████████████ | 14 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), dongjiang1989/myblog） |
+| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/script_exporter, kubeservice-stack/kubservice-charts), prometheus-operator/prometheus-operator） |
 | 2025-01-07（二） | 2 | ██░░░ | kubeservice-stack/script_exporter: update go.mod a; kubeservice-stack/script_exporter: add promu.yml f |
 | 2025-01-08（三） | 0 | ░░░░░ | — |
 | 2025-01-09（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus/prometheus), prometheus-operator/prometheus-operator） |
-| **2025-01-10（五）** | **7** | ███████ | 7 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, prometheus/alertmanager), tennisleng/alertmanager） |
+| **2025-01-10（五）** | **7** | ███████ | 7 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, prometheus/alertmanager), Carson-Ax/alertmanager） |
 | 2025-01-11（六） | 0 | ░░░░░ | — |
 | 2025-01-12（日） | 0 | ░░░░░ | — |
-| **2025-01-13（一）** | **6** | ██████ | 6 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, tennisleng/alertmanager, Benqacemsalah/alertmanager） |
-| **2025-01-14（二）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime), karmada-io/karmada)） |
-| **2025-01-15（三）** | **20** | ████████████████████ | 20 项活动（rajendra-k10200/prometheus, aimultiple-benchmark/prometheus-bench-cp-2, aimultiple-benchmark/prometheus-bench-cur-2） |
+| **2025-01-13（一）** | **6** | ██████ | 6 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, Carson-Ax/alertmanager, prometheus/alertmanager） |
+| **2025-01-14（二）** | **5** | █████ | 5 项活动（karmada-io/karmada), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime)） |
+| **2025-01-15（三）** | **20** | ████████████████████ | 20 项活动（mlops143681/prometheus, bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana, rajendra-k10200/prometheus） |
 | 2025-01-16（四） | 2 | ██░░░ | PR #6059 (karmada-io/karmada); PR #128 (thockin/go-build-template) |
-| **2025-01-17（五）** | **5** | █████ | 5 项活动（thockin/go-build-template, prometheus-operator/prometheus-operator), dongjiang1989/myblog） |
+| 2025-01-17（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), thockin/go-build-template, prometheus-operator/prometheus-operator） |
 | 2025-01-18（六） | 2 | ██░░░ | CodeLinaro-mirror/yocto-mirrors_github_prometheus_; prometheus/common: making this map a public variab |
 | 2025-01-19（日） | 0 | ░░░░░ | — |
 
@@ -102,31 +102,31 @@ thanos-io                      █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 15 | 22.4% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
-| prometheus-operator | 9 | 13.4% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| dongjiang1989 | 6 | 9.0% | dongjiang1989/myblog(4), dongjiang1989/dongjiang1989(2) | Push |
-| prometheus | 6 | 9.0% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
-| aimultiple-benchmark | 4 | 6.0% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| karmada-io | 3 | 4.5% | karmada-io/karmada(3) | PR |
-| thockin | 2 | 3.0% | thockin/go-build-template(2) | PR, Push |
-| Carson-Ax | 2 | 3.0% | Carson-Ax/alertmanager(2) | Push |
-| tennisleng | 2 | 3.0% | tennisleng/alertmanager(2) | Push |
-| muhammedalimalik901-code | 2 | 3.0% | muhammedalimalik901-code/Alert-Manager-Experiment(2) | Push |
-| Benqacemsalah | 2 | 3.0% | Benqacemsalah/alertmanager(2) | Push |
-| kubernetes-sigs | 1 | 1.5% | kubernetes-sigs/controller-runtime(1) | PR |
-| golangci | 1 | 1.5% | golangci/golangci-lint(1) | Issue |
-| rajendra-k10200 | 1 | 1.5% | rajendra-k10200/prometheus(1) | Push |
-| grafana | 1 | 1.5% | grafana/mimir-prometheus(1) | Push |
-| 0xkato | 1 | 1.5% | 0xkato/prometheus-fork(1) | Push |
-| mayhemheroes | 1 | 1.5% | mayhemheroes/prometheus(1) | Push |
-| Synaptica-cor | 1 | 1.5% | Synaptica-cor/prometheus(1) | Push |
-| bablubhandary | 1 | 1.5% | bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana(1) | Push |
-| Rishi2600 | 1 | 1.5% | Rishi2600/prometheus(1) | Push |
-| elouafi-abderrahmane-2002 | 1 | 1.5% | elouafi-abderrahmane-2002/prometheus(1) | Push |
-| mlops143681 | 1 | 1.5% | mlops143681/prometheus(1) | Push |
-| SINDEKARHAS | 1 | 1.5% | SINDEKARHAS/Prometheus(1) | Push |
-| CodeLinaro-mirror | 1 | 1.5% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_common(1) | Push |
-| thanos-io | 1 | 1.5% | thanos-io/thanos-prometheus(1) | Push |
+| **kubeservice-stack** | 15 | 23.8% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
+| prometheus-operator | 9 | 14.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| prometheus | 6 | 9.5% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
+| aimultiple-benchmark | 4 | 6.3% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| karmada-io | 3 | 4.8% | karmada-io/karmada(3) | PR |
+| thockin | 2 | 3.2% | thockin/go-build-template(2) | PR, Push |
+| Carson-Ax | 2 | 3.2% | Carson-Ax/alertmanager(2) | Push |
+| tennisleng | 2 | 3.2% | tennisleng/alertmanager(2) | Push |
+| muhammedalimalik901-code | 2 | 3.2% | muhammedalimalik901-code/Alert-Manager-Experiment(2) | Push |
+| dongjiang1989 | 2 | 3.2% | dongjiang1989/dongjiang1989(2) | Push |
+| Benqacemsalah | 2 | 3.2% | Benqacemsalah/alertmanager(2) | Push |
+| kubernetes-sigs | 1 | 1.6% | kubernetes-sigs/controller-runtime(1) | PR |
+| golangci | 1 | 1.6% | golangci/golangci-lint(1) | Issue |
+| rajendra-k10200 | 1 | 1.6% | rajendra-k10200/prometheus(1) | Push |
+| grafana | 1 | 1.6% | grafana/mimir-prometheus(1) | Push |
+| 0xkato | 1 | 1.6% | 0xkato/prometheus-fork(1) | Push |
+| mayhemheroes | 1 | 1.6% | mayhemheroes/prometheus(1) | Push |
+| Synaptica-cor | 1 | 1.6% | Synaptica-cor/prometheus(1) | Push |
+| bablubhandary | 1 | 1.6% | bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana(1) | Push |
+| Rishi2600 | 1 | 1.6% | Rishi2600/prometheus(1) | Push |
+| elouafi-abderrahmane-2002 | 1 | 1.6% | elouafi-abderrahmane-2002/prometheus(1) | Push |
+| mlops143681 | 1 | 1.6% | mlops143681/prometheus(1) | Push |
+| SINDEKARHAS | 1 | 1.6% | SINDEKARHAS/Prometheus(1) | Push |
+| CodeLinaro-mirror | 1 | 1.6% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_common(1) | Push |
+| thanos-io | 1 | 1.6% | thanos-io/thanos-prometheus(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -135,13 +135,13 @@ thanos-io                      █                    1%
 | 1 | **prometheus-operator/prometheus-operator** | 9 | 4 | 0 | 5 | PR #7285: feat: Add a new Jira integration for ale; PR #7281: chore: Update alertmanager to v0.28.0; PR #7268: chore: Bump to controller-runtime versio |
 | 2 | **kubeservice-stack/lxcfs-webhook** | 6 | 1 | 0 | 5 | PR #20: feat: update k8s package and lxf base imag; Commit: Update Dockerfile.lxcfs; Commit: Update Dockerfile.lxcfs |
 | 3 | **kubeservice-stack/script_exporter** | 4 | 0 | 0 | 4 | Commit: update go.mod and go.sum; Commit: add promu.yml file; Commit: add script_exporter.go |
-| 4 | **dongjiang1989/myblog** | 4 | 0 | 0 | 4 | Commit: add case; Commit: update; Commit: update k8s nw |
-| 5 | **karmada-io/karmada** | 3 | 3 | 0 | 0 | PR #6059: feat: Add automatic memory limit handlin; PR #6047: feat: add auto go maxprocs; PR #6044: feat: add operator build_info metrics an |
-| 6 | **prometheus/alertmanager** | 3 | 1 | 0 | 2 | PR #4196: Chore: Update automemlimit to v0.7.0; Commit: Merge branch 'main' into update-automemlim; Commit: changet automemlimit to v0.7.0 |
-| 7 | **thockin/go-build-template** | 2 | 1 | 0 | 1 | PR #128: chore: update golangci lint to v1.63.4; Commit: chore: update golangci lint to v1.63.4 (#1 |
-| 8 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #15799: chore: Upgrade to golangci-lint v1.63.4; Commit: chore: Upgrade to golangci-lint v1.63.4 (# |
-| 9 | **kubeservice-stack/kubservice-charts** | 2 | 1 | 0 | 1 | PR #25: feat add lxcfs-webhook lifecycle flag; Commit: add lifecycle flag (#25) |
-| 10 | **Carson-Ax/alertmanager** | 2 | 0 | 0 | 2 | Commit: Merge branch 'main' into update-automemlim; Commit: changet automemlimit to v0.7.0 |
+| 4 | **karmada-io/karmada** | 3 | 3 | 0 | 0 | PR #6059: feat: Add automatic memory limit handlin; PR #6047: feat: add auto go maxprocs; PR #6044: feat: add operator build_info metrics an |
+| 5 | **prometheus/alertmanager** | 3 | 1 | 0 | 2 | PR #4196: Chore: Update automemlimit to v0.7.0; Commit: Merge branch 'main' into update-automemlim; Commit: changet automemlimit to v0.7.0 |
+| 6 | **thockin/go-build-template** | 2 | 1 | 0 | 1 | PR #128: chore: update golangci lint to v1.63.4; Commit: chore: update golangci lint to v1.63.4 (#1 |
+| 7 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #15799: chore: Upgrade to golangci-lint v1.63.4; Commit: chore: Upgrade to golangci-lint v1.63.4 (# |
+| 8 | **kubeservice-stack/kubservice-charts** | 2 | 1 | 0 | 1 | PR #25: feat add lxcfs-webhook lifecycle flag; Commit: add lifecycle flag (#25) |
+| 9 | **Carson-Ax/alertmanager** | 2 | 0 | 0 | 2 | Commit: Merge branch 'main' into update-automemlim; Commit: changet automemlimit to v0.7.0 |
+| 10 | **tennisleng/alertmanager** | 2 | 0 | 0 | 2 | Commit: Merge branch 'main' into update-automemlim; Commit: changet automemlimit to v0.7.0 |
 
 ---
 
@@ -213,15 +213,6 @@ thanos-io                      █                    1%
   - Commit: add script_exporter.go
   - Commit: Initial commit
 
-### dongjiang1989/myblog（4 次活动）
-
-- **Commit**: 4 次
-- **主要工作**:
-  - Commit: add case
-  - Commit: update
-  - Commit: update k8s nw
-  - Commit: add k8s network
-
 ### karmada-io/karmada（3 次活动）
 
 - **PR**: 3 个
@@ -229,6 +220,15 @@ thanos-io                      █                    1%
   - PR #6059: feat: Add automatic memory limit handling
   - PR #6047: feat: add auto go maxprocs
   - PR #6044: feat: add operator build_info metrics and go runtime metrics
+
+### prometheus/alertmanager（3 次活动）
+
+- **PR**: 1 个
+- **Commit**: 2 次
+- **主要工作**:
+  - PR #4196: Chore: Update automemlimit to v0.7.0
+  - Commit: Merge branch 'main' into update-automemlimit-version
+  - Commit: changet automemlimit to v0.7.0
 
 
 ---
@@ -240,7 +240,6 @@ thanos-io                      █                    1%
 | kubeservice-stack/lxcfs-webhook | 5 | 2025-01-06 | Update Dockerfile.lxcfs; Update Dockerfile.lxcfs; feat: update k8s package and lxf base image to ubu |
 | prometheus-operator/prometheus-operator | 5 | 2025-01-17 | update alertmanager to v0.28.0; Merge pull request #7268 from kubeservice-stack/up; Merge pull request #7240 from kubeservice-stack/su |
 | kubeservice-stack/script_exporter | 4 | 2025-01-07 | update go.mod and go.sum; add promu.yml file; add script_exporter.go |
-| dongjiang1989/myblog | 4 | 2025-01-17 | add case; update; update k8s nw |
 | prometheus/alertmanager | 2 | 2025-01-13 | Merge branch 'main' into update-automemlimit-versi; changet automemlimit to v0.7.0 |
 | Carson-Ax/alertmanager | 2 | 2025-01-13 | Merge branch 'main' into update-automemlimit-versi; changet automemlimit to v0.7.0 |
 | tennisleng/alertmanager | 2 | 2025-01-13 | Merge branch 'main' into update-automemlimit-versi; changet automemlimit to v0.7.0 |
@@ -260,8 +259,8 @@ thanos-io                      █                    1%
 | bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | kubeservice-stack/kubservice-charts | 1 | 2025-01-06 | add lifecycle flag (#25) |
 | Rishi2600/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
-| elouafi-abderrahmane-2002/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | aimultiple-benchmark/prometheus-bench-gre-2 | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
+| elouafi-abderrahmane-2002/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | mlops143681/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | SINDEKARHAS/Prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | prometheus/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |

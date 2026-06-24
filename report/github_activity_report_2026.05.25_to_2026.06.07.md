@@ -14,33 +14,31 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **11** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **9** 个 |
 | Pull Request 数 | **15** 个（已合并 13，开放 2） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **46** 次 |
-| 总活动量 | **63** |
+| Commit 数 | **44** 次 |
+| 总活动量 | **61** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ████████             43%
-dongjiang1989                  ████                 22%
+kubeservice-stack              ████████             44%
+dongjiang1989                  ████                 23%
 prometheus-operator            ██                   11%
 iflytek                        ██                   11%
 kubernetes-sigs                █                    10%
-astron-agentic                 █                    2%
-kubeservice                    █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（43%），涉及 2 个仓库，共 27 次活动。
+1. **kubeservice-stack** 是最大贡献方向（44%），涉及 2 个仓库，共 27 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 6 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-05-29**（37 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 10 个仓库提交了 **46** 次代码。
+6. 在 8 个仓库提交了 **44** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -48,12 +46,12 @@ kubeservice                    █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 45 | **63** | +40% | 📈 +18 |
+| **总活动量** | 45 | **61** | +36% | 📈 +16 |
 | Pull Request | 17 | 15 | -12% | 📉 -2 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 28 | 46 | +64% | 📈 +18 |
+| Commit | 28 | 44 | +57% | 📈 +16 |
 
-- 🆕 **新增活跃仓库**：`astron-agentic/demo-repository`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`, `kubeservice/demo-repository`
+- 🆕 **新增活跃仓库**：`dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
 - ❌ **不再活跃的仓库**：`Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `wei-shon/skillhub_delete`, `yun-zhi-ztl/yunzhi-skillhub`
 - ✅ **工作重心稳定**：继续聚焦 **kubeservice-stack**
 
@@ -63,10 +61,10 @@ kubeservice                    █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **63** | PR + Issue + Commit |
+| 📊 **总活动** | **61** | PR + Issue + Commit |
 | 📝 **Pull Request** | 15 | 已合并 13，开放 2 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 46 | 代码提交 |
+| 💻 **Commit** | 44 | 代码提交 |
 
 ---
 
@@ -74,11 +72,11 @@ kubeservice                    █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2026-05-25（一） | 4 | ████░ | 4 项活动（astron-agentic/demo-repository, kubeservice/demo-repository, kubernetes-sigs/controller-tools） |
+| 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
 | 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（iflytek/community, dongjiang1989/mirror-action, iflytek/community)） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（iflytek/community, iflytek/community), dongjiang1989/abc） |
-| **2026-05-29（五）** | **37** | ████████████████████ | 37 项活动（dongjiang1989/mirror-action, kubeservice-stack/repos-mirror-action), kubeservice-stack/hf-sync-action） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubeservice-stack/repos-mirror-action, iflytek/community, dongjiang1989/mirror-action） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（iflytek/community, dongjiang1989/abc, prometheus-operator/prometheus-operator） |
+| **2026-05-29（五）** | **37** | ████████████████████ | 37 项活动（kubeservice-stack/hf-sync-action, kubeservice-stack/repos-mirror-action, kubeservice-stack/hf-sync-action)） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -99,20 +97,18 @@ kubeservice                    █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 27 | 42.9% | kubeservice-stack/hf-sync-action(14), kubeservice-stack/repos-mirror-action(13) | Issue, PR, Push |
-| **dongjiang1989** | 14 | 22.2% | dongjiang1989/mirror-action(12), dongjiang1989/abc(2) | Issue, Push |
-| prometheus-operator | 7 | 11.1% | prometheus-operator/prometheus-operator(7) | PR, Push |
-| iflytek | 7 | 11.1% | iflytek/community(7) | PR, Push |
-| kubernetes-sigs | 6 | 9.5% | kubernetes-sigs/prow(2), kubernetes-sigs/kueue(2), kubernetes-sigs/controller-tools(2) | PR, Push |
-| astron-agentic | 1 | 1.6% | astron-agentic/demo-repository(1) | Push |
-| kubeservice | 1 | 1.6% | kubeservice/demo-repository(1) | Push |
+| **kubeservice-stack** | 27 | 44.3% | kubeservice-stack/hf-sync-action(14), kubeservice-stack/repos-mirror-action(13) | Issue, PR, Push |
+| **dongjiang1989** | 14 | 23.0% | dongjiang1989/mirror-action(12), dongjiang1989/abc(2) | Issue, Push |
+| prometheus-operator | 7 | 11.5% | prometheus-operator/prometheus-operator(7) | PR, Push |
+| iflytek | 7 | 11.5% | iflytek/community(7) | PR, Push |
+| kubernetes-sigs | 6 | 9.8% | kubernetes-sigs/prow(2), kubernetes-sigs/kueue(2), kubernetes-sigs/controller-tools(2) | PR, Push |
 
 ### 4.2 仓库详细 Top 10
 
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **kubeservice-stack/hf-sync-action** | 14 | 4 | 1 | 9 | PR #8: ci: fix pre dryrun fail; PR #6: Fix pre dryrun fail; PR #4: fix: harden sync workflow and snapshot erro |
-| 2 | **kubeservice-stack/repos-mirror-action** | 13 | 1 | 0 | 12 | PR #3: feat: add gitea and gitlab repos-mirror; Commit: Update repos-mirror-gitee.yaml; Commit: Rename repos-mirror.yml to repos-mirror-gi |
+| 2 | **kubeservice-stack/repos-mirror-action** | 13 | 1 | 0 | 12 | PR #3: feat: add gitea and gitlab repos-mirror; Commit: Update repos-mirror-gitee.yaml; Commit: Update README.md |
 | 3 | **dongjiang1989/mirror-action** | 12 | 0 | 0 | 12 | Commit: Merge pull request #4 from kubeservice-sta; Commit: Update README.md; Commit: Update README.md |
 | 4 | **prometheus-operator/prometheus-operator** | 7 | 3 | 0 | 4 | PR #8610: Fix: validate ProxyConfig in OAuth2 vali; PR #8596: refactor(crd): change RemoteReadConfig u; PR #8594: feat(ci): Add `nodurations` and `norefer |
 | 5 | **iflytek/community** | 7 | 3 | 0 | 4 | PR #11: CI: Add misspell spelling checker tool and; PR #9: ci: Add GitHub dependabot configuration; PR #8: chore(docs): Add bi-weekly community meetin |
@@ -120,7 +116,6 @@ kubeservice                    █                    2%
 | 7 | **kubernetes-sigs/kueue** | 2 | 2 | 0 | 0 | PR #11645: KEP: Automatic GOMEMLIMIT Tuning for Ku; PR #11642: feat: Add automatic memory limit handli |
 | 8 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1418: 🌱Update dependencies to k8s.io v1.36.1; Commit: update k8s libs to v0.36.1 |
 | 9 | **dongjiang1989/abc** | 2 | 0 | 1 | 1 | Issue #1: This is test issue; Commit: first commit |
-| 10 | **astron-agentic/demo-repository** | 1 | 0 | 0 | 1 | Commit: Initial commit |
 
 ---
 
@@ -183,7 +178,7 @@ kubeservice                    █                    2%
 - **主要工作**:
   - PR #3: feat: add gitea and gitlab repos-mirror
   - Commit: Update repos-mirror-gitee.yaml
-  - Commit: Rename repos-mirror.yml to repos-mirror-github.yml
+  - Commit: Update README.md
   - Commit: Merge pull request #3 from kubeservice-stack/add-gitea
   - Commit: Merge branch 'master' into add-gitea
 
@@ -227,14 +222,12 @@ kubeservice                    █                    2%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | dongjiang1989/mirror-action | 12 | 2026-05-29 | Merge pull request #4 from kubeservice-stack/coder; Update README.md; Update README.md |
-| kubeservice-stack/repos-mirror-action | 12 | 2026-05-27 | Update repos-mirror-gitee.yaml; Rename repos-mirror.yml to repos-mirror-github.yml; Merge pull request #3 from kubeservice-stack/add-g |
-| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | add hs to ms aciton; Initial commit; Fix pre dryrun fail (#6) |
+| kubeservice-stack/repos-mirror-action | 12 | 2026-05-27 | Update repos-mirror-gitee.yaml; Update README.md; Merge pull request #3 from kubeservice-stack/add-g |
+| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | Merge pull request #1 from kubeservice-stack/chang; fix: harden sync workflow and snapshot error handl; Fix pre dryrun fail (#6) |
 | prometheus-operator/prometheus-operator | 4 | 2026-05-26 | refactor(crd): refactoring `resource.Quantity` val; Merge pull request #8579 from kubeservice-stack/ch; update .golangci-kal.yml |
 | iflytek/community | 4 | 2026-05-27 | add github dependabot.yml; add community meeting md; update github action |
 | kubernetes-sigs/controller-tools | 1 | 2026-05-25 | update k8s libs to v0.36.1 |
 | kubernetes-sigs/prow | 1 | 2026-05-27 | update golangci-lint version |
-| astron-agentic/demo-repository | 1 | 2026-05-25 | Initial commit |
-| kubeservice/demo-repository | 1 | 2026-05-25 | Initial commit |
 | dongjiang1989/abc | 1 | 2026-05-28 | first commit |
 
 ---

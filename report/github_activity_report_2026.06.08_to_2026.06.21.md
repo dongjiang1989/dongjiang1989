@@ -15,12 +15,12 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **18** 个 |
+| 涉及仓库数 | **16** 个 |
 | Pull Request 数 | **35** 个（已合并 31，开放 4） |
 | Issue 数 | **15** 个 |
-| Commit 数 | **60** 次 |
-| 活动事件数 | **221** 次 |
-| 总活动量 | **110** |
+| Commit 数 | **58** 次 |
+| 活动事件数 | **217** 次 |
+| 总活动量 | **108** |
 
 ### 🎯 工作重心分布
 
@@ -36,12 +36,12 @@ prometheus                     █                    1%
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（69%），涉及 8 个仓库，共 76 次活动。
+1. **iflytek** 是最大贡献方向（69%），涉及 6 个仓库，共 74 次活动。
 2. 共 **31** 个 PR 已合并，覆盖 10 个仓库。
 3. **4** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-15**（30 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 12 个仓库提交了 **60** 次代码。
+6. 在 10 个仓库提交了 **58** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -49,13 +49,13 @@ prometheus                     █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 63 | **110** | +75% | 📈 +47 |
+| **总活动量** | 61 | **108** | +77% | 📈 +47 |
 | Pull Request | 15 | 35 | +133% | 📈 +20 |
 | Issue | 2 | 15 | +650% | 📈 +13 |
-| Commit | 46 | 60 | +30% | 📈 +14 |
+| Commit | 44 | 58 | +32% | 📈 +14 |
 
-- 🆕 **新增活跃仓库**：`dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memscribe`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
-- ❌ **不再活跃的仓库**：`astron-agentic/demo-repository`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kueue`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`, `kubeservice/demo-repository`
+- 🆕 **新增活跃仓库**：`dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/iFly-Skills`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
+- ❌ **不再活跃的仓库**：`dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kueue`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **iflytek**
 
 ---
@@ -64,21 +64,20 @@ prometheus                     █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **110** | PR + Issue + Commit |
+| 📊 **总活动** | **108** | PR + Issue + Commit |
 | 📝 **Pull Request** | 35 | 已合并 31，开放 4 |
 | 📋 **Issue** | 15 | 创建 Issue |
-| 💻 **Commit** | 60 | 代码提交 |
+| 💻 **Commit** | 58 | 代码提交 |
 | 📝 **PushEvent** | 86 | 代码推送 |
 | 💬 **IssueCommentEvent** | 31 | Issue 评论 |
 | 🔀 **PullRequestEvent** | 30 | PR 操作 |
 | 🗑️ **DeleteEvent** | 24 | 删除分支 |
-| 🌿 **CreateEvent** | 18 | 创建分支/标签 |
+| 🌿 **CreateEvent** | 16 | 创建分支/标签 |
 | 📋 **IssuesEvent** | 15 | Issue 操作 |
 | 👀 **PullRequestReviewEvent** | 9 | PR Review |
-| 💭 **PullRequestReviewCommentEvent** | 4 | PR Review 评论 |
+| 💭 **PullRequestReviewCommentEvent** | 3 | PR Review 评论 |
 | ⭐ **WatchEvent** | 2 | Star 收藏 |
 | 🚀 **ReleaseEvent** | 1 | 版本发布 |
-| 📌 **MemberEvent** | 1 | MemberEvent |
 
 ---
 
@@ -88,15 +87,15 @@ prometheus                     █                    1%
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
 | **2026-06-09（二）** | **9** | █████████ | 9 项活动（kagent-dev/kagent), dongjiang1989/opensearch-api), dongjiang1989/opensearch-api） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community), iflytek/community, dongjiang1989/opensearch-api)） |
-| **2026-06-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/prow), iflytek/website） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), dongjiang1989/opensearch-api, iflytek/community)） |
+| **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
 | **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
 | **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/community, iflytek/website, iflytek/memscribe） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website, iflytek/iFly-Skills, iflytek/iFly-Skills)） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, iflytek/iFly-Skills, iflytek/iFly-Skills)） |
+| **2026-06-16（二）** | **9** | █████████ | 9 项活动（iflytek/community, iflytek/website), iflytek/website） |
+| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/iFly-Skills, iflytek/website), iflytek/website） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, iflytek/iFly-Skills, kubernetes-sigs/kubebuilder)） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 1 | █░░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st |
@@ -111,11 +110,11 @@ prometheus                     █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 76 | 69.1% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
-| dongjiang1989 | 12 | 10.9% | dongjiang1989/opensearch-api(12) | PR, Push |
-| prometheus-operator | 9 | 8.2% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| kubernetes-sigs | 9 | 8.2% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
-| kagent-dev | 2 | 1.8% | kagent-dev/kagent(2) | Issue, PR |
+| **iflytek** | 74 | 68.5% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
+| dongjiang1989 | 12 | 11.1% | dongjiang1989/opensearch-api(12) | PR, Push |
+| prometheus-operator | 9 | 8.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| kubernetes-sigs | 9 | 8.3% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
+| kagent-dev | 2 | 1.9% | kagent-dev/kagent(2) | Issue, PR |
 | kubeservice-stack | 1 | 0.9% | kubeservice-stack/modelx(1) | PR |
 | prometheus | 1 | 0.9% | prometheus/procfs(1) | Push |
 
@@ -127,7 +126,7 @@ prometheus                     █                    1%
 | 2 | **iflytek/iFly-Skills** | 17 | 4 | 8 | 5 | PR #51: feat: publish all iflytek skills to https:; PR #49: feat: add openclaw metadata to all skills ; PR #37: chore: delete `.github/workflows/cla.yml`  |
 | 3 | **dongjiang1989/opensearch-api** | 12 | 3 | 0 | 9 | PR #8:  feat: replace extractors with Qwen3.7-Plus; PR #7: fix: improve image OCR logic and expand sup; PR #6: feat: add image OCR model  |
 | 4 | **prometheus-operator/prometheus-operator** | 9 | 5 | 0 | 4 | PR #8635: chore: add misspell linter for GO files; PR #8634: Fix(docs): fix misspelling in rules_test; PR #8628: feat: Add useAWSHTTPClient field to SNS  |
-| 5 | **iflytek/community** | 5 | 2 | 0 | 3 | PR #13: feat: Add repository creation issue templa; PR #12: CI: Fix dependabot gomod directory and enh; Commit: feat: Add repository creation issue templa |
+| 5 | **iflytek/community** | 5 | 2 | 0 | 3 | PR #13: feat: Add repository creation issue templa; PR #12: CI: Fix dependabot gomod directory and enh; Commit: fix gomod directory |
 | 6 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3532: 🌱chore: Bump golangci-lint to v2.12.2; Commit: update golangci-linter to v2.12.2 |
 | 7 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1439: 🌱fix: resolve misspell false positives a; Commit: resolve misspell false positives and bump  |
 | 8 | **kubernetes-sigs/kubebuilder** | 2 | 1 | 0 | 1 | PR #5777: ⚠️ (autoupdate/v1-alpha): Remove GitHub ; Commit: ⚠️ (autoupdate/v1-alpha): Remove GitHub Mo |
@@ -262,8 +261,8 @@ prometheus                     █                    1%
 - **主要工作**:
   - PR #13: feat: Add repository creation issue template and proposal te
   - PR #12: CI: Fix dependabot gomod directory and enhance configuration
-  - Commit: feat: Add repository creation issue template and proposal te
   - Commit: fix gomod directory
+  - Commit: feat: Add repository creation issue template and proposal te
   - Commit: make toc-update
 
 
@@ -273,18 +272,16 @@ prometheus                     █                    1%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| iflytek/website | 32 | 2026-06-12 | add new projects; Initial commit: iFLYTEK Open Source Website; fix: remove conflicting license-checker flags |
-| dongjiang1989/opensearch-api | 9 | 2026-06-10 | add file type (#8); update; update fileid protocal |
-| iflytek/iFly-Skills | 5 | 2026-06-17 | feat: add openclaw metadata to all skills and claw; feat: add skills.sh.json to customize skills.sh re; feat: add metadata.internal: true to all skills |
-| prometheus-operator/prometheus-operator | 4 | 2026-06-08 | validate ProxyConfig in OAuth2 validation (#8610); update controller-tools version; fix typo |
-| iflytek/community | 3 | 2026-06-16 | feat: Add repository creation issue template and p; fix gomod directory; make toc-update |
+| iflytek/website | 32 | 2026-06-11 | style: fix Prettier formatting in 16 files; fix: remove conflicting license-checker flags; fix: add OFL-1.1 license for Inter font and update |
+| dongjiang1989/opensearch-api | 9 | 2026-06-10 | add file type (#8); update; add internal metrics |
+| iflytek/iFly-Skills | 5 | 2026-06-17 | Delete .github/workflows/cla.yml; feat: organize skills into skills/ directory and a; feat: add skills.sh.json to customize skills.sh re |
+| prometheus-operator/prometheus-operator | 4 | 2026-06-08 | validate ProxyConfig in OAuth2 validation (#8610); update controller-tools version; add misspell in GO files |
+| iflytek/community | 3 | 2026-06-10 | fix gomod directory; feat: Add repository creation issue template and p; make toc-update |
 | prometheus/procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/controller-tools | 1 | 2026-06-18 | resolve misspell false positives and bump golangci |
 | kubernetes-sigs/external-dns | 1 | 2026-06-17 | fix(coredns): write PTR records without random pre |
 | kubernetes-sigs/kubebuilder | 1 | 2026-06-19 | ⚠️ (autoupdate/v1-alpha): Remove GitHub Models int |
 | kubernetes-sigs/controller-runtime | 1 | 2026-06-20 | update golangci-linter to v2.12.2 |
-| iflytek/domux | 1 | 2026-06-16 | Initial commit |
-| iflytek/memscribe | 1 | 2026-06-16 | Initial commit |
 
 ---
 

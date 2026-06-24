@@ -15,31 +15,31 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **12** 个 |
+| 涉及仓库数 | **11** 个 |
 | Pull Request 数 | **9** 个（已合并 9，开放 0） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **16** 次 |
-| 总活动量 | **27** |
+| Commit 数 | **15** 次 |
+| 总活动量 | **26** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ██████               33%
-kubeservice-stack              █████                26%
-kubernetes-sigs                ██                   15%
-dongjiang1989                  ██                   11%
-kubernetes                     █                    7%
+prometheus-operator            ██████               35%
+kubeservice-stack              █████                27%
+kubernetes-sigs                ███                  15%
+kubernetes                     █                    8%
+dongjiang1989                  █                    8%
 ahmetb                         █                    4%
 kubeflow                       █                    4%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（33%），涉及 1 个仓库，共 9 次活动。
+1. **prometheus-operator** 是最大贡献方向（35%），涉及 1 个仓库，共 9 次活动。
 2. 共 **9** 个 PR 已合并，覆盖 5 个仓库。
 3. 活跃高峰出现在 **2025-01-22**（9 次活动），展现了高强度的工作节奏。
 4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 9 个仓库提交了 **16** 次代码。
+5. 在 8 个仓库提交了 **15** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -47,10 +47,10 @@ kubeflow                       █                    4%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 67 | **27** | -60% | 📉 -40 |
+| **总活动量** | 63 | **26** | -59% | 📉 -37 |
 | Pull Request | 13 | 9 | -31% | 📉 -4 |
 | Issue | 1 | 2 | +100% | 📈 +1 |
-| Commit | 53 | 16 | -70% | 📉 -37 |
+| Commit | 49 | 15 | -69% | 📉 -34 |
 
 - 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `dongjiang1989/customapis`, `kubeflow/mpi-operator`, `kubernetes-sigs/controller-tools`, `kubernetes/kubernetes`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/node-metrics`
 - ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `Benqacemsalah/alertmanager`, `Carson-Ax/alertmanager`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `Rishi2600/prometheus`, `SINDEKARHAS/Prometheus`, `Synaptica-cor/prometheus`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `golangci/golangci-lint`, `grafana/mimir-prometheus`, `karmada-io/karmada`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/script_exporter`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `muhammedalimalik901-code/Alert-Manager-Experiment`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `tennisleng/alertmanager`, `thanos-io/thanos-prometheus`, `thockin/go-build-template`
@@ -62,10 +62,10 @@ kubeflow                       █                    4%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **27** | PR + Issue + Commit |
+| 📊 **总活动** | **26** | PR + Issue + Commit |
 | 📝 **Pull Request** | 9 | 已合并 9，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 16 | 代码提交 |
+| 💻 **Commit** | 15 | 代码提交 |
 
 ---
 
@@ -74,9 +74,9 @@ kubeflow                       █                    4%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-01-20（一） | 3 | ███░░ | PR #679 (kubeflow/mpi-operator); PR #7287 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: up |
-| **2025-01-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/node-metrics, prometheus-operator/prometheus-operator)） |
-| **2025-01-22（三）** | **9** | █████████ | 9 项活动（ahmetb/gen-crd-api-reference-docs), kubernetes-sigs/controller-tools, kubernetes/kubernetes)） |
-| **2025-01-23（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, dongjiang1989/myblog, kubernetes-sigs/controller-tools)） |
+| **2025-01-21（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/lxcfs-webhook, kubeservice-stack/custom-limit-range） |
+| **2025-01-22（三）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools, kubernetes/kubernetes), prometheus-operator/prometheus-operator） |
+| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubeservice-stack/common, kubernetes-sigs/controller-tools)） |
 | 2025-01-24（五） | 0 | ░░░░░ | — |
 | 2025-01-25（六） | 0 | ░░░░░ | — |
 | 2025-01-26（日） | 0 | ░░░░░ | — |
@@ -98,13 +98,13 @@ kubeflow                       █                    4%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 9 | 33.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| **kubeservice-stack** | 7 | 25.9% | kubeservice-stack/custom-limit-range(3), kubeservice-stack/lxcfs-webhook(1), kubeservice-stack/node-metrics(1) | Push |
-| kubernetes-sigs | 4 | 14.8% | kubernetes-sigs/controller-tools(4) | Issue, PR, Push |
-| dongjiang1989 | 3 | 11.1% | dongjiang1989/customapis(2), dongjiang1989/myblog(1) | Push |
-| kubernetes | 2 | 7.4% | kubernetes/kubernetes(2) | Issue, PR |
-| ahmetb | 1 | 3.7% | ahmetb/gen-crd-api-reference-docs(1) | PR |
-| kubeflow | 1 | 3.7% | kubeflow/mpi-operator(1) | PR |
+| **prometheus-operator** | 9 | 34.6% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| **kubeservice-stack** | 7 | 26.9% | kubeservice-stack/custom-limit-range(3), kubeservice-stack/lxcfs-webhook(1), kubeservice-stack/node-metrics(1) | Push |
+| kubernetes-sigs | 4 | 15.4% | kubernetes-sigs/controller-tools(4) | Issue, PR, Push |
+| kubernetes | 2 | 7.7% | kubernetes/kubernetes(2) | Issue, PR |
+| dongjiang1989 | 2 | 7.7% | dongjiang1989/customapis(2) | Push |
+| ahmetb | 1 | 3.8% | ahmetb/gen-crd-api-reference-docs(1) | PR |
+| kubeflow | 1 | 3.8% | kubeflow/mpi-operator(1) | PR |
 
 ### 4.2 仓库详细 Top 10
 
@@ -119,7 +119,7 @@ kubeflow                       █                    4%
 | 7 | **kubeflow/mpi-operator** | 1 | 1 | 0 | 0 | PR #679: chore: update k8s to v1.32 |
 | 8 | **kubeservice-stack/lxcfs-webhook** | 1 | 0 | 0 | 1 | Commit: Create dependabot.yml |
 | 9 | **kubeservice-stack/node-metrics** | 1 | 0 | 0 | 1 | Commit: Create dependabot.yml |
-| 10 | **dongjiang1989/myblog** | 1 | 0 | 0 | 1 | Commit: update k8s-code-generator.md |
+| 10 | **kubeservice-stack/common** | 1 | 0 | 0 | 1 | Commit: Update .golangci.yml |
 
 ---
 
@@ -214,7 +214,6 @@ kubeflow                       █                    4%
 | kubernetes-sigs/controller-tools | 1 | 2025-01-22 | update controller tools |
 | kubeservice-stack/lxcfs-webhook | 1 | 2025-01-21 | Create dependabot.yml |
 | kubeservice-stack/node-metrics | 1 | 2025-01-21 | Create dependabot.yml |
-| dongjiang1989/myblog | 1 | 2025-01-23 | update k8s-code-generator.md |
 | kubeservice-stack/common | 1 | 2025-01-23 | Update .golangci.yml |
 | kubeservice-stack/echo | 1 | 2025-01-22 | Update .golangci.yml |
 

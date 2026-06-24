@@ -15,18 +15,17 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **18** 个 |
-| 涉及仓库数 | **23** 个 |
+| 涉及仓库数 | **22** 个 |
 | Pull Request 数 | **23** 个（已合并 21，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **29** 次 |
-| 总活动量 | **52** |
+| Commit 数 | **25** 次 |
+| 总活动量 | **48** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              █████                27%
-prometheus-operator            ███                  19%
-dongjiang1989                  █                    10%
+kubeservice-stack              █████                29%
+prometheus-operator            ████                 21%
 volcano-sh                     █                    6%
 helm                           █                    6%
 thanos-io                      █                    4%
@@ -40,17 +39,18 @@ NVIDIA                         █                    2%
 GsonZhao                       █                    2%
 handan-yxh                     █                    2%
 yankeguo                       █                    2%
+dongjiang1989                  █                    2%
 ckyuto                         █                    2%
 kev1N916                       █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（27%），涉及 5 个仓库，共 14 次活动。
+1. **kubeservice-stack** 是最大贡献方向（29%），涉及 5 个仓库，共 14 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 13 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-04-18**（12 次活动），展现了高强度的工作节奏。
-5. 在 16 个仓库提交了 **29** 次代码。
+5. 在 15 个仓库提交了 **25** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -58,12 +58,12 @@ kev1N916                       █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **52** | +33% | 📈 +13 |
+| **总活动量** | 39 | **48** | +23% | 📈 +9 |
 | Pull Request | 14 | 23 | +64% | 📈 +9 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 24 | 29 | +21% | 📈 +5 |
+| Commit | 24 | 25 | +4% | 📈 +1 |
 
-- 🆕 **新增活跃仓库**：`Apexmail/helm`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `dongjiang1989/myblog`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
+- 🆕 **新增活跃仓库**：`Apexmail/helm`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
 - ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `john-gallagher-dd/controller-runtime`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **kubeservice-stack**
 
@@ -73,10 +73,10 @@ kev1N916                       █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **52** | PR + Issue + Commit |
+| 📊 **总活动** | **48** | PR + Issue + Commit |
 | 📝 **Pull Request** | 23 | 已合并 21，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 29 | 代码提交 |
+| 💻 **Commit** | 25 | 代码提交 |
 
 ---
 
@@ -85,16 +85,16 @@ kev1N916                       █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **8** | ████████ | 8 项活动（kubeservice-stack/node-metrics), dongjiang1989/myblog, kubeservice-stack/custom-limit-range)） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubegems/modelx), kubeservice-stack/modelx), karmada-io/karmada)） |
-| **2025-04-17（四）** | **7** | ███████ | 7 项活动（kubeservice-stack/common), kubeservice-stack/common, kubeservice-stack/kubservice-charts） |
-| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（yankeguo/helm-enhanced, volcano-sh/volcano, handan-yxh/volcano-old-test） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/custom-limit-range), kubeservice-stack/node-metrics, kubeservice-stack/node-metrics)） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubegems/modelx), kubeservice-stack/kubservice-charts), karmada-io/karmada)） |
+| **2025-04-17（四）** | **7** | ███████ | 7 项活动（hoppipolla-dev/helm, Apexmail/helm, helm/helm） |
+| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（hoppipolla-dev/helm, GsonZhao/volcano, Apexmail/helm） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator, dongjiang1989/myblog, dongjiang1989/api-server） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（thanos-io/thanos), dongjiang1989/api-server, oliver006/redis_exporter)） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
@@ -109,24 +109,24 @@ kev1N916                       █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 14 | 26.9% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
-| prometheus-operator | 10 | 19.2% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| dongjiang1989 | 5 | 9.6% | dongjiang1989/myblog(4), dongjiang1989/api-server(1) | Push |
-| volcano-sh | 3 | 5.8% | volcano-sh/volcano(3) | PR, Push |
-| helm | 3 | 5.8% | helm/helm(3) | PR, Push |
-| thanos-io | 2 | 3.8% | thanos-io/thanos(2) | PR |
-| apache | 2 | 3.8% | apache/dubbo-go(2) | PR |
-| Apexmail | 2 | 3.8% | Apexmail/helm(2) | Push |
-| hoppipolla-dev | 2 | 3.8% | hoppipolla-dev/helm(2) | Push |
-| oliver006 | 1 | 1.9% | oliver006/redis_exporter(1) | PR |
-| karmada-io | 1 | 1.9% | karmada-io/karmada(1) | PR |
-| kubegems | 1 | 1.9% | kubegems/modelx(1) | PR |
-| NVIDIA | 1 | 1.9% | NVIDIA/k8s-device-plugin(1) | PR |
-| GsonZhao | 1 | 1.9% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 1.9% | handan-yxh/volcano-old-test(1) | Push |
-| yankeguo | 1 | 1.9% | yankeguo/helm-enhanced(1) | Push |
-| ckyuto | 1 | 1.9% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 1.9% | kev1N916/volcano(1) | Push |
+| **kubeservice-stack** | 14 | 29.2% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
+| **prometheus-operator** | 10 | 20.8% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| volcano-sh | 3 | 6.2% | volcano-sh/volcano(3) | PR, Push |
+| helm | 3 | 6.2% | helm/helm(3) | PR, Push |
+| thanos-io | 2 | 4.2% | thanos-io/thanos(2) | PR |
+| apache | 2 | 4.2% | apache/dubbo-go(2) | PR |
+| Apexmail | 2 | 4.2% | Apexmail/helm(2) | Push |
+| hoppipolla-dev | 2 | 4.2% | hoppipolla-dev/helm(2) | Push |
+| oliver006 | 1 | 2.1% | oliver006/redis_exporter(1) | PR |
+| karmada-io | 1 | 2.1% | karmada-io/karmada(1) | PR |
+| kubegems | 1 | 2.1% | kubegems/modelx(1) | PR |
+| NVIDIA | 1 | 2.1% | NVIDIA/k8s-device-plugin(1) | PR |
+| GsonZhao | 1 | 2.1% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 2.1% | handan-yxh/volcano-old-test(1) | Push |
+| yankeguo | 1 | 2.1% | yankeguo/helm-enhanced(1) | Push |
+| dongjiang1989 | 1 | 2.1% | dongjiang1989/api-server(1) | Push |
+| ckyuto | 1 | 2.1% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 2.1% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -134,14 +134,14 @@ kev1N916                       █                    2%
 |------|------|--------|------|---------|---------|----------|
 | 1 | **prometheus-operator/prometheus-operator** | 10 | 5 | 0 | 5 | PR #7483: chore: optimize redefines-builtin-id lin; PR #7480: feat: Support globalSMTP TLSConfig; PR #7478: feat: Add silences limits for alertmanag |
 | 2 | **kubeservice-stack/kubservice-charts** | 6 | 2 | 0 | 4 | PR #30: [kubeservice-custom-limitrange] Update cus; PR #29: [kubeservice-lxcfs-webhook] update lxcfs t; Commit: Update dependabot.yml |
-| 3 | **dongjiang1989/myblog** | 4 | 0 | 0 | 4 | Commit: update; Commit: update ai nvidia env; Commit: add ai nvifia env |
-| 4 | **volcano-sh/volcano** | 3 | 2 | 0 | 1 | PR #4202: [Cherry-pick v1.11] Fix: remove controll; PR #4201: Fix: remove controller-manager metrics t; Commit: fix controller-manager metrics |
-| 5 | **helm/helm** | 3 | 1 | 0 | 2 | PR #30771: [v3 backport] chore: Update Golang to v; Commit: Update .github/env; Commit: Merge branch 'main' into update-golang-ver |
-| 6 | **kubeservice-stack/node-metrics** | 3 | 2 | 0 | 1 | PR #31: Update node-metrics logging and packages; PR #30: Update node metrice; Commit: Update node-metrics logging and packages ( |
-| 7 | **thanos-io/thanos** | 2 | 2 | 0 | 0 | PR #8223: Update golangci-lint to v2.1.2 and adjus; PR #8222: Fix CVE-2025-22871 by bumping Go to 1.24 |
-| 8 | **kubeservice-stack/common** | 2 | 1 | 0 | 1 | PR #77: chore: Update golangci-lint version to v2; Commit: chore: Update golangci-lint version to v2  |
-| 9 | **kubeservice-stack/custom-limit-range** | 2 | 1 | 0 | 1 | PR #20: Update golang version 1.24 && controller-r; Commit: Update golang version 1.24 && controller-r |
-| 10 | **apache/dubbo-go** | 2 | 2 | 0 | 0 | PR #2833: chore: Update golang v1.23 and golangci-; PR #2831: feat: Add maglev consistent hashing |
+| 3 | **volcano-sh/volcano** | 3 | 2 | 0 | 1 | PR #4202: [Cherry-pick v1.11] Fix: remove controll; PR #4201: Fix: remove controller-manager metrics t; Commit: fix controller-manager metrics |
+| 4 | **helm/helm** | 3 | 1 | 0 | 2 | PR #30771: [v3 backport] chore: Update Golang to v; Commit: Update .github/env; Commit: Merge branch 'main' into update-golang-ver |
+| 5 | **kubeservice-stack/node-metrics** | 3 | 2 | 0 | 1 | PR #31: Update node-metrics logging and packages; PR #30: Update node metrice; Commit: Update node-metrics logging and packages ( |
+| 6 | **thanos-io/thanos** | 2 | 2 | 0 | 0 | PR #8223: Update golangci-lint to v2.1.2 and adjus; PR #8222: Fix CVE-2025-22871 by bumping Go to 1.24 |
+| 7 | **kubeservice-stack/common** | 2 | 1 | 0 | 1 | PR #77: chore: Update golangci-lint version to v2; Commit: chore: Update golangci-lint version to v2  |
+| 8 | **kubeservice-stack/custom-limit-range** | 2 | 1 | 0 | 1 | PR #20: Update golang version 1.24 && controller-r; Commit: Update golang version 1.24 && controller-r |
+| 9 | **apache/dubbo-go** | 2 | 2 | 0 | 0 | PR #2833: chore: Update golang v1.23 and golangci-; PR #2831: feat: Add maglev consistent hashing |
+| 10 | **Apexmail/helm** | 2 | 0 | 0 | 2 | Commit: Update .github/env; Commit: Merge branch 'main' into update-golang-ver |
 
 ---
 
@@ -212,15 +212,6 @@ kev1N916                       █                    2%
   - Commit: update dependabot.yml
   - Commit: update custom limit range version (#30)
 
-### dongjiang1989/myblog（4 次活动）
-
-- **Commit**: 4 次
-- **主要工作**:
-  - Commit: update
-  - Commit: update ai nvidia env
-  - Commit: add ai nvifia env
-  - Commit: update nvidia env
-
 ### volcano-sh/volcano（3 次活动）
 
 - **PR**: 2 个
@@ -239,6 +230,15 @@ kev1N916                       █                    2%
   - Commit: Update .github/env
   - Commit: Merge branch 'main' into update-golang-version
 
+### kubeservice-stack/node-metrics（3 次活动）
+
+- **PR**: 2 个
+- **Commit**: 1 次
+- **主要工作**:
+  - PR #31: Update node-metrics logging and packages
+  - PR #30: Update node metrice
+  - Commit: Update node-metrics logging and packages (#31)
+
 
 ---
 
@@ -248,7 +248,6 @@ kev1N916                       █                    2%
 |------|---------|---------|---------|
 | prometheus-operator/prometheus-operator | 5 | 2025-04-24 | Merge pull request #7478 from kubeservice-stack/si; optimization redefines-builtin-id; update controller-tools version |
 | kubeservice-stack/kubservice-charts | 4 | 2025-04-21 | Update dependabot.yml; update dependabot.yml; update custom limit range version (#30) |
-| dongjiang1989/myblog | 4 | 2025-04-24 | update; update ai nvidia env; add ai nvifia env |
 | Apexmail/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | helm/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | hoppipolla-dev/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |

@@ -44,13 +44,12 @@ dongjiang1989                  █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 18 | **20** | +11% | 📈 +2 |
+| **总活动量** | 15 | **20** | +33% | 📈 +5 |
 | Pull Request | 3 | 10 | +233% | 📈 +7 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 14 | 10 | -29% | 📉 -4 |
+| Commit | 11 | 10 | -9% | 📉 -1 |
 
 - 🆕 **新增活跃仓库**：`john-gallagher-dd/controller-runtime`, `kubernetes-sigs/controller-runtime`
-- ❌ **不再活跃的仓库**：`dongjiang1989/myblog`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **apecloud**
 
 ---
@@ -74,12 +73,12 @@ dongjiang1989                  █                    5%
 | 2025-06-24（二） | 2 | ██░░░ | PR #1746 (apecloud/kubeblocks-addons); PR #1743 (apecloud/kubeblocks-addons) |
 | 2025-06-25（三） | 3 | ███░░ | PR #3243 (kubernetes-sigs/controller-runtime); john-gallagher-dd/controller-runtime: fix priority; kubernetes-sigs/controller-runtime: fix priority q |
 | 2025-06-26（四） | 0 | ░░░░░ | — |
-| **2025-06-27（五）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, apecloud/kubeblocks-addons), kubernetes-sigs/controller-tools） |
+| **2025-06-27（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, apecloud/kubeblocks-addons), dongjiang1989/dongjiang1989） |
 | 2025-06-28（六） | 0 | ░░░░░ | — |
 | 2025-06-29（日） | 0 | ░░░░░ | — |
 | 2025-06-30（一） | 2 | ██░░░ | PR #7656 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
 | 2025-07-01（二） | 2 | ██░░░ | PR #7659 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
-| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons), apecloud/kubeblocks-addons） |
+| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons, apecloud/kubeblocks-addons)） |
 | 2025-07-03（四） | 2 | ██░░░ | PR #7672 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
 | 2025-07-04（五） | 0 | ░░░░░ | — |
 | 2025-07-05（六） | 0 | ░░░░░ | — |

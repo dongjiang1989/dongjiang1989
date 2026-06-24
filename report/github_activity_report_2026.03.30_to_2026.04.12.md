@@ -15,29 +15,29 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **5** 个 |
-| 涉及仓库数 | **8** 个 |
+| 涉及仓库数 | **7** 个 |
 | Pull Request 数 | **9** 个（已合并 7，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **27** 次 |
-| 总活动量 | **36** |
+| Commit 数 | **21** 次 |
+| 总活动量 | **30** |
 
 ### 🎯 工作重心分布
 
 ```
-dongjiang1989                  ███████              39%
-kubernetes-sigs                ██████               33%
-shrutiyam-glitch               ███                  17%
-prometheus-operator            █                    8%
+kubernetes-sigs                ████████             40%
+dongjiang1989                  █████                27%
+shrutiyam-glitch               ████                 20%
+prometheus-operator            ██                   10%
 prometheus                     █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **dongjiang1989** 是最大贡献方向（39%），涉及 3 个仓库，共 14 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（40%），涉及 2 个仓库，共 12 次活动。
 2. 共 **7** 个 PR 已合并，覆盖 2 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-04-09**（6 次活动），展现了高强度的工作节奏。
-5. 在 6 个仓库提交了 **27** 次代码。
+5. 在 5 个仓库提交了 **21** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -45,14 +45,14 @@ prometheus                     █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 33 | **36** | +9% | 📈 +3 |
+| **总活动量** | 31 | **30** | -3% | 📉 -1 |
 | Pull Request | 18 | 9 | -50% | 📉 -9 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 15 | 27 | +80% | 📈 +12 |
+| Commit | 13 | 21 | +62% | 📈 +8 |
 
 - 🆕 **新增活跃仓库**：`dongjiang1989/opensearch-api`, `prometheus/alertmanager`
 - ❌ **不再活跃的仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `kubegems/modelx`, `kubernetes-sigs/controller-runtime`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
-- 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **dongjiang1989**
+- ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
 ---
 
@@ -60,10 +60,10 @@ prometheus                     █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **36** | PR + Issue + Commit |
+| 📊 **总活动** | **30** | PR + Issue + Commit |
 | 📝 **Pull Request** | 9 | 已合并 7，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 27 | 代码提交 |
+| 💻 **Commit** | 21 | 代码提交 |
 
 ---
 
@@ -71,21 +71,17 @@ prometheus                     █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2026-03-30（一） | 2 | ██░░░ | dongjiang1989/AIEmployee: add state machine
-
-Signe; dongjiang1989/AIEmployee: update workspaces
-
-Signe |
-| **2026-03-31（二）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, dongjiang1989/AIEmployee） |
+| 2026-03-30（一） | 0 | ░░░░░ | — |
+| 2026-03-31（二） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Change(crd): rename; shrutiyam-glitch/agent-sandbox-trial: Change(crd): |
 | 2026-04-01（三） | 0 | ░░░░░ | — |
 | 2026-04-02（四） | 1 | █░░░░ | PR #503 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-03（五）** | **5** | █████ | 5 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, dongjiang1989/api-server） |
+| **2026-04-03（五）** | **5** | █████ | 5 项活动（dongjiang1989/api-server, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-04（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Migrate to controll; shrutiyam-glitch/agent-sandbox-trial: Migrate to c |
 | 2026-04-05（日） | 0 | ░░░░░ | — |
 | 2026-04-06（一） | 0 | ░░░░░ | — |
 | 2026-04-07（二） | 3 | ███░░ | PR #8495 (prometheus-operator/prometheus-operator); PR #5157 (prometheus/alertmanager); PR #8494 (prometheus-operator/prometheus-operator) |
 | 2026-04-08（三） | 3 | ███░░ | PR #549 (kubernetes-sigs/agent-sandbox); PR #548 (kubernetes-sigs/agent-sandbox); PR #545 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-09（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/controller-tools)） |
+| **2026-04-09（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, prometheus-operator/prometheus-operator） |
 | **2026-04-10（五）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api） |
 | 2026-04-11（六） | 0 | ░░░░░ | — |
 | 2026-04-12（日） | 2 | ██░░░ | PR #576 (kubernetes-sigs/agent-sandbox); dongjiang1989/opensearch-api: update opensearch ap |
@@ -100,11 +96,11 @@ Signe |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **dongjiang1989** | 14 | 38.9% | dongjiang1989/opensearch-api(7), dongjiang1989/AIEmployee(6), dongjiang1989/api-server(1) | Push |
-| **kubernetes-sigs** | 12 | 33.3% | kubernetes-sigs/agent-sandbox(11), kubernetes-sigs/controller-tools(1) | PR, Push |
-| shrutiyam-glitch | 6 | 16.7% | shrutiyam-glitch/agent-sandbox-trial(6) | Push |
-| prometheus-operator | 3 | 8.3% | prometheus-operator/prometheus-operator(3) | PR, Push |
-| prometheus | 1 | 2.8% | prometheus/alertmanager(1) | PR |
+| **kubernetes-sigs** | 12 | 40.0% | kubernetes-sigs/agent-sandbox(11), kubernetes-sigs/controller-tools(1) | PR, Push |
+| **dongjiang1989** | 8 | 26.7% | dongjiang1989/opensearch-api(7), dongjiang1989/api-server(1) | Push |
+| shrutiyam-glitch | 6 | 20.0% | shrutiyam-glitch/agent-sandbox-trial(6) | Push |
+| prometheus-operator | 3 | 10.0% | prometheus-operator/prometheus-operator(3) | PR, Push |
+| prometheus | 1 | 3.3% | prometheus/alertmanager(1) | PR |
 
 ### 4.2 仓库详细 Top 10
 
@@ -112,12 +108,11 @@ Signe |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **kubernetes-sigs/agent-sandbox** | 11 | 5 | 0 | 6 | PR #576: chore: add Go Report Card in readme.md; PR #549: Fix: `make update-toc` error in mac os; PR #548: Add examples in website |
 | 2 | **dongjiang1989/opensearch-api** | 7 | 0 | 0 | 7 | Commit: update opensearch api server; Commit: update deployments opensearch-api; Commit: update ci lint |
-| 3 | **dongjiang1989/AIEmployee** | 6 | 0 | 0 | 6 | Commit: add agent test case; Commit: add housekeeper agent; Commit: add README.md |
-| 4 | **shrutiyam-glitch/agent-sandbox-trial** | 6 | 0 | 0 | 6 | Commit: Add examples in website (#548); Commit: add permission for events.k8s.io in sandbo; Commit: Migrate to controller-runtime v0.23+ Event |
-| 5 | **prometheus-operator/prometheus-operator** | 3 | 2 | 0 | 1 | PR #8495: chore: Deprecate auto-gomaxprocs with na; PR #8494: feat: Add AWS external_id support in sig; Commit: Go 1.25 now natively handles container CPU |
-| 6 | **kubernetes-sigs/controller-tools** | 1 | 1 | 0 | 0 | PR #1376: 🐛Fix "literal not terminated" error for  |
-| 7 | **prometheus/alertmanager** | 1 | 1 | 0 | 0 | PR #5157: feat: Add AWS external_id support in sig |
-| 8 | **dongjiang1989/api-server** | 1 | 0 | 0 | 1 | Commit: Merge pull request #34 from dongjiang1989/ |
+| 3 | **shrutiyam-glitch/agent-sandbox-trial** | 6 | 0 | 0 | 6 | Commit: Add examples in website (#548); Commit: add permission for events.k8s.io in sandbo; Commit: Migrate to controller-runtime v0.23+ Event |
+| 4 | **prometheus-operator/prometheus-operator** | 3 | 2 | 0 | 1 | PR #8495: chore: Deprecate auto-gomaxprocs with na; PR #8494: feat: Add AWS external_id support in sig; Commit: Go 1.25 now natively handles container CPU |
+| 5 | **kubernetes-sigs/controller-tools** | 1 | 1 | 0 | 0 | PR #1376: 🐛Fix "literal not terminated" error for  |
+| 6 | **prometheus/alertmanager** | 1 | 1 | 0 | 0 | PR #5157: feat: Add AWS external_id support in sig |
+| 7 | **dongjiang1989/api-server** | 1 | 0 | 0 | 1 | Commit: Merge pull request #34 from dongjiang1989/ |
 
 ---
 
@@ -173,16 +168,6 @@ Signe |
   - Commit: update deployments/docker/Dockerfile
   - Commit: update lint fix
 
-### dongjiang1989/AIEmployee（6 次活动）
-
-- **Commit**: 6 次
-- **主要工作**:
-  - Commit: add agent test case
-  - Commit: add housekeeper agent
-  - Commit: add README.md
-  - Commit: add doctor agent
-  - Commit: add state machine
-
 ### shrutiyam-glitch/agent-sandbox-trial（6 次活动）
 
 - **Commit**: 6 次
@@ -202,6 +187,12 @@ Signe |
   - PR #8494: feat: Add AWS external_id support in sigv4 configuration for
   - Commit: Go 1.25 now natively handles container CPU quotas. (#8495)
 
+### kubernetes-sigs/controller-tools（1 次活动）
+
+- **PR**: 1 个
+- **主要工作**:
+  - PR #1376: 🐛Fix "literal not terminated" error for markers with unpaire
+
 
 ---
 
@@ -210,7 +201,6 @@ Signe |
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | dongjiang1989/opensearch-api | 7 | 2026-04-12 | update opensearch api server; update deployments opensearch-api; update ci lint |
-| dongjiang1989/AIEmployee | 6 | 2026-03-31 | add agent test case; add housekeeper agent; add README.md |
 | kubernetes-sigs/agent-sandbox | 6 | 2026-04-09 | Add examples in website (#548); add permission for events.k8s.io in sandbox_contro; Migrate to controller-runtime v0.23+ Event Recorde |
 | shrutiyam-glitch/agent-sandbox-trial | 6 | 2026-04-09 | Add examples in website (#548); add permission for events.k8s.io in sandbox_contro; Migrate to controller-runtime v0.23+ Event Recorde |
 | dongjiang1989/api-server | 1 | 2026-04-03 | Merge pull request #34 from dongjiang1989/dependab |

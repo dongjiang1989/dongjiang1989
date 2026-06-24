@@ -14,24 +14,23 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **16** 个 |
-| 涉及仓库数 | **20** 个 |
+| 涉及组织数 | **15** 个 |
+| 涉及仓库数 | **19** 个 |
 | Pull Request 数 | **13** 个（已合并 13，开放 0） |
 | Issue 数 | **4** 个 |
-| Commit 数 | **29** 次 |
-| 总活动量 | **46** |
+| Commit 数 | **27** 次 |
+| 总活动量 | **44** |
 
 ### 🎯 工作重心分布
 
 ```
-volcano-sh                     ██████               35%
-prometheus-operator            ██                   13%
-kubernetes-sigs                ██                   13%
-GsonZhao                       █                    4%
-handan-yxh                     █                    4%
-dongjiang1989                  █                    4%
-ckyuto                         █                    4%
-kev1N916                       █                    4%
+volcano-sh                     ███████              36%
+prometheus-operator            ██                   14%
+kubernetes-sigs                ██                   14%
+GsonZhao                       █                    5%
+handan-yxh                     █                    5%
+ckyuto                         █                    5%
+kev1N916                       █                    5%
 web38444                       █                    2%
 prometheus-community           █                    2%
 yunshenliu92                   █                    2%
@@ -44,11 +43,11 @@ raihanakbr                     █                    2%
 
 ### 💡 核心总结
 
-1. **volcano-sh** 是最大贡献方向（35%），涉及 3 个仓库，共 16 次活动。
+1. **volcano-sh** 是最大贡献方向（36%），涉及 3 个仓库，共 16 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 6 个仓库。
 3. 活跃高峰出现在 **2025-03-10**（10 次活动），展现了高强度的工作节奏。
 4. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 19 个仓库提交了 **29** 次代码。
+5. 在 18 个仓库提交了 **27** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -56,14 +55,14 @@ raihanakbr                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **46** | +18% | 📈 +7 |
+| **总活动量** | 36 | **44** | +22% | 📈 +8 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 3 | 4 | +33% | 📈 +1 |
-| Commit | 23 | 29 | +26% | 📈 +6 |
+| Commit | 20 | 27 | +35% | 📈 +7 |
 
-- 🆕 **新增活跃仓库**：`GsonZhao/volcano`, `Scaling-Smart/prometheus-helm-charts`, `ckyuto/volcano-upstream`, `cnloxiaoteng-ship-it/helm-charts`, `dongjiang1989/myblog`, `handan-yxh/volcano-old-test`, `idadmin007/prometheus`, `karmada-io/karmada`, `kev1N916/volcano`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/descheduler`, `prometheus-community/helm-charts`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `volcano-sh/volcano`, `web38444/descheduler`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `barajeel/golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/common`, `kubeservice-stack/modelx`, `kubeservice-stack/repos-mirror-action`, `kubeservice-stack/website`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`
-- 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **volcano-sh**
+- 🆕 **新增活跃仓库**：`GsonZhao/volcano`, `Scaling-Smart/prometheus-helm-charts`, `ckyuto/volcano-upstream`, `cnloxiaoteng-ship-it/helm-charts`, `handan-yxh/volcano-old-test`, `idadmin007/prometheus`, `karmada-io/karmada`, `kev1N916/volcano`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/descheduler`, `prometheus-community/helm-charts`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `volcano-sh/volcano`, `web38444/descheduler`, `yunshenliu92/prometheus`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `barajeel/golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/common`, `kubeservice-stack/modelx`, `kubeservice-stack/repos-mirror-action`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`
+- 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **volcano-sh**
 
 ---
 
@@ -71,10 +70,10 @@ raihanakbr                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **46** | PR + Issue + Commit |
+| 📊 **总活动** | **44** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 13，开放 0 |
 | 📋 **Issue** | 4 | 创建 Issue |
-| 💻 **Commit** | 29 | 代码提交 |
+| 💻 **Commit** | 27 | 代码提交 |
 
 ---
 
@@ -83,17 +82,17 @@ raihanakbr                     █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-03-03（一） | 0 | ░░░░░ | — |
-| **2025-03-04（二）** | **6** | ██████ | 6 项活动（yunshenliu92/prometheus, cnloxiaoteng-ship-it/helm-charts, idadmin007/prometheus） |
+| **2025-03-04（二）** | **6** | ██████ | 6 项活动（yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts, prometheus-community/helm-charts） |
 | 2025-03-05（三） | 2 | ██░░░ | PR #7382 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2025-03-06（四）** | **9** | █████████ | 9 项活动（dongjiang1989/myblog, karmada-io/karmada, volcano-sh/apis)） |
+| **2025-03-06（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada, volcano-sh/community), volcano-sh/community） |
 | 2025-03-07（五） | 0 | ░░░░░ | — |
 | 2025-03-08（六） | 0 | ░░░░░ | — |
 | 2025-03-09（日） | 0 | ░░░░░ | — |
-| **2025-03-10（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools, volcano-sh/volcano, handan-yxh/volcano-old-test） |
+| **2025-03-10（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools, GsonZhao/volcano, volcano-sh/community)） |
 | 2025-03-11（二） | 2 | ██░░░ | PR #7397 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Fix: fix  |
-| 2025-03-12（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/descheduler, kubernetes-sigs/descheduler), web38444/descheduler） |
-| **2025-03-13（四）** | **7** | ███████ | 7 项活动（volcano-sh/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
-| **2025-03-14（五）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), volcano-sh/volcano), prometheus-operator/prometheus-operator） |
+| 2025-03-12（三） | 4 | ████░ | 4 项活动（raihanakbr/descheduler-custom, web38444/descheduler, kubernetes-sigs/descheduler)） |
+| **2025-03-13（四）** | **7** | ███████ | 7 项活动（GsonZhao/volcano, kev1N916/volcano, ckyuto/volcano-upstream） |
+| **2025-03-14（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), volcano-sh/volcano), prometheus-operator/prometheus-operator） |
 | 2025-03-15（六） | 0 | ░░░░░ | — |
 | 2025-03-16（日） | 0 | ░░░░░ | — |
 
@@ -107,22 +106,21 @@ raihanakbr                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **volcano-sh** | 16 | 34.8% | volcano-sh/volcano(8), volcano-sh/community(4), volcano-sh/apis(4) | Issue, PR, Push |
-| prometheus-operator | 6 | 13.0% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| kubernetes-sigs | 6 | 13.0% | kubernetes-sigs/controller-tools(3), kubernetes-sigs/descheduler(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
-| GsonZhao | 2 | 4.3% | GsonZhao/volcano(2) | Push |
-| handan-yxh | 2 | 4.3% | handan-yxh/volcano-old-test(2) | Push |
-| dongjiang1989 | 2 | 4.3% | dongjiang1989/myblog(2) | Push |
-| ckyuto | 2 | 4.3% | ckyuto/volcano-upstream(2) | Push |
-| kev1N916 | 2 | 4.3% | kev1N916/volcano(2) | Push |
-| web38444 | 1 | 2.2% | web38444/descheduler(1) | Push |
-| prometheus-community | 1 | 2.2% | prometheus-community/helm-charts(1) | Push |
-| yunshenliu92 | 1 | 2.2% | yunshenliu92/prometheus(1) | Push |
-| idadmin007 | 1 | 2.2% | idadmin007/prometheus(1) | Push |
-| karmada-io | 1 | 2.2% | karmada-io/karmada(1) | Push |
-| Scaling-Smart | 1 | 2.2% | Scaling-Smart/prometheus-helm-charts(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 2.2% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
-| raihanakbr | 1 | 2.2% | raihanakbr/descheduler-custom(1) | Push |
+| **volcano-sh** | 16 | 36.4% | volcano-sh/volcano(8), volcano-sh/community(4), volcano-sh/apis(4) | Issue, PR, Push |
+| prometheus-operator | 6 | 13.6% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| kubernetes-sigs | 6 | 13.6% | kubernetes-sigs/controller-tools(3), kubernetes-sigs/descheduler(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
+| GsonZhao | 2 | 4.5% | GsonZhao/volcano(2) | Push |
+| handan-yxh | 2 | 4.5% | handan-yxh/volcano-old-test(2) | Push |
+| ckyuto | 2 | 4.5% | ckyuto/volcano-upstream(2) | Push |
+| kev1N916 | 2 | 4.5% | kev1N916/volcano(2) | Push |
+| web38444 | 1 | 2.3% | web38444/descheduler(1) | Push |
+| prometheus-community | 1 | 2.3% | prometheus-community/helm-charts(1) | Push |
+| yunshenliu92 | 1 | 2.3% | yunshenliu92/prometheus(1) | Push |
+| idadmin007 | 1 | 2.3% | idadmin007/prometheus(1) | Push |
+| karmada-io | 1 | 2.3% | karmada-io/karmada(1) | Push |
+| Scaling-Smart | 1 | 2.3% | Scaling-Smart/prometheus-helm-charts(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 2.3% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| raihanakbr | 1 | 2.3% | raihanakbr/descheduler-custom(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -136,8 +134,8 @@ raihanakbr                     █                    2%
 | 6 | **kubernetes-sigs/descheduler** | 2 | 1 | 0 | 1 | PR #1647: fix: Fix panic in descheduler when using; Commit: fix panic |
 | 7 | **GsonZhao/volcano** | 2 | 0 | 0 | 2 | Commit: add dependabot; Commit: fix muti jobflow status error |
 | 8 | **handan-yxh/volcano-old-test** | 2 | 0 | 0 | 2 | Commit: add dependabot; Commit: fix muti jobflow status error |
-| 9 | **dongjiang1989/myblog** | 2 | 0 | 0 | 2 | Commit: update; Commit: update ai nvidia |
-| 10 | **ckyuto/volcano-upstream** | 2 | 0 | 0 | 2 | Commit: add dependabot; Commit: fix muti jobflow status error |
+| 9 | **ckyuto/volcano-upstream** | 2 | 0 | 0 | 2 | Commit: add dependabot; Commit: fix muti jobflow status error |
+| 10 | **kev1N916/volcano** | 2 | 0 | 0 | 2 | Commit: add dependabot; Commit: fix muti jobflow status error |
 
 ---
 
@@ -244,7 +242,6 @@ raihanakbr                     █                    2%
 | GsonZhao/volcano | 2 | 2025-03-10 | add dependabot; fix muti jobflow status error |
 | handan-yxh/volcano-old-test | 2 | 2025-03-10 | add dependabot; fix muti jobflow status error |
 | volcano-sh/community | 2 | 2025-03-10 | Update adopters.md; Update adopters.md |
-| dongjiang1989/myblog | 2 | 2025-03-14 | update; update ai nvidia |
 | ckyuto/volcano-upstream | 2 | 2025-03-10 | add dependabot; fix muti jobflow status error |
 | volcano-sh/volcano | 2 | 2025-03-10 | add dependabot; fix muti jobflow status error |
 | kev1N916/volcano | 2 | 2025-03-10 | add dependabot; fix muti jobflow status error |

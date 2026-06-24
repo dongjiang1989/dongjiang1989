@@ -15,23 +15,23 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **14** 个 |
-| 涉及仓库数 | **17** 个 |
+| 涉及仓库数 | **16** 个 |
 | Pull Request 数 | **7** 个（已合并 7，开放 0） |
 | Issue 数 | **5** 个 |
-| Commit 数 | **19** 次 |
-| 总活动量 | **31** |
+| Commit 数 | **17** 次 |
+| 总活动量 | **29** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███                  19%
-kagent-dev                     ██                   13%
-dongjiang1989                  ██                   13%
-iflytek                        █                    10%
-kubeservice-stack              █                    6%
-prometheus                     █                    6%
-tmohanvamsi                    █                    6%
-grafana                        █                    6%
+kubernetes-sigs                ████                 21%
+kagent-dev                     ██                   14%
+iflytek                        ██                   10%
+kubeservice-stack              █                    7%
+prometheus                     █                    7%
+tmohanvamsi                    █                    7%
+dongjiang1989                  █                    7%
+grafana                        █                    7%
 apache                         █                    3%
 kubernetes                     █                    3%
 rajendra-k10200                █                    3%
@@ -42,11 +42,11 @@ prometheus-operator            █                    3%
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（19%），涉及 2 个仓库，共 6 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（21%），涉及 2 个仓库，共 6 次活动。
 2. 共 **7** 个 PR 已合并，覆盖 6 个仓库。
-3. 活跃高峰出现在 **2025-12-04**（12 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2025-12-04**（10 次活动），展现了高强度的工作节奏。
 4. 创建了 **5** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 13 个仓库提交了 **19** 次代码。
+5. 在 12 个仓库提交了 **17** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -54,12 +54,12 @@ prometheus-operator            █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 27 | **31** | +15% | 📈 +4 |
+| **总活动量** | 27 | **29** | +7% | 📈 +2 |
 | Pull Request | 9 | 7 | -22% | 📉 -2 |
 | Issue | 4 | 5 | +25% | 📈 +1 |
-| Commit | 14 | 19 | +36% | 📈 +5 |
+| Commit | 14 | 17 | +21% | 📈 +3 |
 
-- 🆕 **新增活跃仓库**：`SINDEKARHAS/Prometheus`, `apache/apisix`, `dongjiang1989/myblog`, `elouafi-abderrahmane-2002/prometheus`, `grafana/grafana`, `grafana/mimir-prometheus`, `kagent-dev/kagent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `tmohanvamsi/kagent`
+- 🆕 **新增活跃仓库**：`SINDEKARHAS/Prometheus`, `apache/apisix`, `elouafi-abderrahmane-2002/prometheus`, `grafana/grafana`, `grafana/mimir-prometheus`, `kagent-dev/kagent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `tmohanvamsi/kagent`
 - ❌ **不再活跃的仓库**：`QQGoblin/node_exporter`, `jicki/node_exporter`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/kspack-go`, `prometheus/node_exporter`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
@@ -69,10 +69,10 @@ prometheus-operator            █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **31** | PR + Issue + Commit |
+| 📊 **总活动** | **29** | PR + Issue + Commit |
 | 📝 **Pull Request** | 7 | 已合并 7，开放 0 |
 | 📋 **Issue** | 5 | 创建 Issue |
-| 💻 **Commit** | 19 | 代码提交 |
+| 💻 **Commit** | 17 | 代码提交 |
 
 ---
 
@@ -81,21 +81,21 @@ prometheus-operator            █                    3%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-11-24（一） | 3 | ███░░ | PR #12772 (apache/apisix); Issue #631; Issue #629 |
-| 2025-11-25（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/metrics-server), kubernetes-sigs/metrics-server） |
+| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server), prometheus-operator/prometheus-operator, kubernetes-sigs/metrics-server） |
 | 2025-11-26（三） | 0 | ░░░░░ | — |
 | 2025-11-27（四） | 0 | ░░░░░ | — |
 | 2025-11-28（五） | 0 | ░░░░░ | — |
 | 2025-11-29（六） | 0 | ░░░░░ | — |
 | 2025-11-30（日） | 0 | ░░░░░ | — |
-| 2025-12-01（一） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools)） |
 | 2025-12-02（二） | 0 | ░░░░░ | — |
 | 2025-12-03（三） | 1 | █░░░░ | PR #17640 (prometheus/prometheus) |
-| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kubeservice-stack/echo), kagent-dev/kagent), kagent-dev/kagent） |
-| **2025-12-05（五）** | **7** | ███████ | 7 项活动（rajendra-k10200/prometheus, kubernetes-sigs/controller-tools, grafana/mimir-prometheus） |
+| **2025-12-04（四）** | **10** | ██████████ | 10 项活动（kagent-dev/kagent), kubeservice-stack/echo, tmohanvamsi/kagent） |
+| **2025-12-05（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, elouafi-abderrahmane-2002/prometheus, prometheus/prometheus） |
 | 2025-12-06（六） | 0 | ░░░░░ | — |
 | 2025-12-07（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-12-04（12 次活动）为最高峰。
+> **活跃高峰**：2025-12-04（10 次活动）为最高峰。
 
 ---
 
@@ -105,20 +105,20 @@ prometheus-operator            █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubernetes-sigs | 6 | 19.4% | kubernetes-sigs/controller-tools(4), kubernetes-sigs/metrics-server(2) | PR, Push |
-| kagent-dev | 4 | 12.9% | kagent-dev/kagent(4) | PR, Push |
-| dongjiang1989 | 4 | 12.9% | dongjiang1989/myblog(2), dongjiang1989/dongjiang1989(2) | Push |
-| iflytek | 3 | 9.7% | iflytek/astron-agent(3) | Issue |
-| kubeservice-stack | 2 | 6.5% | kubeservice-stack/echo(2) | PR, Push |
-| prometheus | 2 | 6.5% | prometheus/prometheus(2) | PR, Push |
-| tmohanvamsi | 2 | 6.5% | tmohanvamsi/kagent(2) | Push |
-| grafana | 2 | 6.5% | grafana/grafana(1), grafana/mimir-prometheus(1) | Issue, Push |
-| apache | 1 | 3.2% | apache/apisix(1) | PR |
-| kubernetes | 1 | 3.2% | kubernetes/org(1) | Issue |
-| rajendra-k10200 | 1 | 3.2% | rajendra-k10200/prometheus(1) | Push |
-| elouafi-abderrahmane-2002 | 1 | 3.2% | elouafi-abderrahmane-2002/prometheus(1) | Push |
-| SINDEKARHAS | 1 | 3.2% | SINDEKARHAS/Prometheus(1) | Push |
-| prometheus-operator | 1 | 3.2% | prometheus-operator/prometheus-operator(1) | Push |
+| **kubernetes-sigs** | 6 | 20.7% | kubernetes-sigs/controller-tools(4), kubernetes-sigs/metrics-server(2) | PR, Push |
+| kagent-dev | 4 | 13.8% | kagent-dev/kagent(4) | PR, Push |
+| iflytek | 3 | 10.3% | iflytek/astron-agent(3) | Issue |
+| kubeservice-stack | 2 | 6.9% | kubeservice-stack/echo(2) | PR, Push |
+| prometheus | 2 | 6.9% | prometheus/prometheus(2) | PR, Push |
+| tmohanvamsi | 2 | 6.9% | tmohanvamsi/kagent(2) | Push |
+| dongjiang1989 | 2 | 6.9% | dongjiang1989/dongjiang1989(2) | Push |
+| grafana | 2 | 6.9% | grafana/grafana(1), grafana/mimir-prometheus(1) | Issue, Push |
+| apache | 1 | 3.4% | apache/apisix(1) | PR |
+| kubernetes | 1 | 3.4% | kubernetes/org(1) | Issue |
+| rajendra-k10200 | 1 | 3.4% | rajendra-k10200/prometheus(1) | Push |
+| elouafi-abderrahmane-2002 | 1 | 3.4% | elouafi-abderrahmane-2002/prometheus(1) | Push |
+| SINDEKARHAS | 1 | 3.4% | SINDEKARHAS/Prometheus(1) | Push |
+| prometheus-operator | 1 | 3.4% | prometheus-operator/prometheus-operator(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -131,9 +131,9 @@ prometheus-operator            █                    3%
 | 5 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #17640: Update golangci-lint and add modernize ; Commit: Update golangci-lint and add modernize che |
 | 6 | **kubernetes-sigs/metrics-server** | 2 | 1 | 0 | 1 | PR #1740: chore: upgrade golangci-lint to 2.6.2; Commit: update golangci lint version |
 | 7 | **tmohanvamsi/kagent** | 2 | 0 | 0 | 2 | Commit: Fix webhookCertWatcher setting (#1155); Commit: chore: Update golangci-lint version and ad |
-| 8 | **dongjiang1989/myblog** | 2 | 0 | 0 | 2 | Commit: Update my-github-2024.md; Commit: Update GitHub stats and language images li |
-| 9 | **dongjiang1989/dongjiang1989** | 2 | 0 | 0 | 2 | Commit: Update README.md; Commit: add myself readme |
-| 10 | **apache/apisix** | 1 | 1 | 0 | 0 | PR #12772: feat(disvocery): Add zookeeper discover |
+| 8 | **dongjiang1989/dongjiang1989** | 2 | 0 | 0 | 2 | Commit: Update README.md; Commit: add myself readme |
+| 9 | **apache/apisix** | 1 | 1 | 0 | 0 | PR #12772: feat(disvocery): Add zookeeper discover |
+| 10 | **grafana/grafana** | 1 | 0 | 1 | 0 | Issue #114625: Support incoming webhook for all co |
 
 ---
 
@@ -224,7 +224,6 @@ prometheus-operator            █                    3%
 |------|---------|---------|---------|
 | kubernetes-sigs/controller-tools | 3 | 2025-12-05 | fix golangci lint; Merge branch 'main' into update-importas; update importas name |
 | tmohanvamsi/kagent | 2 | 2025-12-04 | Fix webhookCertWatcher setting (#1155); chore: Update golangci-lint version and add new li |
-| dongjiang1989/myblog | 2 | 2025-12-04 | Update my-github-2024.md; Update GitHub stats and language images links |
 | kagent-dev/kagent | 2 | 2025-12-04 | Fix webhookCertWatcher setting (#1155); chore: Update golangci-lint version and add new li |
 | dongjiang1989/dongjiang1989 | 2 | 2025-12-04 | Update README.md; add myself readme |
 | rajendra-k10200/prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |

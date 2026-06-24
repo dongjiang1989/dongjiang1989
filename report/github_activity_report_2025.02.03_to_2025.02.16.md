@@ -14,33 +14,32 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **10** 个 |
+| 涉及组织数 | **6** 个 |
+| 涉及仓库数 | **9** 个 |
 | Pull Request 数 | **11** 个（已合并 8，开放 3） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **11** 次 |
-| 总活动量 | **23** |
+| Commit 数 | **7** 次 |
+| 总活动量 | **19** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ██████               30%
-prometheus-operator            ████                 22%
-dongjiang1989                  ███                  17%
-loggie-io                      ██                   13%
-kubernetes-sigs                █                    9%
-karmada-io                     █                    4%
-john-gallagher-dd              █                    4%
+kubeservice-stack              ███████              37%
+prometheus-operator            █████                26%
+loggie-io                      ███                  16%
+kubernetes-sigs                ██                   11%
+karmada-io                     █                    5%
+john-gallagher-dd              █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（30%），涉及 3 个仓库，共 7 次活动。
+1. **kubeservice-stack** 是最大贡献方向（37%），涉及 3 个仓库，共 7 次活动。
 2. 共 **8** 个 PR 已合并，覆盖 4 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-02-14**（9 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-02-14**（7 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 7 个仓库提交了 **11** 次代码。
+6. 在 6 个仓库提交了 **7** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -48,10 +47,10 @@ john-gallagher-dd              █                    4%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 27 | **23** | -15% | 📉 -4 |
+| **总活动量** | 26 | **19** | -27% | 📉 -7 |
 | Pull Request | 9 | 11 | +22% | 📈 +2 |
 | Issue | 2 | 1 | -50% | 📉 -1 |
-| Commit | 16 | 11 | -31% | 📉 -5 |
+| Commit | 15 | 7 | -53% | 📉 -8 |
 
 - 🆕 **新增活跃仓库**：`john-gallagher-dd/controller-runtime`, `karmada-io/community`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/modelx`, `loggie-io/loggie`
 - ❌ **不再活跃的仓库**：`ahmetb/gen-crd-api-reference-docs`, `dongjiang1989/customapis`, `kubeflow/mpi-operator`, `kubernetes/kubernetes`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/node-metrics`
@@ -63,10 +62,10 @@ john-gallagher-dd              █                    4%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **23** | PR + Issue + Commit |
+| 📊 **总活动** | **19** | PR + Issue + Commit |
 | 📝 **Pull Request** | 11 | 已合并 8，开放 3 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 11 | 代码提交 |
+| 💻 **Commit** | 7 | 代码提交 |
 
 ---
 
@@ -84,16 +83,12 @@ john-gallagher-dd              █                    4%
 | 2025-02-10（一） | 2 | ██░░░ | kubernetes-sigs/controller-tools: 🌱chore: Add gola; prometheus-operator/prometheus-operator: Merge pul |
 | 2025-02-11（二） | 3 | ███░░ | PR #7333 (prometheus-operator/prometheus-operator); Issue #102; prometheus-operator/prometheus-operator: update co |
 | 2025-02-12（三） | 1 | █░░░░ | PR #32 (kubeservice-stack/modelx) |
-| 2025-02-13（四） | 2 | ██░░░ | dongjiang1989/myblog: update
-
-Signed-off-by: dongj; dongjiang1989/myblog: update ai blig
-
-Signed-off-b |
-| **2025-02-14（五）** | **9** | █████████ | 9 项活动（kubeservice-stack/echo), kubeservice-stack/common), dongjiang1989/myblog） |
+| 2025-02-13（四） | 0 | ░░░░░ | — |
+| **2025-02-14（五）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/common, kubeservice-stack/echo） |
 | 2025-02-15（六） | 0 | ░░░░░ | — |
 | 2025-02-16（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-02-14（9 次活动）为最高峰。
+> **活跃高峰**：2025-02-14（7 次活动）为最高峰。
 
 ---
 
@@ -103,28 +98,26 @@ Signed-off-b |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 7 | 30.4% | kubeservice-stack/modelx(3), kubeservice-stack/common(2), kubeservice-stack/echo(2) | PR, Push |
-| **prometheus-operator** | 5 | 21.7% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| dongjiang1989 | 4 | 17.4% | dongjiang1989/myblog(4) | Push |
-| loggie-io | 3 | 13.0% | loggie-io/loggie(3) | PR |
-| kubernetes-sigs | 2 | 8.7% | kubernetes-sigs/controller-tools(1), kubernetes-sigs/controller-runtime(1) | Push |
-| karmada-io | 1 | 4.3% | karmada-io/community(1) | Issue |
-| john-gallagher-dd | 1 | 4.3% | john-gallagher-dd/controller-runtime(1) | Push |
+| **kubeservice-stack** | 7 | 36.8% | kubeservice-stack/modelx(3), kubeservice-stack/common(2), kubeservice-stack/echo(2) | PR, Push |
+| **prometheus-operator** | 5 | 26.3% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| loggie-io | 3 | 15.8% | loggie-io/loggie(3) | PR |
+| kubernetes-sigs | 2 | 10.5% | kubernetes-sigs/controller-tools(1), kubernetes-sigs/controller-runtime(1) | Push |
+| karmada-io | 1 | 5.3% | karmada-io/community(1) | Issue |
+| john-gallagher-dd | 1 | 5.3% | john-gallagher-dd/controller-runtime(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **prometheus-operator/prometheus-operator** | 5 | 3 | 0 | 2 | PR #7338: chore: Upgrade Go version to v1.24; PR #7333: chore: Update controller-tools version t; PR #7327: feat: Add `round_robin_dns` option from  |
-| 2 | **dongjiang1989/myblog** | 4 | 0 | 0 | 4 | Commit: add ai-modelx-hub.md; Commit: update; Commit: update |
-| 3 | **kubeservice-stack/modelx** | 3 | 3 | 0 | 0 | PR #41: chore: update golang version to v1.24; PR #37: docs: update roadmaps for modelx; PR #32: chore: update golangci-lint config |
-| 4 | **loggie-io/loggie** | 3 | 3 | 0 | 0 | PR #696: feat: Add automatic memory limit handling; PR #695: chore: update `automaxprocs` version and ; PR #694: Fix: When file was truncated，start from t |
-| 5 | **kubeservice-stack/common** | 2 | 1 | 0 | 1 | PR #55: Chore: add go.mod and go.sum; Commit: add go.mod and go.sum (#55) |
-| 6 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #32: Chore: Upgrade Go version v1.24; Commit: Chore: Upgrade Go version v1.24 (#32) |
-| 7 | **karmada-io/community** | 1 | 0 | 1 | 0 | Issue #102: Karmada Adopter Group Application for  |
-| 8 | **kubernetes-sigs/controller-tools** | 1 | 0 | 0 | 1 | Commit: 🌱chore: Add golangci-lint linters (#1134) |
-| 9 | **john-gallagher-dd/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
-| 10 | **kubernetes-sigs/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
+| 2 | **kubeservice-stack/modelx** | 3 | 3 | 0 | 0 | PR #41: chore: update golang version to v1.24; PR #37: docs: update roadmaps for modelx; PR #32: chore: update golangci-lint config |
+| 3 | **loggie-io/loggie** | 3 | 3 | 0 | 0 | PR #696: feat: Add automatic memory limit handling; PR #695: chore: update `automaxprocs` version and ; PR #694: Fix: When file was truncated，start from t |
+| 4 | **kubeservice-stack/common** | 2 | 1 | 0 | 1 | PR #55: Chore: add go.mod and go.sum; Commit: add go.mod and go.sum (#55) |
+| 5 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #32: Chore: Upgrade Go version v1.24; Commit: Chore: Upgrade Go version v1.24 (#32) |
+| 6 | **karmada-io/community** | 1 | 0 | 1 | 0 | Issue #102: Karmada Adopter Group Application for  |
+| 7 | **kubernetes-sigs/controller-tools** | 1 | 0 | 0 | 1 | Commit: 🌱chore: Add golangci-lint linters (#1134) |
+| 8 | **john-gallagher-dd/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
+| 9 | **kubernetes-sigs/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
 
 ---
 
@@ -174,15 +167,6 @@ Signed-off-b |
   - Commit: update controller-tools version to v0.17.2
   - Commit: Merge pull request #7327 from kubeservice-stack/support-roun
 
-### dongjiang1989/myblog（4 次活动）
-
-- **Commit**: 4 次
-- **主要工作**:
-  - Commit: add ai-modelx-hub.md
-  - Commit: update
-  - Commit: update
-  - Commit: update ai blig
-
 ### kubeservice-stack/modelx（3 次活动）
 
 - **PR**: 3 个
@@ -207,6 +191,14 @@ Signed-off-b |
   - PR #55: Chore: add go.mod and go.sum
   - Commit: add go.mod and go.sum (#55)
 
+### kubeservice-stack/echo（2 次活动）
+
+- **PR**: 1 个
+- **Commit**: 1 次
+- **主要工作**:
+  - PR #32: Chore: Upgrade Go version v1.24
+  - Commit: Chore: Upgrade Go version v1.24 (#32)
+
 
 ---
 
@@ -214,7 +206,6 @@ Signed-off-b |
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| dongjiang1989/myblog | 4 | 2025-02-14 | add ai-modelx-hub.md; update; update |
 | prometheus-operator/prometheus-operator | 2 | 2025-02-11 | update controller-tools version to v0.17.2; Merge pull request #7327 from kubeservice-stack/su |
 | kubernetes-sigs/controller-tools | 1 | 2025-02-10 | 🌱chore: Add golangci-lint linters (#1134) |
 | john-gallagher-dd/controller-runtime | 1 | 2025-02-06 | ✨feat: add GoCollector and ProcessCollector metric |

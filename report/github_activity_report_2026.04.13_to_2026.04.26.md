@@ -15,31 +15,31 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **6** 个 |
-| 涉及仓库数 | **12** 个 |
+| 涉及仓库数 | **11** 个 |
 | Pull Request 数 | **15** 个（已合并 14，开放 1） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **42** 次 |
-| 总活动量 | **59** |
+| Commit 数 | **40** 次 |
+| 总活动量 | **57** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ██████               34%
-dongjiang1989                  █████                25%
-iflytek                        ███                  17%
+kubernetes-sigs                ███████              35%
+dongjiang1989                  ████                 23%
+iflytek                        ███                  18%
 shrutiyam-glitch               ██                   14%
-prometheus-operator            █                    8%
+prometheus-operator            █                    9%
 Gitlawb                        █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（34%），涉及 3 个仓库，共 20 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（35%），涉及 3 个仓库，共 20 次活动。
 2. 共 **14** 个 PR 已合并，覆盖 5 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-04-13**（19 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 11 个仓库提交了 **42** 次代码。
+6. 在 10 个仓库提交了 **40** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -47,14 +47,14 @@ Gitlawb                        █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 36 | **59** | +64% | 📈 +23 |
+| **总活动量** | 30 | **57** | +90% | 📈 +27 |
 | Pull Request | 9 | 15 | +67% | 📈 +6 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 27 | 42 | +56% | 📈 +15 |
+| Commit | 21 | 40 | +90% | 📈 +19 |
 
-- 🆕 **新增活跃仓库**：`Gitlawb/openclaude`, `dongjiang1989/astron-go`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `kubernetes-sigs/kubebuilder`
-- ❌ **不再活跃的仓库**：`dongjiang1989/AIEmployee`, `dongjiang1989/api-server`, `prometheus/alertmanager`
-- 🔄 **工作重心转移**：从 **dongjiang1989** 转向 **kubernetes-sigs**
+- 🆕 **新增活跃仓库**：`Gitlawb/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `kubernetes-sigs/kubebuilder`
+- ❌ **不再活跃的仓库**：`dongjiang1989/api-server`, `prometheus/alertmanager`
+- ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
 ---
 
@@ -62,10 +62,10 @@ Gitlawb                        █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **59** | PR + Issue + Commit |
+| 📊 **总活动** | **57** | PR + Issue + Commit |
 | 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 42 | 代码提交 |
+| 💻 **Commit** | 40 | 代码提交 |
 
 ---
 
@@ -73,9 +73,9 @@ Gitlawb                        █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（iflytek/astron-agent, kubernetes-sigs/agent-sandbox), dongjiang1989/opensearch-api)） |
-| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox)） |
-| **2026-04-15（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, iflytek/astron-agent） |
+| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（kubernetes-sigs/agent-sandbox), iflytek/astron-agent, dongjiang1989/opensearch-api)） |
+| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-15（三）** | **7** | ███████ | 7 项活动（iflytek/astron-agent, kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
 | **2026-04-17（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-18（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
@@ -84,9 +84,9 @@ Gitlawb                        █                    2%
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 2026-04-21（二） | 3 | ███░░ | PR #1385 (kubernetes-sigs/controller-tools); kubernetes-sigs/agent-sandbox: add dependabot.yml ; shrutiyam-glitch/agent-sandbox-trial: add dependab |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, prometheus-operator/prometheus-operator), Gitlawb/openclaude)） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), prometheus-operator/prometheus-operator） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-24（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, dongjiang1989/astron-go） |
+| 2026-04-24（五） | 3 | ███░░ | PR #678 (kubernetes-sigs/agent-sandbox); kubernetes-sigs/agent-sandbox: add agent-sandbox v; shrutiyam-glitch/agent-sandbox-trial: add agent-sa |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
 | 2026-04-26（日） | 0 | ░░░░░ | — |
 
@@ -100,12 +100,12 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 20 | 33.9% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
-| **dongjiang1989** | 15 | 25.4% | dongjiang1989/opensearch-api(10), dongjiang1989/astron-go(2), dongjiang1989/myclawbot(1) | PR, Push |
-| iflytek | 10 | 16.9% | iflytek/astron-agent(10) | Issue, Push |
-| shrutiyam-glitch | 8 | 13.6% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
-| prometheus-operator | 5 | 8.5% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| Gitlawb | 1 | 1.7% | Gitlawb/openclaude(1) | PR |
+| **kubernetes-sigs** | 20 | 35.1% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
+| **dongjiang1989** | 13 | 22.8% | dongjiang1989/opensearch-api(10), dongjiang1989/myclawbot(1), dongjiang1989/scumbag(1) | PR, Push |
+| iflytek | 10 | 17.5% | iflytek/astron-agent(10) | Issue, Push |
+| shrutiyam-glitch | 8 | 14.0% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
+| prometheus-operator | 5 | 8.8% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| Gitlawb | 1 | 1.8% | Gitlawb/openclaude(1) | PR |
 
 ### 4.2 仓库详细 Top 10
 
@@ -118,9 +118,9 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 5 | **prometheus-operator/prometheus-operator** | 5 | 3 | 0 | 2 | PR #8529: feat: add healthFilter field to ConsulSD; PR #8528: chore: update prometheus version to v3.1; PR #8510: chore: update golangci-linter version to |
 | 6 | **kubernetes-sigs/kubebuilder** | 2 | 1 | 0 | 1 | PR #5653: ✨ (go/v4): upgrade golangci-lint to v2.1; Commit: ✨ (go/v4): upgrade golangci-lint to v2.11. |
 | 7 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1385: 🌱 Add tests to improve coverage for IntO; Commit: update IntOrString generated (#1370) |
-| 8 | **dongjiang1989/astron-go** | 2 | 0 | 0 | 2 | Commit: use git lfs manage large font; Commit: astron agent via go |
-| 9 | **Gitlawb/openclaude** | 1 | 1 | 0 | 0 | PR #824: feat: add iFlytek Spark provider support  |
-| 10 | **dongjiang1989/myclawbot** | 1 | 0 | 0 | 1 | Commit: Merge pull request #1 from dongjiang1989/f |
+| 8 | **Gitlawb/openclaude** | 1 | 1 | 0 | 0 | PR #824: feat: add iFlytek Spark provider support  |
+| 9 | **dongjiang1989/myclawbot** | 1 | 0 | 0 | 1 | Commit: Merge pull request #1 from dongjiang1989/f |
+| 10 | **dongjiang1989/scumbag** | 1 | 0 | 0 | 1 | Commit: add scumbag skill |
 
 ---
 
@@ -230,7 +230,6 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | dongjiang1989/opensearch-api | 8 | 2026-04-13 | Update ci.yml; Update README.md; Merge pull request #2 from dongjiang1989/vk/5b9d-s |
 | kubernetes-sigs/agent-sandbox | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
 | shrutiyam-glitch/agent-sandbox-trial | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
-| dongjiang1989/astron-go | 2 | 2026-04-24 | use git lfs manage large font; astron agent via go |
 | prometheus-operator/prometheus-operator | 2 | 2026-04-22 | update prometheus version; update golangci linter version (#8510) |
 | kubernetes-sigs/controller-tools | 1 | 2026-04-19 | update IntOrString generated (#1370) |
 | kubernetes-sigs/kubebuilder | 1 | 2026-04-22 | ✨ (go/v4): upgrade golangci-lint to v2.11.4 (#5653 |

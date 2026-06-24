@@ -77,18 +77,18 @@ wei-shon                       █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **5** | █████ | 5 项活动（kagent-dev/kagent, prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox)） |
-| **2026-05-12（二）** | **7** | ███████ | 7 项活动（Wionerlol/SkillHub, iflytek/astron-agent, yun-zhi-ztl/yunzhi-skillhub） |
+| **2026-05-11（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
+| **2026-05-12（二）** | **7** | ███████ | 7 项活动（iflytek/astron-agent, wei-shon/skillhub_delete, Wionerlol/SkillHub） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 0 | ░░░░░ | — |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/node-metrics, kubeservice-stack/echo), kagent-dev/kagent)） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kagent-dev/kagent), kubeservice-stack/node-metrics, kubeservice-stack/node-metrics)） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **5** | █████ | 5 项活动（Project-HAMi/HAMi), prometheus-operator/prometheus-operator), dongjiang1989/opensearch-api） |
-| **2026-05-21（四）** | **8** | ████████ | 8 项活动（iflytek/community, dongjiang1989/opensearch-api), Project-HAMi/HAMi） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（iflytek/community, kubeservice-stack/common), kubeservice-stack/common） |
+| **2026-05-20（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), Project-HAMi/HAMi), dongjiang1989/opensearch-api） |
+| **2026-05-21（四）** | **8** | ████████ | 8 项活动（Project-HAMi/HAMi, dongjiang1989/opensearch-api), dongjiang1989/opensearch-api） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（iflytek/community, kubeservice-stack/common, kubernetes-sigs/controller-runtime)） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
@@ -120,7 +120,7 @@ wei-shon                       █                    2%
 |------|------|--------|------|---------|---------|----------|
 | 1 | **prometheus-operator/prometheus-operator** | 9 | 6 | 0 | 3 | PR #8580: refactor(crd):  Change Endpoint.Port and; PR #8579: refactor(crd): change OAuth2 TokenURL ty; PR #8574: chore: Update controller-runtime version |
 | 2 | **dongjiang1989/opensearch-api** | 7 | 1 | 0 | 6 | PR #5:  feat: support multi-tenant cross-index sea; Commit:  feat: support multi-tenant cross-index se; Commit: update client sdk |
-| 3 | **kubeservice-stack/common** | 5 | 2 | 0 | 3 | PR #143: fix: concurrency safety, performance opti; PR #136: chore: update golang package and version; Commit: update package (#136) |
+| 3 | **kubeservice-stack/common** | 5 | 2 | 0 | 3 | PR #143: fix: concurrency safety, performance opti; PR #136: chore: update golang package and version; Commit: Update codacy-coverage-reporter.yaml |
 | 4 | **kagent-dev/kagent** | 4 | 2 | 0 | 2 | PR #1893: feat: add Spark MaaS AI model provider s; PR #1886: feat: add `ANTHROPIC_BASE_URL` support; Commit: test(controller): add goleak test cases to |
 | 5 | **kubeservice-stack/echo** | 4 | 2 | 0 | 2 | PR #127: chore(ci): group GitHub Actions Dependabo; PR #126: chore: Update golang version to v1.26; Commit: update dependabot.yml (#127) |
 | 6 | **iflytek/community** | 3 | 0 | 0 | 3 | Commit: add contributer for prs, issues and discus; Commit: add release docs; Commit: chore(docs): Add community governance docu |
@@ -199,8 +199,8 @@ wei-shon                       █                    2%
 - **主要工作**:
   - PR #143: fix: concurrency safety, performance optimization, and CI/CD
   - PR #136: chore: update golang package and version
-  - Commit: update package (#136)
   - Commit: Update codacy-coverage-reporter.yaml
+  - Commit: update package (#136)
   - Commit: update code optimizations (#143)
 
 ### kagent-dev/kagent（4 次活动）
@@ -232,7 +232,7 @@ wei-shon                       █                    2%
 |------|---------|---------|---------|
 | dongjiang1989/opensearch-api | 6 | 2026-05-21 |  feat: support multi-tenant cross-index search wit; update client sdk; fix: add extra_hosts for host.docker.internal in d |
 | prometheus-operator/prometheus-operator | 3 | 2026-05-19 | Merge pull request #8562 from kubeservice-stack/up; update controller-runtime version (#8574); update dependabot.yml |
-| kubeservice-stack/common | 3 | 2026-05-18 | update package (#136); Update codacy-coverage-reporter.yaml; update code optimizations (#143) |
+| kubeservice-stack/common | 3 | 2026-05-22 | Update codacy-coverage-reporter.yaml; update package (#136); update code optimizations (#143) |
 | iflytek/community | 3 | 2026-05-22 | add contributer for prs, issues and discussions (#; add release docs; chore(docs): Add community governance documents an |
 | kagent-dev/kagent | 2 | 2026-05-12 | test(controller): add goleak test cases to detect ; chore: upgrade golangci-lint to v2.12.2 and addres |
 | kubeservice-stack/echo | 2 | 2026-05-18 | update dependabot.yml (#127); chore: Update golang version to v1.26 (#126) |

@@ -58,13 +58,13 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 46 | **73** | +59% | 📈 +27 |
+| **总活动量** | 44 | **73** | +66% | 📈 +29 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 4 | 4 | 0% | ➡️ 持平 |
-| Commit | 29 | 56 | +93% | 📈 +27 |
+| Commit | 27 | 56 | +107% | 📈 +29 |
 
 - 🆕 **新增活跃仓库**：`Apexmail/helm`, `helm/helm`, `hoppipolla-dev/helm`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`
-- ❌ **不再活跃的仓库**：`dongjiang1989/myblog`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `web38444/descheduler`
+- ❌ **不再活跃的仓库**：`kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `web38444/descheduler`
 - 🔄 **工作重心转移**：从 **volcano-sh** 转向 **kubeservice-stack**
 
 ---
@@ -84,16 +84,16 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-03-17（一） | 4 | ████░ | 4 项活动（helm/helm, hoppipolla-dev/helm, Apexmail/helm） |
-| **2025-03-18（二）** | **12** | ████████████ | 12 项活动（volcano-sh/volcano, handan-yxh/volcano-old-test, GsonZhao/volcano） |
-| 2025-03-19（三） | 4 | ████░ | 4 项活动（helm/helm, volcano-sh/volcano), Apexmail/helm） |
-| **2025-03-20（四）** | **8** | ████████ | 8 项活动（volcano-sh/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
-| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（volcano-sh/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
+| 2025-03-17（一） | 4 | ████░ | 4 项活动（helm/helm), Apexmail/helm, hoppipolla-dev/helm） |
+| **2025-03-18（二）** | **12** | ████████████ | 12 项活动（hoppipolla-dev/helm, GsonZhao/volcano, Apexmail/helm） |
+| 2025-03-19（三） | 4 | ████░ | 4 项活动（volcano-sh/volcano), Apexmail/helm, hoppipolla-dev/helm） |
+| **2025-03-20（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada, GsonZhao/volcano, kev1N916/volcano） |
+| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（GsonZhao/volcano, kev1N916/volcano, ckyuto/volcano-upstream） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/docker-image, prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/docker-image, kubeservice-stack/network-doctor） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（prometheus-community/helm-charts), kubeservice-stack/echo), yunshenliu92/prometheus） |
+| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts, hoppipolla-dev/helm） |
 | **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |

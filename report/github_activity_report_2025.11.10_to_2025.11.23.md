@@ -77,14 +77,14 @@ QQGoblin                       █                    4%
 |------|--------|--------|----------|
 | 2025-11-10（一） | 0 | ░░░░░ | — |
 | 2025-11-11（二） | 1 | █░░░░ | PR #8089 (prometheus-operator/prometheus-operator) |
-| **2025-11-12（三）** | **9** | █████████ | 9 项活动（prometheus/node_exporter, kubernetes-sigs/controller-runtime, QQGoblin/node_exporter） |
+| **2025-11-12（三）** | **9** | █████████ | 9 项活动（jicki/node_exporter, QQGoblin/node_exporter, dongjiang1989/dongjiang1989） |
 | 2025-11-13（四） | 2 | ██░░░ | prometheus-operator/prometheus-operator: chore: up; prometheus-operator/prometheus-operator: chore: ad |
 | 2025-11-14（五） | 0 | ░░░░░ | — |
 | 2025-11-15（六） | 2 | ██░░░ | PR #88 (kubeservice-stack/echo); kubeservice-stack/echo: add slices pkg (#88)
 
 Sign |
 | 2025-11-16（日） | 0 | ░░░░░ | — |
-| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kspack-go, kubernetes-sigs/kueue), prometheus-operator/prometheus-operator)） |
+| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/kueue), kubeservice-stack/common, kubeservice-stack/kspack-go） |
 | 2025-11-18（二） | 1 | █░░░░ | kubernetes-sigs/kueue: add modernize check (#7704) |
 | 2025-11-19（三） | 0 | ░░░░░ | — |
 | 2025-11-20（四） | 0 | ░░░░░ | — |

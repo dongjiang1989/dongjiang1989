@@ -41,12 +41,12 @@ kubernetes-sigs                ████                 20%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 29 | **5** | -83% | 📉 -24 |
+| **总活动量** | 28 | **5** | -82% | 📉 -23 |
 | Pull Request | 12 | 2 | -83% | 📉 -10 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 16 | 3 | -81% | 📉 -13 |
+| Commit | 15 | 3 | -80% | 📉 -12 |
 
-- ❌ **不再活跃的仓库**：`SoujanyaPonnapalli/Metronome`, `apecloud/kubeblocks-addons`, `dongjiang1989/myblog`, `etcd-io/etcd`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
+- ❌ **不再活跃的仓库**：`SoujanyaPonnapalli/Metronome`, `apecloud/kubeblocks-addons`, `etcd-io/etcd`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---

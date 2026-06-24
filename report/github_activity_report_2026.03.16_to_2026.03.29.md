@@ -15,21 +15,21 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **13** 个 |
+| 涉及仓库数 | **12** 个 |
 | Pull Request 数 | **18** 个（已合并 16，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **15** 次 |
-| 总活动量 | **33** |
+| Commit 数 | **13** 次 |
+| 总活动量 | **31** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███████              36%
-prometheus-operator            ███                  15%
-Arry8                          ██                   12%
-dongjiang1989                  ██                   12%
+kubernetes-sigs                ███████              39%
+prometheus-operator            ███                  16%
+Arry8                          ██                   13%
 anomalyco                      █                    6%
 kubernetes                     █                    6%
+dongjiang1989                  █                    6%
 kubeservice-stack              █                    3%
 kubegems                       █                    3%
 openclaw                       █                    3%
@@ -38,11 +38,11 @@ shrutiyam-glitch               █                    3%
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（36%），涉及 3 个仓库，共 12 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（39%），涉及 3 个仓库，共 12 次活动。
 2. 共 **16** 个 PR 已合并，覆盖 9 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-03-18**（12 次活动），展现了高强度的工作节奏。
-5. 在 9 个仓库提交了 **15** 次代码。
+5. 在 8 个仓库提交了 **13** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,14 +50,13 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 33 | **33** | 0% | ➡️ 持平 |
+| **总活动量** | 16 | **31** | +94% | 📈 +15 |
 | Pull Request | 6 | 18 | +200% | 📈 +12 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 27 | 15 | -44% | 📉 -12 |
+| Commit | 10 | 13 | +30% | 📈 +3 |
 
 - 🆕 **新增活跃仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `dongjiang1989/api-server`, `kubegems/modelx`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
-- ❌ **不再活跃的仓库**：`dongjiang1989/myblog`
-- 🔄 **工作重心转移**：从 **dongjiang1989** 转向 **kubernetes-sigs**
+- ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
 ---
 
@@ -65,10 +64,10 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **33** | PR + Issue + Commit |
+| 📊 **总活动** | **31** | PR + Issue + Commit |
 | 📝 **Pull Request** | 18 | 已合并 16，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 15 | 代码提交 |
+| 💻 **Commit** | 13 | 代码提交 |
 
 ---
 
@@ -77,17 +76,17 @@ shrutiyam-glitch               █                    3%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-03-16（一） | 1 | █░░░░ | PR #421 (kubernetes-sigs/agent-sandbox) |
-| 2026-03-17（二） | 1 | █░░░░ | dongjiang1989/AIEmployee: update system markdown c |
-| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, openclaw/openclaw), Arry8/openclaw-edge） |
-| **2026-03-19（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes/test-infra, kubernetes-sigs/agent-sandbox） |
+| 2026-03-17（二） | 0 | ░░░░░ | — |
+| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime, Arry8/openclaw-edge） |
+| **2026-03-19（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes/test-infra), kubernetes/test-infra） |
 | 2026-03-20（五） | 0 | ░░░░░ | — |
 | 2026-03-21（六） | 3 | ███░░ | PR #458 (kubernetes-sigs/agent-sandbox); PR #457 (kubernetes-sigs/agent-sandbox); PR #456 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-22（日） | 0 | ░░░░░ | — |
-| 2026-03-23（一） | 1 | █░░░░ | dongjiang1989/AIEmployee: Update README.md |
+| 2026-03-23（一） | 0 | ░░░░░ | — |
 | 2026-03-24（二） | 0 | ░░░░░ | — |
 | 2026-03-25（三） | 1 | █░░░░ | PR #1370 (kubernetes-sigs/controller-tools) |
-| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), anomalyco/opencode), prometheus-operator/prometheus-operator） |
-| 2026-03-27（五） | 4 | ████░ | 4 项活动（dongjiang1989/api-server, kubeservice-stack/modelx), kubegems/modelx)） |
+| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, anomalyco/opencode)） |
+| 2026-03-27（五） | 4 | ████░ | 4 项活动（dongjiang1989/api-server, kubegems/modelx), kubeservice-stack/modelx)） |
 | 2026-03-28（六） | 0 | ░░░░░ | — |
 | 2026-03-29（日） | 1 | █░░░░ | PR #486 (kubernetes-sigs/agent-sandbox) |
 
@@ -101,16 +100,16 @@ shrutiyam-glitch               █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 12 | 36.4% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| prometheus-operator | 5 | 15.2% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| Arry8 | 4 | 12.1% | Arry8/openclaw-edge(4) | Push |
-| dongjiang1989 | 4 | 12.1% | dongjiang1989/AIEmployee(2), dongjiang1989/api-server(2) | Push |
-| anomalyco | 2 | 6.1% | anomalyco/opencode(2) | PR |
-| kubernetes | 2 | 6.1% | kubernetes/test-infra(2) | PR, Push |
-| kubeservice-stack | 1 | 3.0% | kubeservice-stack/modelx(1) | PR |
-| kubegems | 1 | 3.0% | kubegems/modelx(1) | PR |
-| openclaw | 1 | 3.0% | openclaw/openclaw(1) | PR |
-| shrutiyam-glitch | 1 | 3.0% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
+| **kubernetes-sigs** | 12 | 38.7% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| prometheus-operator | 5 | 16.1% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| Arry8 | 4 | 12.9% | Arry8/openclaw-edge(4) | Push |
+| anomalyco | 2 | 6.5% | anomalyco/opencode(2) | PR |
+| kubernetes | 2 | 6.5% | kubernetes/test-infra(2) | PR, Push |
+| dongjiang1989 | 2 | 6.5% | dongjiang1989/api-server(2) | Push |
+| kubeservice-stack | 1 | 3.2% | kubeservice-stack/modelx(1) | PR |
+| kubegems | 1 | 3.2% | kubegems/modelx(1) | PR |
+| openclaw | 1 | 3.2% | openclaw/openclaw(1) | PR |
+| shrutiyam-glitch | 1 | 3.2% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -123,9 +122,9 @@ shrutiyam-glitch               █                    3%
 | 5 | **anomalyco/opencode** | 2 | 2 | 0 | 0 | PR #19261: fix: add defensive checks for undefined; PR #18049: fix(desktop): fix server addr projectKe |
 | 6 | **kubernetes/test-infra** | 2 | 1 | 0 | 1 | PR #36685: feat: add kube api linter in presubmits; Commit: add kube api linter in presubmits |
 | 7 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3482: 🌱chore: Update golangci-linter version t; Commit: update golangci-linter version to v2.11.3 |
-| 8 | **dongjiang1989/AIEmployee** | 2 | 0 | 0 | 2 | Commit: Update README.md; Commit: update system markdown change |
-| 9 | **dongjiang1989/api-server** | 2 | 0 | 0 | 2 | Commit: Merge pull request #31 from dongjiang1989/; Commit: Merge pull request #32 from dongjiang1989/ |
-| 10 | **kubeservice-stack/modelx** | 1 | 1 | 0 | 0 | PR #410: chore: update golang version to fix githu |
+| 8 | **dongjiang1989/api-server** | 2 | 0 | 0 | 2 | Commit: Merge pull request #31 from dongjiang1989/; Commit: Merge pull request #32 from dongjiang1989/ |
+| 9 | **kubeservice-stack/modelx** | 1 | 1 | 0 | 0 | PR #410: chore: update golang version to fix githu |
+| 10 | **kubegems/modelx** | 1 | 1 | 0 | 0 | PR #11: fix: Update golang version to github actio |
 
 ---
 
@@ -224,7 +223,6 @@ shrutiyam-glitch               █                    3%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | Arry8/openclaw-edge | 4 | 2026-03-18 | Merge branch 'main' into add-token-count; fix: remove unused hasNonzeroUsage import; Merge branch 'main' into add-token-count |
-| dongjiang1989/AIEmployee | 2 | 2026-03-23 | Update README.md; update system markdown change |
 | dongjiang1989/api-server | 2 | 2026-03-27 | Merge pull request #31 from dongjiang1989/dependab; Merge pull request #32 from dongjiang1989/dependab |
 | prometheus-operator/prometheus-operator | 2 | 2026-03-26 | update controller-tools version; update golangci-linter version (#8452) |
 | kubernetes-sigs/controller-tools | 1 | 2026-03-18 | update golangci-linter version |

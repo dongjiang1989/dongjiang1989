@@ -46,13 +46,13 @@ kagent-dev                     █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 16 | **20** | +25% | 📈 +4 |
+| **总活动量** | 14 | **20** | +43% | 📈 +6 |
 | Pull Request | 6 | 6 | 0% | ➡️ 持平 |
 | Issue | 1 | 2 | +100% | 📈 +1 |
-| Commit | 9 | 12 | +33% | 📈 +3 |
+| Commit | 7 | 12 | +71% | 📈 +5 |
 
 - 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
-- ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `dongjiang1989/myblog`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
+- ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **dongjiang1989**
 
 ---
@@ -74,15 +74,15 @@ kagent-dev                     █                    5%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/bytebase, bytebase/bytebase), bytebase/clabot-config） |
+| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/clabot-config), bytebase/bytebase), bytebase/bytebase） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| 2025-08-28（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/cluster-api, prometheus-operator/prometheus-operator), kubernetes-sigs/cluster-api)） |
+| 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api)） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |

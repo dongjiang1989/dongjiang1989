@@ -76,7 +76,7 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **8** | ████████ | 8 项活动（volcano-sh/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
+| **2025-07-09（三）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, kev1N916/volcano, ckyuto/volcano-upstream） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |

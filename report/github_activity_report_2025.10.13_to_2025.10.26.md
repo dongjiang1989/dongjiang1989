@@ -14,27 +14,26 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **3** 个 |
-| 涉及仓库数 | **4** 个 |
+| 涉及组织数 | **2** 个 |
+| 涉及仓库数 | **3** 个 |
 | Pull Request 数 | **5** 个（已合并 5，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **6** 次 |
-| 总活动量 | **11** |
+| Commit 数 | **5** 次 |
+| 总活动量 | **10** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ██████████           55%
-kubeservice-stack              ███████              36%
-dongjiang1989                  █                    9%
+prometheus-operator            ████████████         60%
+kubeservice-stack              ████████             40%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（55%），涉及 1 个仓库，共 6 次活动。
+1. **prometheus-operator** 是最大贡献方向（60%），涉及 1 个仓库，共 6 次活动。
 2. 共 **5** 个 PR 已合并，覆盖 3 个仓库。
 3. 活跃高峰出现在 **2025-10-21**（6 次活动），展现了高强度的工作节奏。
-4. 在 4 个仓库提交了 **6** 次代码。
+4. 在 3 个仓库提交了 **5** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -42,12 +41,12 @@ dongjiang1989                  █                    9%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 5 | **11** | +120% | 📈 +6 |
+| **总活动量** | 5 | **10** | +100% | 📈 +5 |
 | Pull Request | 2 | 5 | +150% | 📈 +3 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 3 | 6 | +100% | 📈 +3 |
+| Commit | 3 | 5 | +67% | 📈 +2 |
 
-- 🆕 **新增活跃仓库**：`dongjiang1989/myblog`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`
+- 🆕 **新增活跃仓库**：`kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`
 - ❌ **不再活跃的仓库**：`kubernetes-sigs/controller-runtime`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
@@ -57,10 +56,10 @@ dongjiang1989                  █                    9%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **11** | PR + Issue + Commit |
+| 📊 **总活动** | **10** | PR + Issue + Commit |
 | 📝 **Pull Request** | 5 | 已合并 5，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 6 | 代码提交 |
+| 💻 **Commit** | 5 | 代码提交 |
 
 ---
 
@@ -71,14 +70,12 @@ dongjiang1989                  █                    9%
 | 2025-10-13（一） | 0 | ░░░░░ | — |
 | 2025-10-14（二） | 0 | ░░░░░ | — |
 | 2025-10-15（三） | 2 | ██░░░ | PR #8031 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update co |
-| 2025-10-16（四） | 3 | ███░░ | PR #8036 (prometheus-operator/prometheus-operator); dongjiang1989/myblog: dongjiang, update pod fail
-
-; prometheus-operator/prometheus-operator: fix missp |
+| 2025-10-16（四） | 2 | ██░░░ | PR #8036 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: fix missp |
 | 2025-10-17（五） | 0 | ░░░░░ | — |
 | 2025-10-18（六） | 0 | ░░░░░ | — |
 | 2025-10-19（日） | 0 | ░░░░░ | — |
 | 2025-10-20（一） | 0 | ░░░░░ | — |
-| **2025-10-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), kubeservice-stack/kubservice-charts)） |
+| **2025-10-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/kubservice-charts), prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
 | 2025-10-22（三） | 0 | ░░░░░ | — |
 | 2025-10-23（四） | 0 | ░░░░░ | — |
 | 2025-10-24（五） | 0 | ░░░░░ | — |
@@ -95,9 +92,8 @@ dongjiang1989                  █                    9%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 6 | 54.5% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| **kubeservice-stack** | 4 | 36.4% | kubeservice-stack/kubservice-charts(2), kubeservice-stack/lxcfs-webhook(2) | PR, Push |
-| dongjiang1989 | 1 | 9.1% | dongjiang1989/myblog(1) | Push |
+| **prometheus-operator** | 6 | 60.0% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| **kubeservice-stack** | 4 | 40.0% | kubeservice-stack/kubservice-charts(2), kubeservice-stack/lxcfs-webhook(2) | PR, Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -106,7 +102,6 @@ dongjiang1989                  █                    9%
 | 1 | **prometheus-operator/prometheus-operator** | 6 | 3 | 0 | 3 | PR #8047: chore: Update prometheus version to 3.7.; PR #8036: chore: Fix misspell; PR #8031: chore: Update controller-runtime version |
 | 2 | **kubeservice-stack/kubservice-charts** | 2 | 1 | 0 | 1 | PR #44: [kubeservice-lxcfs-webhook] Change `/var/l; Commit: Change /var/lib/lxcfs/ to /var/lib/lxc/lxc |
 | 3 | **kubeservice-stack/lxcfs-webhook** | 2 | 1 | 0 | 1 | PR #47: chore: Change `/var/lib/lxcfs/` to `/var/l; Commit: chore: Change `/var/lib/lxcfs/` to `/var/l |
-| 4 | **dongjiang1989/myblog** | 1 | 0 | 0 | 1 | Commit: dongjiang, update pod fail |
 
 ---
 
@@ -163,12 +158,6 @@ dongjiang1989                  █                    9%
   - PR #47: chore: Change `/var/lib/lxcfs/` to `/var/lib/lxc/lxcfs/`
   - Commit: chore: Change `/var/lib/lxcfs/` to `/var/lib/lxc/lxcfs/` (#4
 
-### dongjiang1989/myblog（1 次活动）
-
-- **Commit**: 1 次
-- **主要工作**:
-  - Commit: dongjiang, update pod fail
-
 
 ---
 
@@ -179,7 +168,6 @@ dongjiang1989                  █                    9%
 | prometheus-operator/prometheus-operator | 3 | 2025-10-21 | update prometheus version; fix misspell; update controller-runtime v0.22.3 |
 | kubeservice-stack/lxcfs-webhook | 1 | 2025-10-21 | chore: Change `/var/lib/lxcfs/` to `/var/lib/lxc/l |
 | kubeservice-stack/kubservice-charts | 1 | 2025-10-21 | Change /var/lib/lxcfs/ to /var/lib/lxc/lxcfs/ (#44 |
-| dongjiang1989/myblog | 1 | 2025-10-16 | dongjiang, update pod fail |
 
 ---
 
