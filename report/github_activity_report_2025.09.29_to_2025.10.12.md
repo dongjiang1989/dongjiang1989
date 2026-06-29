@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -166,4 +166,4 @@ kubernetes-sigs                ████                 20%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

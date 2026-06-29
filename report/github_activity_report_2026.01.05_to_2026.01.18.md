@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **8** 个 |
 | 涉及仓库数 | **9** 个 |
-| Pull Request 数 | **8** 个（已合并 7，开放 1） |
+| Pull Request 数 | **8** 个（已合并 8，开放 0） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **10** 次 |
 | 总活动量 | **19** |
@@ -37,11 +37,10 @@ lsj-x                          █                    5%
 ### 💡 核心总结
 
 1. **prometheus-operator** 是最大贡献方向（26%），涉及 2 个仓库，共 5 次活动。
-2. 共 **7** 个 PR 已合并，覆盖 5 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-01-15**（6 次活动），展现了高强度的工作节奏。
-5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 6 个仓库提交了 **10** 次代码。
+2. 共 **8** 个 PR 已合并，覆盖 6 个仓库。
+3. 活跃高峰出现在 **2026-01-15**（6 次活动），展现了高强度的工作节奏。
+4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 6 个仓库提交了 **10** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -65,7 +64,7 @@ lsj-x                          █                    5%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **19** | PR + Issue + Commit |
-| 📝 **Pull Request** | 8 | 已合并 7，开放 1 |
+| 📝 **Pull Request** | 8 | 已合并 8，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 10 | 代码提交 |
 
@@ -77,7 +76,7 @@ lsj-x                          █                    5%
 |------|--------|--------|----------|
 | 2026-01-05（一） | 0 | ░░░░░ | — |
 | 2026-01-06（二） | 0 | ░░░░░ | — |
-| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), grafana/grafana)） |
+| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, grafana/grafana), kubeservice-stack/lxcfs-webhook)） |
 | 2026-01-08（四） | 1 | █░░░░ | kubeservice-stack/lxcfs-webhook: Update release.ya |
 | 2026-01-09（五） | 3 | ███░░ | PR #777 (prometheus/procfs); PR #8264 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: Up |
 | 2026-01-10（六） | 0 | ░░░░░ | — |
@@ -91,7 +90,7 @@ lsj-x                          █                    5%
 * ; lsj-x/HAMi: Add modernize check (#1578)
 
 * add mod |
-| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), prometheus-operator/website), prometheus-operator/prometheus-operator） |
+| **2026-01-15（四）** | **6** | ██████ | 6 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2026-01-16（五） | 0 | ░░░░░ | — |
 | 2026-01-17（六） | 0 | ░░░░░ | — |
 | 2026-01-18（日） | 0 | ░░░░░ | — |
@@ -141,15 +140,14 @@ lsj-x                          █                    5%
 | 2 | prometheus-operator/website | [#151](https://github.com/prometheus-operator/website/pull/151) | chore: bump operator version to v0.88.0 | ✅ 已合并 |
 | 3 | Project-HAMi/HAMi | [#1581](https://github.com/Project-HAMi/HAMi/pull/1581) | feat: Add hami_build_info metrics and version print | ✅ 已合并 |
 | 4 | Project-HAMi/HAMi | [#1578](https://github.com/Project-HAMi/HAMi/pull/1578) | Add modernize check | ✅ 已合并 |
-| 5 | prometheus-operator/prometheus-operator | [#8264](https://github.com/prometheus-operator/prometheus-operator/pull/8264) | chore: Update golangci-lint version to v2.8.0 | ✅ 已合并 |
-| 6 | kubeservice-stack/lxcfs-webhook | [#59](https://github.com/kubeservice-stack/lxcfs-webhook/pull/59) | chore: Update Golang version to v1.25 | ✅ 已合并 |
-| 7 | grafana/grafana | [#115918](https://github.com/grafana/grafana/pull/115918) | Alerting: Fix zero value eval in alerting  | 🔒 已关闭 |
+| 5 | prometheus/procfs | [#777](https://github.com/prometheus/procfs/pull/777) | feat: support  sysfs.Mdraids with Intel VROC | ✅ 已合并 |
+| 6 | prometheus-operator/prometheus-operator | [#8264](https://github.com/prometheus-operator/prometheus-operator/pull/8264) | chore: Update golangci-lint version to v2.8.0 | ✅ 已合并 |
+| 7 | kubeservice-stack/lxcfs-webhook | [#59](https://github.com/kubeservice-stack/lxcfs-webhook/pull/59) | chore: Update Golang version to v1.25 | ✅ 已合并 |
+| 8 | grafana/grafana | [#115918](https://github.com/grafana/grafana/pull/115918) | Alerting: Fix zero value eval in alerting  | 🔒 已关闭 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | prometheus/procfs | [#777](https://github.com/prometheus/procfs/pull/777) | feat: support  sysfs.Mdraids with Intel VROC | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -240,4 +238,4 @@ lsj-x                          █                    5%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

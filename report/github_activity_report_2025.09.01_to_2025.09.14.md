@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -73,7 +73,7 @@ bwplotka                       █                    5%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kagent-dev/kagent)） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -81,8 +81,8 @@ bwplotka                       █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, bytebase/bytebase, kubernetes-sigs/controller-runtime)） |
+| **2025-09-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), bytebase/bytebase), john-gallagher-dd/controller-runtime） |
+| **2025-09-12（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, bytebase/bytebase） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -224,4 +224,4 @@ bwplotka                       █                    5%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

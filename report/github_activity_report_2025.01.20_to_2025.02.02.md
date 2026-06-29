@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -74,9 +74,9 @@ kubeflow                       █                    4%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-01-20（一） | 3 | ███░░ | PR #679 (kubeflow/mpi-operator); PR #7287 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: up |
-| **2025-01-21（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/lxcfs-webhook, kubeservice-stack/custom-limit-range） |
-| **2025-01-22（三）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools, kubernetes/kubernetes), prometheus-operator/prometheus-operator） |
-| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubeservice-stack/common, kubernetes-sigs/controller-tools)） |
+| **2025-01-21（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/node-metrics, kubeservice-stack/lxcfs-webhook） |
+| **2025-01-22（三）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator, kubernetes/kubernetes)） |
+| **2025-01-23（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), dongjiang1989/customapis, kubeservice-stack/common） |
 | 2025-01-24（五） | 0 | ░░░░░ | — |
 | 2025-01-25（六） | 0 | ░░░░░ | — |
 | 2025-01-26（日） | 0 | ░░░░░ | — |
@@ -233,4 +233,4 @@ kubeflow                       █                    4%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

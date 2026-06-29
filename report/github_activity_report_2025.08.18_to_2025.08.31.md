@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -80,7 +80,7 @@ kagent-dev                     █                    5%
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/clabot-config), bytebase/bytebase), bytebase/bytebase） |
+| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/clabot-config, bytebase/bytebase), bytebase/bytebase） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
 | 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api)） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
@@ -221,4 +221,4 @@ kagent-dev                     █                    5%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

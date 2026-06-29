@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **6** 个 |
 | 涉及仓库数 | **11** 个 |
-| Pull Request 数 | **15** 个（已合并 14，开放 1） |
+| Pull Request 数 | **15** 个（已合并 15，开放 0） |
 | Issue 数 | **2** 个 |
 | Commit 数 | **40** 次 |
 | 总活动量 | **57** |
@@ -35,11 +35,10 @@ Gitlawb                        █                    2%
 ### 💡 核心总结
 
 1. **kubernetes-sigs** 是最大贡献方向（35%），涉及 3 个仓库，共 20 次活动。
-2. 共 **14** 个 PR 已合并，覆盖 5 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-04-13**（19 次活动），展现了高强度的工作节奏。
-5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 10 个仓库提交了 **40** 次代码。
+2. 共 **15** 个 PR 已合并，覆盖 6 个仓库。
+3. 活跃高峰出现在 **2026-04-13**（19 次活动），展现了高强度的工作节奏。
+4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 10 个仓库提交了 **40** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -63,7 +62,7 @@ Gitlawb                        █                    2%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **57** | PR + Issue + Commit |
-| 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
+| 📝 **Pull Request** | 15 | 已合并 15，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
 | 💻 **Commit** | 40 | 代码提交 |
 
@@ -73,18 +72,18 @@ Gitlawb                        █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（kubernetes-sigs/agent-sandbox), iflytek/astron-agent, dongjiang1989/opensearch-api)） |
-| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
-| **2026-04-15（三）** | **7** | ███████ | 7 项活动（iflytek/astron-agent, kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
+| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（kubernetes-sigs/agent-sandbox), dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator） |
+| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
+| **2026-04-15（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox), shrutiyam-glitch/agent-sandbox-trial, iflytek/astron-agent） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-17（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-17（五）** | **5** | █████ | 5 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
 | 2026-04-18（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
 | 2026-04-19（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: update IntOrStri; dongjiang1989/myclawbot: Merge pull request #1 fro |
 | 2026-04-20（一） | 3 | ███░░ | PR #621 (kubernetes-sigs/agent-sandbox); dongjiang1989/scumbag: add scumbag skill
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 2026-04-21（二） | 3 | ███░░ | PR #1385 (kubernetes-sigs/controller-tools); kubernetes-sigs/agent-sandbox: add dependabot.yml ; shrutiyam-glitch/agent-sandbox-trial: add dependab |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), prometheus-operator/prometheus-operator） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder)） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
 | 2026-04-24（五） | 3 | ███░░ | PR #678 (kubernetes-sigs/agent-sandbox); kubernetes-sigs/agent-sandbox: add agent-sandbox v; shrutiyam-glitch/agent-sandbox-trial: add agent-sa |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
@@ -136,20 +135,19 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 4 | kubernetes-sigs/kubebuilder | [#5653](https://github.com/kubernetes-sigs/kubebuilder/pull/5653) | ✨ (go/v4): upgrade golangci-lint to v2.11.4 | ✅ 已合并 |
 | 5 | prometheus-operator/prometheus-operator | [#8529](https://github.com/prometheus-operator/prometheus-operator/pull/8529) | feat: add healthFilter field to ConsulSDConfig in prometheus CRD | ✅ 已合并 |
 | 6 | prometheus-operator/prometheus-operator | [#8528](https://github.com/prometheus-operator/prometheus-operator/pull/8528) | chore: update prometheus version to v3.11.2 | ✅ 已合并 |
-| 7 | kubernetes-sigs/agent-sandbox | [#621](https://github.com/kubernetes-sigs/agent-sandbox/pull/621) | chore: automatically update dependencies | ✅ 已合并 |
-| 8 | kubernetes-sigs/agent-sandbox | [#603](https://github.com/kubernetes-sigs/agent-sandbox/pull/603) | chore: update make toc-update checker in github action | ✅ 已合并 |
-| 9 | kubernetes-sigs/agent-sandbox | [#593](https://github.com/kubernetes-sigs/agent-sandbox/pull/593) | feat: recreate Pod on Sandbox PodTemplate spec drift | 🔒 已关闭 |
-| 10 | kubernetes-sigs/agent-sandbox | [#590](https://github.com/kubernetes-sigs/agent-sandbox/pull/590) | Fix: fix prew timeout, build and push operations set to 2 hours | ✅ 已合并 |
-| 11 | kubernetes-sigs/agent-sandbox | [#582](https://github.com/kubernetes-sigs/agent-sandbox/pull/582) | feat: apply lint fixes and modernize Go code  | ✅ 已合并 |
-| 12 | prometheus-operator/prometheus-operator | [#8510](https://github.com/prometheus-operator/prometheus-operator/pull/8510) | chore: update golangci-linter version to v2.11.4 | ✅ 已合并 |
-| 13 | dongjiang1989/opensearch-api | [#2](https://github.com/dongjiang1989/opensearch-api/pull/2) | feat: update swagger with vector search API documentation | ✅ 已合并 |
-| 14 | dongjiang1989/opensearch-api | [#1](https://github.com/dongjiang1989/opensearch-api/pull/1) | chore: add LLM embedding vector search | ✅ 已合并 |
+| 7 | kubernetes-sigs/controller-tools | [#1385](https://github.com/kubernetes-sigs/controller-tools/pull/1385) | 🌱 Add tests to improve coverage for IntOrStringWithEnumSlice | ✅ 已合并 |
+| 8 | kubernetes-sigs/agent-sandbox | [#621](https://github.com/kubernetes-sigs/agent-sandbox/pull/621) | chore: automatically update dependencies | ✅ 已合并 |
+| 9 | kubernetes-sigs/agent-sandbox | [#603](https://github.com/kubernetes-sigs/agent-sandbox/pull/603) | chore: update make toc-update checker in github action | ✅ 已合并 |
+| 10 | kubernetes-sigs/agent-sandbox | [#593](https://github.com/kubernetes-sigs/agent-sandbox/pull/593) | feat: recreate Pod on Sandbox PodTemplate spec drift | 🔒 已关闭 |
+| 11 | kubernetes-sigs/agent-sandbox | [#590](https://github.com/kubernetes-sigs/agent-sandbox/pull/590) | Fix: fix prew timeout, build and push operations set to 2 hours | ✅ 已合并 |
+| 12 | kubernetes-sigs/agent-sandbox | [#582](https://github.com/kubernetes-sigs/agent-sandbox/pull/582) | feat: apply lint fixes and modernize Go code  | ✅ 已合并 |
+| 13 | prometheus-operator/prometheus-operator | [#8510](https://github.com/prometheus-operator/prometheus-operator/pull/8510) | chore: update golangci-linter version to v2.11.4 | ✅ 已合并 |
+| 14 | dongjiang1989/opensearch-api | [#2](https://github.com/dongjiang1989/opensearch-api/pull/2) | feat: update swagger with vector search API documentation | ✅ 已合并 |
+| 15 | dongjiang1989/opensearch-api | [#1](https://github.com/dongjiang1989/opensearch-api/pull/1) | chore: add LLM embedding vector search | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | kubernetes-sigs/controller-tools | [#1385](https://github.com/kubernetes-sigs/controller-tools/pull/1385) | 🌱 Add tests to improve coverage for IntOrStringWithEnumSlice | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -258,4 +256,4 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -77,7 +77,7 @@ shrutiyam-glitch               █                    3%
 |------|--------|--------|----------|
 | 2026-03-16（一） | 1 | █░░░░ | PR #421 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-17（二） | 0 | ░░░░░ | — |
-| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime, Arry8/openclaw-edge） |
+| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), anomalyco/opencode), openclaw/openclaw)） |
 | **2026-03-19（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes/test-infra), kubernetes/test-infra） |
 | 2026-03-20（五） | 0 | ░░░░░ | — |
 | 2026-03-21（六） | 3 | ███░░ | PR #458 (kubernetes-sigs/agent-sandbox); PR #457 (kubernetes-sigs/agent-sandbox); PR #456 (kubernetes-sigs/agent-sandbox) |
@@ -85,7 +85,7 @@ shrutiyam-glitch               █                    3%
 | 2026-03-23（一） | 0 | ░░░░░ | — |
 | 2026-03-24（二） | 0 | ░░░░░ | — |
 | 2026-03-25（三） | 1 | █░░░░ | PR #1370 (kubernetes-sigs/controller-tools) |
-| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, anomalyco/opencode)） |
+| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), anomalyco/opencode), prometheus-operator/prometheus-operator） |
 | 2026-03-27（五） | 4 | ████░ | 4 项活动（dongjiang1989/api-server, kubegems/modelx), kubeservice-stack/modelx)） |
 | 2026-03-28（六） | 0 | ░░░░░ | — |
 | 2026-03-29（日） | 1 | █░░░░ | PR #486 (kubernetes-sigs/agent-sandbox) |
@@ -248,4 +248,4 @@ shrutiyam-glitch               █                    3%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

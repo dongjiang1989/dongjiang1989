@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -86,18 +86,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools, web38444/descheduler, kubernetes-sigs/descheduler)） |
+| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/descheduler), kubernetes-sigs/descheduler） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), web38444/descheduler, prometheus-operator/prometheus-operator） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **22** | ████████████████████ | 22 项活动（mlops143681/prometheus, rajendra-k10200/prometheus, prometheus/prometheus)） |
+| **2025-05-06（二）** | **22** | ████████████████████ | 22 项活动（aimultiple-benchmark/prometheus-bench-cur-2, raihanakbr/descheduler-custom, kubernetes-sigs/descheduler） |
 | 2025-05-07（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, bwplotka/mdox)） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools, kubeservice-stack/common） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/echo, kubeservice-stack/common)） |
+| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/common), kubeservice-stack/echo） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -262,8 +262,8 @@ punith1006                     █                    2%
 | 0xkato/prometheus-fork | 1 | 2025-05-06 | update fix configuration.md |
 | mayhemheroes/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | aimultiple-benchmark/prometheus-bench-cr-2 | 1 | 2025-05-06 | update fix configuration.md |
-| aimultiple-benchmark/prometheus-bench-gre-2 | 1 | 2025-05-06 | update fix configuration.md |
 | elouafi-abderrahmane-2002/prometheus | 1 | 2025-05-06 | update fix configuration.md |
+| aimultiple-benchmark/prometheus-bench-gre-2 | 1 | 2025-05-06 | update fix configuration.md |
 | mlops143681/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | SINDEKARHAS/Prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | prometheus/prometheus | 1 | 2025-05-06 | update fix configuration.md |
@@ -284,4 +284,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -83,7 +83,7 @@ vpuhoff                        ██                   12%
 | 2025-06-04（三） | 0 | ░░░░░ | — |
 | 2025-06-05（四） | 0 | ░░░░░ | — |
 | 2025-06-06（五） | 0 | ░░░░░ | — |
-| **2025-06-07（六）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, oliver006/redis_exporter） |
+| **2025-06-07（六）** | **6** | ██████ | 6 项活动（vpuhoff/redis-exporter, prometheus-operator/prometheus-operator), oliver006/redis_exporter） |
 | 2025-06-08（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-06-07（6 次活动）为最高峰。
@@ -198,4 +198,4 @@ vpuhoff                        ██                   12%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

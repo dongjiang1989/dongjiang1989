@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -82,16 +82,16 @@ raihanakbr                     █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-03-03（一） | 0 | ░░░░░ | — |
-| **2025-03-04（二）** | **6** | ██████ | 6 项活动（yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts, prometheus-community/helm-charts） |
+| **2025-03-04（二）** | **6** | ██████ | 6 项活动（Scaling-Smart/prometheus-helm-charts, yunshenliu92/prometheus, idadmin007/prometheus） |
 | 2025-03-05（三） | 2 | ██░░░ | PR #7382 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2025-03-06（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada, volcano-sh/community), volcano-sh/community） |
+| **2025-03-06（四）** | **8** | ████████ | 8 项活动（volcano-sh/apis, karmada-io/karmada, volcano-sh/community)） |
 | 2025-03-07（五） | 0 | ░░░░░ | — |
 | 2025-03-08（六） | 0 | ░░░░░ | — |
 | 2025-03-09（日） | 0 | ░░░░░ | — |
-| **2025-03-10（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools, GsonZhao/volcano, volcano-sh/community)） |
+| **2025-03-10（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools), volcano-sh/volcano), handan-yxh/volcano-old-test） |
 | 2025-03-11（二） | 2 | ██░░░ | PR #7397 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Fix: fix  |
-| 2025-03-12（三） | 4 | ████░ | 4 项活动（raihanakbr/descheduler-custom, web38444/descheduler, kubernetes-sigs/descheduler)） |
-| **2025-03-13（四）** | **7** | ███████ | 7 项活动（GsonZhao/volcano, kev1N916/volcano, ckyuto/volcano-upstream） |
+| 2025-03-12（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/descheduler, web38444/descheduler, kubernetes-sigs/descheduler)） |
+| **2025-03-13（四）** | **7** | ███████ | 7 项活动（volcano-sh/volcano), handan-yxh/volcano-old-test, GsonZhao/volcano） |
 | **2025-03-14（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), volcano-sh/volcano), prometheus-operator/prometheus-operator） |
 | 2025-03-15（六） | 0 | ░░░░░ | — |
 | 2025-03-16（日） | 0 | ░░░░░ | — |
@@ -275,4 +275,4 @@ raihanakbr                     █                    2%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*

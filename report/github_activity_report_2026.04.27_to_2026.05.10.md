@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：62 | **Following**：51
+> **公开仓库数**：225 | **Followers**：61 | **Following**：51
 
 ---
 
@@ -14,22 +14,23 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **14** 个 |
-| 涉及仓库数 | **19** 个 |
+| 涉及组织数 | **16** 个 |
+| 涉及仓库数 | **21** 个 |
 | Pull Request 数 | **22** 个（已合并 18，开放 4） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **29** 次 |
-| 总活动量 | **54** |
+| Commit 数 | **33** 次 |
+| 总活动量 | **58** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████                 22%
-dongjiang1989                  ████                 22%
-kubernetes-sigs                ███                  17%
-kagent-dev                     ██                   15%
-prometheus                     █                    6%
-iflytek                        █                    4%
+prometheus-operator            ████                 21%
+dongjiang1989                  ████                 21%
+kubernetes-sigs                ███                  16%
+kagent-dev                     ██                   14%
+erauner12                      █                    5%
+prometheus                     █                    5%
+iflytek                        █                    3%
 volcano-sh                     █                    2%
 guanglechen                    █                    2%
 OfficerZhou                    █                    2%
@@ -37,17 +38,18 @@ brandonfang06                  █                    2%
 yun-zhi-ztl                    █                    2%
 Wionerlol                      █                    2%
 wei-shon                       █                    2%
+bohe1026                       █                    2%
 kubeservice-stack              █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（22%），涉及 1 个仓库，共 12 次活动。
+1. **prometheus-operator** 是最大贡献方向（21%），涉及 1 个仓库，共 12 次活动。
 2. 共 **18** 个 PR 已合并，覆盖 7 个仓库。
 3. **4** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-05-07**（20 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-05-07**（21 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 13 个仓库提交了 **29** 次代码。
+6. 在 15 个仓库提交了 **33** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -55,12 +57,12 @@ kubeservice-stack              █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 57 | **54** | -5% | 📉 -3 |
+| **总活动量** | 57 | **58** | +2% | 📈 +1 |
 | Pull Request | 15 | 22 | +47% | 📈 +7 |
 | Issue | 2 | 3 | +50% | 📈 +1 |
-| Commit | 40 | 29 | -28% | 📉 -11 |
+| Commit | 40 | 33 | -18% | 📉 -7 |
 
-- 🆕 **新增活跃仓库**：`OfficerZhou/sh_zhouchi`, `Wionerlol/SkillHub`, `brandonfang06/skillhub`, `guanglechen/agenthub-enterprise`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`, `wei-shon/skillhub_delete`, `yun-zhi-ztl/yunzhi-skillhub`
+- 🆕 **新增活跃仓库**：`OfficerZhou/sh_zhouchi`, `Wionerlol/SkillHub`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `erauner12/kagent-detached`, `guanglechen/agenthub-enterprise`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`, `wei-shon/skillhub_delete`, `yun-zhi-ztl/yunzhi-skillhub`
 - ❌ **不再活跃的仓库**：`Gitlawb/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `shrutiyam-glitch/agent-sandbox-trial`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
@@ -70,10 +72,10 @@ kubeservice-stack              █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **54** | PR + Issue + Commit |
+| 📊 **总活动** | **58** | PR + Issue + Commit |
 | 📝 **Pull Request** | 22 | 已合并 18，开放 4 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 29 | 代码提交 |
+| 💻 **Commit** | 33 | 代码提交 |
 
 ---
 
@@ -83,20 +85,20 @@ kubeservice-stack              █                    2%
 |------|--------|--------|----------|
 | 2026-04-27（一） | 2 | ██░░░ | PR #810 (prometheus/procfs); PR #1759 (kagent-dev/kagent) |
 | 2026-04-28（二） | 3 | ███░░ | PR #706 (kubernetes-sigs/agent-sandbox); PR #705 (kubernetes-sigs/agent-sandbox); PR #704 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-29（三）** | **5** | █████ | 5 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator, kubeservice-stack/echo） |
+| **2026-04-29（三）** | **5** | █████ | 5 项活动（kubeservice-stack/echo, dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator） |
 | 2026-04-30（四） | 0 | ░░░░░ | — |
 | 2026-05-01（五） | 0 | ░░░░░ | — |
 | 2026-05-02（六） | 0 | ░░░░░ | — |
 | 2026-05-03（日） | 0 | ░░░░░ | — |
 | 2026-05-04（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: add |
 | 2026-05-05（二） | 2 | ██░░░ | PR #8553 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2026-05-06（三）** | **8** | ████████ | 8 项活动（kagent-dev/kagent), kubernetes-sigs/controller-tools, kubernetes-sigs/kubebuilder)） |
-| **2026-05-07（四）** | **20** | ████████████████████ | 20 项活动（kagent-dev/kagent), wei-shon/skillhub_delete, Wionerlol/SkillHub） |
-| **2026-05-08（五）** | **7** | ███████ | 7 项活动（kagent-dev/kagent), kubernetes-sigs/agent-sandbox), kagent-dev/kagent） |
-| **2026-05-09（六）** | **6** | ██████ | 6 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, volcano-sh/volcano)） |
+| **2026-05-06（三）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime） |
+| **2026-05-07（四）** | **21** | ████████████████████ | 21 项活动（iflytek/skillhub, Wionerlol/SkillHub, wei-shon/skillhub_delete） |
+| **2026-05-08（五）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), erauner12/kagent-detached, kagent-dev/kagent） |
+| **2026-05-09（六）** | **7** | ███████ | 7 项活动（volcano-sh/volcano), erauner12/kagent-detached, prometheus-operator/prometheus-operator） |
 | 2026-05-10（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-05-07（20 次活动）为最高峰。
+> **活跃高峰**：2026-05-07（21 次活动）为最高峰。
 
 ---
 
@@ -106,20 +108,22 @@ kubeservice-stack              █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 12 | 22.2% | prometheus-operator/prometheus-operator(12) | PR, Push |
-| **dongjiang1989** | 12 | 22.2% | dongjiang1989/opensearch-api(12) | Issue, Push |
-| kubernetes-sigs | 9 | 16.7% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| kagent-dev | 8 | 14.8% | kagent-dev/kagent(8) | PR, Push |
-| prometheus | 3 | 5.6% | prometheus/node_exporter(1), prometheus/alertmanager(1), prometheus/procfs(1) | PR |
-| iflytek | 2 | 3.7% | iflytek/skillhub(2) | Issue, Push |
-| volcano-sh | 1 | 1.9% | volcano-sh/volcano(1) | PR |
-| guanglechen | 1 | 1.9% | guanglechen/agenthub-enterprise(1) | Push |
-| OfficerZhou | 1 | 1.9% | OfficerZhou/sh_zhouchi(1) | Push |
-| brandonfang06 | 1 | 1.9% | brandonfang06/skillhub(1) | Push |
-| yun-zhi-ztl | 1 | 1.9% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
-| Wionerlol | 1 | 1.9% | Wionerlol/SkillHub(1) | Push |
-| wei-shon | 1 | 1.9% | wei-shon/skillhub_delete(1) | Push |
-| kubeservice-stack | 1 | 1.9% | kubeservice-stack/echo(1) | Push |
+| **prometheus-operator** | 12 | 20.7% | prometheus-operator/prometheus-operator(12) | PR, Push |
+| **dongjiang1989** | 12 | 20.7% | dongjiang1989/opensearch-api(12) | Issue, Push |
+| kubernetes-sigs | 9 | 15.5% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| kagent-dev | 8 | 13.8% | kagent-dev/kagent(8) | PR, Push |
+| erauner12 | 3 | 5.2% | erauner12/kagent-detached(3) | Push |
+| prometheus | 3 | 5.2% | prometheus/node_exporter(1), prometheus/alertmanager(1), prometheus/procfs(1) | PR |
+| iflytek | 2 | 3.4% | iflytek/skillhub(2) | Issue, Push |
+| volcano-sh | 1 | 1.7% | volcano-sh/volcano(1) | PR |
+| guanglechen | 1 | 1.7% | guanglechen/agenthub-enterprise(1) | Push |
+| OfficerZhou | 1 | 1.7% | OfficerZhou/sh_zhouchi(1) | Push |
+| brandonfang06 | 1 | 1.7% | brandonfang06/skillhub(1) | Push |
+| yun-zhi-ztl | 1 | 1.7% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
+| Wionerlol | 1 | 1.7% | Wionerlol/SkillHub(1) | Push |
+| wei-shon | 1 | 1.7% | wei-shon/skillhub_delete(1) | Push |
+| bohe1026 | 1 | 1.7% | bohe1026/skillhub(1) | Push |
+| kubeservice-stack | 1 | 1.7% | kubeservice-stack/echo(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -129,12 +133,12 @@ kubeservice-stack              █                    2%
 | 2 | **dongjiang1989/opensearch-api** | 12 | 0 | 2 | 10 | Issue #4: feature: Support long lines `query` in s; Issue #3: feature: add multi-tenancy id; Commit: support opensearch 3.2.0 |
 | 3 | **kagent-dev/kagent** | 8 | 5 | 0 | 3 | PR #1823: chore: upgrade golangci-lint to v2.12.2 ; PR #1817: chore: Deprecate auto-gomaxprocs with na; PR #1810: test(controller): add goleak test cases  |
 | 4 | **kubernetes-sigs/agent-sandbox** | 4 | 4 | 0 | 0 | PR #760: Add example for playwright sandbox ; PR #706: feat: Gate pod resize behind opt-in Updat; PR #705: feat: add client-go metrics for request f |
-| 5 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1406: 🌱chore: Update golangci-lint to v2.12.1; Commit: update golangci-lint to v2.12.1 |
-| 6 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3514: 🌱chore: Update golangci-lint to v2.12.1; Commit: update golangci linter to v2.12.1 |
-| 7 | **iflytek/skillhub** | 2 | 0 | 1 | 1 | Issue #392: [Feature] Align this project with AI c; Commit: Merge pull request #391 from dongjiang1989 |
-| 8 | **volcano-sh/volcano** | 1 | 1 | 0 | 0 | PR #5299: chore: upgrade golangci-lint to v2.12.2  |
-| 9 | **prometheus/node_exporter** | 1 | 1 | 0 | 0 | PR #3647: collector: Add goleak goroutine leak che |
-| 10 | **prometheus/alertmanager** | 1 | 1 | 0 | 0 | PR #5229: chore: add goleak to all test packages a |
+| 5 | **erauner12/kagent-detached** | 3 | 0 | 0 | 3 | Commit: feat: add kube api linter in kagent (#1759; Commit: chore: Deprecate auto-gomaxprocs with nati; Commit: chore(deps): Update controller-runtime fro |
+| 6 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1406: 🌱chore: Update golangci-lint to v2.12.1; Commit: update golangci-lint to v2.12.1 |
+| 7 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3514: 🌱chore: Update golangci-lint to v2.12.1; Commit: update golangci linter to v2.12.1 |
+| 8 | **iflytek/skillhub** | 2 | 0 | 1 | 1 | Issue #392: [Feature] Align this project with AI c; Commit: Merge pull request #391 from dongjiang1989 |
+| 9 | **volcano-sh/volcano** | 1 | 1 | 0 | 0 | PR #5299: chore: upgrade golangci-lint to v2.12.2  |
+| 10 | **prometheus/node_exporter** | 1 | 1 | 0 | 0 | PR #3647: collector: Add goleak goroutine leak che |
 
 ---
 
@@ -228,13 +232,13 @@ kubeservice-stack              █                    2%
   - PR #705: feat: add client-go metrics for request failures, latency, a
   - PR #704: feat: make warm pool adoption retry count configurable in Sa
 
-### kubernetes-sigs/controller-tools（2 次活动）
+### erauner12/kagent-detached（3 次活动）
 
-- **PR**: 1 个
-- **Commit**: 1 次
+- **Commit**: 3 次
 - **主要工作**:
-  - PR #1406: 🌱chore: Update golangci-lint to v2.12.1
-  - Commit: update golangci-lint to v2.12.1
+  - Commit: feat: add kube api linter in kagent (#1759)
+  - Commit: chore: Deprecate auto-gomaxprocs with natively handles conta
+  - Commit: chore(deps): Update controller-runtime from v0.23.3 to v0.24
 
 
 ---
@@ -246,6 +250,7 @@ kubeservice-stack              █                    2%
 | dongjiang1989/opensearch-api | 10 | 2026-05-07 | support opensearch 3.2.0; fix unittest case; update aws sdk version |
 | prometheus-operator/prometheus-operator | 6 | 2026-05-09 | add  option in tsdbconfig; fix golangci lint in main (#8555); Merge pull request #8554 from kubeservice-stack/up |
 | kagent-dev/kagent | 3 | 2026-05-09 | feat: add kube api linter in kagent (#1759); chore: Deprecate auto-gomaxprocs with natively han; chore(deps): Update controller-runtime from v0.23. |
+| erauner12/kagent-detached | 3 | 2026-05-09 | feat: add kube api linter in kagent (#1759); chore: Deprecate auto-gomaxprocs with natively han; chore(deps): Update controller-runtime from v0.23. |
 | kubernetes-sigs/controller-tools | 1 | 2026-05-06 | update golangci-lint to v2.12.1 |
 | iflytek/skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | kubernetes-sigs/controller-runtime | 1 | 2026-05-06 | update golangci linter to v2.12.1 |
@@ -255,6 +260,7 @@ kubeservice-stack              █                    2%
 | yun-zhi-ztl/yunzhi-skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | Wionerlol/SkillHub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | wei-shon/skillhub_delete | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
+| bohe1026/skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | kubeservice-stack/echo | 1 | 2026-04-29 | Update env |
 
 ---
@@ -271,4 +277,4 @@ kubeservice-stack              █                    2%
 
 ---
 
-*报告生成时间：2026-06-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
