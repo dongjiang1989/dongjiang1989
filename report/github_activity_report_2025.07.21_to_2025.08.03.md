@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -14,18 +14,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **12** 个 |
-| 涉及仓库数 | **15** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **14** 个 |
 | Pull Request 数 | **16** 个（已合并 16，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **27** 次 |
-| 总活动量 | **43** |
+| Commit 数 | **26** 次 |
+| 总活动量 | **42** |
 
 ### 🎯 工作重心分布
 
 ```
 kubernetes-sigs                █████                26%
-prometheus-operator            ████                 23%
+prometheus-operator            ████                 24%
 kagent-dev                     ██                   12%
 prometheus                     █                    7%
 dongjiang1989                  █                    7%
@@ -34,7 +34,6 @@ CodeLinaro-mirror              █                    5%
 tmohanvamsi                    █                    5%
 erauner12                      █                    5%
 chrischdi                      █                    2%
-john-gallagher-dd              █                    2%
 punith1006                     █                    2%
 ```
 
@@ -43,7 +42,7 @@ punith1006                     █                    2%
 1. **kubernetes-sigs** 是最大贡献方向（26%），涉及 4 个仓库，共 11 次活动。
 2. 共 **16** 个 PR 已合并，覆盖 8 个仓库。
 3. 活跃高峰出现在 **2025-07-24**（10 次活动），展现了高强度的工作节奏。
-4. 在 14 个仓库提交了 **27** 次代码。
+4. 在 13 个仓库提交了 **26** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -51,12 +50,12 @@ punith1006                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 16 | **43** | +169% | 📈 +27 |
+| **总活动量** | 16 | **42** | +162% | 📈 +26 |
 | Pull Request | 5 | 16 | +220% | 📈 +11 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 10 | 27 | +170% | 📈 +17 |
+| Commit | 10 | 26 | +160% | 📈 +16 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `john-gallagher-dd/controller-runtime`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - ❌ **不再活跃的仓库**：`GsonZhao/volcano`, `apecloud/kubeblocks-addons`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
@@ -66,10 +65,10 @@ punith1006                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **43** | PR + Issue + Commit |
+| 📊 **总活动** | **42** | PR + Issue + Commit |
 | 📝 **Pull Request** | 16 | 已合并 16，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 27 | 代码提交 |
+| 💻 **Commit** | 26 | 代码提交 |
 
 ---
 
@@ -77,19 +76,19 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator, prometheus/procfs)） |
+| **2025-07-21（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（erauner12/kagent-detached, prometheus-operator/prometheus-operator, kagent-dev/kagent） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, kagent-dev/kagent） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
 | 2025-07-30（三） | 3 | ███░░ | PR #1248 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update golangci ; prometheus-operator/prometheus-operator: feat: add |
-| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), john-gallagher-dd/controller-runtime, kubernetes-sigs/controller-runtime） |
+| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime)） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi-core, punith1006/LaaS-Hami, kubernetes-sigs/cluster-api)） |
+| **2025-08-02（六）** | **6** | ██████ | 6 项活动（chrischdi/openshift-cluster-api, Project-HAMi/HAMi-core, kubernetes-sigs/cluster-api)） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-07-24（10 次活动）为最高峰。
@@ -102,18 +101,17 @@ punith1006                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 11 | 25.6% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/cluster-api(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| **prometheus-operator** | 10 | 23.3% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| kagent-dev | 5 | 11.6% | kagent-dev/kagent(5) | PR, Push |
-| prometheus | 3 | 7.0% | prometheus/procfs(3) | PR, Push |
-| dongjiang1989 | 3 | 7.0% | dongjiang1989/dongjiang1989(3) | Push |
-| Project-HAMi | 2 | 4.7% | Project-HAMi/HAMi-core(2) | PR, Push |
-| CodeLinaro-mirror | 2 | 4.7% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(2) | Push |
-| tmohanvamsi | 2 | 4.7% | tmohanvamsi/kagent(2) | Push |
-| erauner12 | 2 | 4.7% | erauner12/kagent-detached(2) | Push |
-| chrischdi | 1 | 2.3% | chrischdi/openshift-cluster-api(1) | Push |
-| john-gallagher-dd | 1 | 2.3% | john-gallagher-dd/controller-runtime(1) | Push |
-| punith1006 | 1 | 2.3% | punith1006/LaaS-Hami(1) | Push |
+| **kubernetes-sigs** | 11 | 26.2% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/cluster-api(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| **prometheus-operator** | 10 | 23.8% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| kagent-dev | 5 | 11.9% | kagent-dev/kagent(5) | PR, Push |
+| prometheus | 3 | 7.1% | prometheus/procfs(3) | PR, Push |
+| dongjiang1989 | 3 | 7.1% | dongjiang1989/dongjiang1989(3) | Push |
+| Project-HAMi | 2 | 4.8% | Project-HAMi/HAMi-core(2) | PR, Push |
+| CodeLinaro-mirror | 2 | 4.8% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(2) | Push |
+| tmohanvamsi | 2 | 4.8% | tmohanvamsi/kagent(2) | Push |
+| erauner12 | 2 | 4.8% | erauner12/kagent-detached(2) | Push |
+| chrischdi | 1 | 2.4% | chrischdi/openshift-cluster-api(1) | Push |
+| punith1006 | 1 | 2.4% | punith1006/LaaS-Hami(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -236,7 +234,6 @@ punith1006                     █                    2%
 | erauner12/kagent-detached | 2 | 2025-07-24 | add kagent build info metrics (#643); add auto setting gomaxprocs (#644) |
 | chrischdi/openshift-cluster-api | 1 | 2025-08-02 | update golangci-lint to v2.3.0 |
 | kubernetes-sigs/cluster-api | 1 | 2025-08-02 | update golangci-lint to v2.3.0 |
-| john-gallagher-dd/controller-runtime | 1 | 2025-07-31 | update golangci-lint version |
 | kubernetes-sigs/controller-runtime | 1 | 2025-07-31 | update golangci-lint version |
 | punith1006/LaaS-Hami | 1 | 2025-08-02 | add cuMemcpy2D |
 | Project-HAMi/HAMi-core | 1 | 2025-08-02 | add cuMemcpy2D |
@@ -258,4 +255,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

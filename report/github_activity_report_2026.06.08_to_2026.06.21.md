@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -14,34 +14,35 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **16** 个 |
+| 涉及组织数 | **8** 个 |
+| 涉及仓库数 | **19** 个 |
 | Pull Request 数 | **35** 个（已合并 32，开放 3） |
 | Issue 数 | **15** 个 |
-| Commit 数 | **58** 次 |
-| 活动事件数 | **7** 次 |
-| 总活动量 | **108** |
+| Commit 数 | **61** 次 |
+| 活动事件数 | **2** 次 |
+| 总活动量 | **111** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        █████████████        69%
+iflytek                        █████████████        68%
 dongjiang1989                  ██                   11%
 prometheus-operator            █                    8%
 kubernetes-sigs                █                    8%
 kagent-dev                     █                    2%
 kubeservice-stack              █                    1%
 prometheus                     █                    1%
+CodeLinaro-mirror              █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（69%），涉及 6 个仓库，共 74 次活动。
+1. **iflytek** 是最大贡献方向（68%），涉及 8 个仓库，共 76 次活动。
 2. 共 **32** 个 PR 已合并，覆盖 10 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-15**（30 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 10 个仓库提交了 **58** 次代码。
+6. 在 13 个仓库提交了 **61** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -49,12 +50,12 @@ prometheus                     █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 70 | **108** | +54% | 📈 +38 |
+| **总活动量** | 70 | **111** | +59% | 📈 +41 |
 | Pull Request | 15 | 35 | +133% | 📈 +20 |
 | Issue | 2 | 15 | +650% | 📈 +13 |
-| Commit | 53 | 58 | +9% | 📈 +5 |
+| Commit | 53 | 61 | +15% | 📈 +8 |
 
-- 🆕 **新增活跃仓库**：`dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/iFly-Skills`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memflywheel`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
 - ❌ **不再活跃的仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kueue`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **iflytek**
 
@@ -64,12 +65,11 @@ prometheus                     █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **108** | PR + Issue + Commit |
+| 📊 **总活动** | **111** | PR + Issue + Commit |
 | 📝 **Pull Request** | 35 | 已合并 32，开放 3 |
 | 📋 **Issue** | 15 | 创建 Issue |
-| 💻 **Commit** | 58 | 代码提交 |
-| 🔀 **PullRequestEvent** | 4 | PR 操作 |
-| 💬 **IssueCommentEvent** | 3 | Issue 评论 |
+| 💻 **Commit** | 61 | 代码提交 |
+| 🌐 **PublicEvent** | 2 | 仓库公开 |
 
 ---
 
@@ -78,19 +78,19 @@ prometheus                     █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator, kubernetes-sigs/external-dns)） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), iflytek/community, dongjiang1989/opensearch-api） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community, iflytek/community), dongjiang1989/opensearch-api)） |
 | **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
-| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
+| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
-| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
-| **2026-06-16（二）** | **9** | █████████ | 9 项活动（iflytek/website), iflytek/community), prometheus-operator/prometheus-operator)） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/iFly-Skills, iflytek/website, iflytek/website)） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator, iflytek/iFly-Skills） |
+| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/website), iflytek/community, iflytek/website） |
+| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website), iflytek/iFly-Skills, iflytek/website） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
-| 2026-06-21（日） | 1 | █░░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st |
+| 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
 
 > **活跃高峰**：2026-06-15（30 次活动）为最高峰。
 
@@ -102,13 +102,14 @@ prometheus                     █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 74 | 68.5% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
-| dongjiang1989 | 12 | 11.1% | dongjiang1989/opensearch-api(12) | PR, Push |
-| prometheus-operator | 9 | 8.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| kubernetes-sigs | 9 | 8.3% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
-| kagent-dev | 2 | 1.9% | kagent-dev/kagent(2) | Issue, PR |
+| **iflytek** | 76 | 68.5% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
+| dongjiang1989 | 12 | 10.8% | dongjiang1989/opensearch-api(12) | PR, Push |
+| prometheus-operator | 9 | 8.1% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| kubernetes-sigs | 9 | 8.1% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
+| kagent-dev | 2 | 1.8% | kagent-dev/kagent(2) | Issue, PR |
 | kubeservice-stack | 1 | 0.9% | kubeservice-stack/modelx(1) | PR |
 | prometheus | 1 | 0.9% | prometheus/procfs(1) | Push |
+| CodeLinaro-mirror | 1 | 0.9% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -271,9 +272,12 @@ prometheus                     █                    1%
 | iflytek/community | 3 | 2026-06-16 | feat: Add repository creation issue template and p; make toc-update; fix gomod directory |
 | prometheus/procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/controller-tools | 1 | 2026-06-18 | resolve misspell false positives and bump golangci |
+| CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/external-dns | 1 | 2026-06-17 | fix(coredns): write PTR records without random pre |
 | kubernetes-sigs/kubebuilder | 1 | 2026-06-19 | ⚠️ (autoupdate/v1-alpha): Remove GitHub Models int |
 | kubernetes-sigs/controller-runtime | 1 | 2026-06-20 | update golangci-linter to v2.12.2 |
+| iflytek/domux | 1 | 2026-06-16 | Initial commit |
+| iflytek/memflywheel | 1 | 2026-06-16 | Initial commit |
 
 ---
 
@@ -294,4 +298,4 @@ prometheus                     █                    1%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

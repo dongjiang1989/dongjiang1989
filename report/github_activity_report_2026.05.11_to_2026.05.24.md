@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -79,18 +79,18 @@ bohe1026                       █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), erauner12/kagent-detached, prometheus-operator/prometheus-operator） |
-| **2026-05-12（二）** | **9** | █████████ | 9 项活动（iflytek/skillhub, Wionerlol/SkillHub, wei-shon/skillhub_delete） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kagent-dev/kagent, kubernetes-sigs/agent-sandbox)） |
+| **2026-05-12（二）** | **9** | █████████ | 9 项活动（Wionerlol/SkillHub, bohe1026/skillhub, brandonfang06/skillhub） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 0 | ░░░░░ | — |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/node-metrics, kubeservice-stack/common), prometheus-operator/prometheus-operator） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kagent-dev/kagent), kubeservice-stack/echo), prometheus-operator/prometheus-operator） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **5** | █████ | 5 项活动（Project-HAMi/HAMi), prometheus-operator/prometheus-operator), dongjiang1989/opensearch-api） |
-| **2026-05-21（四）** | **8** | ████████ | 8 项活动（dongjiang1989/opensearch-api), iflytek/community, dongjiang1989/opensearch-api） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubernetes-sigs/controller-runtime, kubeservice-stack/common） |
+| **2026-05-20（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), Project-HAMi/HAMi), dongjiang1989/opensearch-api） |
+| **2026-05-21（四）** | **8** | ████████ | 8 项活动（iflytek/community, dongjiang1989/opensearch-api), Project-HAMi/HAMi） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-runtime), iflytek/community, kubeservice-stack/common)） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
@@ -268,4 +268,4 @@ bohe1026                       █                    2%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

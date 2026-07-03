@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -50,13 +50,13 @@ cnloxiaoteng-ship-it           █                    7%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 43 | **14** | -67% | 📉 -29 |
+| **总活动量** | 42 | **14** | -67% | 📉 -28 |
 | Pull Request | 16 | 6 | -62% | 📉 -10 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 27 | 7 | -74% | 📉 -20 |
+| Commit | 26 | 7 | -73% | 📉 -19 |
 
 - 🆕 **新增活跃仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `john-gallagher-dd/controller-runtime`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -77,7 +77,7 @@ cnloxiaoteng-ship-it           █                    7%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/echo)） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo), kubeservice-stack/echo） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 2 | ██░░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update  |
@@ -224,4 +224,4 @@ cnloxiaoteng-ship-it           █                    7%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

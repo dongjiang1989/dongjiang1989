@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -14,32 +14,31 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **6** 个 |
-| 涉及仓库数 | **9** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **8** 个 |
 | Pull Request 数 | **11** 个（已合并 8，开放 3） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **7** 次 |
-| 总活动量 | **19** |
+| Commit 数 | **6** 次 |
+| 总活动量 | **18** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ███████              37%
-prometheus-operator            █████                26%
-loggie-io                      ███                  16%
+kubeservice-stack              ███████              39%
+prometheus-operator            █████                28%
+loggie-io                      ███                  17%
 kubernetes-sigs                ██                   11%
-karmada-io                     █                    5%
-john-gallagher-dd              █                    5%
+karmada-io                     █                    6%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（37%），涉及 3 个仓库，共 7 次活动。
+1. **kubeservice-stack** 是最大贡献方向（39%），涉及 3 个仓库，共 7 次活动。
 2. 共 **8** 个 PR 已合并，覆盖 4 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-02-14**（7 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 6 个仓库提交了 **7** 次代码。
+6. 在 5 个仓库提交了 **6** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -47,12 +46,12 @@ john-gallagher-dd              █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 26 | **19** | -27% | 📉 -7 |
+| **总活动量** | 26 | **18** | -31% | 📉 -8 |
 | Pull Request | 9 | 11 | +22% | 📈 +2 |
 | Issue | 2 | 1 | -50% | 📉 -1 |
-| Commit | 15 | 7 | -53% | 📉 -8 |
+| Commit | 15 | 6 | -60% | 📉 -9 |
 
-- 🆕 **新增活跃仓库**：`john-gallagher-dd/controller-runtime`, `karmada-io/community`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/modelx`, `loggie-io/loggie`
+- 🆕 **新增活跃仓库**：`karmada-io/community`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/modelx`, `loggie-io/loggie`
 - ❌ **不再活跃的仓库**：`ahmetb/gen-crd-api-reference-docs`, `dongjiang1989/customapis`, `kubeflow/mpi-operator`, `kubernetes/kubernetes`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/node-metrics`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubeservice-stack**
 
@@ -62,10 +61,10 @@ john-gallagher-dd              █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **19** | PR + Issue + Commit |
+| 📊 **总活动** | **18** | PR + Issue + Commit |
 | 📝 **Pull Request** | 11 | 已合并 8，开放 3 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 7 | 代码提交 |
+| 💻 **Commit** | 6 | 代码提交 |
 
 ---
 
@@ -76,7 +75,7 @@ john-gallagher-dd              █                    5%
 | 2025-02-03（一） | 0 | ░░░░░ | — |
 | 2025-02-04（二） | 0 | ░░░░░ | — |
 | 2025-02-05（三） | 0 | ░░░░░ | — |
-| 2025-02-06（四） | 2 | ██░░░ | john-gallagher-dd/controller-runtime: ✨feat: add G; kubernetes-sigs/controller-runtime: ✨feat: add GoC |
+| 2025-02-06（四） | 1 | █░░░░ | kubernetes-sigs/controller-runtime: ✨feat: add GoC |
 | 2025-02-07（五） | 1 | █░░░░ | PR #7327 (prometheus-operator/prometheus-operator) |
 | 2025-02-08（六） | 3 | ███░░ | PR #696 (loggie-io/loggie); PR #695 (loggie-io/loggie); PR #694 (loggie-io/loggie) |
 | 2025-02-09（日） | 0 | ░░░░░ | — |
@@ -84,7 +83,7 @@ john-gallagher-dd              █                    5%
 | 2025-02-11（二） | 3 | ███░░ | PR #7333 (prometheus-operator/prometheus-operator); Issue #102; prometheus-operator/prometheus-operator: update co |
 | 2025-02-12（三） | 1 | █░░░░ | PR #32 (kubeservice-stack/modelx) |
 | 2025-02-13（四） | 0 | ░░░░░ | — |
-| **2025-02-14（五）** | **7** | ███████ | 7 项活动（kubeservice-stack/common), kubeservice-stack/modelx), kubeservice-stack/echo） |
+| **2025-02-14（五）** | **7** | ███████ | 7 项活动（kubeservice-stack/echo), kubeservice-stack/echo, kubeservice-stack/common)） |
 | 2025-02-15（六） | 0 | ░░░░░ | — |
 | 2025-02-16（日） | 0 | ░░░░░ | — |
 
@@ -98,12 +97,11 @@ john-gallagher-dd              █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 7 | 36.8% | kubeservice-stack/modelx(3), kubeservice-stack/common(2), kubeservice-stack/echo(2) | PR, Push |
-| **prometheus-operator** | 5 | 26.3% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| loggie-io | 3 | 15.8% | loggie-io/loggie(3) | PR |
-| kubernetes-sigs | 2 | 10.5% | kubernetes-sigs/controller-tools(1), kubernetes-sigs/controller-runtime(1) | Push |
-| karmada-io | 1 | 5.3% | karmada-io/community(1) | Issue |
-| john-gallagher-dd | 1 | 5.3% | john-gallagher-dd/controller-runtime(1) | Push |
+| **kubeservice-stack** | 7 | 38.9% | kubeservice-stack/modelx(3), kubeservice-stack/common(2), kubeservice-stack/echo(2) | PR, Push |
+| **prometheus-operator** | 5 | 27.8% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| loggie-io | 3 | 16.7% | loggie-io/loggie(3) | PR |
+| kubernetes-sigs | 2 | 11.1% | kubernetes-sigs/controller-tools(1), kubernetes-sigs/controller-runtime(1) | Push |
+| karmada-io | 1 | 5.6% | karmada-io/community(1) | Issue |
 
 ### 4.2 仓库详细 Top 10
 
@@ -116,8 +114,7 @@ john-gallagher-dd              █                    5%
 | 5 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #32: Chore: Upgrade Go version v1.24; Commit: Chore: Upgrade Go version v1.24 (#32) |
 | 6 | **karmada-io/community** | 1 | 0 | 1 | 0 | Issue #102: Karmada Adopter Group Application for  |
 | 7 | **kubernetes-sigs/controller-tools** | 1 | 0 | 0 | 1 | Commit: 🌱chore: Add golangci-lint linters (#1134) |
-| 8 | **john-gallagher-dd/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
-| 9 | **kubernetes-sigs/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
+| 8 | **kubernetes-sigs/controller-runtime** | 1 | 0 | 0 | 1 | Commit: ✨feat: add GoCollector and ProcessCollecto |
 
 ---
 
@@ -208,7 +205,6 @@ john-gallagher-dd              █                    5%
 |------|---------|---------|---------|
 | prometheus-operator/prometheus-operator | 2 | 2025-02-11 | update controller-tools version to v0.17.2; Merge pull request #7327 from kubeservice-stack/su |
 | kubernetes-sigs/controller-tools | 1 | 2025-02-10 | 🌱chore: Add golangci-lint linters (#1134) |
-| john-gallagher-dd/controller-runtime | 1 | 2025-02-06 | ✨feat: add GoCollector and ProcessCollector metric |
 | kubernetes-sigs/controller-runtime | 1 | 2025-02-06 | ✨feat: add GoCollector and ProcessCollector metric |
 | kubeservice-stack/common | 1 | 2025-02-14 | add go.mod and go.sum (#55) |
 | kubeservice-stack/echo | 1 | 2025-02-14 | Chore: Upgrade Go version v1.24 (#32) |
@@ -231,4 +227,4 @@ john-gallagher-dd              █                    5%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

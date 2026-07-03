@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -58,13 +58,13 @@ kev1N916                       █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **48** | +23% | 📈 +9 |
+| **总活动量** | 38 | **48** | +26% | 📈 +10 |
 | Pull Request | 14 | 23 | +64% | 📈 +9 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 24 | 25 | +4% | 📈 +1 |
+| Commit | 23 | 25 | +9% | 📈 +2 |
 
 - 🆕 **新增活跃仓库**：`Apexmail/helm`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
-- ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `john-gallagher-dd/controller-runtime`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
+- ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **kubeservice-stack**
 
 ---
@@ -85,16 +85,16 @@ kev1N916                       █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（NVIDIA/k8s-device-plugin), kubeservice-stack/node-metrics), kubeservice-stack/node-metrics） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts), kubeservice-stack/kubservice-charts, kubeservice-stack/custom-limit-range） |
-| **2025-04-17（四）** | **7** | ███████ | 7 项活动（hoppipolla-dev/helm, kubeservice-stack/common), prometheus-operator/prometheus-operator） |
-| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（hoppipolla-dev/helm, ckyuto/volcano-upstream, volcano-sh/volcano)） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/node-metrics, kubeservice-stack/node-metrics), kubeservice-stack/custom-limit-range)） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts), karmada-io/karmada), kubeservice-stack/modelx)） |
+| **2025-04-17（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/common), helm/helm） |
+| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
 | **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, oliver006/redis_exporter), thanos-io/thanos)） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, dongjiang1989/api-server, prometheus-operator/prometheus-operator)） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
@@ -280,4 +280,4 @@ kev1N916                       █                    2%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

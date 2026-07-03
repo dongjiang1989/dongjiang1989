@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -48,13 +48,13 @@ kev1N916                       █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 20 | **16** | -20% | 📉 -4 |
+| **总活动量** | 19 | **16** | -16% | 📉 -3 |
 | Pull Request | 10 | 5 | -50% | 📉 -5 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 10 | 10 | 0% | ➡️ 持平 |
+| Commit | 9 | 10 | +11% | 📈 +1 |
 
 - 🆕 **新增活跃仓库**：`GsonZhao/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
-- ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `john-gallagher-dd/controller-runtime`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
+- ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - 🔄 **工作重心转移**：从 **apecloud** 转向 **prometheus-operator**
 
 ---
@@ -76,7 +76,7 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **8** | ████████ | 8 项活动（volcano-sh/volcano), handan-yxh/volcano-old-test, GsonZhao/volcano） |
+| **2025-07-09（三）** | **8** | ████████ | 8 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
@@ -225,4 +225,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

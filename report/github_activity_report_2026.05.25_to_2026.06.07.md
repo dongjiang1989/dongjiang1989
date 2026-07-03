@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -74,10 +74,10 @@ kubernetes-sigs                █                    9%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
-| 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/prow, kubernetes-sigs/prow)） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, iflytek/community), prometheus-operator/prometheus-operator)） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/hf-sync-action), kubeservice-stack/repos-mirror-action), kubeservice-stack/hf-sync-action） |
+| 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, iflytek/community, kubernetes-sigs/prow)） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, iflytek/community, dongjiang1989/abc） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/hf-sync-action), kubeservice-stack/repos-mirror-action), kubeservice-stack/repos-mirror-action） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -225,7 +225,7 @@ kubernetes-sigs                █                    9%
 |------|---------|---------|---------|
 | dongjiang1989/mirror-action | 12 | 2026-05-29 | Merge pull request #4 from kubeservice-stack/coder; Update README.md; Update README.md |
 | kubeservice-stack/repos-mirror-action | 12 | 2026-05-27 | Update repos-mirror-gitee.yaml; Update README.md; Merge pull request #3 from kubeservice-stack/add-g |
-| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | Merge pull request #1 from kubeservice-stack/chang; fix: harden sync workflow and snapshot error handl; Fix pre dryrun fail (#6) |
+| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | Update action.yml; add hs to ms aciton; Initial commit |
 | actions-marketplace-validations/kubeservice-stack_hf-sync-action | 9 | 2026-05-29 | push; ci: fix pre dryrun fail (#8); Fix pre dryrun fail (#6) |
 | prometheus-operator/prometheus-operator | 4 | 2026-05-27 | update .golangci-kal.yml; changet url string to URL type (#8596); refactor(crd): refactoring `resource.Quantity` val |
 | iflytek/community | 4 | 2026-05-27 | add github dependabot.yml; add community meeting md; update github action |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -76,7 +76,7 @@ lsj-x                          █                    5%
 |------|--------|--------|----------|
 | 2026-01-05（一） | 0 | ░░░░░ | — |
 | 2026-01-06（二） | 0 | ░░░░░ | — |
-| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, grafana/grafana), kubeservice-stack/lxcfs-webhook)） |
+| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, grafana/grafana)） |
 | 2026-01-08（四） | 1 | █░░░░ | kubeservice-stack/lxcfs-webhook: Update release.ya |
 | 2026-01-09（五） | 3 | ███░░ | PR #777 (prometheus/procfs); PR #8264 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: Up |
 | 2026-01-10（六） | 0 | ░░░░░ | — |
@@ -90,7 +90,7 @@ lsj-x                          █                    5%
 * ; lsj-x/HAMi: Add modernize check (#1578)
 
 * add mod |
-| **2026-01-15（四）** | **6** | ██████ | 6 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
 | 2026-01-16（五） | 0 | ░░░░░ | — |
 | 2026-01-17（六） | 0 | ░░░░░ | — |
 | 2026-01-18（日） | 0 | ░░░░░ | — |
@@ -238,4 +238,4 @@ lsj-x                          █                    5%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

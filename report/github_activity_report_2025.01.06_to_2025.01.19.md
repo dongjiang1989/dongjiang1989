@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -14,19 +14,19 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **25** 个 |
-| 涉及仓库数 | **34** 个 |
+| 涉及组织数 | **26** 个 |
+| 涉及仓库数 | **35** 个 |
 | Pull Request 数 | **13** 个（已合并 10，开放 3） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **49** 次 |
-| 总活动量 | **63** |
+| Commit 数 | **50** 次 |
+| 总活动量 | **64** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ████                 24%
+kubeservice-stack              ████                 23%
 prometheus-operator            ██                   14%
-prometheus                     █                    10%
+prometheus                     █                    9%
 aimultiple-benchmark           █                    6%
 karmada-io                     █                    5%
 thockin                        █                    3%
@@ -37,6 +37,7 @@ dongjiang1989                  █                    3%
 Benqacemsalah                  █                    3%
 kubernetes-sigs                █                    2%
 golangci                       █                    2%
+rhobs                          █                    2%
 rajendra-k10200                █                    2%
 grafana                        █                    2%
 0xkato                         █                    2%
@@ -53,12 +54,12 @@ thanos-io                      █                    2%
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（24%），涉及 5 个仓库，共 15 次活动。
+1. **kubeservice-stack** 是最大贡献方向（23%），涉及 5 个仓库，共 15 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 8 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-01-15**（20 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-01-15**（21 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 31 个仓库提交了 **49** 次代码。
+6. 在 32 个仓库提交了 **50** 次代码。
 
 ---
 
@@ -66,10 +67,10 @@ thanos-io                      █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **63** | PR + Issue + Commit |
+| 📊 **总活动** | **64** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 10，开放 3 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 49 | 代码提交 |
+| 💻 **Commit** | 50 | 代码提交 |
 
 ---
 
@@ -77,22 +78,22 @@ thanos-io                      █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/kubservice-charts), kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator） |
+| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts), kubeservice-stack/lxcfs-webhook)） |
 | 2025-01-07（二） | 2 | ██░░░ | kubeservice-stack/script_exporter: update go.mod a; kubeservice-stack/script_exporter: add promu.yml f |
 | 2025-01-08（三） | 0 | ░░░░░ | — |
 | 2025-01-09（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, prometheus/prometheus)） |
-| **2025-01-10（五）** | **7** | ███████ | 7 项活动（prometheus/alertmanager, Carson-Ax/alertmanager, prometheus-operator/prometheus-operator） |
+| **2025-01-10（五）** | **7** | ███████ | 7 项活动（prometheus/alertmanager, Benqacemsalah/alertmanager, prometheus/alertmanager)） |
 | 2025-01-11（六） | 0 | ░░░░░ | — |
 | 2025-01-12（日） | 0 | ░░░░░ | — |
-| **2025-01-13（一）** | **6** | ██████ | 6 项活动（prometheus/alertmanager, Carson-Ax/alertmanager, muhammedalimalik901-code/Alert-Manager-Experiment） |
-| **2025-01-14（二）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, karmada-io/karmada), kubernetes-sigs/controller-runtime)） |
-| **2025-01-15（三）** | **20** | ████████████████████ | 20 项活动（thanos-io/thanos-prometheus, aimultiple-benchmark/prometheus-bench-cur-2, kubeservice-stack/common） |
+| **2025-01-13（一）** | **6** | ██████ | 6 项活动（prometheus/alertmanager, Benqacemsalah/alertmanager, Carson-Ax/alertmanager） |
+| **2025-01-14（二）** | **5** | █████ | 5 项活动（karmada-io/karmada), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime)） |
+| **2025-01-15（三）** | **21** | ████████████████████ | 21 项活动（aimultiple-benchmark/prometheus-bench-cp-2, mayhemheroes/prometheus, 0xkato/prometheus-fork） |
 | 2025-01-16（四） | 2 | ██░░░ | PR #6059 (karmada-io/karmada); PR #128 (thockin/go-build-template) |
 | 2025-01-17（五） | 4 | ████░ | 4 项活动（thockin/go-build-template, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-01-18（六） | 2 | ██░░░ | CodeLinaro-mirror/yocto-mirrors_github_prometheus_; prometheus/common: making this map a public variab |
 | 2025-01-19（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-01-15（20 次活动）为最高峰。
+> **活跃高峰**：2025-01-15（21 次活动）为最高峰。
 
 ---
 
@@ -102,19 +103,20 @@ thanos-io                      █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 15 | 23.8% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
-| prometheus-operator | 9 | 14.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| prometheus | 6 | 9.5% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
-| aimultiple-benchmark | 4 | 6.3% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| karmada-io | 3 | 4.8% | karmada-io/karmada(3) | PR |
-| thockin | 2 | 3.2% | thockin/go-build-template(2) | PR, Push |
-| Carson-Ax | 2 | 3.2% | Carson-Ax/alertmanager(2) | Push |
-| tennisleng | 2 | 3.2% | tennisleng/alertmanager(2) | Push |
-| muhammedalimalik901-code | 2 | 3.2% | muhammedalimalik901-code/Alert-Manager-Experiment(2) | Push |
-| dongjiang1989 | 2 | 3.2% | dongjiang1989/dongjiang1989(2) | Push |
-| Benqacemsalah | 2 | 3.2% | Benqacemsalah/alertmanager(2) | Push |
+| **kubeservice-stack** | 15 | 23.4% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
+| prometheus-operator | 9 | 14.1% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| prometheus | 6 | 9.4% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
+| aimultiple-benchmark | 4 | 6.2% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| karmada-io | 3 | 4.7% | karmada-io/karmada(3) | PR |
+| thockin | 2 | 3.1% | thockin/go-build-template(2) | PR, Push |
+| Carson-Ax | 2 | 3.1% | Carson-Ax/alertmanager(2) | Push |
+| tennisleng | 2 | 3.1% | tennisleng/alertmanager(2) | Push |
+| muhammedalimalik901-code | 2 | 3.1% | muhammedalimalik901-code/Alert-Manager-Experiment(2) | Push |
+| dongjiang1989 | 2 | 3.1% | dongjiang1989/dongjiang1989(2) | Push |
+| Benqacemsalah | 2 | 3.1% | Benqacemsalah/alertmanager(2) | Push |
 | kubernetes-sigs | 1 | 1.6% | kubernetes-sigs/controller-runtime(1) | PR |
 | golangci | 1 | 1.6% | golangci/golangci-lint(1) | Issue |
+| rhobs | 1 | 1.6% | rhobs/obo-prometheus(1) | Push |
 | rajendra-k10200 | 1 | 1.6% | rajendra-k10200/prometheus(1) | Push |
 | grafana | 1 | 1.6% | grafana/mimir-prometheus(1) | Push |
 | 0xkato | 1 | 1.6% | 0xkato/prometheus-fork(1) | Push |
@@ -247,6 +249,7 @@ thanos-io                      █                    2%
 | dongjiang1989/dongjiang1989 | 2 | 2025-01-14 | Update README.md; Update README.md |
 | Benqacemsalah/alertmanager | 2 | 2025-01-13 | Merge branch 'main' into update-automemlimit-versi; changet automemlimit to v0.7.0 |
 | kubeservice-stack/echo | 2 | 2025-01-15 | fix bug; Create dependabot.yml |
+| rhobs/obo-prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | aimultiple-benchmark/prometheus-bench-cur-2 | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | rajendra-k10200/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | aimultiple-benchmark/prometheus-bench-cp-2 | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
@@ -285,4 +288,4 @@ thanos-io                      █                    2%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

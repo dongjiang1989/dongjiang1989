@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -14,23 +14,24 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **22** 个 |
-| 涉及仓库数 | **25** 个 |
+| 涉及组织数 | **23** 个 |
+| 涉及仓库数 | **26** 个 |
 | Pull Request 数 | **14** 个（已合并 13，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **32** 次 |
-| 总活动量 | **47** |
+| Commit 数 | **33** 次 |
+| 总活动量 | **48** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            █████                28%
-prometheus                     ██                   11%
-kubeservice-stack              █                    9%
-aimultiple-benchmark           █                    9%
+prometheus-operator            █████                27%
+prometheus                     ██                   10%
+kubeservice-stack              █                    8%
+aimultiple-benchmark           █                    8%
 thanos-io                      █                    6%
 kubernetes-sigs                █                    4%
 volcano-sh                     █                    2%
+rhobs                          █                    2%
 rajendra-k10200                █                    2%
 grafana                        █                    2%
 0xkato                         █                    2%
@@ -50,12 +51,12 @@ cnloxiaoteng-ship-it           █                    2%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（28%），涉及 1 个仓库，共 13 次活动。
+1. **prometheus-operator** 是最大贡献方向（27%），涉及 1 个仓库，共 13 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 4 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-05-24**（12 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-05-24**（13 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 24 个仓库提交了 **32** 次代码。
+6. 在 25 个仓库提交了 **33** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -63,10 +64,10 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 57 | **47** | -18% | 📉 -10 |
+| **总活动量** | 58 | **48** | -17% | 📉 -10 |
 | Pull Request | 16 | 14 | -12% | 📉 -2 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 40 | 32 | -20% | 📉 -8 |
+| Commit | 41 | 33 | -20% | 📉 -8 |
 
 - 🆕 **新增活跃仓库**：`ChristianTryti/thanos-fork-of-fork`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `dongjiang1989/dongjiang1989`, `idadmin007/prometheus`, `volcano-sh/community`, `wangw111/thanos`, `yunshenliu92/prometheus`
 - ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `bwplotka/mdox`, `kubernetes-sigs/descheduler`, `kubeservice-stack/common`, `punith1006/LaaS-Hami`, `raihanakbr/descheduler-custom`, `web38444/descheduler`
@@ -78,10 +79,10 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **47** | PR + Issue + Commit |
+| 📊 **总活动** | **48** | PR + Issue + Commit |
 | 📝 **Pull Request** | 14 | 已合并 13，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 32 | 代码提交 |
+| 💻 **Commit** | 33 | 代码提交 |
 
 ---
 
@@ -89,22 +90,22 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-05-12（一）** | **8** | ████████ | 8 项活动（Scaling-Smart/prometheus-helm-charts, yunshenliu92/prometheus, idadmin007/prometheus） |
-| **2025-05-13（二）** | **7** | ███████ | 7 项活动（kubeservice-stack/echo, ChristianTryti/thanos-fork-of-fork, wangw111/thanos） |
+| **2025-05-12（一）** | **8** | ████████ | 8 项活动（Scaling-Smart/prometheus-helm-charts, idadmin007/prometheus, prometheus/prometheus)） |
+| **2025-05-13（二）** | **7** | ███████ | 7 项活动（thanos-io/thanos, wangw111/thanos, ChristianTryti/thanos-fork-of-fork） |
 | 2025-05-14（三） | 1 | █░░░░ | Issue #81 |
-| **2025-05-15（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools） |
+| **2025-05-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
 | 2025-05-16（五） | 2 | ██░░░ | PR #7526 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: ignore is |
 | 2025-05-17（六） | 0 | ░░░░░ | — |
 | 2025-05-18（日） | 0 | ░░░░░ | — |
-| **2025-05-19（一）** | **7** | ███████ | 7 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
 | 2025-05-20（二） | 3 | ███░░ | PR #7547 (prometheus-operator/prometheus-operator); PR #7543 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add conve |
 | 2025-05-21（三） | 0 | ░░░░░ | — |
 | 2025-05-22（四） | 1 | █░░░░ | PR #16625 (prometheus/prometheus) |
 | 2025-05-23（五） | 0 | ░░░░░ | — |
-| **2025-05-24（六）** | **12** | ████████████ | 12 项活动（grafana/mimir-prometheus, aimultiple-benchmark/prometheus-bench-gre-2, rajendra-k10200/prometheus） |
+| **2025-05-24（六）** | **13** | █████████████ | 13 项活动（grafana/mimir-prometheus, aimultiple-benchmark/prometheus-bench-gre-2, SINDEKARHAS/Prometheus） |
 | 2025-05-25（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-05-24（12 次活动）为最高峰。
+> **活跃高峰**：2025-05-24（13 次活动）为最高峰。
 
 ---
 
@@ -114,13 +115,14 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 13 | 27.7% | prometheus-operator/prometheus-operator(13) | PR, Push |
-| prometheus | 5 | 10.6% | prometheus/prometheus(5) | PR, Push |
-| kubeservice-stack | 4 | 8.5% | kubeservice-stack/echo(4) | Push |
-| aimultiple-benchmark | 4 | 8.5% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| thanos-io | 3 | 6.4% | thanos-io/thanos(3) | PR, Push |
-| kubernetes-sigs | 2 | 4.3% | kubernetes-sigs/controller-tools(2) | PR, Push |
+| **prometheus-operator** | 13 | 27.1% | prometheus-operator/prometheus-operator(13) | PR, Push |
+| prometheus | 5 | 10.4% | prometheus/prometheus(5) | PR, Push |
+| kubeservice-stack | 4 | 8.3% | kubeservice-stack/echo(4) | Push |
+| aimultiple-benchmark | 4 | 8.3% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| thanos-io | 3 | 6.2% | thanos-io/thanos(3) | PR, Push |
+| kubernetes-sigs | 2 | 4.2% | kubernetes-sigs/controller-tools(2) | PR, Push |
 | volcano-sh | 1 | 2.1% | volcano-sh/community(1) | Issue |
+| rhobs | 1 | 2.1% | rhobs/obo-prometheus(1) | Push |
 | rajendra-k10200 | 1 | 2.1% | rajendra-k10200/prometheus(1) | Push |
 | grafana | 1 | 2.1% | grafana/mimir-prometheus(1) | Push |
 | 0xkato | 1 | 2.1% | 0xkato/prometheus-fork(1) | Push |
@@ -147,10 +149,10 @@ cnloxiaoteng-ship-it           █                    2%
 | 4 | **thanos-io/thanos** | 3 | 2 | 0 | 1 | PR #8244: fix: resolve doc CI failures; PR #8243: Optimize OTLP ClientType enumerate; Commit: add otlp clientType (#8243) |
 | 5 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1206: 🌱ci: Update golangci-lint to v2.1.6 and ; Commit: update golangci-lint version |
 | 6 | **volcano-sh/community** | 1 | 0 | 1 | 0 | Issue #81: Request to be a member of Volcano commu |
-| 7 | **aimultiple-benchmark/prometheus-bench-cur-2** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
-| 8 | **rajendra-k10200/prometheus** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
-| 9 | **aimultiple-benchmark/prometheus-bench-cp-2** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
-| 10 | **grafana/mimir-prometheus** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
+| 7 | **rhobs/obo-prometheus** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
+| 8 | **aimultiple-benchmark/prometheus-bench-cur-2** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
+| 9 | **rajendra-k10200/prometheus** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
+| 10 | **aimultiple-benchmark/prometheus-bench-cp-2** | 1 | 0 | 0 | 1 | Commit: fix metric_name_escaping_scheme option (#1 |
 
 ---
 
@@ -249,6 +251,7 @@ cnloxiaoteng-ship-it           █                    2%
 |------|---------|---------|---------|
 | prometheus-operator/prometheus-operator | 6 | 2025-05-20 | add convert_classic_histograms_to_nhcb option for ; Merge pull request #7538 from kubeservice-stack/ad; Merge pull request #7539 from kubeservice-stack/ad |
 | kubeservice-stack/echo | 4 | 2025-05-13 | Update README.md; Update README.md; fix golangci-lint |
+| rhobs/obo-prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | aimultiple-benchmark/prometheus-bench-cur-2 | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | rajendra-k10200/prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | kubernetes-sigs/controller-tools | 1 | 2025-05-15 | update golangci-lint version |
@@ -289,4 +292,4 @@ cnloxiaoteng-ship-it           █                    2%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*

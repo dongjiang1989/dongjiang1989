@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：225 | **Followers**：61 | **Following**：51
+> **公开仓库数**：229 | **Followers**：62 | **Following**：51
 
 ---
 
@@ -74,7 +74,7 @@ ahmetb                         █                    6%
 | 2025-10-28（二） | 0 | ░░░░░ | — |
 | 2025-10-29（三） | 2 | ██░░░ | PR #3370 (kubernetes-sigs/controller-runtime); ahmetb/gen-crd-api-reference-docs: fix unsupported |
 | 2025-10-30（四） | 3 | ███░░ | PR #1299 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: Change sort to s; kubernetes-sigs/controller-runtime: change sort to |
-| 2025-10-31（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
+| 2025-10-31（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime） |
 | 2025-11-01（六） | 0 | ░░░░░ | — |
 | 2025-11-02（日） | 1 | █░░░░ | kubernetes-sigs/controller-tools: Merge branch 'ma |
 | 2025-11-03（一） | 3 | ███░░ | PR #8065 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Merge pul; prometheus-operator/prometheus-operator: update pr |
@@ -212,4 +212,4 @@ ahmetb                         █                    6%
 
 ---
 
-*报告生成时间：2026-06-29 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
