@@ -80,8 +80,8 @@ bwplotka                       █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime)） |
+| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
+| **2025-09-12（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), bytebase/bytebase, kubernetes-sigs/controller-runtime） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -220,4 +220,4 @@ bwplotka                       █                    5%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

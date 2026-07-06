@@ -78,9 +78,9 @@ n2h9                           █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-02-17（一） | 4 | ████░ | 4 项活动（kubeservice-stack/common), prometheus/client_golang), kubeservice-stack/common） |
+| 2025-02-17（一） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/common, prometheus/client_golang)） |
 | 2025-02-18（二） | 4 | ████░ | 4 项活动（cloudflare/ebpf_exporter), prometheus-operator/prometheus-operator） |
-| **2025-02-19（三）** | **6** | ██████ | 6 项活动（prometheus/client_golang, CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang, rmathena79/lsp-eval-prometheus） |
+| **2025-02-19（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), rmathena79/lsp-eval-prometheus, barajeel/golang） |
 | 2025-02-20（四） | 0 | ░░░░░ | — |
 | 2025-02-21（五） | 0 | ░░░░░ | — |
 | 2025-02-22（六） | 0 | ░░░░░ | — |
@@ -89,7 +89,7 @@ n2h9                           █                    3%
 | 2025-02-25（二） | 3 | ███░░ | PR #58 (kubeservice-stack/modelx); dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-26（三） | 2 | ██░░░ | dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-27（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: Add |
-| **2025-02-28（五）** | **14** | ██████████████ | 14 项活动（kubernetes-sigs/controller-tools), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/controller-tools） |
+| **2025-02-28（五）** | **14** | ██████████████ | 14 项活动（kubernetes-sigs/controller-tools), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, prometheus-operator/prometheus-operator） |
 | 2025-03-01（六） | 0 | ░░░░░ | — |
 | 2025-03-02（日） | 1 | █░░░░ | kubernetes-sigs/controller-tools: update v1.33.0-a |
 
@@ -257,4 +257,4 @@ n2h9                           █                    3%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

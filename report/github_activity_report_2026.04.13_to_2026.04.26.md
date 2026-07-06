@@ -72,18 +72,18 @@ Gitlawb                        █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api, dongjiang1989/opensearch-api)） |
-| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
-| **2026-04-15（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox), shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
+| **2026-04-13（一）** | **19** | ███████████████████ | 19 项活动（dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator, iflytek/astron-agent） |
+| **2026-04-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-15（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-17（五）** | **5** | █████ | 5 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
+| **2026-04-17（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-18（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
 | 2026-04-19（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: update IntOrStri; dongjiang1989/myclawbot: Merge pull request #1 fro |
 | 2026-04-20（一） | 3 | ███░░ | PR #621 (kubernetes-sigs/agent-sandbox); dongjiang1989/scumbag: add scumbag skill
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 2026-04-21（二） | 3 | ███░░ | PR #1385 (kubernetes-sigs/controller-tools); kubernetes-sigs/agent-sandbox: add dependabot.yml ; shrutiyam-glitch/agent-sandbox-trial: add dependab |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（Gitlawb/openclaude), prometheus-operator/prometheus-operator, kubernetes-sigs/kubebuilder） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kubebuilder, prometheus-operator/prometheus-operator)） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
 | 2026-04-24（五） | 3 | ███░░ | PR #678 (kubernetes-sigs/agent-sandbox); kubernetes-sigs/agent-sandbox: add agent-sandbox v; shrutiyam-glitch/agent-sandbox-trial: add agent-sa |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
@@ -256,4 +256,4 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

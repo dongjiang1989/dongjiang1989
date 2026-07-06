@@ -72,7 +72,7 @@ shrutiyam-glitch               █                    6%
 | 2026-03-03（二） | 2 | ██░░░ | PR #364 (kubernetes-sigs/agent-sandbox); prometheus-operator/prometheus-operator: feat: Add |
 | 2026-03-04（三） | 0 | ░░░░░ | — |
 | 2026-03-05（四） | 2 | ██░░░ | PR #8430 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add stand |
-| **2026-03-06（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-tools） |
+| **2026-03-06（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-runtime） |
 | 2026-03-07（六） | 0 | ░░░░░ | — |
 | 2026-03-08（日） | 0 | ░░░░░ | — |
 | 2026-03-09（一） | 2 | ██░░░ | kubernetes-sigs/controller-runtime: update fix lin; kubernetes-sigs/controller-runtime: fix by coderev |
@@ -207,4 +207,4 @@ shrutiyam-glitch               █                    6%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

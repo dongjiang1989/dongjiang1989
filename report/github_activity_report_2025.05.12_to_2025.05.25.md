@@ -90,19 +90,19 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-05-12（一）** | **8** | ████████ | 8 项活动（Scaling-Smart/prometheus-helm-charts, idadmin007/prometheus, prometheus/prometheus)） |
-| **2025-05-13（二）** | **7** | ███████ | 7 项活动（thanos-io/thanos, wangw111/thanos, ChristianTryti/thanos-fork-of-fork） |
+| **2025-05-12（一）** | **8** | ████████ | 8 项活动（prometheus/prometheus), Scaling-Smart/prometheus-helm-charts, idadmin007/prometheus） |
+| **2025-05-13（二）** | **7** | ███████ | 7 项活动（ChristianTryti/thanos-fork-of-fork, kubeservice-stack/echo, thanos-io/thanos） |
 | 2025-05-14（三） | 1 | █░░░░ | Issue #81 |
 | **2025-05-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
 | 2025-05-16（五） | 2 | ██░░░ | PR #7526 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: ignore is |
 | 2025-05-17（六） | 0 | ░░░░░ | — |
 | 2025-05-18（日） | 0 | ░░░░░ | — |
-| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
+| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989） |
 | 2025-05-20（二） | 3 | ███░░ | PR #7547 (prometheus-operator/prometheus-operator); PR #7543 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add conve |
 | 2025-05-21（三） | 0 | ░░░░░ | — |
 | 2025-05-22（四） | 1 | █░░░░ | PR #16625 (prometheus/prometheus) |
 | 2025-05-23（五） | 0 | ░░░░░ | — |
-| **2025-05-24（六）** | **13** | █████████████ | 13 项活动（grafana/mimir-prometheus, aimultiple-benchmark/prometheus-bench-gre-2, SINDEKARHAS/Prometheus） |
+| **2025-05-24（六）** | **13** | █████████████ | 13 项活动（0xkato/prometheus-fork, grafana/mimir-prometheus, mayhemheroes/prometheus） |
 | 2025-05-25（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-05-24（13 次活动）为最高峰。
@@ -292,4 +292,4 @@ cnloxiaoteng-ship-it           █                    2%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

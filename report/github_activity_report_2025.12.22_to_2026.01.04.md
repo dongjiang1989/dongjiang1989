@@ -73,10 +73,10 @@ grafana                        █                    6%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime)） |
+| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime） |
 | 2025-12-23（二） | 3 | ███░░ | PR #8203 (prometheus-operator/prometheus-operator); dongjiang1989/dongjiang1989: Update README.md; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-12-24（三） | 1 | █░░░░ | PR #2345 (apecloud/kubeblocks-addons) |
-| **2025-12-25（四）** | **8** | ████████ | 8 项活动（kubeservice-stack/lua-resty-zookeeper, apecloud/kubeblocks-addons, kubeservice-stack/lua-resty-zookeeper)） |
+| **2025-12-25（四）** | **8** | ████████ | 8 项活动（kubeservice-stack/lua-resty-zookeeper), prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989） |
 | 2025-12-26（五） | 0 | ░░░░░ | — |
 | 2025-12-27（六） | 0 | ░░░░░ | — |
 | 2025-12-28（日） | 0 | ░░░░░ | — |
@@ -221,4 +221,4 @@ grafana                        █                    6%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

@@ -81,12 +81,12 @@ dongjiang1989                  █                    3%
 Signed-of; kubernetes-sigs/external-dns: fix typo (#6011)
 
 Si |
-| 2025-12-12（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/kueue), kubeservice-stack/kubservice-charts） |
+| 2025-12-12（五） | 4 | ████░ | 4 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-12-13（六） | 0 | ░░░░░ | — |
 | 2025-12-14（日） | 0 | ░░░░░ | — |
-| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lua-resty-zookeeper, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
+| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/lxcfs-webhook, kubernetes-sigs/controller-runtime） |
 | 2025-12-16（二） | 3 | ███░░ | PR #8182 (prometheus-operator/prometheus-operator); PR #8181 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update ki |
-| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper, dongjiang1989/zookeeper-registry） |
+| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/zookeeper-registry） |
 | 2025-12-18（四） | 1 | █░░░░ | PR #8192 (prometheus-operator/prometheus-operator) |
 | 2025-12-19（五） | 3 | ███░░ | PR #1 (kubeservice-stack/lua-resty-zookeeper); kubeservice-stack/lua-resty-zookeeper: Merge pull ; kubeservice-stack/lua-resty-zookeeper: add lua lin |
 | 2025-12-20（六） | 0 | ░░░░░ | — |
@@ -252,4 +252,4 @@ Si |
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

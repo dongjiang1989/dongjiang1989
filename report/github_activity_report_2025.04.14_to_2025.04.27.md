@@ -85,16 +85,16 @@ kev1N916                       █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/node-metrics, kubeservice-stack/node-metrics), kubeservice-stack/custom-limit-range)） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts), karmada-io/karmada), kubeservice-stack/modelx)） |
-| **2025-04-17（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/common), helm/helm） |
-| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/node-metrics, kubeservice-stack/custom-limit-range), NVIDIA/k8s-device-plugin)） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts, kubeservice-stack/kubservice-charts), kubeservice-stack/modelx)） |
+| **2025-04-17（四）** | **7** | ███████ | 7 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator, kubeservice-stack/common） |
+| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（yankeguo/helm-enhanced, GsonZhao/volcano, handan-yxh/volcano-old-test） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, dongjiang1989/api-server, prometheus-operator/prometheus-operator)） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), thanos-io/thanos)） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
@@ -280,4 +280,4 @@ kev1N916                       █                    2%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

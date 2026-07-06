@@ -80,9 +80,9 @@ kagent-dev                     █                    5%
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/bytebase), bytebase/clabot-config, bytebase/bytebase） |
+| 2025-08-26（二） | 4 | ████░ | 4 项活动（bytebase/clabot-config), bytebase/clabot-config, bytebase/bytebase） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api） |
+| 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubernetes-sigs/cluster-api)） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -221,4 +221,4 @@ kagent-dev                     █                    5%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

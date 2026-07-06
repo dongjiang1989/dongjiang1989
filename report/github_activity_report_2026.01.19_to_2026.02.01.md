@@ -75,7 +75,7 @@ dongjiang1989                  █                    4%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-01-19（一）** | **5** | █████ | 5 项活动（lsj-x/HAMi, Project-HAMi/HAMi), Dzkmobw/HAMi） |
+| **2026-01-19（一）** | **5** | █████ | 5 项活动（Project-HAMi/HAMi, Dzkmobw/HAMi, Project-HAMi/HAMi)） |
 | 2026-01-20（二） | 0 | ░░░░░ | — |
 | 2026-01-21（三） | 2 | ██░░░ | PR #1614 (Project-HAMi/HAMi); PR #1613 (Project-HAMi/HAMi) |
 | 2026-01-22（四） | 3 | ███░░ | Dzkmobw/HAMi: add metrics-bind-address (#1613)
@@ -87,7 +87,7 @@ Sign |
 | 2026-01-24（六） | 0 | ░░░░░ | — |
 | 2026-01-25（日） | 0 | ░░░░░ | — |
 | 2026-01-26（一） | 0 | ░░░░░ | — |
-| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo), kubeservice-stack/echo, kubernetes/test-infra)） |
+| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo), dongjiang1989/dongjiang1989, kubernetes-sigs/scheduler-plugins)） |
 | 2026-01-28（三） | 2 | ██░░░ | Project-HAMi/HAMi: feat: add promtheus serviceMoni; lsj-x/HAMi: feat: add promtheus serviceMonitor in  |
 | 2026-01-29（四） | 2 | ██░░░ | PR #1633 (Project-HAMi/HAMi); Issue #1634 |
 | 2026-01-30（五） | 2 | ██░░░ | Project-HAMi/HAMi: feat: add serviceMonitor for de; lsj-x/HAMi: feat: add serviceMonitor for device pl |
@@ -235,4 +235,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

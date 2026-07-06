@@ -76,12 +76,12 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **8** | ████████ | 8 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
+| **2025-07-09（三）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, prometheus-operator/prometheus-operator), handan-yxh/volcano-old-test） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
 | 2025-07-13（日） | 0 | ░░░░░ | — |
-| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools, kubeservice-stack/golang-tools)） |
+| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools), kubeservice-stack/golang-tools） |
 | 2025-07-15（二） | 0 | ░░░░░ | — |
 | 2025-07-16（三） | 2 | ██░░░ | PR #7728 (prometheus-operator/prometheus-operator); PR #7725 (prometheus-operator/prometheus-operator) |
 | 2025-07-17（四） | 0 | ░░░░░ | — |
@@ -225,4 +225,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

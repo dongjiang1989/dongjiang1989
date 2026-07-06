@@ -83,7 +83,7 @@ vpuhoff                        ██                   12%
 | 2025-06-04（三） | 0 | ░░░░░ | — |
 | 2025-06-05（四） | 0 | ░░░░░ | — |
 | 2025-06-06（五） | 0 | ░░░░░ | — |
-| **2025-06-07（六）** | **6** | ██████ | 6 项活动（vpuhoff/redis-exporter, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-06-07（六）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), oliver006/redis_exporter） |
 | 2025-06-08（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-06-07（6 次活动）为最高峰。
@@ -198,4 +198,4 @@ vpuhoff                        ██                   12%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

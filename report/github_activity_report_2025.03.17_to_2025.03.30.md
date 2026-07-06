@@ -84,17 +84,17 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-03-17（一） | 4 | ████░ | 4 项活动（helm/helm), helm/helm, Apexmail/helm） |
-| **2025-03-18（二）** | **12** | ████████████ | 12 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
-| 2025-03-19（三） | 4 | ████░ | 4 项活动（helm/helm, volcano-sh/volcano), Apexmail/helm） |
-| **2025-03-20（四）** | **8** | ████████ | 8 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
-| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, handan-yxh/volcano-old-test） |
+| 2025-03-17（一） | 4 | ████░ | 4 项活动（hoppipolla-dev/helm, helm/helm, Apexmail/helm） |
+| **2025-03-18（二）** | **12** | ████████████ | 12 项活动（GsonZhao/volcano, handan-yxh/volcano-old-test, volcano-sh/volcano） |
+| 2025-03-19（三） | 4 | ████░ | 4 项活动（hoppipolla-dev/helm, helm/helm, volcano-sh/volcano)） |
+| **2025-03-20（四）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, handan-yxh/volcano-old-test, karmada-io/karmada） |
+| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（GsonZhao/volcano, handan-yxh/volcano-old-test, volcano-sh/volcano)） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/docker-image, prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/docker-image, kubeservice-stack/network-doctor） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（Scaling-Smart/prometheus-helm-charts, prometheus-community/helm-charts), kubeservice-stack/echo)） |
-| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
+| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（kubeservice-stack/echo), Scaling-Smart/prometheus-helm-charts, prometheus-operator/prometheus-operator)） |
+| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
@@ -281,4 +281,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*

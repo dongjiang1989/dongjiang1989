@@ -82,18 +82,18 @@ kev1N916                       █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-31（一）** | **7** | ███████ | 7 项活动（kubeservice-stack/lxcfs-webhook), karmada-io/karmada), kubeservice-stack/lxcfs-webhook） |
-| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/scheduler-plugins), kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator） |
-| **2025-04-02（三）** | **10** | ██████████ | 10 项活动（ckyuto/volcano-upstream, GsonZhao/volcano, kubernetes-sigs/controller-tools)） |
-| 2025-04-03（四） | 4 | ████░ | 4 项活动（koordinator-sh/koordinator, n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder） |
+| **2025-03-31（一）** | **7** | ███████ | 7 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), prometheus-operator/prometheus-operator） |
+| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/scheduler-plugins), prometheus-operator/prometheus-operator） |
+| **2025-04-02（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, GsonZhao/volcano） |
+| 2025-04-03（四） | 4 | ████░ | 4 项活动（n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder), koordinator-sh/koordinator） |
 | 2025-04-04（五） | 0 | ░░░░░ | — |
 | 2025-04-05（六） | 0 | ░░░░░ | — |
 | 2025-04-06（日） | 0 | ░░░░░ | — |
 | 2025-04-07（一） | 0 | ░░░░░ | — |
 | 2025-04-08（二） | 3 | ███░░ | PR #2396 (koordinator-sh/koordinator); PR #131207 (kubernetes/kubernetes); PR #2395 (koordinator-sh/koordinator) |
 | 2025-04-09（三） | 0 | ░░░░░ | — |
-| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, koordinator-sh/koordinator, kubernetes-sigs/kubebuilder)） |
-| **2025-04-11（五）** | **6** | ██████ | 6 项活动（n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder, Project-HAMi/HAMi-core） |
+| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/kubebuilder), koordinator-sh/koordinator） |
+| **2025-04-11（五）** | **6** | ██████ | 6 项活动（n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder)） |
 | 2025-04-12（六） | 0 | ░░░░░ | — |
 | 2025-04-13（日） | 0 | ░░░░░ | — |
 
@@ -262,4 +262,4 @@ kev1N916                       █                    3%
 
 ---
 
-*报告生成时间：2026-07-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
