@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -56,8 +56,8 @@ prometheus-operator            █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 27 | **32** | +19% | 📈 +5 |
-| Pull Request | 9 | 7 | -22% | 📉 -2 |
+| **总活动量** | 28 | **32** | +14% | 📈 +4 |
+| Pull Request | 10 | 7 | -30% | 📉 -3 |
 | Issue | 4 | 5 | +25% | 📈 +1 |
 | Commit | 14 | 20 | +43% | 📈 +6 |
 
@@ -83,17 +83,17 @@ prometheus-operator            █                    3%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-11-24（一） | 3 | ███░░ | PR #12772 (apache/apisix); Issue #631; Issue #629 |
-| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server, prometheus-operator/prometheus-operator, kubernetes-sigs/metrics-server)） |
+| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server, kubernetes-sigs/metrics-server), prometheus-operator/prometheus-operator） |
 | 2025-11-26（三） | 0 | ░░░░░ | — |
 | 2025-11-27（四） | 0 | ░░░░░ | — |
 | 2025-11-28（五） | 0 | ░░░░░ | — |
 | 2025-11-29（六） | 0 | ░░░░░ | — |
 | 2025-11-30（日） | 0 | ░░░░░ | — |
-| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools） |
+| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools)） |
 | 2025-12-02（二） | 0 | ░░░░░ | — |
 | 2025-12-03（三） | 1 | █░░░░ | PR #17640 (prometheus/prometheus) |
-| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kubeservice-stack/echo), tmohanvamsi/kagent, kagent-dev/kagent)） |
-| **2025-12-05（五）** | **8** | ████████ | 8 项活动（grafana/mimir-prometheus, prometheus/prometheus, elouafi-abderrahmane-2002/prometheus） |
+| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kagent-dev/kagent), kubeservice-stack/echo, kubeservice-stack/echo)） |
+| **2025-12-05（五）** | **8** | ████████ | 8 项活动（prometheus/prometheus, elouafi-abderrahmane-2002/prometheus, kubernetes-sigs/controller-tools） |
 | 2025-12-06（六） | 0 | ░░░░░ | — |
 | 2025-12-07（日） | 0 | ░░░░░ | — |
 
@@ -258,4 +258,4 @@ prometheus-operator            █                    3%
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*

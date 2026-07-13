@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -14,20 +14,21 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **8** 个 |
-| 涉及仓库数 | **8** 个 |
+| 涉及组织数 | **9** 个 |
+| 涉及仓库数 | **9** 个 |
 | Pull Request 数 | **5** 个（已合并 5，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **10** 次 |
-| 总活动量 | **16** |
+| Commit 数 | **11** 次 |
+| 总活动量 | **17** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            █████                25%
-kubeservice-stack              █████                25%
-volcano-sh                     ███                  19%
+prometheus-operator            ████                 24%
+kubeservice-stack              ████                 24%
+volcano-sh                     ███                  18%
 apecloud                       █                    6%
+csmVIc                         █                    6%
 GsonZhao                       █                    6%
 handan-yxh                     █                    6%
 ckyuto                         █                    6%
@@ -36,11 +37,11 @@ kev1N916                       █                    6%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（25%），涉及 1 个仓库，共 4 次活动。
+1. **prometheus-operator** 是最大贡献方向（24%），涉及 1 个仓库，共 4 次活动。
 2. 共 **5** 个 PR 已合并，覆盖 3 个仓库。
-3. 活跃高峰出现在 **2025-07-09**（8 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2025-07-09**（9 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 8 个仓库提交了 **10** 次代码。
+5. 在 9 个仓库提交了 **11** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -48,12 +49,12 @@ kev1N916                       █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 19 | **16** | -16% | 📉 -3 |
+| **总活动量** | 19 | **17** | -11% | 📉 -2 |
 | Pull Request | 10 | 5 | -50% | 📉 -5 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 9 | 10 | +11% | 📈 +1 |
+| Commit | 9 | 11 | +22% | 📈 +2 |
 
-- 🆕 **新增活跃仓库**：`GsonZhao/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
+- 🆕 **新增活跃仓库**：`GsonZhao/volcano`, `ckyuto/volcano-upstream`, `csmVIc/volcano`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
 - ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - 🔄 **工作重心转移**：从 **apecloud** 转向 **prometheus-operator**
 
@@ -63,10 +64,10 @@ kev1N916                       █                    6%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **16** | PR + Issue + Commit |
+| 📊 **总活动** | **17** | PR + Issue + Commit |
 | 📝 **Pull Request** | 5 | 已合并 5，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 10 | 代码提交 |
+| 💻 **Commit** | 11 | 代码提交 |
 
 ---
 
@@ -76,7 +77,7 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, prometheus-operator/prometheus-operator), handan-yxh/volcano-old-test） |
+| **2025-07-09（三）** | **9** | █████████ | 9 项活动（volcano-sh/volcano, prometheus-operator/prometheus-operator), GsonZhao/volcano） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
@@ -89,7 +90,7 @@ kev1N916                       █                    6%
 | 2025-07-19（六） | 0 | ░░░░░ | — |
 | 2025-07-20（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-07-09（8 次活动）为最高峰。
+> **活跃高峰**：2025-07-09（9 次活动）为最高峰。
 
 ---
 
@@ -99,14 +100,15 @@ kev1N916                       █                    6%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 4 | 25.0% | prometheus-operator/prometheus-operator(4) | PR, Push |
-| **kubeservice-stack** | 4 | 25.0% | kubeservice-stack/golang-tools(4) | PR, Push |
-| volcano-sh | 3 | 18.8% | volcano-sh/volcano(3) | Issue, PR, Push |
-| apecloud | 1 | 6.2% | apecloud/kubeblocks-addons(1) | Push |
-| GsonZhao | 1 | 6.2% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 6.2% | handan-yxh/volcano-old-test(1) | Push |
-| ckyuto | 1 | 6.2% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 6.2% | kev1N916/volcano(1) | Push |
+| **prometheus-operator** | 4 | 23.5% | prometheus-operator/prometheus-operator(4) | PR, Push |
+| **kubeservice-stack** | 4 | 23.5% | kubeservice-stack/golang-tools(4) | PR, Push |
+| volcano-sh | 3 | 17.6% | volcano-sh/volcano(3) | Issue, PR, Push |
+| apecloud | 1 | 5.9% | apecloud/kubeblocks-addons(1) | Push |
+| csmVIc | 1 | 5.9% | csmVIc/volcano(1) | Push |
+| GsonZhao | 1 | 5.9% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 5.9% | handan-yxh/volcano-old-test(1) | Push |
+| ckyuto | 1 | 5.9% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 5.9% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -116,10 +118,11 @@ kev1N916                       █                    6%
 | 2 | **kubeservice-stack/golang-tools** | 4 | 1 | 0 | 3 | PR #1: chore: update golang version to v1.23.0; Commit: Update golang.yaml; Commit: Merge pull request #1 from kubeservice-sta |
 | 3 | **volcano-sh/volcano** | 3 | 1 | 1 | 1 | PR #4443: Fix:  Sync Jobflow status with vcjob Sta; Issue #4442: When Vcjob Terminated, Jobflow always; Commit: fix jobflow status with vcjob Status Termi |
 | 4 | **apecloud/kubeblocks-addons** | 1 | 0 | 0 | 1 | Commit: Fix: add redis sharding cluster podAntiAff |
-| 5 | **GsonZhao/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
-| 6 | **handan-yxh/volcano-old-test** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
-| 7 | **ckyuto/volcano-upstream** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
-| 8 | **kev1N916/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 5 | **csmVIc/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 6 | **GsonZhao/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 7 | **handan-yxh/volcano-old-test** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 8 | **ckyuto/volcano-upstream** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 9 | **kev1N916/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
 
 ---
 
@@ -187,7 +190,7 @@ kev1N916                       █                    6%
 - **主要工作**:
   - Commit: Fix: add redis sharding cluster podAntiAffinity (#1765)
 
-### GsonZhao/volcano（1 次活动）
+### csmVIc/volcano（1 次活动）
 
 - **Commit**: 1 次
 - **主要工作**:
@@ -202,6 +205,7 @@ kev1N916                       █                    6%
 |------|---------|---------|---------|
 | kubeservice-stack/golang-tools | 3 | 2025-07-14 | Update golang.yaml; Merge pull request #1 from kubeservice-stack/updat; update golang v1.23.0 |
 | apecloud/kubeblocks-addons | 1 | 2025-07-07 | Fix: add redis sharding cluster podAntiAffinity (# |
+| csmVIc/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | GsonZhao/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | handan-yxh/volcano-old-test | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | prometheus-operator/prometheus-operator | 1 | 2025-07-10 | update golangci-lint version (#7695) |
@@ -225,4 +229,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*

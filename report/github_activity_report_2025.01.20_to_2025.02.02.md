@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -75,8 +75,8 @@ kubeflow                       █                    4%
 |------|--------|--------|----------|
 | 2025-01-20（一） | 3 | ███░░ | PR #679 (kubeflow/mpi-operator); PR #7287 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: up |
 | **2025-01-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator), kubeservice-stack/node-metrics） |
-| **2025-01-22（三）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
-| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubernetes-sigs/controller-tools), kubeservice-stack/common） |
+| **2025-01-22（三）** | **9** | █████████ | 9 项活动（kubernetes/kubernetes), prometheus-operator/prometheus-operator), kubeservice-stack/echo） |
+| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubeservice-stack/common, kubernetes-sigs/controller-tools)） |
 | 2025-01-24（五） | 0 | ░░░░░ | — |
 | 2025-01-25（六） | 0 | ░░░░░ | — |
 | 2025-01-26（日） | 0 | ░░░░░ | — |
@@ -149,7 +149,7 @@ kubeflow                       █                    4%
 
 | # | 仓库 | Issue | 标题 | 状态 |
 |---|------|-------|------|------|
-| 1 | kubernetes/kubernetes | [#129774](https://github.com/kubernetes/kubernetes/issues/129774) | defaulter-gen v1.32.x imports packages it doesn't need, which fails wi | 🟢 开放 |
+| 1 | kubernetes/kubernetes | [#129774](https://github.com/kubernetes/kubernetes/issues/129774) | defaulter-gen v1.32.x imports packages it doesn't need, which fails wi | ✅ 已关闭 |
 | 2 | kubernetes-sigs/controller-tools | [#1133](https://github.com/kubernetes-sigs/controller-tools/issues/1133) | inline field description added for CRD generation | ✅ 已关闭 |
 
 ---
@@ -233,4 +233,4 @@ kubeflow                       █                    4%
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*

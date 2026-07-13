@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -77,7 +77,7 @@ cnloxiaoteng-ship-it           █                    7%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo), kubeservice-stack/echo） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/echo)） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 2 | ██░░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update  |
@@ -224,4 +224,4 @@ cnloxiaoteng-ship-it           █                    7%
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*

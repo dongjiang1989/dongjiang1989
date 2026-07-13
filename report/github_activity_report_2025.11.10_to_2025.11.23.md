@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -16,18 +16,18 @@
 |------|------|
 | 涉及组织数 | **8** 个 |
 | 涉及仓库数 | **12** 个 |
-| Pull Request 数 | **9** 个（已合并 8，开放 1） |
+| Pull Request 数 | **10** 个（已合并 9，开放 1） |
 | Issue 数 | **4** 个 |
 | Commit 数 | **14** 次 |
-| 总活动量 | **27** |
+| 总活动量 | **28** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            █████                30%
-iflytek                        ███                  19%
-kubernetes-sigs                ███                  19%
-kubeservice-stack              ███                  19%
+prometheus-operator            █████                29%
+iflytek                        ████                 21%
+kubernetes-sigs                ███                  18%
+kubeservice-stack              ███                  18%
 prometheus                     █                    4%
 jicki                          █                    4%
 dongjiang1989                  █                    4%
@@ -36,8 +36,8 @@ QQGoblin                       █                    4%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（30%），涉及 1 个仓库，共 8 次活动。
-2. 共 **8** 个 PR 已合并，覆盖 5 个仓库。
+1. **prometheus-operator** 是最大贡献方向（29%），涉及 1 个仓库，共 8 次活动。
+2. 共 **9** 个 PR 已合并，覆盖 6 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-11-12**（9 次活动），展现了高强度的工作节奏。
 5. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
@@ -49,8 +49,8 @@ QQGoblin                       █                    4%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 16 | **27** | +69% | 📈 +11 |
-| Pull Request | 8 | 9 | +12% | 📈 +1 |
+| **总活动量** | 16 | **28** | +75% | 📈 +12 |
+| Pull Request | 8 | 10 | +25% | 📈 +2 |
 | Issue | 0 | 4 | 🆕 新增 | 📈 +4 |
 | Commit | 8 | 14 | +75% | 📈 +6 |
 
@@ -64,8 +64,8 @@ QQGoblin                       █                    4%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **27** | PR + Issue + Commit |
-| 📝 **Pull Request** | 9 | 已合并 8，开放 1 |
+| 📊 **总活动** | **28** | PR + Issue + Commit |
+| 📝 **Pull Request** | 10 | 已合并 9，开放 1 |
 | 📋 **Issue** | 4 | 创建 Issue |
 | 💻 **Commit** | 14 | 代码提交 |
 
@@ -77,19 +77,19 @@ QQGoblin                       █                    4%
 |------|--------|--------|----------|
 | 2025-11-10（一） | 0 | ░░░░░ | — |
 | 2025-11-11（二） | 1 | █░░░░ | PR #8089 (prometheus-operator/prometheus-operator) |
-| **2025-11-12（三）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime, prometheus/node_exporter） |
+| **2025-11-12（三）** | **9** | █████████ | 9 项活动（jicki/node_exporter, prometheus-operator/prometheus-operator), QQGoblin/node_exporter） |
 | 2025-11-13（四） | 2 | ██░░░ | prometheus-operator/prometheus-operator: chore: up; prometheus-operator/prometheus-operator: chore: ad |
 | 2025-11-14（五） | 0 | ░░░░░ | — |
 | 2025-11-15（六） | 2 | ██░░░ | PR #88 (kubeservice-stack/echo); kubeservice-stack/echo: add slices pkg (#88)
 
 Sign |
 | 2025-11-16（日） | 0 | ░░░░░ | — |
-| **2025-11-17（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kspack-go, kubernetes-sigs/kueue)） |
+| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kspack-go, prometheus-operator/prometheus-operator), kubeservice-stack/common） |
 | 2025-11-18（二） | 1 | █░░░░ | kubernetes-sigs/kueue: add modernize check (#7704) |
 | 2025-11-19（三） | 0 | ░░░░░ | — |
 | 2025-11-20（四） | 0 | ░░░░░ | — |
 | 2025-11-21（五） | 1 | █░░░░ | PR #2653 (kubernetes-sigs/karpenter) |
-| 2025-11-22（六） | 4 | ████░ | 4 项活动 |
+| **2025-11-22（六）** | **5** | █████ | 5 项活动（iflytek/astron-agent)） |
 | 2025-11-23（日） | 1 | █░░░░ | PR #8114 (prometheus-operator/prometheus-operator) |
 
 > **活跃高峰**：2025-11-12（9 次活动）为最高峰。
@@ -102,21 +102,21 @@ Sign |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 8 | 29.6% | prometheus-operator/prometheus-operator(8) | PR, Push |
-| iflytek | 5 | 18.5% | iflytek/astron-agent(5) | Issue, Push |
-| kubernetes-sigs | 5 | 18.5% | kubernetes-sigs/kueue(2), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/karpenter(1) | PR, Push |
-| kubeservice-stack | 5 | 18.5% | kubeservice-stack/echo(2), kubeservice-stack/common(2), kubeservice-stack/kspack-go(1) | PR, Push |
-| prometheus | 1 | 3.7% | prometheus/node_exporter(1) | Push |
-| jicki | 1 | 3.7% | jicki/node_exporter(1) | Push |
-| dongjiang1989 | 1 | 3.7% | dongjiang1989/dongjiang1989(1) | Push |
-| QQGoblin | 1 | 3.7% | QQGoblin/node_exporter(1) | Push |
+| **prometheus-operator** | 8 | 28.6% | prometheus-operator/prometheus-operator(8) | PR, Push |
+| **iflytek** | 6 | 21.4% | iflytek/astron-agent(6) | Issue, PR, Push |
+| kubernetes-sigs | 5 | 17.9% | kubernetes-sigs/kueue(2), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/karpenter(1) | PR, Push |
+| kubeservice-stack | 5 | 17.9% | kubeservice-stack/echo(2), kubeservice-stack/common(2), kubeservice-stack/kspack-go(1) | PR, Push |
+| prometheus | 1 | 3.6% | prometheus/node_exporter(1) | Push |
+| jicki | 1 | 3.6% | jicki/node_exporter(1) | Push |
+| dongjiang1989 | 1 | 3.6% | dongjiang1989/dongjiang1989(1) | Push |
+| QQGoblin | 1 | 3.6% | QQGoblin/node_exporter(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **prometheus-operator/prometheus-operator** | 8 | 5 | 0 | 3 | PR #8114: chore: add standardization of import as ; PR #8100: chore: add docker ecosystems in dependab; PR #8094: chore: add modernize lint |
-| 2 | **iflytek/astron-agent** | 5 | 0 | 4 | 1 | Issue #622: [FEATURE] Add code assist for PR revie; Issue #621: [FEATURE]  Add `boilerplate.txt` githu; Issue #620: [FEATURE]  Add iflytek CLA （Contributo |
+| 2 | **iflytek/astron-agent** | 6 | 1 | 4 | 1 | PR #623: chore(CI): Add code assist for PR; Issue #622: [FEATURE] Add code assist for PR revie; Issue #621: [FEATURE]  Add `boilerplate.txt` githu |
 | 3 | **kubernetes-sigs/kueue** | 2 | 1 | 0 | 1 | PR #7704: Add modernize check; Commit: add modernize check (#7704) |
 | 4 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #88: feat: change sort with slices pkg and add ; Commit: add slices pkg (#88) |
 | 5 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3384: ✨Update golangci-lint version and modern; Commit: update golangci-lint version and add moder |
@@ -135,13 +135,14 @@ Sign |
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus-operator/prometheus-operator | [#8114](https://github.com/prometheus-operator/prometheus-operator/pull/8114) | chore: add standardization of import as aliases | 🔒 已关闭 |
-| 2 | kubernetes-sigs/karpenter | [#2653](https://github.com/kubernetes-sigs/karpenter/pull/2653) | chore:  change sort to slices package | 🔒 已关闭 |
-| 3 | kubernetes-sigs/kueue | [#7704](https://github.com/kubernetes-sigs/kueue/pull/7704) | Add modernize check | ✅ 已合并 |
-| 4 | kubeservice-stack/echo | [#88](https://github.com/kubeservice-stack/echo/pull/88) | feat: change sort with slices pkg and add modernize type | ✅ 已合并 |
-| 5 | prometheus-operator/prometheus-operator | [#8094](https://github.com/prometheus-operator/prometheus-operator/pull/8094) | chore: add modernize lint | ✅ 已合并 |
-| 6 | prometheus-operator/prometheus-operator | [#8093](https://github.com/prometheus-operator/prometheus-operator/pull/8093) | chore: update golangci-lint version to v2.6.1 | ✅ 已合并 |
-| 7 | kubernetes-sigs/controller-runtime | [#3384](https://github.com/kubernetes-sigs/controller-runtime/pull/3384) | ✨Update golangci-lint version and modernize lint  | ✅ 已合并 |
-| 8 | prometheus-operator/prometheus-operator | [#8089](https://github.com/prometheus-operator/prometheus-operator/pull/8089) | Fix:  fix operator is not applying (CA) certificates for HTTP configur | ✅ 已合并 |
+| 2 | iflytek/astron-agent | [#623](https://github.com/iflytek/astron-agent/pull/623) | chore(CI): Add code assist for PR | ✅ 已合并 |
+| 3 | kubernetes-sigs/karpenter | [#2653](https://github.com/kubernetes-sigs/karpenter/pull/2653) | chore:  change sort to slices package | 🔒 已关闭 |
+| 4 | kubernetes-sigs/kueue | [#7704](https://github.com/kubernetes-sigs/kueue/pull/7704) | Add modernize check | ✅ 已合并 |
+| 5 | kubeservice-stack/echo | [#88](https://github.com/kubeservice-stack/echo/pull/88) | feat: change sort with slices pkg and add modernize type | ✅ 已合并 |
+| 6 | prometheus-operator/prometheus-operator | [#8094](https://github.com/prometheus-operator/prometheus-operator/pull/8094) | chore: add modernize lint | ✅ 已合并 |
+| 7 | prometheus-operator/prometheus-operator | [#8093](https://github.com/prometheus-operator/prometheus-operator/pull/8093) | chore: update golangci-lint version to v2.6.1 | ✅ 已合并 |
+| 8 | kubernetes-sigs/controller-runtime | [#3384](https://github.com/kubernetes-sigs/controller-runtime/pull/3384) | ✨Update golangci-lint version and modernize lint  | ✅ 已合并 |
+| 9 | prometheus-operator/prometheus-operator | [#8089](https://github.com/prometheus-operator/prometheus-operator/pull/8089) | Fix:  fix operator is not applying (CA) certificates for HTTP configur | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -175,16 +176,17 @@ Sign |
   - PR #8093: chore: update golangci-lint version to v2.6.1
   - PR #8089: Fix:  fix operator is not applying (CA) certificates for HTT
 
-### iflytek/astron-agent（5 次活动）
+### iflytek/astron-agent（6 次活动）
 
+- **PR**: 1 个
 - **Issue**: 4 个
 - **Commit**: 1 次
 - **主要工作**:
+  - PR #623: chore(CI): Add code assist for PR
   - Issue #622: [FEATURE] Add code assist for PR review
   - Issue #621: [FEATURE]  Add `boilerplate.txt` github action checker
   - Issue #620: [FEATURE]  Add iflytek CLA （Contributor License Agreement)
   - Issue #619: [FEATURE]  Add DCO GitHub App to Enhance Code Commit Complia
-  - Commit: add code assist for PR (#623)
 
 ### kubernetes-sigs/kueue（2 次活动）
 
@@ -243,4 +245,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*

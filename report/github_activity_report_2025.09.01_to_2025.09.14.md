@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：229 | **Followers**：62 | **Following**：51
+> **公开仓库数**：232 | **Followers**：63 | **Following**：53
 
 ---
 
@@ -14,29 +14,30 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **5** 个 |
-| 涉及仓库数 | **6** 个 |
+| 涉及组织数 | **6** 个 |
+| 涉及仓库数 | **7** 个 |
 | Pull Request 数 | **10** 个（已合并 10，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **10** 次 |
-| 总活动量 | **20** |
+| Commit 数 | **11** 次 |
+| 总活动量 | **21** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ██████████           50%
-prometheus-operator            ██████               30%
-bytebase                       ██                   10%
+kubernetes-sigs                █████████            48%
+prometheus-operator            █████                29%
+bytebase                       █                    10%
 kagent-dev                     █                    5%
+weedgit                        █                    5%
 bwplotka                       █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（50%），涉及 2 个仓库，共 10 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（48%），涉及 2 个仓库，共 10 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 5 个仓库。
 3. 活跃高峰出现在 **2025-09-11**（7 次活动），展现了高强度的工作节奏。
-4. 在 5 个仓库提交了 **10** 次代码。
+4. 在 6 个仓库提交了 **11** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -44,10 +45,10 @@ bwplotka                       █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 20 | **20** | 0% | ➡️ 持平 |
+| **总活动量** | 21 | **21** | 0% | ➡️ 持平 |
 | Pull Request | 6 | 10 | +67% | 📈 +4 |
 | Issue | 2 | 0 | -100% | 📉 -2 |
-| Commit | 12 | 10 | -17% | 📉 -2 |
+| Commit | 13 | 11 | -15% | 📉 -2 |
 
 - 🆕 **新增活跃仓库**：`bwplotka/mdox`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - ❌ **不再活跃的仓库**：`apache/dubbo-go`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
@@ -59,10 +60,10 @@ bwplotka                       █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **20** | PR + Issue + Commit |
+| 📊 **总活动** | **21** | PR + Issue + Commit |
 | 📝 **Pull Request** | 10 | 已合并 10，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 10 | 代码提交 |
+| 💻 **Commit** | 11 | 代码提交 |
 
 ---
 
@@ -80,8 +81,8 @@ bwplotka                       █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), bytebase/bytebase, kubernetes-sigs/controller-runtime） |
+| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), bytebase/bytebase), kubernetes-sigs/controller-runtime)） |
+| **2025-09-12（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), weedgit/bytebase, kubernetes-sigs/controller-runtime)） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -95,11 +96,12 @@ bwplotka                       █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 10 | 50.0% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
-| **prometheus-operator** | 6 | 30.0% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| bytebase | 2 | 10.0% | bytebase/bytebase(2) | PR, Push |
-| kagent-dev | 1 | 5.0% | kagent-dev/kagent(1) | PR |
-| bwplotka | 1 | 5.0% | bwplotka/mdox(1) | Push |
+| **kubernetes-sigs** | 10 | 47.6% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
+| **prometheus-operator** | 6 | 28.6% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| bytebase | 2 | 9.5% | bytebase/bytebase(2) | PR, Push |
+| kagent-dev | 1 | 4.8% | kagent-dev/kagent(1) | PR |
+| weedgit | 1 | 4.8% | weedgit/bytebase(1) | Push |
+| bwplotka | 1 | 4.8% | bwplotka/mdox(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -110,7 +112,8 @@ bwplotka                       █                    5%
 | 3 | **kubernetes-sigs/controller-runtime** | 4 | 2 | 0 | 2 | PR #3318: 🌱chore: Update golangci-lint version to ; PR #3316: 🌱Bump to k8s.io/* v0.34.1; Commit: update golangci-lint to v2.4.0 |
 | 4 | **bytebase/bytebase** | 2 | 1 | 0 | 1 | PR #17404: fix(mongodb): fix mongodb readonly user; Commit: fix MONGODB readonly user roles (#17404) |
 | 5 | **kagent-dev/kagent** | 1 | 1 | 0 | 0 | PR #850: Bump to k8s.io/* v0.34.0 |
-| 6 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
+| 6 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
+| 7 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
 
 ---
 
@@ -201,6 +204,7 @@ bwplotka                       █                    5%
 | kubernetes-sigs/controller-tools | 3 | 2025-09-12 | 🌱chore: Update golangci-lint version to v2.4.0; Release envtest v1.34.1; update k8s/* to v0.34.1 |
 | prometheus-operator/prometheus-operator | 3 | 2025-09-09 | update controller-tools to v0.19.0; update golangci-linter and kube-api-linter to v2.4; tools: add KAL tools for golangci-linter with bina |
 | kubernetes-sigs/controller-runtime | 2 | 2025-09-12 | update golangci-lint to v2.4.0; Bump to k8s.io/* v0.34.1 |
+| weedgit/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 | bwplotka/mdox | 1 | 2025-09-09 | fix http2: timeout awaiting response headers (#172 |
 | bytebase/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 
@@ -220,4 +224,4 @@ bwplotka                       █                    5%
 
 ---
 
-*报告生成时间：2026-07-06 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
