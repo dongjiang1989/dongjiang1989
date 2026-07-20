@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -76,19 +76,19 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/external-dns), prometheus/procfs, prometheus-operator/prometheus-operator)） |
+| **2025-07-21（一）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), prometheus/procfs), kubernetes-sigs/controller-tools） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kagent-dev/kagent） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（tmohanvamsi/kagent, kagent-dev/kagent), prometheus-operator/prometheus-operator)） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
 | 2025-07-30（三） | 3 | ███░░ | PR #1248 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update golangci ; prometheus-operator/prometheus-operator: feat: add |
-| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime)） |
+| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime), dongjiang1989/dongjiang1989） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **6** | ██████ | 6 项活动（kubernetes-sigs/cluster-api, Project-HAMi/HAMi-core, kubernetes-sigs/cluster-api)） |
+| **2025-08-02（六）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi-core, kubernetes-sigs/cluster-api), kubernetes-sigs/cluster-api） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-07-24（10 次活动）为最高峰。
@@ -255,4 +255,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

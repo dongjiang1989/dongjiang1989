@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -85,17 +85,17 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-03-17（一） | 4 | ████░ | 4 项活动（Apexmail/helm, helm/helm, hoppipolla-dev/helm） |
-| **2025-03-18（二）** | **13** | █████████████ | 13 项活动（Apexmail/helm, volcano-sh/volcano, GsonZhao/volcano） |
-| 2025-03-19（三） | 4 | ████░ | 4 项活动（volcano-sh/volcano), Apexmail/helm, helm/helm） |
-| **2025-03-20（四）** | **9** | █████████ | 9 项活动（volcano-sh/volcano, karmada-io/karmada, GsonZhao/volcano） |
-| **2025-03-21（五）** | **16** | ████████████████ | 16 项活动（volcano-sh/volcano, GsonZhao/volcano, csmVIc/volcano） |
+| 2025-03-17（一） | 4 | ████░ | 4 项活动（hoppipolla-dev/helm, helm/helm, helm/helm)） |
+| **2025-03-18（二）** | **13** | █████████████ | 13 项活动（ckyuto/volcano-upstream, kev1N916/volcano, volcano-sh/volcano） |
+| 2025-03-19（三） | 4 | ████░ | 4 项活动（hoppipolla-dev/helm, helm/helm, volcano-sh/volcano)） |
+| **2025-03-20（四）** | **9** | █████████ | 9 项活动（ckyuto/volcano-upstream, kev1N916/volcano, volcano-sh/volcano） |
+| **2025-03-21（五）** | **16** | ████████████████ | 16 项活动（ckyuto/volcano-upstream, kev1N916/volcano, handan-yxh/volcano-old-test） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/network-doctor, kubeservice-stack/docker-image, prometheus-operator/prometheus-operator)） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/network-doctor, prometheus-operator/prometheus-operator), kubeservice-stack/docker-image） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（Apexmail/helm, prometheus-community/helm-charts, prometheus-operator/prometheus-operator)） |
-| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
+| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（prometheus-community/helm-charts), yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts） |
+| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
@@ -284,4 +284,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

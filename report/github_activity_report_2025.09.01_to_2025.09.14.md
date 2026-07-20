@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -14,30 +14,31 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **6** 个 |
-| 涉及仓库数 | **7** 个 |
+| 涉及组织数 | **7** 个 |
+| 涉及仓库数 | **8** 个 |
 | Pull Request 数 | **10** 个（已合并 10，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **11** 次 |
-| 总活动量 | **21** |
+| Commit 数 | **12** 次 |
+| 总活动量 | **22** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                █████████            48%
-prometheus-operator            █████                29%
-bytebase                       █                    10%
+kubernetes-sigs                █████████            45%
+prometheus-operator            █████                27%
+bytebase                       █                    9%
 kagent-dev                     █                    5%
 weedgit                        █                    5%
 bwplotka                       █                    5%
+allen-ray-dev                  █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（48%），涉及 2 个仓库，共 10 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（45%），涉及 2 个仓库，共 10 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 5 个仓库。
-3. 活跃高峰出现在 **2025-09-11**（7 次活动），展现了高强度的工作节奏。
-4. 在 6 个仓库提交了 **11** 次代码。
+3. 活跃高峰出现在 **2025-09-12**（7 次活动），展现了高强度的工作节奏。
+4. 在 7 个仓库提交了 **12** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -45,10 +46,10 @@ bwplotka                       █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 21 | **21** | 0% | ➡️ 持平 |
+| **总活动量** | 22 | **22** | 0% | ➡️ 持平 |
 | Pull Request | 6 | 10 | +67% | 📈 +4 |
 | Issue | 2 | 0 | -100% | 📉 -2 |
-| Commit | 13 | 11 | -15% | 📉 -2 |
+| Commit | 14 | 12 | -14% | 📉 -2 |
 
 - 🆕 **新增活跃仓库**：`bwplotka/mdox`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - ❌ **不再活跃的仓库**：`apache/dubbo-go`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
@@ -60,10 +61,10 @@ bwplotka                       █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **21** | PR + Issue + Commit |
+| 📊 **总活动** | **22** | PR + Issue + Commit |
 | 📝 **Pull Request** | 10 | 已合并 10，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 11 | 代码提交 |
+| 💻 **Commit** | 12 | 代码提交 |
 
 ---
 
@@ -73,7 +74,7 @@ bwplotka                       █                    5%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kagent-dev/kagent), prometheus-operator/prometheus-operator)） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -81,12 +82,12 @@ bwplotka                       █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), bytebase/bytebase), kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), weedgit/bytebase, kubernetes-sigs/controller-runtime)） |
+| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-tools)） |
+| **2025-09-12（五）** | **7** | ███████ | 7 项活动（allen-ray-dev/bytebase, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime)） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-09-11（7 次活动）为最高峰。
+> **活跃高峰**：2025-09-12（7 次活动）为最高峰。
 
 ---
 
@@ -96,12 +97,13 @@ bwplotka                       █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 10 | 47.6% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
-| **prometheus-operator** | 6 | 28.6% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| bytebase | 2 | 9.5% | bytebase/bytebase(2) | PR, Push |
-| kagent-dev | 1 | 4.8% | kagent-dev/kagent(1) | PR |
-| weedgit | 1 | 4.8% | weedgit/bytebase(1) | Push |
-| bwplotka | 1 | 4.8% | bwplotka/mdox(1) | Push |
+| **kubernetes-sigs** | 10 | 45.5% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
+| **prometheus-operator** | 6 | 27.3% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| bytebase | 2 | 9.1% | bytebase/bytebase(2) | PR, Push |
+| kagent-dev | 1 | 4.5% | kagent-dev/kagent(1) | PR |
+| weedgit | 1 | 4.5% | weedgit/bytebase(1) | Push |
+| bwplotka | 1 | 4.5% | bwplotka/mdox(1) | Push |
+| allen-ray-dev | 1 | 4.5% | allen-ray-dev/bytebase(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -114,6 +116,7 @@ bwplotka                       █                    5%
 | 5 | **kagent-dev/kagent** | 1 | 1 | 0 | 0 | PR #850: Bump to k8s.io/* v0.34.0 |
 | 6 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
 | 7 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
+| 8 | **allen-ray-dev/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
 
 ---
 
@@ -207,6 +210,7 @@ bwplotka                       █                    5%
 | weedgit/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 | bwplotka/mdox | 1 | 2025-09-09 | fix http2: timeout awaiting response headers (#172 |
 | bytebase/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
+| allen-ray-dev/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 
 ---
 
@@ -224,4 +228,4 @@ bwplotka                       █                    5%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

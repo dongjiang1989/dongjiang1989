@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -86,16 +86,16 @@ kev1N916                       █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（NVIDIA/k8s-device-plugin), kubeservice-stack/node-metrics, kubeservice-stack/custom-limit-range)） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubegems/modelx), kubeservice-stack/modelx), karmada-io/karmada)） |
-| **2025-04-17（四）** | **7** | ███████ | 7 项活动（Apexmail/helm, kubeservice-stack/common), kubeservice-stack/common） |
-| **2025-04-18（五）** | **13** | █████████████ | 13 项活动（Apexmail/helm, volcano-sh/volcano, GsonZhao/volcano） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/node-metrics, NVIDIA/k8s-device-plugin), kubeservice-stack/node-metrics)） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/modelx), karmada-io/karmada), kubegems/modelx)） |
+| **2025-04-17（四）** | **7** | ███████ | 7 项活动（kubeservice-stack/common, kubeservice-stack/common), prometheus-operator/prometheus-operator） |
+| **2025-04-18（五）** | **13** | █████████████ | 13 项活动（ckyuto/volcano-upstream, kev1N916/volcano, volcano-sh/volcano） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), thanos-io/thanos), dongjiang1989/api-server） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（dongjiang1989/api-server, thanos-io/thanos), prometheus-operator/prometheus-operator)） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
@@ -283,4 +283,4 @@ kev1N916                       █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

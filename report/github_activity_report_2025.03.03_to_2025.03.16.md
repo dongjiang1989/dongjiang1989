@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -83,17 +83,17 @@ raihanakbr                     █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-03-03（一） | 0 | ░░░░░ | — |
-| **2025-03-04（二）** | **6** | ██████ | 6 项活动（prometheus-community/helm-charts, cnloxiaoteng-ship-it/helm-charts, Scaling-Smart/prometheus-helm-charts） |
+| **2025-03-04（二）** | **6** | ██████ | 6 项活动（yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts, prometheus-community/helm-charts） |
 | 2025-03-05（三） | 2 | ██░░░ | PR #7382 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2025-03-06（四）** | **8** | ████████ | 8 项活动（volcano-sh/community), karmada-io/karmada, volcano-sh/apis)） |
+| **2025-03-06（四）** | **8** | ████████ | 8 项活动（volcano-sh/apis, volcano-sh/community), volcano-sh/community） |
 | 2025-03-07（五） | 0 | ░░░░░ | — |
 | 2025-03-08（六） | 0 | ░░░░░ | — |
 | 2025-03-09（日） | 0 | ░░░░░ | — |
-| **2025-03-10（一）** | **11** | ███████████ | 11 项活动（volcano-sh/community), volcano-sh/volcano, GsonZhao/volcano） |
+| **2025-03-10（一）** | **11** | ███████████ | 11 项活动（ckyuto/volcano-upstream, kev1N916/volcano, kubernetes-sigs/controller-tools） |
 | 2025-03-11（二） | 2 | ██░░░ | PR #7397 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Fix: fix  |
-| 2025-03-12（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/descheduler), web38444/descheduler, kubernetes-sigs/descheduler） |
-| **2025-03-13（四）** | **8** | ████████ | 8 项活动（volcano-sh/volcano, GsonZhao/volcano, csmVIc/volcano） |
-| **2025-03-14（五）** | **5** | █████ | 5 项活动（volcano-sh/volcano), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| 2025-03-12（三） | 4 | ████░ | 4 项活动（raihanakbr/descheduler-custom, kubernetes-sigs/descheduler), kubernetes-sigs/descheduler） |
+| **2025-03-13（四）** | **8** | ████████ | 8 项活动（ckyuto/volcano-upstream, kev1N916/volcano, handan-yxh/volcano-old-test） |
+| **2025-03-14（五）** | **5** | █████ | 5 项活动（volcano-sh/volcano), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2025-03-15（六） | 0 | ░░░░░ | — |
 | 2025-03-16（日） | 0 | ░░░░░ | — |
 
@@ -278,4 +278,4 @@ raihanakbr                     █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

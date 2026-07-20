@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -77,12 +77,12 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **9** | █████████ | 9 项活动（volcano-sh/volcano, prometheus-operator/prometheus-operator), GsonZhao/volcano） |
+| **2025-07-09（三）** | **9** | █████████ | 9 项活动（ckyuto/volcano-upstream, kev1N916/volcano, prometheus-operator/prometheus-operator)） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
 | 2025-07-13（日） | 0 | ░░░░░ | — |
-| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools), kubeservice-stack/golang-tools） |
+| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools, kubeservice-stack/golang-tools)） |
 | 2025-07-15（二） | 0 | ░░░░░ | — |
 | 2025-07-16（三） | 2 | ██░░░ | PR #7728 (prometheus-operator/prometheus-operator); PR #7725 (prometheus-operator/prometheus-operator) |
 | 2025-07-17（四） | 0 | ░░░░░ | — |
@@ -229,4 +229,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

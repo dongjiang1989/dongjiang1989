@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -77,15 +77,15 @@ Annie-Summer                   █                    5%
 |------|--------|--------|----------|
 | 2026-01-05（一） | 0 | ░░░░░ | — |
 | 2026-01-06（二） | 0 | ░░░░░ | — |
-| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, grafana/grafana), kubeservice-stack/lxcfs-webhook)） |
+| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, grafana/grafana)） |
 | 2026-01-08（四） | 1 | █░░░░ | kubeservice-stack/lxcfs-webhook: Update release.ya |
 | 2026-01-09（五） | 3 | ███░░ | PR #777 (prometheus/procfs); PR #8264 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: Up |
 | 2026-01-10（六） | 0 | ░░░░░ | — |
 | 2026-01-11（日） | 0 | ░░░░░ | — |
 | 2026-01-12（一） | 1 | █░░░░ | PR #1578 (Project-HAMi/HAMi) |
 | 2026-01-13（二） | 1 | █░░░░ | PR #1581 (Project-HAMi/HAMi) |
-| 2026-01-14（三） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, lsj-x/HAMi, Annie-Summer/HAMi-test） |
-| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989） |
+| 2026-01-14（三） | 4 | ████░ | 4 项活动（Dzkmobw/HAMi, Annie-Summer/HAMi-test, Project-HAMi/HAMi） |
+| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator)） |
 | 2026-01-16（五） | 0 | ░░░░░ | — |
 | 2026-01-17（六） | 0 | ░░░░░ | — |
 | 2026-01-18（日） | 0 | ░░░░░ | — |
@@ -236,4 +236,4 @@ Annie-Summer                   █                    5%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

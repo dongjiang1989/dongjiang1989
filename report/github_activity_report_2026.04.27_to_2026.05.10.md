@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -84,17 +84,17 @@ kubeservice-stack              █                    2%
 |------|--------|--------|----------|
 | 2026-04-27（一） | 2 | ██░░░ | PR #810 (prometheus/procfs); PR #1759 (kagent-dev/kagent) |
 | 2026-04-28（二） | 3 | ███░░ | PR #706 (kubernetes-sigs/agent-sandbox); PR #705 (kubernetes-sigs/agent-sandbox); PR #704 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-29（三）** | **5** | █████ | 5 项活动（dongjiang1989/opensearch-api, kubeservice-stack/echo, prometheus-operator/prometheus-operator） |
+| **2026-04-29（三）** | **5** | █████ | 5 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator, kubeservice-stack/echo） |
 | 2026-04-30（四） | 0 | ░░░░░ | — |
 | 2026-05-01（五） | 0 | ░░░░░ | — |
 | 2026-05-02（六） | 0 | ░░░░░ | — |
 | 2026-05-03（日） | 0 | ░░░░░ | — |
 | 2026-05-04（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: add |
 | 2026-05-05（二） | 2 | ██░░░ | PR #8553 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2026-05-06（三）** | **8** | ████████ | 8 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kubernetes-sigs/kubebuilder)） |
-| **2026-05-07（四）** | **22** | ████████████████████ | 22 项活动（kagent-dev/kagent), iflytek/skillhub), prometheus/alertmanager)） |
-| **2026-05-08（五）** | **9** | █████████ | 9 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kagent-dev/kagent） |
-| **2026-05-09（六）** | **7** | ███████ | 7 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kagent-dev/kagent） |
+| **2026-05-06（三）** | **8** | ████████ | 8 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools） |
+| **2026-05-07（四）** | **22** | ████████████████████ | 22 项活动（dongjiang1989/opensearch-api, Wionerlol/SkillHub, bohe1026/skillhub） |
+| **2026-05-08（五）** | **9** | █████████ | 9 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox)） |
+| **2026-05-09（六）** | **7** | ███████ | 7 项活动（volcano-sh/volcano), kagent-dev/kagent), prometheus-operator/prometheus-operator)） |
 | 2026-05-10（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2026-05-07（22 次活动）为最高峰。
@@ -279,4 +279,4 @@ kubeservice-stack              █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

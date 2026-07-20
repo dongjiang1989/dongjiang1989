@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -73,10 +73,10 @@ grafana                        █                    6%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator） |
+| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime） |
 | 2025-12-23（二） | 3 | ███░░ | PR #8203 (prometheus-operator/prometheus-operator); dongjiang1989/dongjiang1989: Update README.md; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-12-24（三） | 1 | █░░░░ | PR #2345 (apecloud/kubeblocks-addons) |
-| **2025-12-25（四）** | **8** | ████████ | 8 项活动（kubeservice-stack/lua-resty-zookeeper), prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper） |
+| **2025-12-25（四）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper, apecloud/kubeblocks-addons） |
 | 2025-12-26（五） | 0 | ░░░░░ | — |
 | 2025-12-27（六） | 0 | ░░░░░ | — |
 | 2025-12-28（日） | 0 | ░░░░░ | — |
@@ -221,4 +221,4 @@ grafana                        █                    6%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

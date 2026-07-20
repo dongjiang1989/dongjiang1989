@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -83,7 +83,7 @@ karmada-io                     █                    6%
 | 2025-02-11（二） | 3 | ███░░ | PR #7333 (prometheus-operator/prometheus-operator); Issue #102; prometheus-operator/prometheus-operator: update co |
 | 2025-02-12（三） | 1 | █░░░░ | PR #32 (kubeservice-stack/modelx) |
 | 2025-02-13（四） | 0 | ░░░░░ | — |
-| **2025-02-14（五）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/common)） |
+| **2025-02-14（五）** | **7** | ███████ | 7 项活动（kubeservice-stack/common, kubeservice-stack/modelx), prometheus-operator/prometheus-operator)） |
 | 2025-02-15（六） | 0 | ░░░░░ | — |
 | 2025-02-16（日） | 0 | ░░░░░ | — |
 
@@ -216,7 +216,7 @@ karmada-io                     █                    6%
 | 仓库 | 时间 | 说明 |
 |------|------|------|
 | [bgalvao/featureform](https://github.com/bgalvao/featureform) | 2025-02-14 | The Virtual Feature Store. Turn your existing data infrastru |
-| [ollama/ollama](https://github.com/ollama/ollama) | 2025-02-13 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSee |
+| [ollama/ollama](https://github.com/ollama/ollama) | 2025-02-13 | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSee |
 | [microsoft/AL-Go](https://github.com/microsoft/AL-Go) | 2025-02-06 | The plug-and-play DevOps solution for Business Central app d |
 
 ---
@@ -227,4 +227,4 @@ karmada-io                     █                    6%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

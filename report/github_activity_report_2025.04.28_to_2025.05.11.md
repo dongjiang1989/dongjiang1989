@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -87,18 +87,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（web38444/descheduler, prometheus-operator/prometheus-operator), Project-HAMi/HAMi-core） |
+| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/descheduler), kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator)） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（web38444/descheduler, prometheus-operator/prometheus-operator), thanos-io/thanos)） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator)） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **23** | ████████████████████ | 23 项活动（web38444/descheduler, aimultiple-benchmark/prometheus-bench-gre-2, kubernetes-sigs/descheduler） |
+| **2025-05-06（二）** | **23** | ████████████████████ | 23 项活动（kubernetes-sigs/descheduler, web38444/descheduler, aimultiple-benchmark/prometheus-bench-gre-2） |
 | 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, kubeservice-stack/common, prometheus-operator/prometheus-operator)） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/echo, kubeservice-stack/common)） |
+| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/common, prometheus-operator/prometheus-operator)） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/common), kubeservice-stack/echo） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -184,7 +184,7 @@ punith1006                     █                    2%
 
 | # | 仓库 | Issue | 标题 | 状态 |
 |---|------|-------|------|------|
-| 1 | Project-HAMi/HAMi-core | [#71](https://github.com/Project-HAMi/HAMi-core/issues/71) | By grabbing the latest version of cuda interface list, automatically c | 🟢 开放 |
+| 1 | Project-HAMi/HAMi-core | [#71](https://github.com/Project-HAMi/HAMi-core/issues/71) | By grabbing the latest version of cuda interface list, automatically c | ✅ 已关闭 |
 
 ---
 
@@ -287,4 +287,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

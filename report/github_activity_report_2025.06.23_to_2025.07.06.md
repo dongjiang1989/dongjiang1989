@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -72,12 +72,12 @@ dongjiang1989                  █                    5%
 | 2025-06-24（二） | 2 | ██░░░ | PR #1746 (apecloud/kubeblocks-addons); PR #1743 (apecloud/kubeblocks-addons) |
 | 2025-06-25（三） | 2 | ██░░░ | PR #3243 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: fix priority q |
 | 2025-06-26（四） | 0 | ░░░░░ | — |
-| **2025-06-27（五）** | **5** | █████ | 5 项活动（apecloud/kubeblocks-addons), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools)） |
+| **2025-06-27（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), apecloud/kubeblocks-addons), dongjiang1989/dongjiang1989） |
 | 2025-06-28（六） | 0 | ░░░░░ | — |
 | 2025-06-29（日） | 0 | ░░░░░ | — |
 | 2025-06-30（一） | 2 | ██░░░ | PR #7656 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
 | 2025-07-01（二） | 2 | ██░░░ | PR #7659 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
-| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons), apecloud/kubeblocks-addons） |
+| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons, apecloud/kubeblocks-addons)） |
 | 2025-07-03（四） | 2 | ██░░░ | PR #7672 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
 | 2025-07-04（五） | 0 | ░░░░░ | — |
 | 2025-07-05（六） | 0 | ░░░░░ | — |
@@ -212,4 +212,4 @@ dongjiang1989                  █                    5%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

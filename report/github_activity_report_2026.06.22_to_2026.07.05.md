@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -16,10 +16,9 @@
 |------|------|
 | 涉及组织数 | **11** 个 |
 | 涉及仓库数 | **21** 个 |
-| Pull Request 数 | **38** 个（已合并 30，开放 8） |
+| Pull Request 数 | **38** 个（已合并 33，开放 5） |
 | Issue 数 | **15** 个 |
 | Commit 数 | **39** 次 |
-| 活动事件数 | **97** 次 |
 | 总活动量 | **92** |
 
 ### 🎯 工作重心分布
@@ -41,8 +40,8 @@ prometheus-operator            █                    1%
 ### 💡 核心总结
 
 1. **iflytek** 是最大贡献方向（57%），涉及 8 个仓库，共 52 次活动。
-2. 共 **30** 个 PR 已合并，覆盖 13 个仓库。
-3. **8** 个 PR 仍在开放/Review 中。
+2. 共 **33** 个 PR 已合并，覆盖 15 个仓库。
+3. **5** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-29**（22 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 16 个仓库提交了 **39** 次代码。
@@ -69,18 +68,9 @@ prometheus-operator            █                    1%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **92** | PR + Issue + Commit |
-| 📝 **Pull Request** | 38 | 已合并 30，开放 8 |
+| 📝 **Pull Request** | 38 | 已合并 33，开放 5 |
 | 📋 **Issue** | 15 | 创建 Issue |
 | 💻 **Commit** | 39 | 代码提交 |
-| 📝 **PushEvent** | 30 | 代码推送 |
-| 🔀 **PullRequestEvent** | 18 | PR 操作 |
-| 💬 **IssueCommentEvent** | 11 | Issue 评论 |
-| 🌿 **CreateEvent** | 9 | 创建分支/标签 |
-| 🗑️ **DeleteEvent** | 9 | 删除分支 |
-| 👀 **PullRequestReviewEvent** | 9 | PR Review |
-| 💭 **PullRequestReviewCommentEvent** | 8 | PR Review 评论 |
-| 🚀 **ReleaseEvent** | 2 | 版本发布 |
-| 🍴 **ForkEvent** | 1 | Fork |
 
 ---
 
@@ -88,20 +78,20 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/community, iflytek/iFly-Skills, NousResearch/hermes-agent)） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/.github), iflytek/iFly-Skills), NousResearch/hermes-agent)） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), iflytek/iFly-Skills, dongjiang1989/dongjiang1989） |
-| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox） |
-| 2026-06-26（五） | 4 | ████░ | 4 项活动（NousResearch/hermes-agent), dongjiang1989/dongjiang1989, kubernetes-sigs/agent-sandbox)） |
-| 2026-06-27（六） | 4 | ████░ | 4 项活动（CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, iflytek/memflywheel), iflytek/memflywheel） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), dongjiang1989/dongjiang1989, iflytek/website） |
+| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox)） |
+| 2026-06-26（五） | 4 | ████░ | 4 项活动（NousResearch/hermes-agent), kubernetes-sigs/agent-sandbox), dongjiang1989/dongjiang1989） |
+| 2026-06-27（六） | 4 | ████░ | 4 项活动（iflytek/memflywheel, prometheus/procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **22** | ████████████████████ | 22 项活动（iflytek/memflywheel), kubeservice-stack/echo, kubernetes-sigs/agent-sandbox） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway), iflytek/website), kubernetes-sigs/agent-sandbox)） |
+| **2026-06-29（一）** | **22** | ████████████████████ | 22 项活动（iflytek/memflywheel), kubeservice-stack/echo), iflytek/astron-agent)） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/agent-sandbox), iflytek/domux), iflytek/memflywheel） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **9** | █████████ | 9 项活动（iflytek/memflywheel), agentgateway/agentgateway, iflytek/website)） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website, agentgateway/agentgateway), kgateway-dev/kgateway)） |
+| **2026-07-02（四）** | **9** | █████████ | 9 项活动（iflytek/memflywheel), agentgateway/agentgateway, aaif-goose/goose)） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website, iflytek/website), kgateway-dev/kgateway)） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
-| 2026-07-05（日） | 4 | ████░ | 4 项活动（dongjiang1989/agentgateway), agentgateway/agentgateway), kgateway-dev/kgateway)） |
+| 2026-07-05（日） | 4 | ████░ | 4 项活动（dongjiang1989/agentgateway), kgateway-dev/kgateway), dongjiang1989/kgateway)） |
 
 > **活跃高峰**：2026-06-29（22 次活动）为最高峰。
 
@@ -148,49 +138,49 @@ prometheus-operator            █                    1%
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | dongjiang1989/kgateway | [#1](https://github.com/dongjiang1989/kgateway/pull/1) | refactor: replace sort package with slices package | ✅ 已合并 |
-| 2 | agentgateway/agentgateway | [#2434](https://github.com/agentgateway/agentgateway/pull/2434) | fix: resolve kubebuilder mismatched comments warnings | 🔒 已关闭 |
-| 3 | dongjiang1989/agentgateway | [#1](https://github.com/dongjiang1989/agentgateway/pull/1) | fix: resolve kubebuilder mismatched comments warnings | ✅ 已合并 |
-| 4 | agentgateway/agentgateway | [#2419](https://github.com/agentgateway/agentgateway/pull/2419) | test: add goleak to detect goroutine leaks in controller packages | ✅ 已合并 |
-| 5 | iflytek/website | [#44](https://github.com/iflytek/website/pull/44) | feat: add global search, mobile drawer navigation, and View Transition | ✅ 已合并 |
-| 6 | iflytek/website | [#43](https://github.com/iflytek/website/pull/43) |  feat: add MemFlywheel & Domux projects, tech blogs, and landscape exp | ✅ 已合并 |
-| 7 | iflytek/memflywheel | [#27](https://github.com/iflytek/memflywheel/pull/27) | fix(ci): resolve GitHub Packages publish failures | ✅ 已合并 |
-| 8 | agentgateway/agentgateway | [#2399](https://github.com/agentgateway/agentgateway/pull/2399) | feat(metrics): add agentgateway_controller_build_info metric and fix S | ✅ 已合并 |
-| 9 | iflytek/memflywheel | [#24](https://github.com/iflytek/memflywheel/pull/24) | feat(ci): publish public packages to both npm and GitHub Packages with | ✅ 已合并 |
-| 10 | aaif-goose/goose | [#10153](https://github.com/aaif-goose/goose/pull/10153) | fix(providers): fall back to predefined model list when /models endpoi | 🔒 已关闭 |
-| 11 | kubernetes-sigs/agent-sandbox | [#1068](https://github.com/kubernetes-sigs/agent-sandbox/pull/1068) |  docs(examples): Add nullclaw-sandbox example   | ✅ 已合并 |
-| 12 | iflytek/domux | [#9](https://github.com/iflytek/domux/pull/9) | docs: Add community standards and fix documentation links  | ✅ 已合并 |
-| 13 | iflytek/website | [#42](https://github.com/iflytek/website/pull/42) | feat: add Hugging Face and ModelScope links to footer  | ✅ 已合并 |
-| 14 | agentgateway/agentgateway | [#2367](https://github.com/agentgateway/agentgateway/pull/2367) | refactor: replace sort.Slice with slices.Sort for natural ordering | ✅ 已合并 |
-| 15 | agentgateway/agentgateway | [#2366](https://github.com/agentgateway/agentgateway/pull/2366) | chore: Bump `kube-api-linter` version and fix `gosec` linter  | ✅ 已合并 |
-| 16 | iflytek/memflywheel | [#20](https://github.com/iflytek/memflywheel/pull/20) | docs: add CODE_OF_CONDUCT, update CONTRIBUTING and SECURITY with commu | ✅ 已合并 |
-| 17 | iflytek/memflywheel | [#15](https://github.com/iflytek/memflywheel/pull/15) | chore: add ESLint, Prettier, and improve GitHub Actions CI pipeline | ✅ 已合并 |
-| 18 | iflytek/astron-agent | [#1459](https://github.com/iflytek/astron-agent/pull/1459) | Potential fix for code scanning alert no. 54: Server-side request forg | ✅ 已合并 |
-| 19 | kubeservice-stack/echo | [#141](https://github.com/kubeservice-stack/echo/pull/141) | fix: use field access for `Errno.Status` and `Errno.Message` in respon | ✅ 已合并 |
-| 20 | iflytek/memflywheel | [#2](https://github.com/iflytek/memflywheel/pull/2) | chore: add GitHub Actions workflows, dependabot, and issue templates  | ✅ 已合并 |
-| 21 | kubernetes-sigs/agent-sandbox | [#1046](https://github.com/kubernetes-sigs/agent-sandbox/pull/1046) | Bump: Update golangci-linter version to v2.12.2 | ✅ 已合并 |
-| 22 | kubernetes-sigs/agent-sandbox | [#1043](https://github.com/kubernetes-sigs/agent-sandbox/pull/1043) | Add example for playwright sandbox | ✅ 已合并 |
-| 23 | kubernetes-sigs/agent-sandbox | [#1037](https://github.com/kubernetes-sigs/agent-sandbox/pull/1037) | chore: Migrate from deprecated `k8s.io/apimachinery/pkg/util/httpstrea | ✅ 已合并 |
-| 24 | kubernetes-sigs/agent-sandbox | [#1036](https://github.com/kubernetes-sigs/agent-sandbox/pull/1036) | chore: Update controller-runtime to v0.24.1 and k8s dependencies to v0 | ✅ 已合并 |
-| 25 | iflytek/iFly-Skills | [#58](https://github.com/iflytek/iFly-Skills/pull/58) | feat: add LobeHub registries to README  | ✅ 已合并 |
-| 26 | iflytek/website | [#40](https://github.com/iflytek/website/pull/40) | feat: add AgentGuard adopter and two upcoming community meetups | ✅ 已合并 |
-| 27 | iflytek/iFly-Skills | [#56](https://github.com/iflytek/iFly-Skills/pull/56) | feat: add Manus skillsmp registry and multi-registry publishing suppor | ✅ 已合并 |
-| 28 | iflytek/community | [#18](https://github.com/iflytek/community/pull/18) | docs: add security vulnerability reporting email to SECURITY.md | ✅ 已合并 |
-| 29 | iflytek/.github | [#3](https://github.com/iflytek/.github/pull/3) | refactor: centralize docs by linking to community repository | ✅ 已合并 |
-| 30 | iflytek/iFly-Skills | [#54](https://github.com/iflytek/iFly-Skills/pull/54) | chore: update README with Beta notice and registry links  | ✅ 已合并 |
+| 1 | kgateway-dev/kgateway | [#14356](https://github.com/kgateway-dev/kgateway/pull/14356) | refactor: replace sort package with slices package | ✅ 已合并 |
+| 2 | dongjiang1989/kgateway | [#1](https://github.com/dongjiang1989/kgateway/pull/1) | refactor: replace sort package with slices package | ✅ 已合并 |
+| 3 | agentgateway/agentgateway | [#2434](https://github.com/agentgateway/agentgateway/pull/2434) | fix: resolve kubebuilder mismatched comments warnings | 🔒 已关闭 |
+| 4 | dongjiang1989/agentgateway | [#1](https://github.com/dongjiang1989/agentgateway/pull/1) | fix: resolve kubebuilder mismatched comments warnings | ✅ 已合并 |
+| 5 | agentgateway/agentgateway | [#2419](https://github.com/agentgateway/agentgateway/pull/2419) | test: add goleak to detect goroutine leaks in controller packages | ✅ 已合并 |
+| 6 | iflytek/website | [#44](https://github.com/iflytek/website/pull/44) | feat: add global search, mobile drawer navigation, and View Transition | ✅ 已合并 |
+| 7 | iflytek/website | [#43](https://github.com/iflytek/website/pull/43) |  feat: add MemFlywheel & Domux projects, tech blogs, and landscape exp | ✅ 已合并 |
+| 8 | iflytek/memflywheel | [#27](https://github.com/iflytek/memflywheel/pull/27) | fix(ci): resolve GitHub Packages publish failures | ✅ 已合并 |
+| 9 | agentgateway/agentgateway | [#2399](https://github.com/agentgateway/agentgateway/pull/2399) | feat(metrics): add agentgateway_controller_build_info metric and fix S | ✅ 已合并 |
+| 10 | iflytek/memflywheel | [#24](https://github.com/iflytek/memflywheel/pull/24) | feat(ci): publish public packages to both npm and GitHub Packages with | ✅ 已合并 |
+| 11 | aaif-goose/goose | [#10153](https://github.com/aaif-goose/goose/pull/10153) | fix(providers): fall back to predefined model list when /models endpoi | 🔒 已关闭 |
+| 12 | kubernetes-sigs/agent-sandbox | [#1068](https://github.com/kubernetes-sigs/agent-sandbox/pull/1068) |  docs(examples): Add nullclaw-sandbox example   | ✅ 已合并 |
+| 13 | iflytek/domux | [#9](https://github.com/iflytek/domux/pull/9) | docs: Add community standards and fix documentation links  | ✅ 已合并 |
+| 14 | iflytek/website | [#42](https://github.com/iflytek/website/pull/42) | feat: add Hugging Face and ModelScope links to footer  | ✅ 已合并 |
+| 15 | agentgateway/agentgateway | [#2367](https://github.com/agentgateway/agentgateway/pull/2367) | refactor: replace sort.Slice with slices.Sort for natural ordering | ✅ 已合并 |
+| 16 | agentgateway/agentgateway | [#2366](https://github.com/agentgateway/agentgateway/pull/2366) | chore: Bump `kube-api-linter` version and fix `gosec` linter  | ✅ 已合并 |
+| 17 | iflytek/memflywheel | [#20](https://github.com/iflytek/memflywheel/pull/20) | docs: add CODE_OF_CONDUCT, update CONTRIBUTING and SECURITY with commu | ✅ 已合并 |
+| 18 | iflytek/memflywheel | [#15](https://github.com/iflytek/memflywheel/pull/15) | chore: add ESLint, Prettier, and improve GitHub Actions CI pipeline | ✅ 已合并 |
+| 19 | iflytek/astron-agent | [#1459](https://github.com/iflytek/astron-agent/pull/1459) | Potential fix for code scanning alert no. 54: Server-side request forg | ✅ 已合并 |
+| 20 | kubeservice-stack/echo | [#141](https://github.com/kubeservice-stack/echo/pull/141) | fix: use field access for `Errno.Status` and `Errno.Message` in respon | ✅ 已合并 |
+| 21 | iflytek/memflywheel | [#2](https://github.com/iflytek/memflywheel/pull/2) | chore: add GitHub Actions workflows, dependabot, and issue templates  | ✅ 已合并 |
+| 22 | kubernetes-sigs/agent-sandbox | [#1046](https://github.com/kubernetes-sigs/agent-sandbox/pull/1046) | Bump: Update golangci-linter version to v2.12.2 | ✅ 已合并 |
+| 23 | NousResearch/hermes-agent | [#53104](https://github.com/NousResearch/hermes-agent/pull/53104) | fix(cron): respect job's profile when executing no_agent jobs (#53077) | 🔒 已关闭 |
+| 24 | kubernetes-sigs/agent-sandbox | [#1043](https://github.com/kubernetes-sigs/agent-sandbox/pull/1043) | Add example for playwright sandbox | ✅ 已合并 |
+| 25 | kubernetes-sigs/agent-sandbox | [#1037](https://github.com/kubernetes-sigs/agent-sandbox/pull/1037) | chore: Migrate from deprecated `k8s.io/apimachinery/pkg/util/httpstrea | ✅ 已合并 |
+| 26 | kubernetes-sigs/agent-sandbox | [#1036](https://github.com/kubernetes-sigs/agent-sandbox/pull/1036) | chore: Update controller-runtime to v0.24.1 and k8s dependencies to v0 | ✅ 已合并 |
+| 27 | iflytek/iFly-Skills | [#58](https://github.com/iflytek/iFly-Skills/pull/58) | feat: add LobeHub registries to README  | ✅ 已合并 |
+| 28 | iflytek/website | [#40](https://github.com/iflytek/website/pull/40) | feat: add AgentGuard adopter and two upcoming community meetups | ✅ 已合并 |
+| 29 | NousResearch/hermes-agent | [#50828](https://github.com/NousResearch/hermes-agent/pull/50828) | fix(cron): strip code blocks before strict threat-pattern scan to avoi | 🔒 已关闭 |
+| 30 | iflytek/iFly-Skills | [#56](https://github.com/iflytek/iFly-Skills/pull/56) | feat: add Manus skillsmp registry and multi-registry publishing suppor | ✅ 已合并 |
+| 31 | iflytek/community | [#18](https://github.com/iflytek/community/pull/18) | docs: add security vulnerability reporting email to SECURITY.md | ✅ 已合并 |
+| 32 | iflytek/.github | [#3](https://github.com/iflytek/.github/pull/3) | refactor: centralize docs by linking to community repository | ✅ 已合并 |
+| 33 | iflytek/iFly-Skills | [#54](https://github.com/iflytek/iFly-Skills/pull/54) | chore: update README with Beta notice and registry links  | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kgateway-dev/kgateway | [#14356](https://github.com/kgateway-dev/kgateway/pull/14356) | refactor: replace sort package with slices package | 🔄 开放 |
-| 2 | kgateway-dev/kgateway | [#14355](https://github.com/kgateway-dev/kgateway/pull/14355) | chore(lint): bump golangci-lint to v2.12.2 and kube-api-linter + fix n | 🔄 开放 |
-| 3 | aaif-goose/goose | [#10189](https://github.com/aaif-goose/goose/pull/10189) | fall back to static model list only for non-models payloads | 🔄 开放 |
-| 4 | NousResearch/hermes-agent | [#53104](https://github.com/NousResearch/hermes-agent/pull/53104) | fix(cron): respect job's profile when executing no_agent jobs (#53077) | 🔄 开放 |
-| 5 | NousResearch/hermes-agent | [#51244](https://github.com/NousResearch/hermes-agent/pull/51244) | fix(skills-hub): include owner in ClawHub source URLs (#51236) | 🔄 开放 |
-| 6 | NousResearch/hermes-agent | [#51178](https://github.com/NousResearch/hermes-agent/pull/51178) | fix(cli): dispatch /indicator to set the busy-indicator style (#50618) | 🔄 开放 |
-| 7 | NousResearch/hermes-agent | [#50828](https://github.com/NousResearch/hermes-agent/pull/50828) | fix(cron): strip code blocks before strict threat-pattern scan to avoi | 🔄 开放 |
-| 8 | NousResearch/hermes-agent | [#50782](https://github.com/NousResearch/hermes-agent/pull/50782) | fix(security): block terminal commands that read credential files (#50 | 🔄 开放 |
+| 1 | kgateway-dev/kgateway | [#14355](https://github.com/kgateway-dev/kgateway/pull/14355) | chore(lint): bump golangci-lint to v2.12.2 and kube-api-linter + fix n | 🔄 开放 |
+| 2 | aaif-goose/goose | [#10189](https://github.com/aaif-goose/goose/pull/10189) | fall back to static model list only for non-models payloads | 🔄 开放 |
+| 3 | NousResearch/hermes-agent | [#51244](https://github.com/NousResearch/hermes-agent/pull/51244) | fix(skills-hub): include owner in ClawHub source URLs and retry on 429 | 🔄 开放 |
+| 4 | NousResearch/hermes-agent | [#51178](https://github.com/NousResearch/hermes-agent/pull/51178) | fix(cli): dispatch /indicator to set the busy-indicator style (#50618) | 🔄 开放 |
+| 5 | NousResearch/hermes-agent | [#50782](https://github.com/NousResearch/hermes-agent/pull/50782) | fix(security): block terminal commands that read credential files (#50 | 🔄 开放 |
 
 ---
 
@@ -316,11 +306,8 @@ prometheus-operator            █                    1%
 
 ## 十、Release 发版记录
 
-| 仓库 | 版本 | 时间 |
-|------|------|------|
-| iflytek/website | **v0.3.0** | 2026-07-03 |
-| iflytek/memflywheel | **v0.1.0** | 2026-07-02 |
+> 本周期无 Release 记录（Release 数据仅在 Events API 可查时段内有效）。
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -80,18 +80,18 @@ Annie-Summer                   █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator), kagent-dev/kagent） |
-| **2026-05-12（二）** | **11** | ███████████ | 11 项活动（Wionerlol/SkillHub, iflytek/astron-agent, wei-shon/skillhub_delete） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
+| **2026-05-12（二）** | **11** | ███████████ | 11 项活动（Wionerlol/SkillHub, bohe1026/skillhub, iflytek/astron-agent） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 1 | █░░░░ | PR #1322 (iflytek/astron-agent) |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), kubeservice-stack/echo） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/node-metrics, kubeservice-stack/common, kagent-dev/kagent)） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator), iflytek/community)） |
-| **2026-05-21（四）** | **11** | ███████████ | 11 项活动（Annie-Summer/HAMi-test, dongjiang1989/opensearch-api, iflytek/community） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（iflytek/community, kubeservice-stack/common), kubeservice-stack/common） |
+| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, Project-HAMi/HAMi), prometheus-operator/prometheus-operator)） |
+| **2026-05-21（四）** | **11** | ███████████ | 11 项活动（dongjiang1989/opensearch-api, Project-HAMi/HAMi, Annie-Summer/HAMi-test） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/common), kubernetes-sigs/controller-runtime)） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
@@ -268,7 +268,7 @@ Annie-Summer                   █                    2%
 
 | 仓库 | 时间 | 说明 |
 |------|------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 2026-05-22 | Skills for Real Engineers. Straight from my .claude director |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 2026-05-22 | Skills for Real Engineers. Straight from my .agents director |
 
 ---
 
@@ -278,4 +278,4 @@ Annie-Summer                   █                    2%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

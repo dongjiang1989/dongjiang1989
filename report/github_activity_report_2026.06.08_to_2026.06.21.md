@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **8** 个 |
 | 涉及仓库数 | **19** 个 |
-| Pull Request 数 | **35** 个（已合并 32，开放 3） |
+| Pull Request 数 | **35** 个（已合并 33，开放 2） |
 | Issue 数 | **15** 个 |
 | Commit 数 | **61** 次 |
 | 总活动量 | **111** |
@@ -37,8 +37,8 @@ CodeLinaro-mirror              █                    1%
 ### 💡 核心总结
 
 1. **iflytek** 是最大贡献方向（68%），涉及 8 个仓库，共 76 次活动。
-2. 共 **32** 个 PR 已合并，覆盖 10 个仓库。
-3. **3** 个 PR 仍在开放/Review 中。
+2. 共 **33** 个 PR 已合并，覆盖 11 个仓库。
+3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-15**（30 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 13 个仓库提交了 **61** 次代码。
@@ -65,7 +65,7 @@ CodeLinaro-mirror              █                    1%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **111** | PR + Issue + Commit |
-| 📝 **Pull Request** | 35 | 已合并 32，开放 3 |
+| 📝 **Pull Request** | 35 | 已合并 33，开放 2 |
 | 📋 **Issue** | 15 | 创建 Issue |
 | 💻 **Commit** | 61 | 代码提交 |
 
@@ -76,16 +76,16 @@ CodeLinaro-mirror              █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kagent-dev/kagent), kubernetes-sigs/external-dns), dongjiang1989/opensearch-api） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community, dongjiang1989/opensearch-api, iflytek/community)） |
-| **2026-06-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/prow), iflytek/website） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（dongjiang1989/opensearch-api, kagent-dev/kagent), prometheus-operator/prometheus-operator)） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api, iflytek/community, dongjiang1989/opensearch-api)） |
+| **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
 | **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
 | **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), iflytek/community, iflytek/domux） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（kubernetes-sigs/external-dns, iflytek/iFly-Skills), iflytek/iFly-Skills） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/modelx), iflytek/iFly-Skills） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), iflytek/memflywheel, iflytek/domux） |
+| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/iFly-Skills), iflytek/website, iflytek/website)） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), kubeservice-stack/modelx), prometheus-operator/prometheus-operator)） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
@@ -163,15 +163,15 @@ CodeLinaro-mirror              █                    1%
 | 29 | dongjiang1989/opensearch-api | [#7](https://github.com/dongjiang1989/opensearch-api/pull/7) | fix: improve image OCR logic and expand supported formats (TIFF/BMP)  | ✅ 已合并 |
 | 30 | dongjiang1989/opensearch-api | [#6](https://github.com/dongjiang1989/opensearch-api/pull/6) | feat: add image OCR model  | ✅ 已合并 |
 | 31 | kubernetes-sigs/external-dns | [#6478](https://github.com/kubernetes-sigs/external-dns/pull/6478) | fix(coredns): write PTR records without random prefix to etcd | ✅ 已合并 |
-| 32 | prometheus-operator/prometheus-operator | [#8614](https://github.com/prometheus-operator/prometheus-operator/pull/8614) | chore: update controller-tools version to v0.21.0 | ✅ 已合并 |
+| 32 | kagent-dev/kagent | [#1985](https://github.com/kagent-dev/kagent/pull/1985) | chore(linter): add new kube-api-linter and fix CRD lint issues  | 🔒 已关闭 |
+| 33 | prometheus-operator/prometheus-operator | [#8614](https://github.com/prometheus-operator/prometheus-operator/pull/8614) | chore: update controller-tools version to v0.21.0 | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | kubernetes-sigs/prow | [#750](https://github.com/kubernetes-sigs/prow/pull/750) | feat:  Add kube-api-linter and fix ProwJob API type annotations | 🔄 开放 |
-| 2 | kagent-dev/kagent | [#1985](https://github.com/kagent-dev/kagent/pull/1985) | chore(linter): add new kube-api-linter and fix CRD lint issues  | 🔄 开放 |
-| 3 | prometheus-operator/prometheus-operator | [#8613](https://github.com/prometheus-operator/prometheus-operator/pull/8613) | feat: Support add Outscale SD configuration support to ScrapeConfig CR | 🔄 开放 |
+| 2 | prometheus-operator/prometheus-operator | [#8613](https://github.com/prometheus-operator/prometheus-operator/pull/8613) | feat: Support add Outscale SD configuration support to ScrapeConfig CR | 🔄 开放 |
 
 ---
 
@@ -296,4 +296,4 @@ CodeLinaro-mirror              █                    1%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*

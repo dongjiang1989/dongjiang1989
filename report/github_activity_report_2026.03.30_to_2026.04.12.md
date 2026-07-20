@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：232 | **Followers**：63 | **Following**：53
+> **公开仓库数**：233 | **Followers**：65 | **Following**：54
 
 ---
 
@@ -75,13 +75,13 @@ prometheus                     █                    3%
 | 2026-03-31（二） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Change(crd): rename; shrutiyam-glitch/agent-sandbox-trial: Change(crd): |
 | 2026-04-01（三） | 0 | ░░░░░ | — |
 | 2026-04-02（四） | 1 | █░░░░ | PR #503 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-03（五）** | **5** | █████ | 5 项活动（shrutiyam-glitch/agent-sandbox-trial, dongjiang1989/api-server, kubernetes-sigs/agent-sandbox） |
+| **2026-04-03（五）** | **5** | █████ | 5 项活动（dongjiang1989/api-server, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-04（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Migrate to controll; shrutiyam-glitch/agent-sandbox-trial: Migrate to c |
 | 2026-04-05（日） | 0 | ░░░░░ | — |
 | 2026-04-06（一） | 0 | ░░░░░ | — |
 | 2026-04-07（二） | 3 | ███░░ | PR #8495 (prometheus-operator/prometheus-operator); PR #5157 (prometheus/alertmanager); PR #8494 (prometheus-operator/prometheus-operator) |
 | 2026-04-08（三） | 3 | ███░░ | PR #549 (kubernetes-sigs/agent-sandbox); PR #548 (kubernetes-sigs/agent-sandbox); PR #545 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-09（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/controller-tools)） |
+| **2026-04-09（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox, prometheus-operator/prometheus-operator） |
 | **2026-04-10（五）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api） |
 | 2026-04-11（六） | 0 | ░░░░░ | — |
 | 2026-04-12（日） | 2 | ██░░░ | PR #576 (kubernetes-sigs/agent-sandbox); dongjiang1989/opensearch-api: update opensearch ap |
@@ -225,4 +225,4 @@ prometheus                     █                    3%
 
 ---
 
-*报告生成时间：2026-07-13 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*
