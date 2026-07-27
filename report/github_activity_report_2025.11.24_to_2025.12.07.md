@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：233 | **Followers**：65 | **Following**：54
+> **公开仓库数**：237 | **Followers**：66 | **Following**：56
 
 ---
 
@@ -89,11 +89,11 @@ prometheus-operator            █                    3%
 | 2025-11-28（五） | 0 | ░░░░░ | — |
 | 2025-11-29（六） | 0 | ░░░░░ | — |
 | 2025-11-30（日） | 0 | ░░░░░ | — |
-| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools） |
+| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools)） |
 | 2025-12-02（二） | 0 | ░░░░░ | — |
 | 2025-12-03（三） | 1 | █░░░░ | PR #17640 (prometheus/prometheus) |
-| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（tmohanvamsi/kagent, kagent-dev/kagent), kubeservice-stack/echo)） |
-| **2025-12-05（五）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools, SINDEKARHAS/Prometheus, rajendra-k10200/prometheus） |
+| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kagent-dev/kagent), kubeservice-stack/echo, kagent-dev/kagent） |
+| **2025-12-05（五）** | **8** | ████████ | 8 项活动（SINDEKARHAS/Prometheus, elouafi-abderrahmane-2002/prometheus, prometheus/prometheus） |
 | 2025-12-06（六） | 0 | ░░░░░ | — |
 | 2025-12-07（日） | 0 | ░░░░░ | — |
 
@@ -258,4 +258,4 @@ prometheus-operator            █                    3%
 
 ---
 
-*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*

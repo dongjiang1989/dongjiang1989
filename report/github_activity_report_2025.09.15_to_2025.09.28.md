@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：233 | **Followers**：65 | **Following**：54
+> **公开仓库数**：237 | **Followers**：66 | **Following**：56
 
 ---
 
@@ -77,13 +77,13 @@ sunyaojing                     █                    4%
 | 2025-09-15（一） | 1 | █░░░░ | PR #2024 (apecloud/kubeblocks-addons) |
 | 2025-09-16（二） | 0 | ░░░░░ | — |
 | 2025-09-17（三） | 1 | █░░░░ | apecloud/kubeblocks-addons: feat: Add support etcd |
-| **2025-09-18（四）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), sunyaojing/etcd, SoujanyaPonnapalli/Metronome） |
+| **2025-09-18（四）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, sunyaojing/etcd） |
 | 2025-09-19（五） | 0 | ░░░░░ | — |
 | 2025-09-20（六） | 0 | ░░░░░ | — |
 | 2025-09-21（日） | 0 | ░░░░░ | — |
 | 2025-09-22（一） | 0 | ░░░░░ | — |
-| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts), kubeservice-stack/lxcfs-webhook)） |
-| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime)） |
+| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
+| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator） |
 | 2025-09-25（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-09-26（五） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: ch |
 | 2025-09-27（六） | 0 | ░░░░░ | — |
@@ -243,4 +243,4 @@ sunyaojing                     █                    4%
 
 ---
 
-*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*

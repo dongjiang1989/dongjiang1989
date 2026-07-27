@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：233 | **Followers**：65 | **Following**：54
+> **公开仓库数**：237 | **Followers**：66 | **Following**：56
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **5** 个 |
 | 涉及仓库数 | **7** 个 |
-| Pull Request 数 | **9** 个（已合并 7，开放 2） |
+| Pull Request 数 | **9** 个（已合并 8，开放 1） |
 | Issue 数 | **0** 个 |
 | Commit 数 | **21** 次 |
 | 总活动量 | **30** |
@@ -34,8 +34,8 @@ prometheus                     █                    3%
 ### 💡 核心总结
 
 1. **kubernetes-sigs** 是最大贡献方向（40%），涉及 2 个仓库，共 12 次活动。
-2. 共 **7** 个 PR 已合并，覆盖 2 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
+2. 共 **8** 个 PR 已合并，覆盖 3 个仓库。
+3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-04-09**（6 次活动），展现了高强度的工作节奏。
 5. 在 5 个仓库提交了 **21** 次代码。
 
@@ -61,7 +61,7 @@ prometheus                     █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **30** | PR + Issue + Commit |
-| 📝 **Pull Request** | 9 | 已合并 7，开放 2 |
+| 📝 **Pull Request** | 9 | 已合并 8，开放 1 |
 | 📋 **Issue** | 0 | 创建 Issue |
 | 💻 **Commit** | 21 | 代码提交 |
 
@@ -75,13 +75,13 @@ prometheus                     █                    3%
 | 2026-03-31（二） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Change(crd): rename; shrutiyam-glitch/agent-sandbox-trial: Change(crd): |
 | 2026-04-01（三） | 0 | ░░░░░ | — |
 | 2026-04-02（四） | 1 | █░░░░ | PR #503 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-03（五）** | **5** | █████ | 5 项活动（dongjiang1989/api-server, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-03（五）** | **5** | █████ | 5 项活动（dongjiang1989/api-server, shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox） |
 | 2026-04-04（六） | 2 | ██░░░ | kubernetes-sigs/agent-sandbox: Migrate to controll; shrutiyam-glitch/agent-sandbox-trial: Migrate to c |
 | 2026-04-05（日） | 0 | ░░░░░ | — |
 | 2026-04-06（一） | 0 | ░░░░░ | — |
 | 2026-04-07（二） | 3 | ███░░ | PR #8495 (prometheus-operator/prometheus-operator); PR #5157 (prometheus/alertmanager); PR #8494 (prometheus-operator/prometheus-operator) |
 | 2026-04-08（三） | 3 | ███░░ | PR #549 (kubernetes-sigs/agent-sandbox); PR #548 (kubernetes-sigs/agent-sandbox); PR #545 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-09（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox, prometheus-operator/prometheus-operator） |
+| **2026-04-09（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | **2026-04-10（五）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api） |
 | 2026-04-11（六） | 0 | ░░░░░ | — |
 | 2026-04-12（日） | 2 | ██░░░ | PR #576 (kubernetes-sigs/agent-sandbox); dongjiang1989/opensearch-api: update opensearch ap |
@@ -127,15 +127,15 @@ prometheus                     █                    3%
 | 3 | kubernetes-sigs/agent-sandbox | [#548](https://github.com/kubernetes-sigs/agent-sandbox/pull/548) | Add examples in website | ✅ 已合并 |
 | 4 | kubernetes-sigs/agent-sandbox | [#545](https://github.com/kubernetes-sigs/agent-sandbox/pull/545) | feat: add permission for events.k8s.io in sandbox_controller.go | ✅ 已合并 |
 | 5 | prometheus-operator/prometheus-operator | [#8495](https://github.com/prometheus-operator/prometheus-operator/pull/8495) | chore: Deprecate auto-gomaxprocs with natively handles container CPU q | ✅ 已合并 |
-| 6 | prometheus-operator/prometheus-operator | [#8494](https://github.com/prometheus-operator/prometheus-operator/pull/8494) | feat: Add AWS external_id support in sigv4 configuration for Prometheu | ✅ 已合并 |
-| 7 | kubernetes-sigs/agent-sandbox | [#503](https://github.com/kubernetes-sigs/agent-sandbox/pull/503) |  Change `sort` to `slices` package | ✅ 已合并 |
+| 6 | prometheus/alertmanager | [#5157](https://github.com/prometheus/alertmanager/pull/5157) | feat: Add AWS external_id support in sigv4 configuration | ✅ 已合并 |
+| 7 | prometheus-operator/prometheus-operator | [#8494](https://github.com/prometheus-operator/prometheus-operator/pull/8494) | feat: Add AWS external_id support in sigv4 configuration for Prometheu | ✅ 已合并 |
+| 8 | kubernetes-sigs/agent-sandbox | [#503](https://github.com/kubernetes-sigs/agent-sandbox/pull/503) |  Change `sort` to `slices` package | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | kubernetes-sigs/controller-tools | [#1376](https://github.com/kubernetes-sigs/controller-tools/pull/1376) | 🐛Fix "literal not terminated" error for markers with unpaired backtick | 🔄 开放 |
-| 2 | prometheus/alertmanager | [#5157](https://github.com/prometheus/alertmanager/pull/5157) | feat: Add AWS external_id support in sigv4 configuration | 🔄 开放 |
 
 ---
 
@@ -225,4 +225,4 @@ prometheus                     █                    3%
 
 ---
 
-*报告生成时间：2026-07-20 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
