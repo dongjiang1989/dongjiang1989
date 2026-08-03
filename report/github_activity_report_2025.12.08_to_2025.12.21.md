@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：237 | **Followers**：66 | **Following**：56
+> **公开仓库数**：242 | **Followers**：69 | **Following**：55
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **6** 个 |
 | 涉及仓库数 | **13** 个 |
-| Pull Request 数 | **15** 个（已合并 13，开放 2） |
+| Pull Request 数 | **15** 个（已合并 14，开放 1） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **21** 次 |
 | 总活动量 | **37** |
@@ -35,8 +35,8 @@ dongjiang1989                  █                    3%
 ### 💡 核心总结
 
 1. **kubeservice-stack** 是最大贡献方向（41%），涉及 4 个仓库，共 15 次活动。
-2. 共 **13** 个 PR 已合并，覆盖 8 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
+2. 共 **14** 个 PR 已合并，覆盖 9 个仓库。
+3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-12-15**（11 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 11 个仓库提交了 **21** 次代码。
@@ -63,7 +63,7 @@ dongjiang1989                  █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **37** | PR + Issue + Commit |
-| 📝 **Pull Request** | 15 | 已合并 13，开放 2 |
+| 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 21 | 代码提交 |
 
@@ -81,12 +81,12 @@ dongjiang1989                  █                    3%
 Signed-of; kubernetes-sigs/external-dns: fix typo (#6011)
 
 Si |
-| 2025-12-12（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
+| 2025-12-12（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubernetes-sigs/kueue)） |
 | 2025-12-13（六） | 0 | ░░░░░ | — |
 | 2025-12-14（日） | 0 | ░░░░░ | — |
-| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools, kubeservice-stack/lxcfs-webhook） |
+| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lxcfs-webhook), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
 | 2025-12-16（二） | 3 | ███░░ | PR #8182 (prometheus-operator/prometheus-operator); PR #8181 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update ki |
-| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/zookeeper-registry） |
+| **2025-12-17（三）** | **5** | █████ | 5 项活动（kubeservice-stack/lua-resty-zookeeper, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-12-18（四） | 1 | █░░░░ | PR #8192 (prometheus-operator/prometheus-operator) |
 | 2025-12-19（五） | 3 | ███░░ | PR #1 (kubeservice-stack/lua-resty-zookeeper); kubeservice-stack/lua-resty-zookeeper: Merge pull ; kubeservice-stack/lua-resty-zookeeper: add lua lin |
 | 2025-12-20（六） | 0 | ░░░░░ | — |
@@ -141,17 +141,17 @@ Si |
 | 7 | kubeservice-stack/lxcfs-webhook | [#57](https://github.com/kubeservice-stack/lxcfs-webhook/pull/57) | fix typo | ✅ 已合并 |
 | 8 | kubeservice-stack/lxcfs-webhook | [#56](https://github.com/kubeservice-stack/lxcfs-webhook/pull/56) | Chore: change k8s.io/kubernetes/pkg/apis/core/v1 to k8s.io/api/apps/v1 | ✅ 已合并 |
 | 9 | prometheus-operator/prometheus-operator | [#8172](https://github.com/prometheus-operator/prometheus-operator/pull/8172) | chore: Update golangci-lint version and fix warning | ✅ 已合并 |
-| 10 | kubernetes-sigs/external-dns | [#6011](https://github.com/kubernetes-sigs/external-dns/pull/6011) | test: fix typos in code & comment | ✅ 已合并 |
-| 11 | kubernetes-sigs/kubebuilder | [#5265](https://github.com/kubernetes-sigs/kubebuilder/pull/5265) | 🌱  Change `sort` to `slices` package | ✅ 已合并 |
-| 12 | kubernetes-sigs/kubebuilder | [#5258](https://github.com/kubernetes-sigs/kubebuilder/pull/5258) | ✨ (go/v4): Upgrade golangci-lint to v2.7.2 and add modernize check | ✅ 已合并 |
-| 13 | kubeservice-stack/echo | [#96](https://github.com/kubeservice-stack/echo/pull/96) | Bump add addlicense check in Makefile | ✅ 已合并 |
+| 10 | kubernetes-sigs/kueue | [#8210](https://github.com/kubernetes-sigs/kueue/pull/8210) | feat(env): auto set GOMAXPROCS by go.uber.org/automaxprocs | 🔒 已关闭 |
+| 11 | kubernetes-sigs/external-dns | [#6011](https://github.com/kubernetes-sigs/external-dns/pull/6011) | test: fix typos in code & comment | ✅ 已合并 |
+| 12 | kubernetes-sigs/kubebuilder | [#5265](https://github.com/kubernetes-sigs/kubebuilder/pull/5265) | 🌱  Change `sort` to `slices` package | ✅ 已合并 |
+| 13 | kubernetes-sigs/kubebuilder | [#5258](https://github.com/kubernetes-sigs/kubebuilder/pull/5258) | ✨ (go/v4): Upgrade golangci-lint to v2.7.2 and add modernize check | ✅ 已合并 |
+| 14 | kubeservice-stack/echo | [#96](https://github.com/kubeservice-stack/echo/pull/96) | Bump add addlicense check in Makefile | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus-operator/prometheus-operator | [#8181](https://github.com/prometheus-operator/prometheus-operator/pull/8181) | feat: Support add distributed tracing for alertmanager | 🔄 开放 |
-| 2 | kubernetes-sigs/kueue | [#8210](https://github.com/kubernetes-sigs/kueue/pull/8210) | feat(env): auto set GOMAXPROCS by go.uber.org/automaxprocs | 🔄 开放 |
 
 ---
 
@@ -252,4 +252,4 @@ Si |
 
 ---
 
-*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：237 | **Followers**：66 | **Following**：56
+> **公开仓库数**：242 | **Followers**：69 | **Following**：55
 
 ---
 
@@ -74,7 +74,7 @@ Project-HAMi                   █                    6%
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
 | **2026-02-05（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns)） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -215,4 +215,4 @@ Project-HAMi                   █                    6%
 
 ---
 
-*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*

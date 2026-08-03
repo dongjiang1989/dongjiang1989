@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：237 | **Followers**：66 | **Following**：56
+> **公开仓库数**：242 | **Followers**：69 | **Following**：55
 
 ---
 
@@ -14,18 +14,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **19** 个 |
-| 涉及仓库数 | **23** 个 |
+| 涉及组织数 | **18** 个 |
+| 涉及仓库数 | **22** 个 |
 | Pull Request 数 | **23** 个（已合并 21，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **26** 次 |
-| 总活动量 | **49** |
+| Commit 数 | **25** 次 |
+| 总活动量 | **48** |
 
 ### 🎯 工作重心分布
 
 ```
 kubeservice-stack              █████                29%
-prometheus-operator            ████                 20%
+prometheus-operator            ████                 21%
 volcano-sh                     █                    6%
 helm                           █                    6%
 thanos-io                      █                    4%
@@ -36,7 +36,6 @@ oliver006                      █                    2%
 karmada-io                     █                    2%
 kubegems                       █                    2%
 NVIDIA                         █                    2%
-csmVIc                         █                    2%
 GsonZhao                       █                    2%
 handan-yxh                     █                    2%
 yankeguo                       █                    2%
@@ -50,8 +49,8 @@ kev1N916                       █                    2%
 1. **kubeservice-stack** 是最大贡献方向（29%），涉及 5 个仓库，共 14 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 13 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-04-18**（13 次活动），展现了高强度的工作节奏。
-5. 在 16 个仓库提交了 **26** 次代码。
+4. 活跃高峰出现在 **2025-04-18**（12 次活动），展现了高强度的工作节奏。
+5. 在 15 个仓库提交了 **25** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -59,10 +58,10 @@ kev1N916                       █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **49** | +26% | 📈 +10 |
+| **总活动量** | 38 | **48** | +26% | 📈 +10 |
 | Pull Request | 14 | 23 | +64% | 📈 +9 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 24 | 26 | +8% | 📈 +2 |
+| Commit | 23 | 25 | +9% | 📈 +2 |
 
 - 🆕 **新增活跃仓库**：`Apexmail/helm`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
 - ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
@@ -74,10 +73,10 @@ kev1N916                       █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **49** | PR + Issue + Commit |
+| 📊 **总活动** | **48** | PR + Issue + Commit |
 | 📝 **Pull Request** | 23 | 已合并 21，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 26 | 代码提交 |
+| 💻 **Commit** | 25 | 代码提交 |
 
 ---
 
@@ -86,21 +85,21 @@ kev1N916                       █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（NVIDIA/k8s-device-plugin), kubeservice-stack/node-metrics), kubeservice-stack/node-metrics） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/modelx), kubeservice-stack/kubservice-charts, karmada-io/karmada)） |
-| **2025-04-17（四）** | **7** | ███████ | 7 项活动（helm/helm, kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
-| **2025-04-18（五）** | **13** | █████████████ | 13 项活动（ckyuto/volcano-upstream, helm/helm, volcano-sh/volcano)） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（NVIDIA/k8s-device-plugin), kubeservice-stack/custom-limit-range), kubeservice-stack/node-metrics） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts), kubeservice-stack/custom-limit-range, kubegems/modelx)） |
+| **2025-04-17（四）** | **7** | ███████ | 7 项活动（kubeservice-stack/common), helm/helm, kubeservice-stack/kubservice-charts） |
+| **2025-04-18（五）** | **12** | ████████████ | 12 项活动（kev1N916/volcano, helm/helm, ckyuto/volcano-upstream） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **7** | ███████ | 7 项活动（oliver006/redis_exporter), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), dongjiang1989/api-server, oliver006/redis_exporter)） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-04-18（13 次活动）为最高峰。
+> **活跃高峰**：2025-04-18（12 次活动）为最高峰。
 
 ---
 
@@ -110,25 +109,24 @@ kev1N916                       █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 14 | 28.6% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
-| **prometheus-operator** | 10 | 20.4% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| volcano-sh | 3 | 6.1% | volcano-sh/volcano(3) | PR, Push |
-| helm | 3 | 6.1% | helm/helm(3) | PR, Push |
-| thanos-io | 2 | 4.1% | thanos-io/thanos(2) | PR |
-| apache | 2 | 4.1% | apache/dubbo-go(2) | PR |
-| Apexmail | 2 | 4.1% | Apexmail/helm(2) | Push |
-| hoppipolla-dev | 2 | 4.1% | hoppipolla-dev/helm(2) | Push |
-| oliver006 | 1 | 2.0% | oliver006/redis_exporter(1) | PR |
-| karmada-io | 1 | 2.0% | karmada-io/karmada(1) | PR |
-| kubegems | 1 | 2.0% | kubegems/modelx(1) | PR |
-| NVIDIA | 1 | 2.0% | NVIDIA/k8s-device-plugin(1) | PR |
-| csmVIc | 1 | 2.0% | csmVIc/volcano(1) | Push |
-| GsonZhao | 1 | 2.0% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 2.0% | handan-yxh/volcano-old-test(1) | Push |
-| yankeguo | 1 | 2.0% | yankeguo/helm-enhanced(1) | Push |
-| dongjiang1989 | 1 | 2.0% | dongjiang1989/api-server(1) | Push |
-| ckyuto | 1 | 2.0% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 2.0% | kev1N916/volcano(1) | Push |
+| **kubeservice-stack** | 14 | 29.2% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
+| **prometheus-operator** | 10 | 20.8% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| volcano-sh | 3 | 6.2% | volcano-sh/volcano(3) | PR, Push |
+| helm | 3 | 6.2% | helm/helm(3) | PR, Push |
+| thanos-io | 2 | 4.2% | thanos-io/thanos(2) | PR |
+| apache | 2 | 4.2% | apache/dubbo-go(2) | PR |
+| Apexmail | 2 | 4.2% | Apexmail/helm(2) | Push |
+| hoppipolla-dev | 2 | 4.2% | hoppipolla-dev/helm(2) | Push |
+| oliver006 | 1 | 2.1% | oliver006/redis_exporter(1) | PR |
+| karmada-io | 1 | 2.1% | karmada-io/karmada(1) | PR |
+| kubegems | 1 | 2.1% | kubegems/modelx(1) | PR |
+| NVIDIA | 1 | 2.1% | NVIDIA/k8s-device-plugin(1) | PR |
+| GsonZhao | 1 | 2.1% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 2.1% | handan-yxh/volcano-old-test(1) | Push |
+| yankeguo | 1 | 2.1% | yankeguo/helm-enhanced(1) | Push |
+| dongjiang1989 | 1 | 2.1% | dongjiang1989/api-server(1) | Push |
+| ckyuto | 1 | 2.1% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 2.1% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -253,7 +251,6 @@ kev1N916                       █                    2%
 | Apexmail/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | helm/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | hoppipolla-dev/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
-| csmVIc/volcano | 1 | 2025-04-18 | fix controller-manager metrics |
 | GsonZhao/volcano | 1 | 2025-04-18 | fix controller-manager metrics |
 | handan-yxh/volcano-old-test | 1 | 2025-04-18 | fix controller-manager metrics |
 | kubeservice-stack/node-metrics | 1 | 2025-04-15 | Update node-metrics logging and packages (#31) |
@@ -283,4 +280,4 @@ kev1N916                       █                    2%
 
 ---
 
-*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*

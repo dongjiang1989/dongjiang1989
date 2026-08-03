@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：237 | **Followers**：66 | **Following**：56
+> **公开仓库数**：242 | **Followers**：69 | **Following**：55
 
 ---
 
@@ -14,39 +14,49 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **12** 个 |
-| 涉及仓库数 | **17** 个 |
-| Pull Request 数 | **35** 个（已合并 33，开放 2） |
+| 涉及组织数 | **23** 个 |
+| 涉及仓库数 | **28** 个 |
+| Pull Request 数 | **35** 个（已合并 34，开放 1） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **30** 次 |
-| 活动事件数 | **11** 次 |
-| 总活动量 | **67** |
+| Commit 数 | **52** 次 |
+| 总活动量 | **89** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        █████                27%
-prometheus-operator            ██                   15%
-kubernetes-sigs                ██                   15%
-connectrpc                     ██                   15%
-agentgateway                   █                    7%
-e2b-dev                        █                    4%
-prometheus                     █                    4%
-thanos-io                      █                    3%
-cncf                           █                    3%
-dongjiang1989                  █                    3%
+iflytek                        ████                 20%
+prometheus-operator            ██                   11%
+kubernetes-sigs                ██                   11%
+connectrpc                     ██                   11%
+agentgateway                   █                    6%
+e2b-dev                        █                    3%
+prometheus                     █                    3%
+thanos-io                      █                    2%
+cncf                           █                    2%
+xRetr00                        █                    2%
+shyn55                         █                    2%
+csmiller34                     █                    2%
+carcraze                       █                    2%
+tuanhung303                    █                    2%
+feiguang50-hub                 █                    2%
+TonyDH-dev-openclaw            █                    2%
+CaravelaLabs                   █                    2%
+liuliu0223                     █                    2%
+NousResearch                   █                    2%
+RBNoronha                      █                    2%
+dongjiang1989                  █                    2%
 grafana                        █                    1%
 kgateway-dev                   █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（27%），涉及 3 个仓库，共 18 次活动。
-2. 共 **33** 个 PR 已合并，覆盖 13 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-07-15**（12 次活动），展现了高强度的工作节奏。
+1. **iflytek** 是最大贡献方向（20%），涉及 3 个仓库，共 18 次活动。
+2. 共 **34** 个 PR 已合并，覆盖 13 个仓库。
+3. **1** 个 PR 仍在开放/Review 中。
+4. 活跃高峰出现在 **2026-07-15**（34 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 13 个仓库提交了 **30** 次代码。
+6. 在 24 个仓库提交了 **52** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -54,13 +64,13 @@ kgateway-dev                   █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 92 | **67** | -27% | 📉 -25 |
+| **总活动量** | 92 | **89** | -3% | 📉 -3 |
 | Pull Request | 38 | 35 | -8% | 📉 -3 |
 | Issue | 15 | 2 | -87% | 📉 -13 |
-| Commit | 39 | 30 | -23% | 📉 -9 |
+| Commit | 39 | 52 | +33% | 📈 +13 |
 
-- 🆕 **新增活跃仓库**：`cncf/landscape`, `connectrpc/connect-go`, `connectrpc/connect-py`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `grafana/mimir-prometheus`, `prometheus/prometheus`, `prometheus/sigv4`, `thanos-io/thanos`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `NousResearch/hermes-agent`, `aaif-goose/goose`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `iflytek/.github`, `iflytek/astron-agent`, `iflytek/community`, `iflytek/domux`, `iflytek/iFly-Skills`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`CaravelaLabs/CaravelaWinDesktop`, `RBNoronha/hermes-agent`, `TonyDH-dev-openclaw/hermes-agent`, `carcraze/hermes-agent`, `cncf/landscape`, `connectrpc/connect-go`, `connectrpc/connect-py`, `csmiller34/hermes-agent-xmpp`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `feiguang50-hub/HermesAgentDIY`, `grafana/mimir-prometheus`, `liuliu0223/hermes-agent`, `prometheus/prometheus`, `prometheus/sigv4`, `shyn55/hermes-agent2`, `thanos-io/thanos`, `tuanhung303/blitzzz-hermes`, `xRetr00/Marvi`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `aaif-goose/goose`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `iflytek/.github`, `iflytek/astron-agent`, `iflytek/community`, `iflytek/domux`, `iflytek/iFly-Skills`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `prometheus/procfs`
 - ✅ **工作重心稳定**：继续聚焦 **iflytek**
 
 ---
@@ -69,13 +79,10 @@ kgateway-dev                   █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **67** | PR + Issue + Commit |
-| 📝 **Pull Request** | 35 | 已合并 33，开放 2 |
+| 📊 **总活动** | **89** | PR + Issue + Commit |
+| 📝 **Pull Request** | 35 | 已合并 34，开放 1 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 30 | 代码提交 |
-| 🔀 **PullRequestEvent** | 4 | PR 操作 |
-| 📝 **PushEvent** | 4 | 代码推送 |
-| 🗑️ **DeleteEvent** | 3 | 删除分支 |
+| 💻 **Commit** | 52 | 代码提交 |
 
 ---
 
@@ -83,22 +90,22 @@ kgateway-dev                   █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-07-06（一）** | **8** | ████████ | 8 项活动（iflytek/memflywheel), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2026-07-06（一）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), iflytek/memflywheel), iflytek/memflywheel） |
 | 2026-07-07（二） | 3 | ███░░ | agentgateway/agentgateway: feat(metrics): add agen; iflytek/website: docs(blog): translate Domux blog ; iflytek/astronclaw-tutorial: Merge pull request #6 |
-| **2026-07-08（三）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, agentgateway/agentgateway), iflytek/website)） |
-| **2026-07-09（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, e2b-dev/E2B)） |
+| **2026-07-08（三）** | **5** | █████ | 5 项活动（iflytek/website), agentgateway/agentgateway), agentgateway/agentgateway） |
+| **2026-07-09（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, prometheus-operator/prometheus-operator), prometheus/sigv4)） |
 | 2026-07-10（五） | 0 | ░░░░░ | — |
-| **2026-07-11（六）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), dongjiang1989/connect-py), connectrpc/connect-py)） |
+| **2026-07-11（六）** | **5** | █████ | 5 项活动（e2b-dev/E2B), dongjiang1989/connect-py), kubernetes-sigs/agent-sandbox)） |
 | 2026-07-12（日） | 0 | ░░░░░ | — |
-| 2026-07-13（一） | 4 | ████░ | 4 项活动（connectrpc/connect-go), connectrpc/connect-py, e2b-dev/E2B)） |
-| **2026-07-14（二）** | **7** | ███████ | 7 项活动（iflytek/memflywheel), connectrpc/connect-py, iflytek/website） |
-| **2026-07-15（三）** | **12** | ████████████ | 12 项活动（connectrpc/connect-py, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
-| **2026-07-16（四）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel), prometheus/prometheus, prometheus-operator/prometheus-operator)） |
-| 2026-07-17（五） | 4 | ████░ | 4 项活动（connectrpc/connect-go, iflytek/memflywheel, iflytek/website） |
+| 2026-07-13（一） | 4 | ████░ | 4 项活动（connectrpc/connect-go), e2b-dev/E2B), connectrpc/connect-py） |
+| **2026-07-14（二）** | **7** | ███████ | 7 项活动（iflytek/memflywheel), iflytek/website, kgateway-dev/kgateway） |
+| **2026-07-15（三）** | **34** | ████████████████████ | 34 项活动（prometheus-operator/prometheus-operator), iflytek/website), TonyDH-dev-openclaw/hermes-agent） |
+| **2026-07-16（四）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/agent-sandbox, prometheus-operator/prometheus-operator), iflytek/memflywheel)） |
+| 2026-07-17（五） | 4 | ████░ | 4 项活动（iflytek/website), connectrpc/connect-go, iflytek/website） |
 | 2026-07-18（六） | 0 | ░░░░░ | — |
 | 2026-07-19（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-07-15（12 次活动）为最高峰。
+> **活跃高峰**：2026-07-15（34 次活动）为最高峰。
 
 ---
 
@@ -108,18 +115,29 @@ kgateway-dev                   █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 18 | 26.9% | iflytek/website(10), iflytek/memflywheel(7), iflytek/astronclaw-tutorial(1) | Issue, PR, Push |
-| prometheus-operator | 10 | 14.9% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| kubernetes-sigs | 10 | 14.9% | kubernetes-sigs/agent-sandbox(10) | Issue, PR, Push |
-| connectrpc | 10 | 14.9% | connectrpc/connect-py(7), connectrpc/connect-go(3) | PR, Push |
-| agentgateway | 5 | 7.5% | agentgateway/agentgateway(5) | PR, Push |
-| e2b-dev | 3 | 4.5% | e2b-dev/E2B(3) | PR |
-| prometheus | 3 | 4.5% | prometheus/prometheus(2), prometheus/sigv4(1) | PR, Push |
-| thanos-io | 2 | 3.0% | thanos-io/thanos(2) | PR, Push |
-| cncf | 2 | 3.0% | cncf/landscape(2) | PR, Push |
-| dongjiang1989 | 2 | 3.0% | dongjiang1989/connect-py(1), dongjiang1989/memflywheel(1) | PR |
-| grafana | 1 | 1.5% | grafana/mimir-prometheus(1) | Push |
-| kgateway-dev | 1 | 1.5% | kgateway-dev/kgateway(1) | Push |
+| **iflytek** | 18 | 20.2% | iflytek/website(10), iflytek/memflywheel(7), iflytek/astronclaw-tutorial(1) | Issue, PR, Push |
+| prometheus-operator | 10 | 11.2% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| kubernetes-sigs | 10 | 11.2% | kubernetes-sigs/agent-sandbox(10) | Issue, PR, Push |
+| connectrpc | 10 | 11.2% | connectrpc/connect-py(7), connectrpc/connect-go(3) | PR, Push |
+| agentgateway | 5 | 5.6% | agentgateway/agentgateway(5) | PR, Push |
+| e2b-dev | 3 | 3.4% | e2b-dev/E2B(3) | PR |
+| prometheus | 3 | 3.4% | prometheus/prometheus(2), prometheus/sigv4(1) | PR, Push |
+| thanos-io | 2 | 2.2% | thanos-io/thanos(2) | PR, Push |
+| cncf | 2 | 2.2% | cncf/landscape(2) | PR, Push |
+| xRetr00 | 2 | 2.2% | xRetr00/Marvi(2) | Push |
+| shyn55 | 2 | 2.2% | shyn55/hermes-agent2(2) | Push |
+| csmiller34 | 2 | 2.2% | csmiller34/hermes-agent-xmpp(2) | Push |
+| carcraze | 2 | 2.2% | carcraze/hermes-agent(2) | Push |
+| tuanhung303 | 2 | 2.2% | tuanhung303/blitzzz-hermes(2) | Push |
+| feiguang50-hub | 2 | 2.2% | feiguang50-hub/HermesAgentDIY(2) | Push |
+| TonyDH-dev-openclaw | 2 | 2.2% | TonyDH-dev-openclaw/hermes-agent(2) | Push |
+| CaravelaLabs | 2 | 2.2% | CaravelaLabs/CaravelaWinDesktop(2) | Push |
+| liuliu0223 | 2 | 2.2% | liuliu0223/hermes-agent(2) | Push |
+| NousResearch | 2 | 2.2% | NousResearch/hermes-agent(2) | Push |
+| RBNoronha | 2 | 2.2% | RBNoronha/hermes-agent(2) | Push |
+| dongjiang1989 | 2 | 2.2% | dongjiang1989/connect-py(1), dongjiang1989/memflywheel(1) | PR |
+| grafana | 1 | 1.1% | grafana/mimir-prometheus(1) | Push |
+| kgateway-dev | 1 | 1.1% | kgateway-dev/kgateway(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -176,14 +194,14 @@ kgateway-dev                   █                    1%
 | 30 | iflytek/website | [#49](https://github.com/iflytek/website/pull/49) | docs(blog): translate Domux blog examples from Chinese to English  | ✅ 已合并 |
 | 31 | iflytek/memflywheel | [#32](https://github.com/iflytek/memflywheel/pull/32) | security(deps): upgrade esbuild to 0.28.1 to resolve security vulnerab | ✅ 已合并 |
 | 32 | dongjiang1989/memflywheel | [#1](https://github.com/dongjiang1989/memflywheel/pull/1) | fix(deps): upgrade esbuild to 0.28.1 to resolve security vulnerability | ✅ 已合并 |
-| 33 | prometheus-operator/prometheus-operator | [#8674](https://github.com/prometheus-operator/prometheus-operator/pull/8674) | chore: Update prometheus version to v3.13.0 | ✅ 已合并 |
+| 33 | prometheus-operator/prometheus-operator | [#8675](https://github.com/prometheus-operator/prometheus-operator/pull/8675) | feat: add chunkEncoding field to TSDBSpec for runtime float encoding s | ✅ 已合并 |
+| 34 | prometheus-operator/prometheus-operator | [#8674](https://github.com/prometheus-operator/prometheus-operator/pull/8674) | chore: Update prometheus version to v3.13.0 | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus/sigv4 | [#76](https://github.com/prometheus/sigv4/pull/76) | feat: add SessionName and Tags support for STS AssumeRole | 🔄 开放 |
-| 2 | prometheus-operator/prometheus-operator | [#8675](https://github.com/prometheus-operator/prometheus-operator/pull/8675) | feat: add chunkEncoding field to TSDBSpec for runtime float encoding s | 🔄 开放 |
 
 ---
 
@@ -268,6 +286,17 @@ kgateway-dev                   █                    1%
 | agentgateway/agentgateway | 3 | 2026-07-08 | test: add goleak to detect goroutine leaks in cont; fix: Remove duplicate CEL validation markers (#246; feat(metrics): add agentgateway_controller_build_i |
 | connectrpc/connect-py | 3 | 2026-07-14 | Add note about http client ownership to client doc; Avoid unnecessary copies in IdentityCompression an; Avoid quadratic buffer copies in EnvelopeReader st |
 | iflytek/memflywheel | 3 | 2026-07-17 | feat(e2e): add OpenClaw agent to K8s E2E test fram; feat(e2e): add unified data-driven K8s E2E test fr; security(deps): upgrade esbuild to 0.28.1 to resol |
+| xRetr00/Marvi | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| shyn55/hermes-agent2 | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| csmiller34/hermes-agent-xmpp | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| carcraze/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| tuanhung303/blitzzz-hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| feiguang50-hub/HermesAgentDIY | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| TonyDH-dev-openclaw/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| CaravelaLabs/CaravelaWinDesktop | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| liuliu0223/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| NousResearch/hermes-agent | 2 | 2026-07-15 | fix(skills-hub): include owner in ClawHub source U; fix(cli): dispatch /indicator to set the busy-indi |
+| RBNoronha/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | grafana/mimir-prometheus | 1 | 2026-07-16 | Remove retired Go report card badge |
 | connectrpc/connect-go | 1 | 2026-07-17 | Upgrade golangci-lint to v2.12.2 (#945) |
 | cncf/landscape | 1 | 2026-07-15 | feat(landscape): add Astron Agent project (#4928) |
@@ -294,4 +323,4 @@ kgateway-dev                   █                    1%
 
 ---
 
-*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*

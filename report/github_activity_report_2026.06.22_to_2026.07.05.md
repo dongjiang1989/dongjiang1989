@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：237 | **Followers**：66 | **Following**：56
+> **公开仓库数**：242 | **Followers**：69 | **Following**：55
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **11** 个 |
 | 涉及仓库数 | **21** 个 |
-| Pull Request 数 | **38** 个（已合并 33，开放 5） |
+| Pull Request 数 | **38** 个（已合并 36，开放 2） |
 | Issue 数 | **15** 个 |
 | Commit 数 | **39** 次 |
 | 总活动量 | **92** |
@@ -40,8 +40,8 @@ prometheus-operator            █                    1%
 ### 💡 核心总结
 
 1. **iflytek** 是最大贡献方向（57%），涉及 8 个仓库，共 52 次活动。
-2. 共 **33** 个 PR 已合并，覆盖 15 个仓库。
-3. **5** 个 PR 仍在开放/Review 中。
+2. 共 **36** 个 PR 已合并，覆盖 15 个仓库。
+3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-29**（22 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 16 个仓库提交了 **39** 次代码。
@@ -68,7 +68,7 @@ prometheus-operator            █                    1%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **92** | PR + Issue + Commit |
-| 📝 **Pull Request** | 38 | 已合并 33，开放 5 |
+| 📝 **Pull Request** | 38 | 已合并 36，开放 2 |
 | 📋 **Issue** | 15 | 创建 Issue |
 | 💻 **Commit** | 39 | 代码提交 |
 
@@ -78,20 +78,20 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/.github), iflytek/iFly-Skills), iflytek/community） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（NousResearch/hermes-agent), iflytek/.github, iflytek/iFly-Skills） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), iflytek/iFly-Skills, iflytek/website） |
-| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox)） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills, iflytek/website, iflytek/website)） |
+| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
 | 2026-06-26（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), NousResearch/hermes-agent), dongjiang1989/dongjiang1989） |
-| 2026-06-27（六） | 4 | ████░ | 4 项活动（iflytek/memflywheel), CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, iflytek/memflywheel） |
+| 2026-06-27（六） | 4 | ████░ | 4 项活动（CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, iflytek/memflywheel), prometheus/procfs） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **22** | ████████████████████ | 22 项活动（iflytek/astron-agent), iflytek/memflywheel), iflytek/astron-agent） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/domux, iflytek/domux), kubernetes-sigs/agent-sandbox)） |
+| **2026-06-29（一）** | **22** | ████████████████████ | 22 项活动（kubernetes-sigs/agent-sandbox, iflytek/astron-agent), iflytek/astron-agent） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/website, iflytek/memflywheel, iflytek/website)） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **9** | █████████ | 9 项活动（iflytek/memflywheel), agentgateway/agentgateway, aaif-goose/goose)） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), agentgateway/agentgateway), iflytek/website） |
+| **2026-07-02（四）** | **9** | █████████ | 9 项活动（iflytek/memflywheel), agentgateway/agentgateway, iflytek/website） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), iflytek/website), agentgateway/agentgateway)） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
-| 2026-07-05（日） | 4 | ████░ | 4 项活动（dongjiang1989/agentgateway), kgateway-dev/kgateway), agentgateway/agentgateway)） |
+| 2026-07-05（日） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), dongjiang1989/agentgateway), agentgateway/agentgateway)） |
 
 > **活跃高峰**：2026-06-29（22 次活动）为最高峰。
 
@@ -166,11 +166,14 @@ prometheus-operator            █                    1%
 | 26 | kubernetes-sigs/agent-sandbox | [#1036](https://github.com/kubernetes-sigs/agent-sandbox/pull/1036) | chore: Update controller-runtime to v0.24.1 and k8s dependencies to v0 | ✅ 已合并 |
 | 27 | iflytek/iFly-Skills | [#58](https://github.com/iflytek/iFly-Skills/pull/58) | feat: add LobeHub registries to README  | ✅ 已合并 |
 | 28 | iflytek/website | [#40](https://github.com/iflytek/website/pull/40) | feat: add AgentGuard adopter and two upcoming community meetups | ✅ 已合并 |
-| 29 | NousResearch/hermes-agent | [#50828](https://github.com/NousResearch/hermes-agent/pull/50828) | fix(cron): strip code blocks before strict threat-pattern scan to avoi | 🔒 已关闭 |
-| 30 | iflytek/iFly-Skills | [#56](https://github.com/iflytek/iFly-Skills/pull/56) | feat: add Manus skillsmp registry and multi-registry publishing suppor | ✅ 已合并 |
-| 31 | iflytek/community | [#18](https://github.com/iflytek/community/pull/18) | docs: add security vulnerability reporting email to SECURITY.md | ✅ 已合并 |
-| 32 | iflytek/.github | [#3](https://github.com/iflytek/.github/pull/3) | refactor: centralize docs by linking to community repository | ✅ 已合并 |
-| 33 | iflytek/iFly-Skills | [#54](https://github.com/iflytek/iFly-Skills/pull/54) | chore: update README with Beta notice and registry links  | ✅ 已合并 |
+| 29 | NousResearch/hermes-agent | [#51244](https://github.com/NousResearch/hermes-agent/pull/51244) | fix(skills-hub): include owner in ClawHub source URLs and retry on 429 | 🔒 已关闭 |
+| 30 | NousResearch/hermes-agent | [#51178](https://github.com/NousResearch/hermes-agent/pull/51178) | fix(cli): dispatch /indicator to set the busy-indicator style (#50618) | 🔒 已关闭 |
+| 31 | NousResearch/hermes-agent | [#50828](https://github.com/NousResearch/hermes-agent/pull/50828) | fix(cron): strip code blocks before strict threat-pattern scan to avoi | 🔒 已关闭 |
+| 32 | NousResearch/hermes-agent | [#50782](https://github.com/NousResearch/hermes-agent/pull/50782) | fix(security): block terminal commands that read credential files (#50 | 🔒 已关闭 |
+| 33 | iflytek/iFly-Skills | [#56](https://github.com/iflytek/iFly-Skills/pull/56) | feat: add Manus skillsmp registry and multi-registry publishing suppor | ✅ 已合并 |
+| 34 | iflytek/community | [#18](https://github.com/iflytek/community/pull/18) | docs: add security vulnerability reporting email to SECURITY.md | ✅ 已合并 |
+| 35 | iflytek/.github | [#3](https://github.com/iflytek/.github/pull/3) | refactor: centralize docs by linking to community repository | ✅ 已合并 |
+| 36 | iflytek/iFly-Skills | [#54](https://github.com/iflytek/iFly-Skills/pull/54) | chore: update README with Beta notice and registry links  | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -178,9 +181,6 @@ prometheus-operator            █                    1%
 |---|------|----|------|------|
 | 1 | kgateway-dev/kgateway | [#14355](https://github.com/kgateway-dev/kgateway/pull/14355) | chore(lint): bump golangci-lint to v2.12.2 and kube-api-linter + fix n | 🔄 开放 |
 | 2 | aaif-goose/goose | [#10189](https://github.com/aaif-goose/goose/pull/10189) | fall back to static model list only for non-models payloads | 🔄 开放 |
-| 3 | NousResearch/hermes-agent | [#51244](https://github.com/NousResearch/hermes-agent/pull/51244) | fix(skills-hub): include owner in ClawHub source URLs and retry on 429 | 🔄 开放 |
-| 4 | NousResearch/hermes-agent | [#51178](https://github.com/NousResearch/hermes-agent/pull/51178) | fix(cli): dispatch /indicator to set the busy-indicator style (#50618) | 🔄 开放 |
-| 5 | NousResearch/hermes-agent | [#50782](https://github.com/NousResearch/hermes-agent/pull/50782) | fix(security): block terminal commands that read credential files (#50 | 🔄 开放 |
 
 ---
 
@@ -201,7 +201,7 @@ prometheus-operator            █                    1%
 | 11 | iflytek/memflywheel | [#6](https://github.com/iflytek/memflywheel/issues/6) | Notices: add third-party deps | ✅ 已关闭 |
 | 12 | iflytek/memflywheel | [#3](https://github.com/iflytek/memflywheel/issues/3) | chore: Optimize overall project engineering infrastructure | ✅ 已关闭 |
 | 13 | iflytek/iFly-Skills | [#57](https://github.com/iflytek/iFly-Skills/issues/57) | LobeHub skillhub register | ✅ 已关闭 |
-| 14 | NousResearch/hermes-agent | [#51236](https://github.com/NousResearch/hermes-agent/issues/51236) | [Bug]: ClawHub skills "View source" link generates incorrect URL — mis | 🟢 开放 |
+| 14 | NousResearch/hermes-agent | [#51236](https://github.com/NousResearch/hermes-agent/issues/51236) | [Bug]: ClawHub skills "View source" link generates incorrect URL — mis | ✅ 已关闭 |
 | 15 | iflytek/iFly-Skills | [#55](https://github.com/iflytek/iFly-Skills/issues/55) | Manus  skillsmp.com   Skillshub | ✅ 已关闭 |
 
 ---
@@ -310,4 +310,4 @@ prometheus-operator            █                    1%
 
 ---
 
-*报告生成时间：2026-07-27 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
