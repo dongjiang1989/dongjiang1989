@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：69 | **Following**：55
+> **公开仓库数**：242 | **Followers**：70 | **Following**：55
 
 ---
 
@@ -14,28 +14,31 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **17** 个 |
-| 涉及仓库数 | **20** 个 |
+| 涉及组织数 | **20** 个 |
+| 涉及仓库数 | **31** 个 |
 | Pull Request 数 | **13** 个（已合并 12，开放 1） |
 | Issue 数 | **4** 个 |
-| Commit 数 | **56** 次 |
-| 总活动量 | **73** |
+| Commit 数 | **110** 次 |
+| 总活动量 | **127** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              █████                26%
-volcano-sh                     ███                  15%
-helm                           █                    8%
-Apexmail                       █                    7%
-hoppipolla-dev                 █                    7%
-GsonZhao                       █                    5%
-handan-yxh                     █                    5%
-ckyuto                         █                    5%
-kev1N916                       █                    5%
-prometheus-operator            █                    3%
-prometheus-community           █                    3%
-karmada-io                     █                    3%
+LLM-CR-EVAL                    ███████              35%
+kubeservice-stack              ██                   15%
+volcano-sh                     █                    9%
+helm                           █                    5%
+Apexmail                       █                    4%
+LLM-CR-EVAL-05                 █                    4%
+hoppipolla-dev                 █                    4%
+GsonZhao                       █                    3%
+handan-yxh                     █                    3%
+siqiaawa                       █                    3%
+ckyuto                         █                    3%
+kev1N916                       █                    3%
+prometheus-operator            █                    2%
+prometheus-community           █                    2%
+karmada-io                     █                    2%
 kubernetes                     █                    1%
 yunshenliu92                   █                    1%
 idadmin007                     █                    1%
@@ -45,12 +48,12 @@ cnloxiaoteng-ship-it           █                    1%
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（26%），涉及 4 个仓库，共 19 次活动。
+1. **LLM-CR-EVAL** 是最大贡献方向（35%），涉及 9 个仓库，共 45 次活动。
 2. 共 **12** 个 PR 已合并，覆盖 7 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-03-21**（14 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-03-18**（33 次活动），展现了高强度的工作节奏。
 5. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 18 个仓库提交了 **56** 次代码。
+6. 在 29 个仓库提交了 **110** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -58,14 +61,14 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 44 | **73** | +66% | 📈 +29 |
+| **总活动量** | 46 | **127** | +176% | 📈 +81 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 4 | 4 | 0% | ➡️ 持平 |
-| Commit | 27 | 56 | +107% | 📈 +29 |
+| Commit | 29 | 110 | +279% | 📈 +81 |
 
-- 🆕 **新增活跃仓库**：`Apexmail/helm`, `helm/helm`, `hoppipolla-dev/helm`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`
+- 🆕 **新增活跃仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `helm/helm`, `hoppipolla-dev/helm`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`
 - ❌ **不再活跃的仓库**：`kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `web38444/descheduler`
-- 🔄 **工作重心转移**：从 **volcano-sh** 转向 **kubeservice-stack**
+- 🔄 **工作重心转移**：从 **volcano-sh** 转向 **LLM-CR-EVAL**
 
 ---
 
@@ -73,10 +76,10 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **73** | PR + Issue + Commit |
+| 📊 **总活动** | **127** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 12，开放 1 |
 | 📋 **Issue** | 4 | 创建 Issue |
-| 💻 **Commit** | 56 | 代码提交 |
+| 💻 **Commit** | 110 | 代码提交 |
 
 ---
 
@@ -84,22 +87,22 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-03-17（一） | 4 | ████░ | 4 项活动（Apexmail/helm, hoppipolla-dev/helm, helm/helm)） |
-| **2025-03-18（二）** | **12** | ████████████ | 12 项活动（kev1N916/volcano, helm/helm, ckyuto/volcano-upstream） |
-| 2025-03-19（三） | 4 | ████░ | 4 项活动（volcano-sh/volcano), hoppipolla-dev/helm, Apexmail/helm） |
-| **2025-03-20（四）** | **8** | ████████ | 8 项活动（kev1N916/volcano, ckyuto/volcano-upstream, volcano-sh/volcano） |
-| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（kev1N916/volcano, volcano-sh/volcano, ckyuto/volcano-upstream） |
+| **2025-03-17（一）** | **14** | ██████████████ | 14 项活动（LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr7, LLM-CR-EVAL-05/helm-407-cr3） |
+| **2025-03-18（二）** | **33** | ████████████████████ | 33 项活动（siqiaawa/volcano-test-version, helm/helm, ckyuto/volcano-upstream） |
+| **2025-03-19（三）** | **14** | ██████████████ | 14 项活动（LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr7, LLM-CR-EVAL-05/helm-407-cr3） |
+| **2025-03-20（四）** | **9** | █████████ | 9 项活动（siqiaawa/volcano-test-version, volcano-sh/volcano, kev1N916/volcano） |
+| **2025-03-21（五）** | **16** | ████████████████ | 16 项活动（siqiaawa/volcano-test-version, volcano-sh/volcano, kev1N916/volcano） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor, kubeservice-stack/docker-image） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/docker-image, kubeservice-stack/network-doctor, prometheus-operator/prometheus-operator)） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **13** | █████████████ | 13 项活动（prometheus-operator/prometheus-operator), prometheus-community/helm-charts), helm/helm） |
-| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
+| **2025-03-26（三）** | **23** | ████████████████████ | 23 项活动（prometheus-community/helm-charts, helm/helm, prometheus-community/helm-charts)） |
+| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-03-21（14 次活动）为最高峰。
+> **活跃高峰**：2025-03-18（33 次活动）为最高峰。
 
 ---
 
@@ -109,23 +112,26 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 19 | 26.0% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
-| volcano-sh | 11 | 15.1% | volcano-sh/volcano(11) | Issue, PR, Push |
-| helm | 6 | 8.2% | helm/helm(6) | PR, Push |
-| Apexmail | 5 | 6.8% | Apexmail/helm(5) | Push |
-| hoppipolla-dev | 5 | 6.8% | hoppipolla-dev/helm(5) | Push |
-| GsonZhao | 4 | 5.5% | GsonZhao/volcano(4) | Push |
-| handan-yxh | 4 | 5.5% | handan-yxh/volcano-old-test(4) | Push |
-| ckyuto | 4 | 5.5% | ckyuto/volcano-upstream(4) | Push |
-| kev1N916 | 4 | 5.5% | kev1N916/volcano(4) | Push |
-| prometheus-operator | 2 | 2.7% | prometheus-operator/prometheus-operator(2) | PR |
-| prometheus-community | 2 | 2.7% | prometheus-community/helm-charts(2) | PR, Push |
-| karmada-io | 2 | 2.7% | karmada-io/karmada(2) | PR, Push |
-| kubernetes | 1 | 1.4% | kubernetes/kube-openapi(1) | Issue |
-| yunshenliu92 | 1 | 1.4% | yunshenliu92/prometheus(1) | Push |
-| idadmin007 | 1 | 1.4% | idadmin007/prometheus(1) | Push |
-| Scaling-Smart | 1 | 1.4% | Scaling-Smart/prometheus-helm-charts(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 1.4% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| **LLM-CR-EVAL** | 45 | 35.4% | LLM-CR-EVAL/helm-407-cr2(5), LLM-CR-EVAL/helm-407-cr4(5), LLM-CR-EVAL/helm-407-cr5(5) | Push |
+| kubeservice-stack | 19 | 15.0% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
+| volcano-sh | 11 | 8.7% | volcano-sh/volcano(11) | Issue, PR, Push |
+| helm | 6 | 4.7% | helm/helm(6) | PR, Push |
+| Apexmail | 5 | 3.9% | Apexmail/helm(5) | Push |
+| LLM-CR-EVAL-05 | 5 | 3.9% | LLM-CR-EVAL-05/helm-407-cr3(5) | Push |
+| hoppipolla-dev | 5 | 3.9% | hoppipolla-dev/helm(5) | Push |
+| GsonZhao | 4 | 3.1% | GsonZhao/volcano(4) | Push |
+| handan-yxh | 4 | 3.1% | handan-yxh/volcano-old-test(4) | Push |
+| siqiaawa | 4 | 3.1% | siqiaawa/volcano-test-version(4) | Push |
+| ckyuto | 4 | 3.1% | ckyuto/volcano-upstream(4) | Push |
+| kev1N916 | 4 | 3.1% | kev1N916/volcano(4) | Push |
+| prometheus-operator | 2 | 1.6% | prometheus-operator/prometheus-operator(2) | PR |
+| prometheus-community | 2 | 1.6% | prometheus-community/helm-charts(2) | PR, Push |
+| karmada-io | 2 | 1.6% | karmada-io/karmada(2) | PR, Push |
+| kubernetes | 1 | 0.8% | kubernetes/kube-openapi(1) | Issue |
+| yunshenliu92 | 1 | 0.8% | yunshenliu92/prometheus(1) | Push |
+| idadmin007 | 1 | 0.8% | idadmin007/prometheus(1) | Push |
+| Scaling-Smart | 1 | 0.8% | Scaling-Smart/prometheus-helm-charts(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 0.8% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -135,12 +141,12 @@ cnloxiaoteng-ship-it           █                    1%
 | 2 | **kubeservice-stack/lxcfs-webhook** | 6 | 2 | 1 | 3 | PR #36: Draft: Update Dockerfile.lxcfs; PR #35: fix: Update Dockerfile.lxcfs; Issue #34: Kernel 4.x and gclib 2.22, lxcfs error |
 | 3 | **helm/helm** | 6 | 1 | 0 | 5 | PR #30677: chore: Update Golang to v1.24; Commit: fix comments; Commit: change environment varialbe names |
 | 4 | **kubeservice-stack/docker-image** | 6 | 0 | 0 | 6 | Commit: add openjdk.yaml; Commit: update; Commit: push |
-| 5 | **Apexmail/helm** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
-| 6 | **hoppipolla-dev/helm** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
-| 7 | **GsonZhao/volcano** | 4 | 0 | 0 | 4 | Commit: add jobflow flow dag validate; Commit: fix jobflow running to failed FSM; Commit: dependabot schedule interval to weekly |
-| 8 | **handan-yxh/volcano-old-test** | 4 | 0 | 0 | 4 | Commit: add jobflow flow dag validate; Commit: fix jobflow running to failed FSM; Commit: dependabot schedule interval to weekly |
-| 9 | **ckyuto/volcano-upstream** | 4 | 0 | 0 | 4 | Commit: add jobflow flow dag validate; Commit: fix jobflow running to failed FSM; Commit: dependabot schedule interval to weekly |
-| 10 | **kubeservice-stack/network-doctor** | 4 | 0 | 0 | 4 | Commit: Update README.md; Commit: Update Dockerfile; Commit: Update docker-image.yml |
+| 5 | **LLM-CR-EVAL/helm-407-cr2** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 6 | **LLM-CR-EVAL/helm-407-cr4** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 7 | **Apexmail/helm** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 8 | **LLM-CR-EVAL/helm-407-cr5** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 9 | **LLM-CR-EVAL/helm-407-cr1** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 10 | **LLM-CR-EVAL/helm-407-cr9** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
 
 ---
 
@@ -229,7 +235,7 @@ cnloxiaoteng-ship-it           █                    1%
   - Commit: Update openjdk.yaml
   - Commit: add openjdk
 
-### Apexmail/helm（5 次活动）
+### LLM-CR-EVAL/helm-407-cr2（5 次活动）
 
 - **Commit**: 5 次
 - **主要工作**:
@@ -247,11 +253,22 @@ cnloxiaoteng-ship-it           █                    1%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | kubeservice-stack/docker-image | 6 | 2025-03-24 | add openjdk.yaml; update; push |
+| LLM-CR-EVAL/helm-407-cr2 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr4 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | Apexmail/helm | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr5 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | helm/helm | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr1 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr9 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL-05/helm-407-cr3 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr8 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr7 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | hoppipolla-dev/helm | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr10 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL/helm-407-cr6 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | GsonZhao/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | handan-yxh/volcano-old-test | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
+| siqiaawa/volcano-test-version | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | ckyuto/volcano-upstream | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | volcano-sh/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | kubeservice-stack/network-doctor | 4 | 2025-03-24 | Update README.md; Update Dockerfile; Update docker-image.yml |
@@ -281,4 +298,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*

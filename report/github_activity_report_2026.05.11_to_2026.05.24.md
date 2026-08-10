@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：69 | **Following**：55
+> **公开仓库数**：242 | **Followers**：70 | **Following**：55
 
 ---
 
@@ -14,12 +14,12 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **16** 个 |
-| 涉及仓库数 | **21** 个 |
+| 涉及组织数 | **17** 个 |
+| 涉及仓库数 | **22** 个 |
 | Pull Request 数 | **23** 个（已合并 21，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **34** 次 |
-| 总活动量 | **57** |
+| Commit 数 | **35** 次 |
+| 总活动量 | **58** |
 
 ### 🎯 工作重心分布
 
@@ -30,8 +30,8 @@ prometheus-operator            ███                  16%
 dongjiang1989                  ██                   12%
 kagent-dev                     █                    7%
 kubernetes-sigs                █                    5%
-Project-HAMi                   █                    4%
-erauner12                      █                    4%
+Project-HAMi                   █                    3%
+erauner12                      █                    3%
 brandonfang06                  █                    2%
 zhangjun123400                 █                    2%
 yun-zhi-ztl                    █                    2%
@@ -40,6 +40,7 @@ wei-shon                       █                    2%
 bohe1026                       █                    2%
 Annie-Summer                   █                    2%
 xiaoyaosanshi                  █                    2%
+ichichuang                     █                    2%
 ```
 
 ### 💡 核心总结
@@ -47,8 +48,8 @@ xiaoyaosanshi                  █                    2%
 1. **iflytek** 是最大贡献方向（19%），涉及 3 个仓库，共 11 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 11 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-05-12**（13 次活动），展现了高强度的工作节奏。
-5. 在 20 个仓库提交了 **34** 次代码。
+4. 活跃高峰出现在 **2026-05-12**（14 次活动），展现了高强度的工作节奏。
+5. 在 21 个仓库提交了 **35** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -56,10 +57,10 @@ xiaoyaosanshi                  █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 61 | **57** | -7% | 📉 -4 |
+| **总活动量** | 62 | **58** | -6% | 📉 -4 |
 | Pull Request | 24 | 23 | -4% | 📉 -1 |
 | Issue | 3 | 0 | -100% | 📉 -3 |
-| Commit | 34 | 34 | 0% | ➡️ 持平 |
+| Commit | 35 | 35 | 0% | ➡️ 持平 |
 
 - 🆕 **新增活跃仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `iflytek/astron-agent`, `iflytek/community`, `kubeservice-stack/common`, `kubeservice-stack/node-metrics`
 - ❌ **不再活跃的仓库**：`guanglechen/agenthub-enterprise`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`
@@ -71,10 +72,10 @@ xiaoyaosanshi                  █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **57** | PR + Issue + Commit |
+| 📊 **总活动** | **58** | PR + Issue + Commit |
 | 📝 **Pull Request** | 23 | 已合并 21，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 34 | 代码提交 |
+| 💻 **Commit** | 35 | 代码提交 |
 
 ---
 
@@ -82,22 +83,22 @@ xiaoyaosanshi                  █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kagent-dev/kagent, kubernetes-sigs/agent-sandbox)） |
-| **2026-05-12（二）** | **13** | █████████████ | 13 项活动（iflytek/astron-agent, iflytek/astron-agent), xiaoyaosanshi/skillhub） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kagent-dev/kagent, kubernetes-sigs/agent-sandbox)） |
+| **2026-05-12（二）** | **14** | ██████████████ | 14 项活动（Wionerlol/SkillHub, kagent-dev/kagent, bohe1026/skillhub） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 1 | █░░░░ | PR #1322 (iflytek/astron-agent) |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/common), prometheus-operator/prometheus-operator), kubeservice-stack/echo） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/echo, kagent-dev/kagent)） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), iflytek/community), dongjiang1989/opensearch-api） |
-| **2026-05-21（四）** | **11** | ███████████ | 11 项活动（dongjiang1989/opensearch-api), iflytek/community, Project-HAMi/HAMi） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubernetes-sigs/controller-runtime), iflytek/community） |
+| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, Project-HAMi/HAMi), iflytek/community)） |
+| **2026-05-21（四）** | **11** | ███████████ | 11 项活动（dongjiang1989/opensearch-api, iflytek/community), dongjiang1989/opensearch-api)） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-runtime, iflytek/community, kubeservice-stack/common） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-05-12（13 次活动）为最高峰。
+> **活跃高峰**：2026-05-12（14 次活动）为最高峰。
 
 ---
 
@@ -107,22 +108,23 @@ xiaoyaosanshi                  █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| iflytek | 11 | 19.3% | iflytek/community(6), iflytek/astron-agent(4), iflytek/skillhub(1) | PR, Push |
-| kubeservice-stack | 11 | 19.3% | kubeservice-stack/common(5), kubeservice-stack/echo(4), kubeservice-stack/node-metrics(2) | PR, Push |
-| prometheus-operator | 9 | 15.8% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| dongjiang1989 | 7 | 12.3% | dongjiang1989/opensearch-api(7) | PR, Push |
-| kagent-dev | 4 | 7.0% | kagent-dev/kagent(4) | PR, Push |
-| kubernetes-sigs | 3 | 5.3% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/agent-sandbox(1) | PR, Push |
-| Project-HAMi | 2 | 3.5% | Project-HAMi/HAMi(2) | PR, Push |
-| erauner12 | 2 | 3.5% | erauner12/kagent-detached(2) | Push |
-| brandonfang06 | 1 | 1.8% | brandonfang06/skillhub(1) | Push |
-| zhangjun123400 | 1 | 1.8% | zhangjun123400/skillhub(1) | Push |
-| yun-zhi-ztl | 1 | 1.8% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
-| Wionerlol | 1 | 1.8% | Wionerlol/SkillHub(1) | Push |
-| wei-shon | 1 | 1.8% | wei-shon/skillhub_delete(1) | Push |
-| bohe1026 | 1 | 1.8% | bohe1026/skillhub(1) | Push |
-| Annie-Summer | 1 | 1.8% | Annie-Summer/HAMi-test(1) | Push |
-| xiaoyaosanshi | 1 | 1.8% | xiaoyaosanshi/skillhub(1) | Push |
+| iflytek | 11 | 19.0% | iflytek/community(6), iflytek/astron-agent(4), iflytek/skillhub(1) | PR, Push |
+| kubeservice-stack | 11 | 19.0% | kubeservice-stack/common(5), kubeservice-stack/echo(4), kubeservice-stack/node-metrics(2) | PR, Push |
+| prometheus-operator | 9 | 15.5% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| dongjiang1989 | 7 | 12.1% | dongjiang1989/opensearch-api(7) | PR, Push |
+| kagent-dev | 4 | 6.9% | kagent-dev/kagent(4) | PR, Push |
+| kubernetes-sigs | 3 | 5.2% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/agent-sandbox(1) | PR, Push |
+| Project-HAMi | 2 | 3.4% | Project-HAMi/HAMi(2) | PR, Push |
+| erauner12 | 2 | 3.4% | erauner12/kagent-detached(2) | Push |
+| brandonfang06 | 1 | 1.7% | brandonfang06/skillhub(1) | Push |
+| zhangjun123400 | 1 | 1.7% | zhangjun123400/skillhub(1) | Push |
+| yun-zhi-ztl | 1 | 1.7% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
+| Wionerlol | 1 | 1.7% | Wionerlol/SkillHub(1) | Push |
+| wei-shon | 1 | 1.7% | wei-shon/skillhub_delete(1) | Push |
+| bohe1026 | 1 | 1.7% | bohe1026/skillhub(1) | Push |
+| Annie-Summer | 1 | 1.7% | Annie-Summer/HAMi-test(1) | Push |
+| xiaoyaosanshi | 1 | 1.7% | xiaoyaosanshi/skillhub(1) | Push |
+| ichichuang | 1 | 1.7% | ichichuang/skillhub-lobster-frontend(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -267,6 +269,7 @@ xiaoyaosanshi                  █                    2%
 | bohe1026/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | Annie-Summer/HAMi-test | 1 | 2026-05-21 | chore: update golangci-lint version and fix lint v |
 | xiaoyaosanshi/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
+| ichichuang/skillhub-lobster-frontend | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 
 ---
 
@@ -284,4 +287,4 @@ xiaoyaosanshi                  █                    2%
 
 ---
 
-*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*

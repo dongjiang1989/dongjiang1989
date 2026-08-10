@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：69 | **Following**：55
+> **公开仓库数**：242 | **Followers**：70 | **Following**：55
 
 ---
 
@@ -30,7 +30,7 @@ bytebase                       █                    9%
 kagent-dev                     █                    5%
 weedgit                        █                    5%
 bwplotka                       █                    5%
-allen-ray-dev                  █                    5%
+white-night-eco-live           █                    5%
 ```
 
 ### 💡 核心总结
@@ -74,7 +74,7 @@ allen-ray-dev                  █                    5%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kagent-dev/kagent)） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kagent-dev/kagent), prometheus-operator/prometheus-operator)） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -82,8 +82,8 @@ allen-ray-dev                  █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **7** | ███████ | 7 项活动（weedgit/bytebase, allen-ray-dev/bytebase, kubernetes-sigs/controller-tools） |
+| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools, bytebase/bytebase)） |
+| **2025-09-12（五）** | **7** | ███████ | 7 项活动（weedgit/bytebase, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -103,7 +103,7 @@ allen-ray-dev                  █                    5%
 | kagent-dev | 1 | 4.5% | kagent-dev/kagent(1) | PR |
 | weedgit | 1 | 4.5% | weedgit/bytebase(1) | Push |
 | bwplotka | 1 | 4.5% | bwplotka/mdox(1) | Push |
-| allen-ray-dev | 1 | 4.5% | allen-ray-dev/bytebase(1) | Push |
+| white-night-eco-live | 1 | 4.5% | white-night-eco-live/bytebase(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -116,7 +116,7 @@ allen-ray-dev                  █                    5%
 | 5 | **kagent-dev/kagent** | 1 | 1 | 0 | 0 | PR #850: Bump to k8s.io/* v0.34.0 |
 | 6 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
 | 7 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
-| 8 | **allen-ray-dev/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
+| 8 | **white-night-eco-live/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
 
 ---
 
@@ -210,7 +210,7 @@ allen-ray-dev                  █                    5%
 | weedgit/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 | bwplotka/mdox | 1 | 2025-09-09 | fix http2: timeout awaiting response headers (#172 |
 | bytebase/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
-| allen-ray-dev/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
+| white-night-eco-live/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
 
 ---
 
@@ -228,4 +228,4 @@ allen-ray-dev                  █                    5%
 
 ---
 
-*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*

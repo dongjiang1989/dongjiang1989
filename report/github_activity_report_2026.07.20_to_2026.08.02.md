@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：69 | **Following**：55
+> **公开仓库数**：242 | **Followers**：70 | **Following**：55
 
 ---
 
@@ -19,7 +19,6 @@
 | Pull Request 数 | **39** 个（已合并 19，开放 20） |
 | Issue 数 | **5** 个 |
 | Commit 数 | **42** 次 |
-| 活动事件数 | **300** 次 |
 | 总活动量 | **86** |
 
 ### 🎯 工作重心分布
@@ -55,13 +54,13 @@ NousResearch                   █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 89 | **86** | -3% | 📉 -3 |
+| **总活动量** | 151 | **86** | -43% | 📉 -65 |
 | Pull Request | 35 | 39 | +11% | 📈 +4 |
 | Issue | 2 | 5 | +150% | 📈 +3 |
-| Commit | 52 | 42 | -19% | 📉 -10 |
+| Commit | 114 | 42 | -63% | 📉 -72 |
 
 - 🆕 **新增活跃仓库**：`a2aproject/A2A`, `a2aproject/a2a-go`, `agentgateway/website`, `avelino/awesome-go`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/infra`, `e2bgateway/e2bgateway`, `iflytek/astron-agent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `langfuse/langfuse`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `ramitsurana/awesome-kubernetes`
-- ❌ **不再活跃的仓库**：`CaravelaLabs/CaravelaWinDesktop`, `RBNoronha/hermes-agent`, `TonyDH-dev-openclaw/hermes-agent`, `carcraze/hermes-agent`, `cncf/landscape`, `connectrpc/connect-go`, `connectrpc/connect-py`, `csmiller34/hermes-agent-xmpp`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `feiguang50-hub/HermesAgentDIY`, `grafana/mimir-prometheus`, `iflytek/astronclaw-tutorial`, `kgateway-dev/kgateway`, `liuliu0223/hermes-agent`, `prometheus/sigv4`, `shyn55/hermes-agent2`, `thanos-io/thanos`, `tuanhung303/blitzzz-hermes`, `xRetr00/Marvi`
+- ❌ **不再活跃的仓库**：`7hqzd4gtvq-del/namig-agent`, `Bear615/houseofagents`, `CaravelaLabs/CaravelaWinDesktop`, `Chan-Yong-Kim/Hermes-Agent-Training`, `ChatArch/hermes-agent`, `DavidMcFarlin/hermes-agent-evolved`, `HaroPad-Hermes/hermes-agent`, `LT-enoch/hermes-agent`, `Lexus2016/hermes-agent-evolution`, `MaanavN/Mercury`, `Milize21/paradise_Hermes`, `RBNoronha/hermes-agent`, `TonyDH-dev-openclaw/hermes-agent`, `TrungKiencding/AgentX-Workmate`, `apvizual-max/hermes-agent-temp`, `ashneil12/vanilla-hermes-agent-canary`, `bignormal/aera-runtime`, `cncf/landscape`, `connectrpc/connect-go`, `connectrpc/connect-py`, `cryztoobal/Hermes-Orquestador`, `csmiller34/hermes-agent-xmpp`, `cyt9772/hermes-agent`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `feiguang50-hub/HermesAgentDIY`, `grafana/mimir-prometheus`, `hushh-labs/hussh-one-hermes`, `iflytek/astronclaw-tutorial`, `jankratochvilcz/hermes-agent`, `junhoolee/hermes-agent`, `kgateway-dev/kgateway`, `luluthehungrycat/edgmes-agent`, `majorissuerep/hermes-memory`, `mikefelder/hermes-agent-azure-terraform`, `neaucode-bot/hermes-agent-pre-standalone-20260807`, `plm66/hermes-delegate`, `prometheus/sigv4`, `reck74/Janitor-Agent`, `samantorabi3/hermes-agent`, `shuymn/hermes-agent`, `shyn55/hermes-agent2`, `stoltembergg-png/hermes-agent`, `tamstuz/hermes`, `thanos-io/thanos`, `tigermkiiiddd/hermes-agent-stable`, `wjsgudrnr12/rodi-cli`, `xRetr00/Marvi`, `xiaoping1111/hermes-cn`, `ykoh42/async-hermes-agent`, `zed-wong/hermesbot`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **e2bgateway**
 
 ---
@@ -74,17 +73,6 @@ NousResearch                   █                    1%
 | 📝 **Pull Request** | 39 | 已合并 19，开放 20 |
 | 📋 **Issue** | 5 | 创建 Issue |
 | 💻 **Commit** | 42 | 代码提交 |
-| 📝 **PushEvent** | 118 | 代码推送 |
-| 🔀 **PullRequestEvent** | 46 | PR 操作 |
-| 🌿 **CreateEvent** | 32 | 创建分支/标签 |
-| 👀 **PullRequestReviewEvent** | 26 | PR Review |
-| 💬 **IssueCommentEvent** | 24 | Issue 评论 |
-| 🗑️ **DeleteEvent** | 22 | 删除分支 |
-| 💭 **PullRequestReviewCommentEvent** | 16 | PR Review 评论 |
-| 🍴 **ForkEvent** | 8 | Fork |
-| 📋 **IssuesEvent** | 4 | Issue 操作 |
-| ⭐ **WatchEvent** | 3 | Star 收藏 |
-| 🚀 **ReleaseEvent** | 1 | 版本发布 |
 
 ---
 
@@ -92,18 +80,18 @@ NousResearch                   █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-07-20（一）** | **7** | ███████ | 7 项活动（iflytek/astron-agent, prometheus-operator/prometheus-operator), iflytek/astron-agent)） |
-| 2026-07-21（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), e2b-dev/infra), prometheus/alertmanager） |
+| **2026-07-20（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, agentgateway/agentgateway), iflytek/astron-agent） |
+| 2026-07-21（二） | 4 | ████░ | 4 项活动（e2b-dev/infra), prometheus/alertmanager, kubernetes-sigs/agent-sandbox)） |
 | 2026-07-22（三） | 2 | ██░░░ | PR #8709 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update al |
 | 2026-07-23（四） | 3 | ███░░ | PR #2645 (agentgateway/agentgateway); Issue #69931; prometheus-operator/prometheus-operator: chore：Upd |
-| **2026-07-24（五）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-tools, iflytek/website） |
+| **2026-07-24（五）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/agent-sandbox), modelcontextprotocol/python-sdk)） |
 | 2026-07-25（六） | 2 | ██░░░ | agentgateway/agentgateway: perf(jwks): parallelize; kubernetes-sigs/agent-sandbox: refactor: strip Pod |
 | 2026-07-26（日） | 0 | ░░░░░ | — |
-| **2026-07-27（一）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox), langfuse/langfuse)） |
-| **2026-07-28（二）** | **13** | █████████████ | 13 项活动（e2bgateway/e2bgateway, kubernetes-sigs/agent-sandbox), agentgateway/agentgateway） |
-| **2026-07-29（三）** | **20** | ████████████████████ | 20 项活动（prometheus-operator/prometheus-operator), iflytek/memflywheel), iflytek/memflywheel） |
-| **2026-07-30（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), agentgateway/website, agentgateway/website)） |
-| **2026-07-31（五）** | **6** | ██████ | 6 项活动（a2aproject/A2A), prometheus-operator/prometheus-operator, prometheus/prometheus)） |
+| **2026-07-27（一）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator, agentgateway/agentgateway), kubernetes-sigs/agent-sandbox)） |
+| **2026-07-28（二）** | **13** | █████████████ | 13 项活动（e2bgateway/e2bgateway), e2bgateway/e2bgateway, kubernetes-sigs/agent-sandbox)） |
+| **2026-07-29（三）** | **20** | ████████████████████ | 20 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox), e2b-dev/awesome-mcp-gateways)） |
+| **2026-07-30（四）** | **7** | ███████ | 7 项活动（a2aproject/a2a-go), agentgateway/website, agentgateway/website)） |
+| **2026-07-31（五）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, a2aproject/a2a-go, prometheus/node_exporter)） |
 | 2026-08-01（六） | 0 | ░░░░░ | — |
 | 2026-08-02（日） | 0 | ░░░░░ | — |
 
@@ -143,7 +131,7 @@ NousResearch                   █                    1%
 | 6 | **iflytek/website** | 4 | 2 | 0 | 2 | PR #67: fix: disable astro-compress CSS minificati; PR #66: fix(security): resolve npm audit vulnerabi; Commit: fix(security): resolve 10 npm audit vulner |
 | 7 | **a2aproject/a2a-go** | 3 | 2 | 0 | 1 | PR #387: chore(lint): enable modernize linter and ; PR #386: fix(jsonrpc): lenient decode of error.dat; Commit: chore(lint): enable modernize linter and a |
 | 8 | **agentgateway/website** | 3 | 1 | 1 | 1 | PR #825: Docs: add iFlytek to adopters list; Issue #826: Request to add iFlytek to Contributing; Commit: docs: add iFlytek to adopters list |
-| 9 | **iflytek/astron-agent** | 3 | 1 | 1 | 1 | PR #1543: chore: Update README with CNCF Landscape; Issue #1575: [Feature Request] Support Langfuse in; Commit: Update README with CNCF Landscape details |
+| 9 | **iflytek/astron-agent** | 3 | 1 | 1 | 1 | PR #1543: chore: Update README with CNCF Landscape; Issue #1575: HER Hack-Astron #2｜[Feature Request] ; Commit: Update README with CNCF Landscape details |
 | 10 | **prometheus/prometheus** | 2 | 2 | 0 | 0 | PR #19306: web: use fresh context for graceful shu; PR #19304: scrape: fix data race in TargetsDropped |
 
 ---
@@ -205,8 +193,8 @@ NousResearch                   █                    1%
 
 | # | 仓库 | Issue | 标题 | 状态 |
 |---|------|-------|------|------|
-| 1 | agentgateway/website | [#826](https://github.com/agentgateway/website/issues/826) | Request to add iFlytek to Contributing Companies section | 🟢 开放 |
-| 2 | iflytek/astron-agent | [#1575](https://github.com/iflytek/astron-agent/issues/1575) | [Feature Request] Support Langfuse integration for LLM observability,  | 🟢 开放 |
+| 1 | agentgateway/website | [#826](https://github.com/agentgateway/website/issues/826) | Request to add iFlytek to Contributing Companies section | ✅ 已关闭 |
+| 2 | iflytek/astron-agent | [#1575](https://github.com/iflytek/astron-agent/issues/1575) | HER Hack-Astron #2｜[Feature Request] Support Langfuse integration for  | 🟢 开放 |
 | 3 | NousResearch/hermes-agent | [#69931](https://github.com/NousResearch/hermes-agent/issues/69931) | [Feature]: Track upgrade to mcp==2.0.0b2 and MCP 2026-07-28 stateless  | 🟢 开放 |
 | 4 | kubernetes-sigs/agent-sandbox | [#1237](https://github.com/kubernetes-sigs/agent-sandbox/issues/1237) | Proposal: In-sandbox Guest Agent for consistent snapshot/resume (freez | 🟢 开放 |
 | 5 | prometheus/governance | [#25](https://github.com/prometheus/governance/issues/25) | Membership application: dongjiang1989 | 🟢 开放 |
@@ -304,10 +292,8 @@ NousResearch                   █                    1%
 
 ## 十、Release 发版记录
 
-| 仓库 | 版本 | 时间 |
-|------|------|------|
-| iflytek/memflywheel | **v0.1.1** | 2026-07-28 |
+> 本周期无 Release 记录（Release 数据仅在 Events API 可查时段内有效）。
 
 ---
 
-*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：69 | **Following**：55
+> **公开仓库数**：242 | **Followers**：70 | **Following**：55
 
 ---
 
@@ -31,7 +31,7 @@ apache                         ██                   14%
 kubernetes-sigs                █                    9%
 kagent-dev                     █                    5%
 weedgit                        █                    5%
-allen-ray-dev                  █                    5%
+white-night-eco-live           █                    5%
 ```
 
 ### 💡 核心总结
@@ -53,7 +53,7 @@ allen-ray-dev                  █                    5%
 | Issue | 1 | 2 | +100% | 📈 +1 |
 | Commit | 7 | 14 | +100% | 📈 +7 |
 
-- 🆕 **新增活跃仓库**：`allen-ray-dev/bytebase`, `apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`
+- 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
 - ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **dongjiang1989**
 
@@ -76,15 +76,15 @@ allen-ray-dev                  █                    5%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, allen-ray-dev/bytebase, bytebase/clabot-config)） |
+| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, bytebase/clabot-config), bytebase/bytebase)） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| 2025-08-28（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/cluster-api), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api), kubernetes-sigs/cluster-api） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -106,7 +106,7 @@ allen-ray-dev                  █                    5%
 | kubernetes-sigs | 2 | 9.1% | kubernetes-sigs/cluster-api(2) | PR, Push |
 | kagent-dev | 1 | 4.5% | kagent-dev/community(1) | Issue |
 | weedgit | 1 | 4.5% | weedgit/bytebase(1) | Push |
-| allen-ray-dev | 1 | 4.5% | allen-ray-dev/bytebase(1) | Push |
+| white-night-eco-live | 1 | 4.5% | white-night-eco-live/bytebase(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -120,7 +120,7 @@ allen-ray-dev                  █                    5%
 | 6 | **bytebase/bytebase** | 2 | 1 | 0 | 1 | PR #17282: fix(mongodb): fix mongodb collection na; Commit: fix mongodb collection name contains speci |
 | 7 | **kagent-dev/community** | 1 | 0 | 1 | 0 | Issue #6: Kagent-dev Org Membership Request |
 | 8 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
-| 9 | **allen-ray-dev/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
+| 9 | **white-night-eco-live/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
 
 ---
 
@@ -212,7 +212,7 @@ allen-ray-dev                  █                    5%
 | weedgit/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | bytebase/clabot-config | 1 | 2025-08-26 | add myself as contributor |
 | bytebase/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
-| allen-ray-dev/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
+| white-night-eco-live/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | prometheus-operator/prometheus-operator | 1 | 2025-08-28 | update golangci linter version to v2.4.0 |
 
 ---
@@ -229,4 +229,4 @@ allen-ray-dev                  █                    5%
 
 ---
 
-*报告生成时间：2026-08-03 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*
