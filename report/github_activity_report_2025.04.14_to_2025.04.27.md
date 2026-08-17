@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：70 | **Following**：55
+> **公开仓库数**：243 | **Followers**：72 | **Following**：50
 
 ---
 
@@ -18,8 +18,8 @@
 | 涉及仓库数 | **33** 个 |
 | Pull Request 数 | **23** 个（已合并 21，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **46** 次 |
-| 总活动量 | **69** |
+| Commit 数 | **47** 次 |
+| 总活动量 | **70** |
 
 ### 🎯 工作重心分布
 
@@ -32,6 +32,7 @@ helm                           █                    4%
 thanos-io                      █                    3%
 apache                         █                    3%
 Apexmail                       █                    3%
+ljzljz520-eng                  █                    3%
 LLM-CR-EVAL-05                 █                    3%
 hoppipolla-dev                 █                    3%
 oliver006                      █                    1%
@@ -40,7 +41,6 @@ kubegems                       █                    1%
 NVIDIA                         █                    1%
 GsonZhao                       █                    1%
 handan-yxh                     █                    1%
-siqiaawa                       █                    1%
 yankeguo                       █                    1%
 dongjiang1989                  █                    1%
 ckyuto                         █                    1%
@@ -53,7 +53,7 @@ kev1N916                       █                    1%
 2. 共 **21** 个 PR 已合并，覆盖 13 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-04-18**（23 次活动），展现了高强度的工作节奏。
-5. 在 26 个仓库提交了 **46** 次代码。
+5. 在 26 个仓库提交了 **47** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -61,13 +61,13 @@ kev1N916                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **69** | +77% | 📈 +30 |
+| **总活动量** | 40 | **70** | +75% | 📈 +30 |
 | Pull Request | 14 | 23 | +64% | 📈 +9 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 24 | 46 | +92% | 📈 +22 |
+| Commit | 25 | 47 | +88% | 📈 +22 |
 
-- 🆕 **新增活跃仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
-- ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
+- 🆕 **新增活跃仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `NVIDIA/k8s-device-plugin`, `apache/dubbo-go`, `dongjiang1989/api-server`, `helm/helm`, `hoppipolla-dev/helm`, `kubegems/modelx`, `kubeservice-stack/common`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `ljzljz520-eng/helm-31109`, `oliver006/redis_exporter`, `thanos-io/thanos`, `yankeguo/helm-enhanced`
+- ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `kubeservice-stack/lxcfs-webhook`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`, `tbean-org/koordinator`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **LLM-CR-EVAL**
 
 ---
@@ -76,10 +76,10 @@ kev1N916                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **69** | PR + Issue + Commit |
+| 📊 **总活动** | **70** | PR + Issue + Commit |
 | 📝 **Pull Request** | 23 | 已合并 21，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 46 | 代码提交 |
+| 💻 **Commit** | 47 | 代码提交 |
 
 ---
 
@@ -88,13 +88,13 @@ kev1N916                       █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/custom-limit-range), kubeservice-stack/node-metrics), NVIDIA/k8s-device-plugin)） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/modelx), kubeservice-stack/kubservice-charts), kubeservice-stack/kubservice-charts） |
-| **2025-04-17（四）** | **17** | █████████████████ | 17 项活动（prometheus-operator/prometheus-operator, LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr7） |
-| **2025-04-18（五）** | **23** | ████████████████████ | 23 项活动（siqiaawa/volcano-test-version, helm/helm, ckyuto/volcano-upstream） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（NVIDIA/k8s-device-plugin), kubeservice-stack/custom-limit-range), kubeservice-stack/node-metrics） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubegems/modelx), kubeservice-stack/kubservice-charts, karmada-io/karmada)） |
+| **2025-04-17（四）** | **18** | ██████████████████ | 18 项活动（LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr6, LLM-CR-EVAL/helm-407-cr4） |
+| **2025-04-18（五）** | **23** | ████████████████████ | 23 项活动（LLM-CR-EVAL/helm-407-cr4, LLM-CR-EVAL/helm-407-cr1, hoppipolla-dev/helm） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
 | **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/api-server） |
@@ -112,14 +112,15 @@ kev1N916                       █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **LLM-CR-EVAL** | 18 | 26.1% | LLM-CR-EVAL/helm-407-cr2(2), LLM-CR-EVAL/helm-407-cr4(2), LLM-CR-EVAL/helm-407-cr5(2) | Push |
-| **kubeservice-stack** | 14 | 20.3% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
-| prometheus-operator | 10 | 14.5% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| **LLM-CR-EVAL** | 18 | 25.7% | LLM-CR-EVAL/helm-407-cr2(2), LLM-CR-EVAL/helm-407-cr4(2), LLM-CR-EVAL/helm-407-cr5(2) | Push |
+| kubeservice-stack | 14 | 20.0% | kubeservice-stack/kubservice-charts(6), kubeservice-stack/node-metrics(3), kubeservice-stack/common(2) | PR, Push |
+| prometheus-operator | 10 | 14.3% | prometheus-operator/prometheus-operator(10) | PR, Push |
 | volcano-sh | 3 | 4.3% | volcano-sh/volcano(3) | PR, Push |
 | helm | 3 | 4.3% | helm/helm(3) | PR, Push |
 | thanos-io | 2 | 2.9% | thanos-io/thanos(2) | PR |
 | apache | 2 | 2.9% | apache/dubbo-go(2) | PR |
 | Apexmail | 2 | 2.9% | Apexmail/helm(2) | Push |
+| ljzljz520-eng | 2 | 2.9% | ljzljz520-eng/helm-31109(2) | Push |
 | LLM-CR-EVAL-05 | 2 | 2.9% | LLM-CR-EVAL-05/helm-407-cr3(2) | Push |
 | hoppipolla-dev | 2 | 2.9% | hoppipolla-dev/helm(2) | Push |
 | oliver006 | 1 | 1.4% | oliver006/redis_exporter(1) | PR |
@@ -128,7 +129,6 @@ kev1N916                       █                    1%
 | NVIDIA | 1 | 1.4% | NVIDIA/k8s-device-plugin(1) | PR |
 | GsonZhao | 1 | 1.4% | GsonZhao/volcano(1) | Push |
 | handan-yxh | 1 | 1.4% | handan-yxh/volcano-old-test(1) | Push |
-| siqiaawa | 1 | 1.4% | siqiaawa/volcano-test-version(1) | Push |
 | yankeguo | 1 | 1.4% | yankeguo/helm-enhanced(1) | Push |
 | dongjiang1989 | 1 | 1.4% | dongjiang1989/api-server(1) | Push |
 | ckyuto | 1 | 1.4% | ckyuto/volcano-upstream(1) | Push |
@@ -260,6 +260,7 @@ kev1N916                       █                    1%
 | LLM-CR-EVAL/helm-407-cr5 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | helm/helm | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | LLM-CR-EVAL/helm-407-cr1 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
+| ljzljz520-eng/helm-31109 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | LLM-CR-EVAL/helm-407-cr9 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | LLM-CR-EVAL-05/helm-407-cr3 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
 | LLM-CR-EVAL/helm-407-cr8 | 2 | 2025-04-18 | Update .github/env; Merge branch 'main' into update-golang-version |
@@ -270,7 +271,6 @@ kev1N916                       █                    1%
 | GsonZhao/volcano | 1 | 2025-04-18 | fix controller-manager metrics |
 | handan-yxh/volcano-old-test | 1 | 2025-04-18 | fix controller-manager metrics |
 | kubeservice-stack/node-metrics | 1 | 2025-04-15 | Update node-metrics logging and packages (#31) |
-| siqiaawa/volcano-test-version | 1 | 2025-04-18 | fix controller-manager metrics |
 | yankeguo/helm-enhanced | 1 | 2025-04-18 | backport #30677to dev3 |
 | kubeservice-stack/custom-limit-range | 1 | 2025-04-16 | Update golang version 1.24 && controller-runtime v |
 | dongjiang1989/api-server | 1 | 2025-04-24 | Initial commit |
@@ -297,4 +297,4 @@ kev1N916                       █                    1%
 
 ---
 
-*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*

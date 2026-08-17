@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：70 | **Following**：55
+> **公开仓库数**：243 | **Followers**：72 | **Following**：50
 
 ---
 
@@ -75,9 +75,9 @@ kubernetes-sigs                █                    9%
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
 | 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, iflytek/community), kubernetes-sigs/prow） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, dongjiang1989/abc, iflytek/community)） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), kubeservice-stack/hf-sync-action), dongjiang1989/mirror-action） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/mirror-action） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), iflytek/community)） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, actions-marketplace-validations/kubeservice-stack_hf-sync-action） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：70 | **Following**：55
+> **公开仓库数**：243 | **Followers**：72 | **Following**：50
 
 ---
 
@@ -18,38 +18,38 @@
 | 涉及仓库数 | **19** 个 |
 | Pull Request 数 | **14** 个（已合并 13，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **24** 次 |
-| 总活动量 | **39** |
+| Commit 数 | **25** 次 |
+| 总活动量 | **40** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ████                 23%
-kubeservice-stack              ████                 21%
-koordinator-sh                 ██                   13%
+kubernetes-sigs                ████                 22%
+kubeservice-stack              ████                 20%
+koordinator-sh                 ██                   12%
 Project-HAMi                   █                    5%
 volcano-sh                     █                    5%
+tbean-org                      █                    5%
 prometheus-operator            █                    5%
 n2h9                           █                    5%
-kubernetes                     █                    3%
-karmada-io                     █                    3%
-golangci                       █                    3%
-GsonZhao                       █                    3%
-handan-yxh                     █                    3%
-siqiaawa                       █                    3%
-punith1006                     █                    3%
-ckyuto                         █                    3%
-kev1N916                       █                    3%
+kubernetes                     █                    2%
+karmada-io                     █                    2%
+golangci                       █                    2%
+GsonZhao                       █                    2%
+handan-yxh                     █                    2%
+punith1006                     █                    2%
+ckyuto                         █                    2%
+kev1N916                       █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（23%），涉及 4 个仓库，共 9 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（22%），涉及 4 个仓库，共 9 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 9 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-04-02**（11 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-04-02**（10 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 14 个仓库提交了 **24** 次代码。
+6. 在 14 个仓库提交了 **25** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -57,13 +57,13 @@ kev1N916                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 127 | **39** | -69% | 📉 -88 |
+| **总活动量** | 128 | **40** | -69% | 📉 -88 |
 | Pull Request | 13 | 14 | +8% | 📈 +1 |
 | Issue | 4 | 1 | -75% | 📉 -3 |
-| Commit | 110 | 24 | -78% | 📉 -86 |
+| Commit | 111 | 25 | -77% | 📉 -86 |
 
-- 🆕 **新增活跃仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
-- ❌ **不再活跃的仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `helm/helm`, `hoppipolla-dev/helm`, `idadmin007/prometheus`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/network-doctor`, `prometheus-community/helm-charts`, `yunshenliu92/prometheus`
+- 🆕 **新增活跃仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`, `tbean-org/koordinator`
+- ❌ **不再活跃的仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `helm/helm`, `hoppipolla-dev/helm`, `idadmin007/prometheus`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/network-doctor`, `ljzljz520-eng/helm-31109`, `prometheus-community/helm-charts`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **LLM-CR-EVAL** 转向 **kubernetes-sigs**
 
 ---
@@ -72,10 +72,10 @@ kev1N916                       █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **39** | PR + Issue + Commit |
+| 📊 **总活动** | **40** | PR + Issue + Commit |
 | 📝 **Pull Request** | 14 | 已合并 13，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 24 | 代码提交 |
+| 💻 **Commit** | 25 | 代码提交 |
 
 ---
 
@@ -83,22 +83,22 @@ kev1N916                       █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-31（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
-| 2025-04-01（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/scheduler-plugins), kubeservice-stack/lxcfs-webhook） |
-| **2025-04-02（三）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/controller-runtime, siqiaawa/volcano-test-version, kubernetes-sigs/controller-tools)） |
-| 2025-04-03（四） | 4 | ████░ | 4 项活动（n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, koordinator-sh/koordinator, kubernetes-sigs/kubebuilder)） |
+| **2025-03-31（一）** | **7** | ███████ | 7 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator） |
+| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator, kubernetes-sigs/scheduler-plugins)） |
+| **2025-04-02（三）** | **10** | ██████████ | 10 项活动（GsonZhao/volcano, handan-yxh/volcano-old-test, ckyuto/volcano-upstream） |
+| **2025-04-03（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/kubebuilder), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder） |
 | 2025-04-04（五） | 0 | ░░░░░ | — |
 | 2025-04-05（六） | 0 | ░░░░░ | — |
 | 2025-04-06（日） | 0 | ░░░░░ | — |
 | 2025-04-07（一） | 0 | ░░░░░ | — |
 | 2025-04-08（二） | 3 | ███░░ | PR #2396 (koordinator-sh/koordinator); PR #131207 (kubernetes/kubernetes); PR #2395 (koordinator-sh/koordinator) |
 | 2025-04-09（三） | 0 | ░░░░░ | — |
-| 2025-04-10（四） | 4 | ████░ | 4 项活动（koordinator-sh/koordinator, kubernetes-sigs/kubebuilder), kubeservice-stack/lxcfs-webhook） |
+| **2025-04-10（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/kubebuilder), tbean-org/koordinator, kubeservice-stack/lxcfs-webhook） |
 | **2025-04-11（五）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi-core, punith1006/LaaS-Hami, kubernetes-sigs/kubebuilder)） |
 | 2025-04-12（六） | 0 | ░░░░░ | — |
 | 2025-04-13（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-04-02（11 次活动）为最高峰。
+> **活跃高峰**：2025-04-02（10 次活动）为最高峰。
 
 ---
 
@@ -108,22 +108,22 @@ kev1N916                       █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 9 | 23.1% | kubernetes-sigs/kubebuilder(5), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(1) | PR, Push |
-| **kubeservice-stack** | 8 | 20.5% | kubeservice-stack/lxcfs-webhook(8) | PR, Push |
-| koordinator-sh | 5 | 12.8% | koordinator-sh/koordinator(5) | PR, Push |
-| Project-HAMi | 2 | 5.1% | Project-HAMi/HAMi-core(2) | PR, Push |
-| volcano-sh | 2 | 5.1% | volcano-sh/volcano(2) | PR, Push |
-| prometheus-operator | 2 | 5.1% | prometheus-operator/prometheus-operator(2) | Push |
-| n2h9 | 2 | 5.1% | n2h9/fork-kubernetes-sigs-kubebuilder-debug-00(2) | Push |
-| kubernetes | 1 | 2.6% | kubernetes/kubernetes(1) | PR |
-| karmada-io | 1 | 2.6% | karmada-io/karmada(1) | PR |
-| golangci | 1 | 2.6% | golangci/golangci-lint(1) | Issue |
-| GsonZhao | 1 | 2.6% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 2.6% | handan-yxh/volcano-old-test(1) | Push |
-| siqiaawa | 1 | 2.6% | siqiaawa/volcano-test-version(1) | Push |
-| punith1006 | 1 | 2.6% | punith1006/LaaS-Hami(1) | Push |
-| ckyuto | 1 | 2.6% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 2.6% | kev1N916/volcano(1) | Push |
+| **kubernetes-sigs** | 9 | 22.5% | kubernetes-sigs/kubebuilder(5), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(1) | PR, Push |
+| kubeservice-stack | 8 | 20.0% | kubeservice-stack/lxcfs-webhook(8) | PR, Push |
+| koordinator-sh | 5 | 12.5% | koordinator-sh/koordinator(5) | PR, Push |
+| Project-HAMi | 2 | 5.0% | Project-HAMi/HAMi-core(2) | PR, Push |
+| volcano-sh | 2 | 5.0% | volcano-sh/volcano(2) | PR, Push |
+| tbean-org | 2 | 5.0% | tbean-org/koordinator(2) | Push |
+| prometheus-operator | 2 | 5.0% | prometheus-operator/prometheus-operator(2) | Push |
+| n2h9 | 2 | 5.0% | n2h9/fork-kubernetes-sigs-kubebuilder-debug-00(2) | Push |
+| kubernetes | 1 | 2.5% | kubernetes/kubernetes(1) | PR |
+| karmada-io | 1 | 2.5% | karmada-io/karmada(1) | PR |
+| golangci | 1 | 2.5% | golangci/golangci-lint(1) | Issue |
+| GsonZhao | 1 | 2.5% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 2.5% | handan-yxh/volcano-old-test(1) | Push |
+| punith1006 | 1 | 2.5% | punith1006/LaaS-Hami(1) | Push |
+| ckyuto | 1 | 2.5% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 2.5% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -135,10 +135,10 @@ kev1N916                       █                    3%
 | 4 | **Project-HAMi/HAMi-core** | 2 | 1 | 0 | 1 | PR #64: Fix: lock file loop and fd leak; Commit: fix lock file loop and fd leak |
 | 5 | **volcano-sh/volcano** | 2 | 1 | 0 | 1 | PR #4169: feat: Add jobflow metrics; Commit: add jobflow metrics |
 | 6 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3187: 🌱ci: Update golangci-lint to v2.1.6 and ; Commit: update golangci-lint to v2 |
-| 7 | **prometheus-operator/prometheus-operator** | 2 | 0 | 0 | 2 | Commit: chore: Upgrade Go version to v1.24 (#7338); Commit: chore: Upgrade golangci-lint to v2 and gol |
-| 8 | **n2h9/fork-kubernetes-sigs-kubebuilder-debug-00** | 2 | 0 | 0 | 2 | Commit: fix bug; Commit: update golangci-lint v2 |
-| 9 | **kubernetes/kubernetes** | 1 | 1 | 0 | 0 | PR #131207: Add QosClass Compare function for apis |
-| 10 | **kubernetes-sigs/controller-tools** | 1 | 1 | 0 | 0 | PR #1182: 🌱ci: Update golangci-lint to v2.1.6 and  |
+| 7 | **tbean-org/koordinator** | 2 | 0 | 0 | 2 | Commit: chore: update actions runner image  to Ubu; Commit: feat(koordlet): Add pod evict metrics by k |
+| 8 | **prometheus-operator/prometheus-operator** | 2 | 0 | 0 | 2 | Commit: chore: Upgrade Go version to v1.24 (#7338); Commit: chore: Upgrade golangci-lint to v2 and gol |
+| 9 | **n2h9/fork-kubernetes-sigs-kubebuilder-debug-00** | 2 | 0 | 0 | 2 | Commit: fix bug; Commit: update golangci-lint v2 |
+| 10 | **kubernetes/kubernetes** | 1 | 1 | 0 | 0 | PR #131207: Add QosClass Compare function for apis |
 
 ---
 
@@ -239,12 +239,12 @@ kev1N916                       █                    3%
 | kubeservice-stack/lxcfs-webhook | 7 | 2025-04-10 | Update README.md; Update README.md; Update README.md |
 | kubernetes-sigs/kubebuilder | 2 | 2025-04-11 | fix bug; update golangci-lint v2 |
 | koordinator-sh/koordinator | 2 | 2025-04-10 | chore: update actions runner image  to Ubuntu 22.0; feat(koordlet): Add pod evict metrics by kill cont |
+| tbean-org/koordinator | 2 | 2025-04-10 | chore: update actions runner image  to Ubuntu 22.0; feat(koordlet): Add pod evict metrics by kill cont |
 | prometheus-operator/prometheus-operator | 2 | 2025-04-01 | chore: Upgrade Go version to v1.24 (#7338); chore: Upgrade golangci-lint to v2 and golangci-li |
 | n2h9/fork-kubernetes-sigs-kubebuilder-debug-00 | 2 | 2025-04-11 | fix bug; update golangci-lint v2 |
 | kubernetes-sigs/controller-runtime | 1 | 2025-04-02 | update golangci-lint to v2 |
 | GsonZhao/volcano | 1 | 2025-04-02 | add jobflow metrics |
 | handan-yxh/volcano-old-test | 1 | 2025-04-02 | add jobflow metrics |
-| siqiaawa/volcano-test-version | 1 | 2025-04-02 | add jobflow metrics |
 | punith1006/LaaS-Hami | 1 | 2025-04-11 | fix lock file loop and fd leak |
 | ckyuto/volcano-upstream | 1 | 2025-04-02 | add jobflow metrics |
 | volcano-sh/volcano | 1 | 2025-04-02 | add jobflow metrics |
@@ -265,4 +265,4 @@ kev1N916                       █                    3%
 
 ---
 
-*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*

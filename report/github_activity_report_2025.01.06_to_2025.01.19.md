@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：242 | **Followers**：70 | **Following**：55
+> **公开仓库数**：243 | **Followers**：72 | **Following**：50
 
 ---
 
@@ -79,18 +79,18 @@ thanos-io                      █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts), kubeservice-stack/lxcfs-webhook） |
+| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook, kubeservice-stack/kubservice-charts） |
 | 2025-01-07（二） | 2 | ██░░░ | kubeservice-stack/script_exporter: update go.mod a; kubeservice-stack/script_exporter: add promu.yml f |
 | 2025-01-08（三） | 0 | ░░░░░ | — |
-| 2025-01-09（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, prometheus/prometheus), prometheus-operator/prometheus-operator)） |
-| **2025-01-10（五）** | **7** | ███████ | 7 项活动（prometheus/alertmanager, prometheus-operator/prometheus-operator, tennisleng/alertmanager） |
+| 2025-01-09（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus/prometheus), prometheus-operator/prometheus-operator） |
+| **2025-01-10（五）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus/alertmanager), Benqacemsalah/alertmanager） |
 | 2025-01-11（六） | 0 | ░░░░░ | — |
 | 2025-01-12（日） | 0 | ░░░░░ | — |
-| **2025-01-13（一）** | **6** | ██████ | 6 项活动（prometheus/alertmanager, tennisleng/alertmanager, prometheus-operator/prometheus-operator)） |
-| **2025-01-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), dongjiang1989/dongjiang1989, karmada-io/karmada)） |
-| **2025-01-15（三）** | **22** | ████████████████████ | 22 项活动（0xkato/prometheus-fork, Synaptica-cor/prometheus, prometheus/prometheus） |
+| **2025-01-13（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), Benqacemsalah/alertmanager, tennisleng/alertmanager） |
+| **2025-01-14（二）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime), karmada-io/karmada)） |
+| **2025-01-15（三）** | **22** | ████████████████████ | 22 项活动（SINDEKARHAS/Prometheus, aimultiple-benchmark/prometheus-bench-cp-2, aimultiple-benchmark/prometheus-bench-cur-2） |
 | 2025-01-16（四） | 2 | ██░░░ | PR #6059 (karmada-io/karmada); PR #128 (thockin/go-build-template) |
-| 2025-01-17（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, thockin/go-build-template, prometheus-operator/prometheus-operator)） |
+| 2025-01-17（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, thockin/go-build-template） |
 | 2025-01-18（六） | 2 | ██░░░ | CodeLinaro-mirror/yocto-mirrors_github_prometheus_; prometheus/common: making this map a public variab |
 | 2025-01-19（日） | 0 | ░░░░░ | — |
 
@@ -291,4 +291,4 @@ thanos-io                      █                    2%
 
 ---
 
-*报告生成时间：2026-08-10 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
