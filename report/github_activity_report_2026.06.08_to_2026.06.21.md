@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -76,16 +76,16 @@ CodeLinaro-mirror              █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator)） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community), dongjiang1989/opensearch-api, iflytek/community） |
-| **2026-06-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/prow), iflytek/website） |
-| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/external-dns), dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community), iflytek/community, dongjiang1989/opensearch-api） |
+| **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
+| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
-| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/website), iflytek/website, prometheus-operator/prometheus-operator)） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website), iflytek/website, iflytek/iFly-Skills)） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator, kubernetes-sigs/kubebuilder)） |
+| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel, iflytek/website), iflytek/community)） |
+| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/iFly-Skills), iflytek/iFly-Skills, iflytek/website)） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), kubernetes-sigs/kubebuilder), iflytek/iFly-Skills） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
@@ -188,7 +188,7 @@ CodeLinaro-mirror              █                    1%
 | 7 | iflytek/iFly-Skills | [#43](https://github.com/iflytek/iFly-Skills/issues/43) | MCP Server — Smithery & Glama | 🟢 开放 |
 | 8 | iflytek/iFly-Skills | [#42](https://github.com/iflytek/iFly-Skills/issues/42) | 🔥 [Platform] Publish skills to other registries — expand skill usage r | 🟢 开放 |
 | 9 | iflytek/astron-agent | [#1420](https://github.com/iflytek/astron-agent/issues/1420) | Need keep CI Pass | ✅ 已关闭 |
-| 10 | kagent-dev/kagent | [#2026](https://github.com/kagent-dev/kagent/issues/2026) | Enable more KAL linters | 🟢 开放 |
+| 10 | kagent-dev/kagent | [#2026](https://github.com/kagent-dev/kagent/issues/2026) | Enable more KAL linters | ✅ 已关闭 |
 | 11 | iflytek/astron-rpa | [#805](https://github.com/iflytek/astron-rpa/issues/805) | Are you using Astron RPA? | 🟢 开放 |
 | 12 | iflytek/skillhub | [#528](https://github.com/iflytek/skillhub/issues/528) | Are you using SkillHub? | 🟢 开放 |
 | 13 | iflytek/astron-agent | [#1405](https://github.com/iflytek/astron-agent/issues/1405) | Are you using Astron agent? | 🟢 开放 |
@@ -253,8 +253,8 @@ CodeLinaro-mirror              █                    1%
   - PR #13: feat: Add repository creation issue template and proposal te
   - PR #12: CI: Fix dependabot gomod directory and enhance configuration
   - Commit: feat: Add repository creation issue template and proposal te
-  - Commit: make toc-update
   - Commit: fix gomod directory
+  - Commit: make toc-update
 
 
 ---
@@ -263,11 +263,11 @@ CodeLinaro-mirror              █                    1%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| iflytek/website | 32 | 2026-06-11 | style: fix Prettier formatting in 16 files; fix: remove conflicting license-checker flags; fix: add OFL-1.1 license for Inter font and update |
-| dongjiang1989/opensearch-api | 9 | 2026-06-10 | add file type (#8); update; add internal metrics |
+| iflytek/website | 32 | 2026-06-11 | Initial commit: iFLYTEK Open Source Website; fix: add OFL-1.1 license for Inter font and update; fix: remove conflicting license-checker flags |
+| dongjiang1989/opensearch-api | 9 | 2026-06-10 | add file type (#8); update; update fileid protocal |
 | iflytek/iFly-Skills | 5 | 2026-06-17 | Delete .github/workflows/cla.yml; feat: organize skills into skills/ directory and a; feat: add skills.sh.json to customize skills.sh re |
 | prometheus-operator/prometheus-operator | 4 | 2026-06-09 | update controller-tools version; add misspell in GO files; fix typo |
-| iflytek/community | 3 | 2026-06-16 | feat: Add repository creation issue template and p; make toc-update; fix gomod directory |
+| iflytek/community | 3 | 2026-06-16 | feat: Add repository creation issue template and p; fix gomod directory; make toc-update |
 | prometheus/procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/controller-tools | 1 | 2026-06-18 | resolve misspell false positives and bump golangci |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
@@ -296,4 +296,4 @@ CodeLinaro-mirror              █                    1%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

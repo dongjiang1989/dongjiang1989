@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -56,13 +56,13 @@ prometheus-operator            █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 28 | **32** | +14% | 📈 +4 |
+| **总活动量** | 30 | **32** | +7% | 📈 +2 |
 | Pull Request | 10 | 7 | -30% | 📉 -3 |
 | Issue | 4 | 5 | +25% | 📈 +1 |
-| Commit | 14 | 20 | +43% | 📈 +6 |
+| Commit | 16 | 20 | +25% | 📈 +4 |
 
 - 🆕 **新增活跃仓库**：`SINDEKARHAS/Prometheus`, `apache/apisix`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `kagent-dev/kagent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tmohanvamsi/kagent`
-- ❌ **不再活跃的仓库**：`QQGoblin/node_exporter`, `jicki/node_exporter`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/kspack-go`, `prometheus/node_exporter`
+- ❌ **不再活跃的仓库**：`QQGoblin/node_exporter`, `asama-ai/node_exporter`, `jicki/node_exporter`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/kspack-go`, `luxi233/astron-agent`, `prometheus/node_exporter`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
 ---
@@ -83,17 +83,17 @@ prometheus-operator            █                    3%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-11-24（一） | 3 | ███░░ | PR #12772 (apache/apisix); Issue #631; Issue #629 |
-| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server, kubernetes-sigs/metrics-server), prometheus-operator/prometheus-operator） |
+| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server, prometheus-operator/prometheus-operator, kubernetes-sigs/metrics-server)） |
 | 2025-11-26（三） | 0 | ░░░░░ | — |
 | 2025-11-27（四） | 0 | ░░░░░ | — |
 | 2025-11-28（五） | 0 | ░░░░░ | — |
 | 2025-11-29（六） | 0 | ░░░░░ | — |
 | 2025-11-30（日） | 0 | ░░░░░ | — |
-| 2025-12-01（一） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
+| 2025-12-01（一） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools)） |
 | 2025-12-02（二） | 0 | ░░░░░ | — |
 | 2025-12-03（三） | 1 | █░░░░ | PR #17640 (prometheus/prometheus) |
-| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（dongjiang1989/dongjiang1989, kagent-dev/kagent, kubeservice-stack/echo） |
-| **2025-12-05（五）** | **8** | ████████ | 8 项活动（grafana/mimir-prometheus, prometheus/prometheus, SINDEKARHAS/Prometheus） |
+| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kubeservice-stack/echo, kagent-dev/kagent, tmohanvamsi/kagent） |
+| **2025-12-05（五）** | **8** | ████████ | 8 项活动（grafana/mimir-prometheus, elouafi-abderrahmane-2002/prometheus, rhobs/obo-prometheus） |
 | 2025-12-06（六） | 0 | ░░░░░ | — |
 | 2025-12-07（日） | 0 | ░░░░░ | — |
 
@@ -258,4 +258,4 @@ prometheus-operator            █                    3%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

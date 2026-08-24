@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -14,21 +14,23 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **20** 个 |
-| 涉及仓库数 | **31** 个 |
+| 涉及组织数 | **23** 个 |
+| 涉及仓库数 | **33** 个 |
 | Pull Request 数 | **13** 个（已合并 12，开放 1） |
 | Issue 数 | **4** 个 |
-| Commit 数 | **111** 次 |
-| 总活动量 | **128** |
+| Commit 数 | **117** 次 |
+| 总活动量 | **134** |
 
 ### 🎯 工作重心分布
 
 ```
-LLM-CR-EVAL                    ███████              35%
-kubeservice-stack              ██                   15%
-volcano-sh                     █                    9%
-helm                           █                    5%
+LLM-CR-EVAL                    █████                30%
+kubeservice-stack              ██                   14%
+volcano-sh                     █                    8%
+helm                           █                    4%
 Apexmail                       █                    4%
+LLM-CR-EVAL-TREX               █                    4%
+Govardhan988                   █                    4%
 ljzljz520-eng                  █                    4%
 LLM-CR-EVAL-05                 █                    4%
 hoppipolla-dev                 █                    4%
@@ -36,24 +38,25 @@ GsonZhao                       █                    3%
 handan-yxh                     █                    3%
 ckyuto                         █                    3%
 kev1N916                       █                    3%
-prometheus-operator            █                    2%
-prometheus-community           █                    2%
-karmada-io                     █                    2%
+prometheus-operator            █                    1%
+prometheus-community           █                    1%
+karmada-io                     █                    1%
 kubernetes                     █                    1%
 yunshenliu92                   █                    1%
 idadmin007                     █                    1%
 Scaling-Smart                  █                    1%
+psharma0905                    █                    1%
 cnloxiaoteng-ship-it           █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **LLM-CR-EVAL** 是最大贡献方向（35%），涉及 9 个仓库，共 45 次活动。
+1. **LLM-CR-EVAL** 是最大贡献方向（30%），涉及 8 个仓库，共 40 次活动。
 2. 共 **12** 个 PR 已合并，覆盖 7 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-03-18**（34 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-03-18**（36 次活动），展现了高强度的工作节奏。
 5. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 29 个仓库提交了 **111** 次代码。
+6. 在 31 个仓库提交了 **117** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -61,12 +64,12 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 44 | **128** | +191% | 📈 +84 |
+| **总活动量** | 45 | **134** | +198% | 📈 +89 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 4 | 4 | 0% | ➡️ 持平 |
-| Commit | 27 | 111 | +311% | 📈 +84 |
+| Commit | 28 | 117 | +318% | 📈 +89 |
 
-- 🆕 **新增活跃仓库**：`Apexmail/helm`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `helm/helm`, `hoppipolla-dev/helm`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`, `ljzljz520-eng/helm-31109`
+- 🆕 **新增活跃仓库**：`Apexmail/helm`, `Govardhan988/helm-repo`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL-TREX/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `helm/helm`, `hoppipolla-dev/helm`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`, `ljzljz520-eng/helm-31109`
 - ❌ **不再活跃的仓库**：`kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `web38444/descheduler`
 - 🔄 **工作重心转移**：从 **volcano-sh** 转向 **LLM-CR-EVAL**
 
@@ -76,10 +79,10 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **128** | PR + Issue + Commit |
+| 📊 **总活动** | **134** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 12，开放 1 |
 | 📋 **Issue** | 4 | 创建 Issue |
-| 💻 **Commit** | 111 | 代码提交 |
+| 💻 **Commit** | 117 | 代码提交 |
 
 ---
 
@@ -87,22 +90,22 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-17（一）** | **15** | ███████████████ | 15 项活动（helm/helm), LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr4） |
-| **2025-03-18（二）** | **34** | ████████████████████ | 34 项活动（LLM-CR-EVAL/helm-407-cr4, LLM-CR-EVAL/helm-407-cr1, hoppipolla-dev/helm） |
-| **2025-03-19（三）** | **15** | ███████████████ | 15 项活动（LLM-CR-EVAL/helm-407-cr10, LLM-CR-EVAL/helm-407-cr6, LLM-CR-EVAL/helm-407-cr4） |
-| **2025-03-20（四）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, karmada-io/karmada, handan-yxh/volcano-old-test） |
-| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（GsonZhao/volcano, ckyuto/volcano-upstream, handan-yxh/volcano-old-test） |
+| **2025-03-17（一）** | **16** | ████████████████ | 16 项活动（LLM-CR-EVAL/helm-407-cr9, LLM-CR-EVAL/helm-407-cr6, LLM-CR-EVAL/helm-407-cr8） |
+| **2025-03-18（二）** | **36** | ████████████████████ | 36 项活动（LLM-CR-EVAL/helm-407-cr9, LLM-CR-EVAL/helm-407-cr6, volcano-sh/volcano） |
+| **2025-03-19（三）** | **16** | ████████████████ | 16 项活动（LLM-CR-EVAL/helm-407-cr9, LLM-CR-EVAL/helm-407-cr6, LLM-CR-EVAL/helm-407-cr8） |
+| **2025-03-20（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada), volcano-sh/volcano, kev1N916/volcano） |
+| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（volcano-sh/volcano, kev1N916/volcano, ckyuto/volcano-upstream） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/docker-image, kubeservice-stack/network-doctor） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/docker-image, kubeservice-stack/network-doctor, prometheus-operator/prometheus-operator)） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **24** | ████████████████████ | 24 项活动（LLM-CR-EVAL/helm-407-cr4, prometheus-community/helm-charts, kubeservice-stack/echo)） |
+| **2025-03-26（三）** | **26** | ████████████████████ | 26 项活动（LLM-CR-EVAL/helm-407-cr9, LLM-CR-EVAL/helm-407-cr6, psharma0905/Prometheus-and-Grafana-helm-charts） |
 | **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-03-18（34 次活动）为最高峰。
+> **活跃高峰**：2025-03-18（36 次活动）为最高峰。
 
 ---
 
@@ -112,26 +115,29 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **LLM-CR-EVAL** | 45 | 35.2% | LLM-CR-EVAL/helm-407-cr2(5), LLM-CR-EVAL/helm-407-cr4(5), LLM-CR-EVAL/helm-407-cr5(5) | Push |
-| kubeservice-stack | 19 | 14.8% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
-| volcano-sh | 11 | 8.6% | volcano-sh/volcano(11) | Issue, PR, Push |
-| helm | 6 | 4.7% | helm/helm(6) | PR, Push |
-| Apexmail | 5 | 3.9% | Apexmail/helm(5) | Push |
-| ljzljz520-eng | 5 | 3.9% | ljzljz520-eng/helm-31109(5) | Push |
-| LLM-CR-EVAL-05 | 5 | 3.9% | LLM-CR-EVAL-05/helm-407-cr3(5) | Push |
-| hoppipolla-dev | 5 | 3.9% | hoppipolla-dev/helm(5) | Push |
-| GsonZhao | 4 | 3.1% | GsonZhao/volcano(4) | Push |
-| handan-yxh | 4 | 3.1% | handan-yxh/volcano-old-test(4) | Push |
-| ckyuto | 4 | 3.1% | ckyuto/volcano-upstream(4) | Push |
-| kev1N916 | 4 | 3.1% | kev1N916/volcano(4) | Push |
-| prometheus-operator | 2 | 1.6% | prometheus-operator/prometheus-operator(2) | PR |
-| prometheus-community | 2 | 1.6% | prometheus-community/helm-charts(2) | PR, Push |
-| karmada-io | 2 | 1.6% | karmada-io/karmada(2) | PR, Push |
-| kubernetes | 1 | 0.8% | kubernetes/kube-openapi(1) | Issue |
-| yunshenliu92 | 1 | 0.8% | yunshenliu92/prometheus(1) | Push |
-| idadmin007 | 1 | 0.8% | idadmin007/prometheus(1) | Push |
-| Scaling-Smart | 1 | 0.8% | Scaling-Smart/prometheus-helm-charts(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 0.8% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| **LLM-CR-EVAL** | 40 | 29.9% | LLM-CR-EVAL/helm-407-cr2(5), LLM-CR-EVAL/helm-407-cr4(5), LLM-CR-EVAL/helm-407-cr1(5) | Push |
+| kubeservice-stack | 19 | 14.2% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
+| volcano-sh | 11 | 8.2% | volcano-sh/volcano(11) | Issue, PR, Push |
+| helm | 6 | 4.5% | helm/helm(6) | PR, Push |
+| Apexmail | 5 | 3.7% | Apexmail/helm(5) | Push |
+| LLM-CR-EVAL-TREX | 5 | 3.7% | LLM-CR-EVAL-TREX/helm-407-cr5(5) | Push |
+| Govardhan988 | 5 | 3.7% | Govardhan988/helm-repo(5) | Push |
+| ljzljz520-eng | 5 | 3.7% | ljzljz520-eng/helm-31109(5) | Push |
+| LLM-CR-EVAL-05 | 5 | 3.7% | LLM-CR-EVAL-05/helm-407-cr3(5) | Push |
+| hoppipolla-dev | 5 | 3.7% | hoppipolla-dev/helm(5) | Push |
+| GsonZhao | 4 | 3.0% | GsonZhao/volcano(4) | Push |
+| handan-yxh | 4 | 3.0% | handan-yxh/volcano-old-test(4) | Push |
+| ckyuto | 4 | 3.0% | ckyuto/volcano-upstream(4) | Push |
+| kev1N916 | 4 | 3.0% | kev1N916/volcano(4) | Push |
+| prometheus-operator | 2 | 1.5% | prometheus-operator/prometheus-operator(2) | PR |
+| prometheus-community | 2 | 1.5% | prometheus-community/helm-charts(2) | PR, Push |
+| karmada-io | 2 | 1.5% | karmada-io/karmada(2) | PR, Push |
+| kubernetes | 1 | 0.7% | kubernetes/kube-openapi(1) | Issue |
+| yunshenliu92 | 1 | 0.7% | yunshenliu92/prometheus(1) | Push |
+| idadmin007 | 1 | 0.7% | idadmin007/prometheus(1) | Push |
+| Scaling-Smart | 1 | 0.7% | Scaling-Smart/prometheus-helm-charts(1) | Push |
+| psharma0905 | 1 | 0.7% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 0.7% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -144,9 +150,9 @@ cnloxiaoteng-ship-it           █                    1%
 | 5 | **LLM-CR-EVAL/helm-407-cr2** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
 | 6 | **LLM-CR-EVAL/helm-407-cr4** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
 | 7 | **Apexmail/helm** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
-| 8 | **LLM-CR-EVAL/helm-407-cr5** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
-| 9 | **LLM-CR-EVAL/helm-407-cr1** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
-| 10 | **ljzljz520-eng/helm-31109** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 8 | **LLM-CR-EVAL-TREX/helm-407-cr5** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 9 | **Govardhan988/helm-repo** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
+| 10 | **LLM-CR-EVAL/helm-407-cr1** | 5 | 0 | 0 | 5 | Commit: fix comments; Commit: change environment varialbe names; Commit: add golangci-lint-version |
 
 ---
 
@@ -256,8 +262,9 @@ cnloxiaoteng-ship-it           █                    1%
 | LLM-CR-EVAL/helm-407-cr2 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | LLM-CR-EVAL/helm-407-cr4 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | Apexmail/helm | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
-| LLM-CR-EVAL/helm-407-cr5 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| LLM-CR-EVAL-TREX/helm-407-cr5 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | helm/helm | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
+| Govardhan988/helm-repo | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | LLM-CR-EVAL/helm-407-cr1 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | ljzljz520-eng/helm-31109 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
 | LLM-CR-EVAL/helm-407-cr9 | 5 | 2025-03-26 | fix comments; change environment varialbe names; add golangci-lint-version |
@@ -280,6 +287,7 @@ cnloxiaoteng-ship-it           █                    1%
 | idadmin007/prometheus | 1 | 2025-03-26 | [prometheus-nginx-exporter] add externalTrafficPol |
 | karmada-io/karmada | 1 | 2025-03-20 | add build_info for karmada binary |
 | Scaling-Smart/prometheus-helm-charts | 1 | 2025-03-26 | [prometheus-nginx-exporter] add externalTrafficPol |
+| psharma0905/Prometheus-and-Grafana-helm-charts | 1 | 2025-03-26 | [prometheus-nginx-exporter] add externalTrafficPol |
 | cnloxiaoteng-ship-it/helm-charts | 1 | 2025-03-26 | [prometheus-nginx-exporter] add externalTrafficPol |
 
 ---
@@ -298,4 +306,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

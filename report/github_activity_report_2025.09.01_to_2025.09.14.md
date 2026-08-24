@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -46,13 +46,13 @@ white-night-eco-live           █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 22 | **22** | 0% | ➡️ 持平 |
+| **总活动量** | 23 | **22** | -4% | 📉 -1 |
 | Pull Request | 6 | 10 | +67% | 📈 +4 |
 | Issue | 2 | 0 | -100% | 📉 -2 |
-| Commit | 14 | 12 | -14% | 📉 -2 |
+| Commit | 15 | 12 | -20% | 📉 -3 |
 
 - 🆕 **新增活跃仓库**：`bwplotka/mdox`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
-- ❌ **不再活跃的仓库**：`apache/dubbo-go`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
+- ❌ **不再活跃的仓库**：`apache/dubbo-go`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
 - 🔄 **工作重心转移**：从 **dongjiang1989** 转向 **kubernetes-sigs**
 
 ---
@@ -74,7 +74,7 @@ white-night-eco-live           █                    5%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kagent-dev/kagent), prometheus-operator/prometheus-operator） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -82,8 +82,8 @@ white-night-eco-live           █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, bytebase/bytebase, kubernetes-sigs/controller-tools)） |
+| **2025-09-11（四）** | **7** | ███████ | 7 项活动（bytebase/bytebase), kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
+| **2025-09-12（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), weedgit/bytebase, white-night-eco-live/bytebase） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -228,4 +228,4 @@ white-night-eco-live           █                    5%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

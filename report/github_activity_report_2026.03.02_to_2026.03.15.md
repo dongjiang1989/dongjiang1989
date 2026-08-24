@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -72,7 +72,7 @@ shrutiyam-glitch               █                    6%
 | 2026-03-03（二） | 2 | ██░░░ | PR #364 (kubernetes-sigs/agent-sandbox); prometheus-operator/prometheus-operator: feat: Add |
 | 2026-03-04（三） | 0 | ░░░░░ | — |
 | 2026-03-05（四） | 2 | ██░░░ | PR #8430 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add stand |
-| **2026-03-06（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools)） |
+| **2026-03-06（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-03-07（六） | 0 | ░░░░░ | — |
 | 2026-03-08（日） | 0 | ░░░░░ | — |
 | 2026-03-09（一） | 2 | ██░░░ | kubernetes-sigs/controller-runtime: update fix lin; kubernetes-sigs/controller-runtime: fix by coderev |
@@ -207,4 +207,4 @@ shrutiyam-glitch               █                    6%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

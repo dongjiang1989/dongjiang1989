@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -14,33 +14,34 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **8** 个 |
-| 涉及仓库数 | **9** 个 |
+| 涉及组织数 | **9** 个 |
+| 涉及仓库数 | **10** 个 |
 | Pull Request 数 | **6** 个（已合并 6，开放 0） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **14** 次 |
-| 总活动量 | **22** |
+| Commit 数 | **15** 次 |
+| 总活动量 | **23** |
 
 ### 🎯 工作重心分布
 
 ```
-dongjiang1989                  ██████               32%
-bytebase                       ███                  18%
-prometheus-operator            ██                   14%
-apache                         ██                   14%
+dongjiang1989                  ██████               30%
+bytebase                       ███                  17%
+prometheus-operator            ██                   13%
+apache                         ██                   13%
 kubernetes-sigs                █                    9%
-kagent-dev                     █                    5%
-weedgit                        █                    5%
-white-night-eco-live           █                    5%
+kagent-dev                     █                    4%
+weedgit                        █                    4%
+white-night-eco-live           █                    4%
+jimmidyson                     █                    4%
 ```
 
 ### 💡 核心总结
 
-1. **dongjiang1989** 是最大贡献方向（32%），涉及 1 个仓库，共 7 次活动。
+1. **dongjiang1989** 是最大贡献方向（30%），涉及 1 个仓库，共 7 次活动。
 2. 共 **6** 个 PR 已合并，覆盖 5 个仓库。
 3. 活跃高峰出现在 **2025-08-26**（6 次活动），展现了高强度的工作节奏。
 4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 8 个仓库提交了 **14** 次代码。
+5. 在 9 个仓库提交了 **15** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -48,13 +49,13 @@ white-night-eco-live           █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 14 | **22** | +57% | 📈 +8 |
+| **总活动量** | 15 | **23** | +53% | 📈 +8 |
 | Pull Request | 6 | 6 | 0% | ➡️ 持平 |
 | Issue | 1 | 2 | +100% | 📈 +1 |
-| Commit | 7 | 14 | +100% | 📈 +7 |
+| Commit | 8 | 15 | +88% | 📈 +7 |
 
-- 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
-- ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
+- 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
+- ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **dongjiang1989**
 
 ---
@@ -63,10 +64,10 @@ white-night-eco-live           █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **22** | PR + Issue + Commit |
+| 📊 **总活动** | **23** | PR + Issue + Commit |
 | 📝 **Pull Request** | 6 | 已合并 6，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 14 | 代码提交 |
+| 💻 **Commit** | 15 | 代码提交 |
 
 ---
 
@@ -76,15 +77,15 @@ white-night-eco-live           █                    5%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| **2025-08-26（二）** | **6** | ██████ | 6 项活动（white-night-eco-live/bytebase, bytebase/bytebase, bytebase/clabot-config） |
+| **2025-08-26（二）** | **6** | ██████ | 6 项活动（bytebase/bytebase), bytebase/clabot-config, weedgit/bytebase） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| 2025-08-28（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/cluster-api, prometheus-operator/prometheus-operator） |
+| **2025-08-28（四）** | **5** | █████ | 5 项活动（jimmidyson/kcp-cluster-api, kubernetes-sigs/cluster-api, prometheus-operator/prometheus-operator） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -99,14 +100,15 @@ white-night-eco-live           █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **dongjiang1989** | 7 | 31.8% | dongjiang1989/dubbo-go-server(7) | Push |
-| bytebase | 4 | 18.2% | bytebase/clabot-config(2), bytebase/bytebase(2) | PR, Push |
-| prometheus-operator | 3 | 13.6% | prometheus-operator/prometheus-operator(3) | PR, Push |
-| apache | 3 | 13.6% | apache/dubbo-go(3) | Issue, PR, Push |
-| kubernetes-sigs | 2 | 9.1% | kubernetes-sigs/cluster-api(2) | PR, Push |
-| kagent-dev | 1 | 4.5% | kagent-dev/community(1) | Issue |
-| weedgit | 1 | 4.5% | weedgit/bytebase(1) | Push |
-| white-night-eco-live | 1 | 4.5% | white-night-eco-live/bytebase(1) | Push |
+| **dongjiang1989** | 7 | 30.4% | dongjiang1989/dubbo-go-server(7) | Push |
+| bytebase | 4 | 17.4% | bytebase/clabot-config(2), bytebase/bytebase(2) | PR, Push |
+| prometheus-operator | 3 | 13.0% | prometheus-operator/prometheus-operator(3) | PR, Push |
+| apache | 3 | 13.0% | apache/dubbo-go(3) | Issue, PR, Push |
+| kubernetes-sigs | 2 | 8.7% | kubernetes-sigs/cluster-api(2) | PR, Push |
+| kagent-dev | 1 | 4.3% | kagent-dev/community(1) | Issue |
+| weedgit | 1 | 4.3% | weedgit/bytebase(1) | Push |
+| white-night-eco-live | 1 | 4.3% | white-night-eco-live/bytebase(1) | Push |
+| jimmidyson | 1 | 4.3% | jimmidyson/kcp-cluster-api(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -121,6 +123,7 @@ white-night-eco-live           █                    5%
 | 7 | **kagent-dev/community** | 1 | 0 | 1 | 0 | Issue #6: Kagent-dev Org Membership Request |
 | 8 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
 | 9 | **white-night-eco-live/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
+| 10 | **jimmidyson/kcp-cluster-api** | 1 | 0 | 0 | 1 | Commit: update golangci linter version to v2.4.0 |
 
 ---
 
@@ -214,6 +217,7 @@ white-night-eco-live           █                    5%
 | bytebase/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | white-night-eco-live/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | prometheus-operator/prometheus-operator | 1 | 2025-08-28 | update golangci linter version to v2.4.0 |
+| jimmidyson/kcp-cluster-api | 1 | 2025-08-28 | update golangci linter version to v2.4.0 |
 
 ---
 
@@ -229,4 +233,4 @@ white-night-eco-live           █                    5%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -47,13 +47,13 @@ kubernetes-sigs                █                    9%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 58 | **70** | +21% | 📈 +12 |
+| **总活动量** | 61 | **70** | +15% | 📈 +9 |
 | Pull Request | 23 | 15 | -35% | 📉 -8 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 35 | 53 | +51% | 📈 +18 |
+| Commit | 38 | 53 | +39% | 📈 +15 |
 
 - 🆕 **新增活跃仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `zhangjun123400/skillhub`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubeservice-stack**
 
 ---
@@ -75,9 +75,9 @@ kubernetes-sigs                █                    9%
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
 | 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/mirror-action） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), iflytek/community)） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, actions-marketplace-validations/kubeservice-stack_hf-sync-action） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow), dongjiang1989/mirror-action, iflytek/community)） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（iflytek/community), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*

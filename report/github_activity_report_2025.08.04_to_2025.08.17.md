@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：72 | **Following**：50
+> **公开仓库数**：243 | **Followers**：75 | **Following**：48
 
 ---
 
@@ -14,35 +14,36 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **9** 个 |
-| 涉及仓库数 | **9** 个 |
+| 涉及组织数 | **10** 个 |
+| 涉及仓库数 | **10** 个 |
 | Pull Request 数 | **6** 个（已合并 3，开放 3） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **7** 次 |
-| 总活动量 | **14** |
+| Commit 数 | **8** 次 |
+| 总活动量 | **15** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            █████                29%
-kubeservice-stack              ██                   14%
-prometheus-community           ██                   14%
+prometheus-operator            █████                27%
+kubeservice-stack              ██                   13%
+prometheus-community           ██                   13%
 thanos-io                      █                    7%
 grafana                        █                    7%
 kumorion                       █                    7%
 kubernetes-sigs                █                    7%
 yunshenliu92                   █                    7%
+psharma0905                    █                    7%
 cnloxiaoteng-ship-it           █                    7%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（29%），涉及 1 个仓库，共 4 次活动。
+1. **prometheus-operator** 是最大贡献方向（27%），涉及 1 个仓库，共 4 次活动。
 2. 共 **3** 个 PR 已合并，覆盖 3 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-08-05**（4 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 7 个仓库提交了 **7** 次代码。
+6. 在 8 个仓库提交了 **8** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,13 +51,13 @@ cnloxiaoteng-ship-it           █                    7%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 42 | **14** | -67% | 📉 -28 |
+| **总活动量** | 43 | **15** | -65% | 📉 -28 |
 | Pull Request | 16 | 6 | -62% | 📉 -10 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 26 | 7 | -73% | 📉 -19 |
+| Commit | 27 | 8 | -70% | 📉 -19 |
 
-- 🆕 **新增活跃仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- 🆕 **新增活跃仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -65,10 +66,10 @@ cnloxiaoteng-ship-it           █                    7%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **14** | PR + Issue + Commit |
+| 📊 **总活动** | **15** | PR + Issue + Commit |
 | 📝 **Pull Request** | 6 | 已合并 3，开放 3 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 7 | 代码提交 |
+| 💻 **Commit** | 8 | 代码提交 |
 
 ---
 
@@ -77,13 +78,13 @@ cnloxiaoteng-ship-it           █                    7%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/echo)） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（kubeservice-stack/echo, kubeservice-stack/echo), prometheus-operator/prometheus-operator)） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 2 | ██░░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update  |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 3 | ███░░ | prometheus-community/helm-charts: [alertmanager] a; yunshenliu92/prometheus: [alertmanager] add user n; cnloxiaoteng-ship-it/helm-charts: [alertmanager] a |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（cnloxiaoteng-ship-it/helm-charts, yunshenliu92/prometheus, psharma0905/Prometheus-and-Grafana-helm-charts） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -101,15 +102,16 @@ cnloxiaoteng-ship-it           █                    7%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 4 | 28.6% | prometheus-operator/prometheus-operator(4) | PR, Push |
-| kubeservice-stack | 2 | 14.3% | kubeservice-stack/echo(2) | PR, Push |
-| prometheus-community | 2 | 14.3% | prometheus-community/helm-charts(2) | PR, Push |
-| thanos-io | 1 | 7.1% | thanos-io/thanos(1) | PR |
-| grafana | 1 | 7.1% | grafana/grafana(1) | Issue |
-| kumorion | 1 | 7.1% | kumorion/external-dns(1) | Push |
-| kubernetes-sigs | 1 | 7.1% | kubernetes-sigs/external-dns(1) | Push |
-| yunshenliu92 | 1 | 7.1% | yunshenliu92/prometheus(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 7.1% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| **prometheus-operator** | 4 | 26.7% | prometheus-operator/prometheus-operator(4) | PR, Push |
+| kubeservice-stack | 2 | 13.3% | kubeservice-stack/echo(2) | PR, Push |
+| prometheus-community | 2 | 13.3% | prometheus-community/helm-charts(2) | PR, Push |
+| thanos-io | 1 | 6.7% | thanos-io/thanos(1) | PR |
+| grafana | 1 | 6.7% | grafana/grafana(1) | Issue |
+| kumorion | 1 | 6.7% | kumorion/external-dns(1) | Push |
+| kubernetes-sigs | 1 | 6.7% | kubernetes-sigs/external-dns(1) | Push |
+| yunshenliu92 | 1 | 6.7% | yunshenliu92/prometheus(1) | Push |
+| psharma0905 | 1 | 6.7% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 6.7% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -123,7 +125,8 @@ cnloxiaoteng-ship-it           █                    7%
 | 6 | **kumorion/external-dns** | 1 | 0 | 0 | 1 | Commit: chore(deps): update golangci-lint version  |
 | 7 | **kubernetes-sigs/external-dns** | 1 | 0 | 0 | 1 | Commit: chore(deps): update golangci-lint version  |
 | 8 | **yunshenliu92/prometheus** | 1 | 0 | 0 | 1 | Commit: [alertmanager] add user namespaces for ale |
-| 9 | **cnloxiaoteng-ship-it/helm-charts** | 1 | 0 | 0 | 1 | Commit: [alertmanager] add user namespaces for ale |
+| 9 | **psharma0905/Prometheus-and-Grafana-helm-charts** | 1 | 0 | 0 | 1 | Commit: [alertmanager] add user namespaces for ale |
+| 10 | **cnloxiaoteng-ship-it/helm-charts** | 1 | 0 | 0 | 1 | Commit: [alertmanager] add user namespaces for ale |
 
 ---
 
@@ -207,6 +210,7 @@ cnloxiaoteng-ship-it           █                    7%
 | prometheus-community/helm-charts | 1 | 2025-08-11 | [alertmanager] add user namespaces for alertmanage |
 | yunshenliu92/prometheus | 1 | 2025-08-11 | [alertmanager] add user namespaces for alertmanage |
 | prometheus-operator/prometheus-operator | 1 | 2025-08-07 | chore: Update api doc for always_scrape_classic_hi |
+| psharma0905/Prometheus-and-Grafana-helm-charts | 1 | 2025-08-11 | [alertmanager] add user namespaces for alertmanage |
 | cnloxiaoteng-ship-it/helm-charts | 1 | 2025-08-11 | [alertmanager] add user namespaces for alertmanage |
 | kubeservice-stack/echo | 1 | 2025-08-05 | update gemini (#71) |
 
@@ -224,4 +228,4 @@ cnloxiaoteng-ship-it           █                    7%
 
 ---
 
-*报告生成时间：2026-08-17 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
