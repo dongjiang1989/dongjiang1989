@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：75 | **Following**：48
+> **公开仓库数**：246 | **Followers**：75 | **Following**：52
 
 ---
 
@@ -78,13 +78,13 @@ cnloxiaoteng-ship-it           █                    7%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（kubeservice-stack/echo, kubeservice-stack/echo), prometheus-operator/prometheus-operator)） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/echo)） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 2 | ██░░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update  |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 4 | ████░ | 4 项活动（cnloxiaoteng-ship-it/helm-charts, yunshenliu92/prometheus, psharma0905/Prometheus-and-Grafana-helm-charts） |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, yunshenliu92/prometheus, prometheus-community/helm-charts） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -228,4 +228,4 @@ cnloxiaoteng-ship-it           █                    7%
 
 ---
 
-*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*

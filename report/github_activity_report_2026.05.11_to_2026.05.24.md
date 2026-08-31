@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：75 | **Following**：48
+> **公开仓库数**：246 | **Followers**：75 | **Following**：52
 
 ---
 
@@ -14,25 +14,26 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **20** 个 |
-| 涉及仓库数 | **25** 个 |
+| 涉及组织数 | **22** 个 |
+| 涉及仓库数 | **27** 个 |
 | Pull Request 数 | **23** 个（已合并 21，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **38** 次 |
-| 总活动量 | **61** |
+| Commit 数 | **40** 次 |
+| 总活动量 | **63** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        ███                  18%
-kubeservice-stack              ███                  18%
-prometheus-operator            ██                   15%
+iflytek                        ███                  17%
+kubeservice-stack              ███                  17%
+prometheus-operator            ██                   14%
 dongjiang1989                  ██                   11%
-kagent-dev                     █                    7%
+kagent-dev                     █                    6%
 kubernetes-sigs                █                    5%
 Project-HAMi                   █                    3%
 erauner12                      █                    3%
 yyyyhhhh                       █                    2%
+tellbom                        █                    2%
 brandonfang06                  █                    2%
 zhangjun123400                 █                    2%
 yun-zhi-ztl                    █                    2%
@@ -43,16 +44,17 @@ bohe1026                       █                    2%
 Annie-Summer                   █                    2%
 xiaoyaosanshi                  █                    2%
 luxi233                        █                    2%
+hnxtcloud                      █                    2%
 ichichuang                     █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（18%），涉及 3 个仓库，共 11 次活动。
+1. **iflytek** 是最大贡献方向（17%），涉及 3 个仓库，共 11 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 11 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-05-12**（16 次活动），展现了高强度的工作节奏。
-5. 在 24 个仓库提交了 **38** 次代码。
+4. 活跃高峰出现在 **2026-05-12**（18 次活动），展现了高强度的工作节奏。
+5. 在 26 个仓库提交了 **40** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -60,10 +62,10 @@ ichichuang                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 63 | **61** | -3% | 📉 -2 |
+| **总活动量** | 65 | **63** | -3% | 📉 -2 |
 | Pull Request | 24 | 23 | -4% | 📉 -1 |
 | Issue | 3 | 0 | -100% | 📉 -3 |
-| Commit | 36 | 38 | +6% | 📈 +2 |
+| Commit | 38 | 40 | +5% | 📈 +2 |
 
 - 🆕 **新增活跃仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `iflytek/astron-agent`, `iflytek/community`, `kubeservice-stack/common`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`
 - ❌ **不再活跃的仓库**：`guanglechen/agenthub-enterprise`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`
@@ -75,10 +77,10 @@ ichichuang                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **61** | PR + Issue + Commit |
+| 📊 **总活动** | **63** | PR + Issue + Commit |
 | 📝 **Pull Request** | 23 | 已合并 21，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 38 | 代码提交 |
+| 💻 **Commit** | 40 | 代码提交 |
 
 ---
 
@@ -86,22 +88,22 @@ ichichuang                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox), kagent-dev/kagent） |
-| **2026-05-12（二）** | **16** | ████████████████ | 16 项活动（Wionerlol/SkillHub, yun-zhi-ztl/yunzhi-skillhub, iflytek/astron-agent)） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
+| **2026-05-12（二）** | **18** | ██████████████████ | 18 项活动（bohe1026/skillhub, iflytek/astron-agent, yyyyhhhh/tianma-skillhub） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 1 | █░░░░ | PR #1322 (iflytek/astron-agent) |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/echo, kubeservice-stack/echo), kubeservice-stack/common)） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/node-metrics, kubeservice-stack/node-metrics), kubeservice-stack/echo） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi), iflytek/community), dongjiang1989/opensearch-api） |
-| **2026-05-21（四）** | **12** | ████████████ | 12 项活动（Annie-Summer/HAMi-test, Project-HAMi/HAMi, dongjiang1989/opensearch-api)） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-runtime, kubeservice-stack/common), kubernetes-sigs/controller-runtime)） |
+| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator), Project-HAMi/HAMi)） |
+| **2026-05-21（四）** | **12** | ████████████ | 12 项活动（dongjiang1989/opensearch-api), Project-HAMi/HAMi, iflytek/community） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（iflytek/community, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-05-12（16 次活动）为最高峰。
+> **活跃高峰**：2026-05-12（18 次活动）为最高峰。
 
 ---
 
@@ -111,15 +113,16 @@ ichichuang                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| iflytek | 11 | 18.0% | iflytek/community(6), iflytek/astron-agent(4), iflytek/skillhub(1) | PR, Push |
-| kubeservice-stack | 11 | 18.0% | kubeservice-stack/common(5), kubeservice-stack/echo(4), kubeservice-stack/node-metrics(2) | PR, Push |
-| prometheus-operator | 9 | 14.8% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| dongjiang1989 | 7 | 11.5% | dongjiang1989/opensearch-api(7) | PR, Push |
-| kagent-dev | 4 | 6.6% | kagent-dev/kagent(4) | PR, Push |
-| kubernetes-sigs | 3 | 4.9% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/agent-sandbox(1) | PR, Push |
-| Project-HAMi | 2 | 3.3% | Project-HAMi/HAMi(2) | PR, Push |
-| erauner12 | 2 | 3.3% | erauner12/kagent-detached(2) | Push |
+| iflytek | 11 | 17.5% | iflytek/community(6), iflytek/astron-agent(4), iflytek/skillhub(1) | PR, Push |
+| kubeservice-stack | 11 | 17.5% | kubeservice-stack/common(5), kubeservice-stack/echo(4), kubeservice-stack/node-metrics(2) | PR, Push |
+| prometheus-operator | 9 | 14.3% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| dongjiang1989 | 7 | 11.1% | dongjiang1989/opensearch-api(7) | PR, Push |
+| kagent-dev | 4 | 6.3% | kagent-dev/kagent(4) | PR, Push |
+| kubernetes-sigs | 3 | 4.8% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/agent-sandbox(1) | PR, Push |
+| Project-HAMi | 2 | 3.2% | Project-HAMi/HAMi(2) | PR, Push |
+| erauner12 | 2 | 3.2% | erauner12/kagent-detached(2) | Push |
 | yyyyhhhh | 1 | 1.6% | yyyyhhhh/tianma-skillhub(1) | Push |
+| tellbom | 1 | 1.6% | tellbom/skillhub(1) | Push |
 | brandonfang06 | 1 | 1.6% | brandonfang06/skillhub(1) | Push |
 | zhangjun123400 | 1 | 1.6% | zhangjun123400/skillhub(1) | Push |
 | yun-zhi-ztl | 1 | 1.6% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
@@ -130,6 +133,7 @@ ichichuang                     █                    2%
 | Annie-Summer | 1 | 1.6% | Annie-Summer/HAMi-test(1) | Push |
 | xiaoyaosanshi | 1 | 1.6% | xiaoyaosanshi/skillhub(1) | Push |
 | luxi233 | 1 | 1.6% | luxi233/astron-agent(1) | Push |
+| hnxtcloud | 1 | 1.6% | hnxtcloud/astronhub(1) | Push |
 | ichichuang | 1 | 1.6% | ichichuang/skillhub-lobster-frontend(1) | Push |
 
 ### 4.2 仓库详细 Top 10
@@ -265,6 +269,7 @@ ichichuang                     █                    2%
 | iflytek/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | yyyyhhhh/tianma-skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | Project-HAMi/HAMi | 1 | 2026-05-21 | chore: update golangci-lint version and fix lint v |
+| tellbom/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | kubernetes-sigs/controller-runtime | 1 | 2026-05-22 | update k8s lib to v1.36.1 |
 | brandonfang06/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | zhangjun123400/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
@@ -278,6 +283,7 @@ ichichuang                     █                    2%
 | Annie-Summer/HAMi-test | 1 | 2026-05-21 | chore: update golangci-lint version and fix lint v |
 | xiaoyaosanshi/skillhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | luxi233/astron-agent | 1 | 2026-05-12 |  fix: add ownership validation in space delete and |
+| hnxtcloud/astronhub | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 | ichichuang/skillhub-lobster-frontend | 1 | 2026-05-12 | Add AGENTS.md and SKILL.md to support AI tools (#3 |
 
 ---
@@ -296,4 +302,4 @@ ichichuang                     █                    2%
 
 ---
 
-*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*

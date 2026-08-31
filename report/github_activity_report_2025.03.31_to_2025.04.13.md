@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：75 | **Following**：48
+> **公开仓库数**：246 | **Followers**：75 | **Following**：52
 
 ---
 
@@ -56,14 +56,14 @@ kev1N916                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 134 | **38** | -72% | 📉 -96 |
+| **总活动量** | 89 | **38** | -57% | 📉 -51 |
 | Pull Request | 13 | 14 | +8% | 📈 +1 |
 | Issue | 4 | 1 | -75% | 📉 -3 |
-| Commit | 117 | 23 | -80% | 📉 -94 |
+| Commit | 72 | 23 | -68% | 📉 -49 |
 
 - 🆕 **新增活跃仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
-- ❌ **不再活跃的仓库**：`Apexmail/helm`, `Govardhan988/helm-repo`, `LLM-CR-EVAL-05/helm-407-cr3`, `LLM-CR-EVAL-TREX/helm-407-cr5`, `LLM-CR-EVAL/helm-407-cr1`, `LLM-CR-EVAL/helm-407-cr10`, `LLM-CR-EVAL/helm-407-cr2`, `LLM-CR-EVAL/helm-407-cr4`, `LLM-CR-EVAL/helm-407-cr6`, `LLM-CR-EVAL/helm-407-cr7`, `LLM-CR-EVAL/helm-407-cr8`, `LLM-CR-EVAL/helm-407-cr9`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `helm/helm`, `hoppipolla-dev/helm`, `idadmin007/prometheus`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/network-doctor`, `ljzljz520-eng/helm-31109`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `yunshenliu92/prometheus`
-- 🔄 **工作重心转移**：从 **LLM-CR-EVAL** 转向 **kubernetes-sigs**
+- ❌ **不再活跃的仓库**：`Apexmail/helm`, `Govardhan988/helm-repo`, `Sanjaykumar2-creator/aispm-test-28`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `helm/helm`, `hoppipolla-dev/helm`, `idadmin007/prometheus`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/network-doctor`, `ljzljz520-eng/helm-31109`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `yunshenliu92/prometheus`
+- 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **kubernetes-sigs**
 
 ---
 
@@ -82,18 +82,18 @@ kev1N916                       █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-31（一）** | **7** | ███████ | 7 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), karmada-io/karmada)） |
-| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/scheduler-plugins), prometheus-operator/prometheus-operator） |
-| **2025-04-02（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools), volcano-sh/volcano, kev1N916/volcano） |
-| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder, n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, koordinator-sh/koordinator） |
+| **2025-03-31（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook, karmada-io/karmada)） |
+| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/scheduler-plugins), prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook） |
+| **2025-04-02（三）** | **10** | ██████████ | 10 项活动（ckyuto/volcano-upstream, handan-yxh/volcano-old-test, volcano-sh/volcano） |
+| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, koordinator-sh/koordinator） |
 | 2025-04-04（五） | 0 | ░░░░░ | — |
 | 2025-04-05（六） | 0 | ░░░░░ | — |
 | 2025-04-06（日） | 0 | ░░░░░ | — |
 | 2025-04-07（一） | 0 | ░░░░░ | — |
 | 2025-04-08（二） | 3 | ███░░ | PR #2396 (koordinator-sh/koordinator); PR #131207 (kubernetes/kubernetes); PR #2395 (koordinator-sh/koordinator) |
 | 2025-04-09（三） | 0 | ░░░░░ | — |
-| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, koordinator-sh/koordinator, kubernetes-sigs/kubebuilder)） |
-| **2025-04-11（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, Project-HAMi/HAMi-core), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00） |
+| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder), kubeservice-stack/lxcfs-webhook, koordinator-sh/koordinator） |
+| **2025-04-11（五）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi-core, Project-HAMi/HAMi-core), kubernetes-sigs/kubebuilder)） |
 | 2025-04-12（六） | 0 | ░░░░░ | — |
 | 2025-04-13（日） | 0 | ░░░░░ | — |
 
@@ -262,4 +262,4 @@ kev1N916                       █                    3%
 
 ---
 
-*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*

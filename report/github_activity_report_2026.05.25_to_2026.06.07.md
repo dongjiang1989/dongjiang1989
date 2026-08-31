@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：75 | **Following**：48
+> **公开仓库数**：246 | **Followers**：75 | **Following**：52
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **6** 个 |
 | 涉及仓库数 | **10** 个 |
-| Pull Request 数 | **15** 个（已合并 13，开放 2） |
+| Pull Request 数 | **15** 个（已合并 14，开放 1） |
 | Issue 数 | **2** 个 |
 | Commit 数 | **53** 次 |
 | 总活动量 | **70** |
@@ -35,8 +35,8 @@ kubernetes-sigs                █                    9%
 ### 💡 核心总结
 
 1. **kubeservice-stack** 是最大贡献方向（39%），涉及 2 个仓库，共 27 次活动。
-2. 共 **13** 个 PR 已合并，覆盖 6 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
+2. 共 **14** 个 PR 已合并，覆盖 7 个仓库。
+3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-05-29**（46 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 9 个仓库提交了 **53** 次代码。
@@ -47,13 +47,13 @@ kubernetes-sigs                █                    9%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 61 | **70** | +15% | 📈 +9 |
+| **总活动量** | 63 | **70** | +11% | 📈 +7 |
 | Pull Request | 23 | 15 | -35% | 📉 -8 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 38 | 53 | +39% | 📈 +15 |
+| Commit | 40 | 53 | +32% | 📈 +13 |
 
 - 🆕 **新增活跃仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `hnxtcloud/astronhub`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `tellbom/skillhub`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubeservice-stack**
 
 ---
@@ -63,7 +63,7 @@ kubernetes-sigs                █                    9%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **70** | PR + Issue + Commit |
-| 📝 **Pull Request** | 15 | 已合并 13，开放 2 |
+| 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
 | 📋 **Issue** | 2 | 创建 Issue |
 | 💻 **Commit** | 53 | 代码提交 |
 
@@ -74,10 +74,10 @@ kubernetes-sigs                █                    9%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
-| 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow), dongjiang1989/mirror-action, iflytek/community)） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（iflytek/community), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action） |
+| 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow), prometheus-operator/prometheus-operator), kubernetes-sigs/prow） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), iflytek/community, prometheus-operator/prometheus-operator） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/hf-sync-action, kubeservice-stack/hf-sync-action), kubeservice-stack/repos-mirror-action)） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -140,14 +140,14 @@ kubernetes-sigs                █                    9%
 | 10 | kubernetes-sigs/prow | [#734](https://github.com/kubernetes-sigs/prow/pull/734) | chore: upgrade golangci-lint to v2.12.2 and fix new lint issues  | ✅ 已合并 |
 | 11 | iflytek/community | [#9](https://github.com/iflytek/community/pull/9) | ci: Add GitHub dependabot configuration | ✅ 已合并 |
 | 12 | iflytek/community | [#8](https://github.com/iflytek/community/pull/8) | chore(docs): Add bi-weekly community meeting documentation  | ✅ 已合并 |
-| 13 | kubernetes-sigs/controller-tools | [#1418](https://github.com/kubernetes-sigs/controller-tools/pull/1418) | 🌱Update dependencies to k8s.io v1.36.1 | ✅ 已合并 |
+| 13 | kubernetes-sigs/kueue | [#11645](https://github.com/kubernetes-sigs/kueue/pull/11645) | KEP: Automatic GOMEMLIMIT Tuning for Kueue Controller  | 🔒 已关闭 |
+| 14 | kubernetes-sigs/controller-tools | [#1418](https://github.com/kubernetes-sigs/controller-tools/pull/1418) | 🌱Update dependencies to k8s.io v1.36.1 | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kubernetes-sigs/kueue | [#11645](https://github.com/kubernetes-sigs/kueue/pull/11645) | KEP: Automatic GOMEMLIMIT Tuning for Kueue Controller  | 🔄 开放 |
-| 2 | kubernetes-sigs/kueue | [#11642](https://github.com/kubernetes-sigs/kueue/pull/11642) | feat: Add automatic memory limit handling | 🔄 开放 |
+| 1 | kubernetes-sigs/kueue | [#11642](https://github.com/kubernetes-sigs/kueue/pull/11642) | feat: Add automatic memory limit handling | 🔄 开放 |
 
 ---
 
@@ -225,7 +225,7 @@ kubernetes-sigs                █                    9%
 |------|---------|---------|---------|
 | dongjiang1989/mirror-action | 12 | 2026-05-29 | Merge pull request #4 from kubeservice-stack/coder; Update README.md; Update README.md |
 | kubeservice-stack/repos-mirror-action | 12 | 2026-05-29 | Update README.md; Merge pull request #4 from kubeservice-stack/coder; Update repos-mirror-gitee.yaml |
-| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | Update action.yml; add hs to ms aciton; Initial commit |
+| kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | add hs to ms aciton; Initial commit; Fix pre dryrun fail (#6) |
 | actions-marketplace-validations/kubeservice-stack_hf-sync-action | 9 | 2026-05-29 | push; ci: fix pre dryrun fail (#8); Fix pre dryrun fail (#6) |
 | prometheus-operator/prometheus-operator | 4 | 2026-05-27 | update .golangci-kal.yml; changet url string to URL type (#8596); refactor(crd): refactoring `resource.Quantity` val |
 | iflytek/community | 4 | 2026-05-27 | add github dependabot.yml; add community meeting md; update github action |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*

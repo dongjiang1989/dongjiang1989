@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：243 | **Followers**：75 | **Following**：48
+> **公开仓库数**：246 | **Followers**：75 | **Following**：52
 
 ---
 
@@ -14,49 +14,57 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **112** 个 |
-| 涉及仓库数 | **119** 个 |
+| 涉及组织数 | **131** 个 |
+| 涉及仓库数 | **140** 个 |
 | Pull Request 数 | **35** 个（已合并 34，开放 1） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **234** 次 |
-| 总活动量 | **271** |
+| Commit 数 | **275** 次 |
+| 总活动量 | **312** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        █                    7%
-prometheus-operator            █                    4%
-kubernetes-sigs                █                    4%
-connectrpc                     █                    4%
+iflytek                        █                    6%
+prometheus-operator            █                    3%
+kubernetes-sigs                █                    3%
+connectrpc                     █                    3%
 1deat0r                        █                    2%
 agentgateway                   █                    2%
+Ablankpaper                    █                    1%
+i-enliven                      █                    1%
 e2b-dev                        █                    1%
 prometheus                     █                    1%
 thanos-io                      █                    1%
 cncf                           █                    1%
+aivrar                         █                    1%
+takeeeasy                      █                    1%
 wjsgudrnr12                    █                    1%
 xRetr00                        █                    1%
 Jasonsun77                     █                    1%
+zapabob                        █                    1%
 Chan-Yong-Kim                  █                    1%
+kiendev98                      █                    1%
 shuymn                         █                    1%
 imshyma                        █                    1%
 allr-ajmx                      █                    1%
 ngpestelos-mirrors             █                    1%
 mikefelder                     █                    1%
 shyn55                         █                    1%
-brandinskq                     █                    1%
-kapilmoond                     █                    1%
+DXFB                           █                    1%
 wanliqin                       █                    1%
+alacr555                       █                    1%
 KaloyanYosifov                 █                    1%
 Clawpump                       █                    1%
 csmiller34                     █                    1%
 SlowGreek                      █                    1%
 A-C-I-SOFTWARE-AND-DEVELOPMENT █                    1%
 LT-enoch                       █                    1%
-cointaboo                      █                    1%
 abenitop                       █                    1%
+Rohit-Kuinkel                  █                    1%
 ashishnotfound                 █                    1%
+kukhtik                        █                    1%
 jvarchanjo                     █                    1%
+abhraweb-boop                  █                    1%
 zaorenn                        █                    1%
 Brez421                        █                    1%
 zacharyjleach-stack            █                    1%
@@ -66,43 +74,51 @@ bignormal                      █                    1%
 CodeDraig                      █                    1%
 7hqzd4gtvq-del                 █                    1%
 csorrells42                    █                    1%
-clickmamaheti-prog             █                    1%
 tigermkiiiddd                  █                    1%
+chidionyema                    █                    1%
 Matt0080828                    █                    1%
 iforaa                         █                    1%
 weareturnone                   █                    1%
+JanIngoHaas                    █                    1%
 xmonader                       █                    1%
 feiguang50-hub                 █                    1%
 novkien                        █                    1%
+mmcen                          █                    1%
 kienntpixon                    █                    1%
+Jaikarans2003                  █                    1%
+dimayugabenedict75             █                    1%
 HaroPad-Hermes                 █                    1%
+tolgaakcaoglu                  █                    1%
 cryztoobal                     █                    1%
-evgyur                         █                    1%
 gitLongjie                     █                    1%
+Pakeshiel                      █                    1%
 apvizual-max                   █                    1%
 richard-guan-dev               █                    1%
 ykoh42                         █                    1%
 iiyang1016                     █                    1%
 xiaoping1111                   █                    1%
 Lexus2016                      █                    1%
-i-enliven                      █                    1%
+airclear                       █                    1%
 plm66                          █                    1%
 TonyDH-dev-openclaw            █                    1%
 nastechresearch                █                    1%
 dmantipinai-hash               █                    1%
 MaanavN                        █                    1%
 hushh-labs                     █                    1%
-Ablankpaper                    █                    1%
 Soham407                       █                    1%
+bhaweshkrsingh                 █                    1%
 InverterNetwork                █                    1%
 TrungKiencding                 █                    1%
+TylerGilman                    █                    1%
 pakgun10                       █                    1%
 nastechai                      █                    1%
 halah-lo                       █                    1%
 junhoolee                      █                    1%
 uudruid74                      █                    1%
 JGreenInfoTech                 █                    1%
+saimunprince                   █                    1%
 zed-wong                       █                    1%
+uxheavy                        █                    1%
 sligo-droid                    █                    1%
 jankratochvilcz                █                    1%
 lmpradodz23-design             █                    1%
@@ -115,6 +131,7 @@ kuniakil                       █                    1%
 kylanj7                        █                    1%
 tamstuz                        █                    1%
 CaravelaLabs                   █                    1%
+abalaji-xai                    █                    1%
 Milize21                       █                    1%
 NousResearch                   █                    1%
 cxnaive                        █                    1%
@@ -127,25 +144,27 @@ pbga0517                       █                    1%
 royalskynet                    █                    1%
 ashneil12                      █                    1%
 RBNoronha                      █                    1%
-MershLab                       █                    1%
 Bear615                        █                    1%
 neaucode-bot                   █                    1%
 luluthehungrycat               █                    1%
+shalomfriss                    █                    1%
 lancecheney                    █                    1%
 to-ge-da                       █                    1%
+hermes-yd                      █                    1%
 dongjiang1989                  █                    1%
 grafana                        █                    0%
+Sanjaykumar2-creator           █                    0%
 kgateway-dev                   █                    0%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（7%），涉及 3 个仓库，共 18 次活动。
+1. **iflytek** 是最大贡献方向（6%），涉及 3 个仓库，共 18 次活动。
 2. 共 **34** 个 PR 已合并，覆盖 13 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-07-15**（216 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-07-15**（256 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 115 个仓库提交了 **234** 次代码。
+6. 在 136 个仓库提交了 **275** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -153,13 +172,13 @@ kgateway-dev                   █                    0%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 94 | **271** | +188% | 📈 +177 |
+| **总活动量** | 96 | **312** | +225% | 📈 +216 |
 | Pull Request | 38 | 35 | -8% | 📉 -3 |
 | Issue | 15 | 2 | -87% | 📉 -13 |
-| Commit | 41 | 234 | +471% | 📈 +193 |
+| Commit | 43 | 275 | +540% | 📈 +232 |
 
-- 🆕 **新增活跃仓库**：`1deat0r/3V0-Agent`, `1deat0r/axiom-agent-legacy`, `1deat0r/f1nance-agent`, `7hqzd4gtvq-del/namig-agent`, `A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E`, `Ablankpaper/aera-runtime`, `Bear615/houseofagents`, `Brez421/hermes-agent`, `CaravelaLabs/CaravelaWinDesktop`, `Chan-Yong-Kim/Hermes-Agent-Training`, `ChatArch/hermes-agent`, `Clawpump/claw-agent`, `CodeDraig/hermes-agent`, `DavidMcFarlin/hermes-agent-evolved`, `DredusCLWN/hermes-agent-fork`, `HaroPad-Hermes/hermes-agent`, `InverterNetwork/hermes-agent`, `JGreenInfoTech/hermes-agent-review`, `Jasonsun77/hermes-desktop-remote`, `KaloyanYosifov/hermes-agent`, `LT-enoch/hermes-agent`, `Lexus2016/hermes-agent-evolution`, `MaanavN/Mercury`, `Matt0080828/hermes-agent-iot`, `MershLab/harness`, `Milize21/paradise_Hermes`, `RBNoronha/hermes-agent`, `SWOOPPMAIN/hermes-agent`, `SlowGreek/costas-code`, `Soham407/hermes-assistants`, `TonyDH-dev-openclaw/hermes-agent`, `TrungKiencding/AgentX-Workmate`, `abenitop/avidya-hermes`, `allr-ajmx/allr-agent`, `amankerja/sagaraai-bot`, `apvizual-max/hermes-agent-temp`, `ashishnotfound/iris-bot`, `ashneil12/vanilla-hermes-agent-canary`, `axzza-netizen/hermes-agent-backup2`, `bignormal/aera-runtime`, `brandinskq/energetic-paradigm`, `clickmamaheti-prog/vectorhead`, `cncf/landscape`, `cointaboo/hermes-agent`, `connectrpc/connect-go`, `connectrpc/connect-py`, `cryztoobal/Hermes-Orquestador`, `csmiller34/hermes-agent-xmpp`, `csorrells42/Photon`, `cxnaive/hermes-agent-llbot`, `cyt9772/hermes-agent`, `dmantipinai-hash/hermes-agent`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `evgyur/Hermes-powerpack`, `feiguang50-hub/HermesAgentDIY`, `geminiyubing-jpg/hermes-agent`, `gitLongjie/yunclaw-desktop`, `grafana/mimir-prometheus`, `halah-lo/hermes-halahlo`, `hushh-labs/hussh-one-hermes`, `i-enliven/hermes-agent`, `iforaa/druzhok-hermes`, `iiyang1016/HerBot`, `imshyma/Cloudysoul-marketing`, `jankratochvilcz/hermes-agent`, `junhoolee/hermes-agent`, `jvarchanjo/meu-hermes-agent`, `kapilmoond/aakalan-agent`, `kienntpixon/pixi-agent`, `kuniakil/hermes-agent`, `kylanj7/hermes-agent-stock-market-analysis`, `lancecheney/hermes-feishu`, `lmpradodz23-design/Hermes-OmniRoute-Studio`, `loudon84/copilot-hermes`, `luluthehungrycat/edgmes-agent`, `mikefelder/hermes-agent-azure-terraform`, `mustafacem/hermes-budget-explore`, `nastechai/Updates`, `nastechresearch/nastech-agent`, `neaucode-bot/hermes-agent-pre-standalone-20260807`, `ngpestelos-mirrors/hermes-agent`, `novkien/hermes-agent`, `pakgun10/hermesagent`, `pbga0517/Henry-hermes-agent`, `plm66/hermes-delegate`, `prometheus/prometheus`, `prometheus/sigv4`, `reck74/Janitor-Agent`, `richard-guan-dev/hermes-agent`, `royalskynet/coding-hermes`, `shuymn/hermes-agent`, `shyn55/hermes-agent2`, `sligo-droid/hermes-agent`, `tamstuz/hermes`, `thanos-io/thanos`, `tigermkiiiddd/hermes-agent-stable`, `to-ge-da/hermes-agent-sdk`, `uudruid74/hermes-agent`, `vivekgoquest/hermes-agent-stable`, `wanliqin/hermes-agent`, `weareturnone/hermes-agent`, `wjsgudrnr12/rodi-cli`, `xRetr00/Marvi`, `xiaoping1111/hermes-cn`, `xmonader/hermes-agent-mirror`, `ykoh42/async-hermes-agent`, `zacharyjleach-stack/Aries`, `zaorenn/thefool-desktop`, `zed-wong/hermesbot`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `aaif-goose/goose`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `iflytek/.github`, `iflytek/astron-agent`, `iflytek/community`, `iflytek/domux`, `iflytek/iFly-Skills`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `luxi233/astron-agent`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`1deat0r/3V0-Agent`, `1deat0r/axiom-agent-legacy`, `1deat0r/f1nance-agent`, `7hqzd4gtvq-del/namig-agent`, `A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E`, `Ablankpaper/Aino`, `Ablankpaper/aera-runtime`, `Bear615/houseofagents`, `Brez421/hermes-agent`, `CaravelaLabs/CaravelaWinDesktop`, `Chan-Yong-Kim/Hermes-Agent-Training`, `ChatArch/hermes-agent`, `Clawpump/claw-agent`, `CodeDraig/hermes-agent`, `DXFB/hermes-agent-v2026.8.19`, `DavidMcFarlin/hermes-agent-evolved`, `DredusCLWN/hermes-agent-fork`, `HaroPad-Hermes/hermes-agent`, `InverterNetwork/hermes-agent`, `JGreenInfoTech/hermes-agent-review`, `Jaikarans2003/OkVevo-Nia`, `JanIngoHaas/hermes-agent`, `Jasonsun77/hermes-desktop-remote`, `KaloyanYosifov/hermes-agent`, `LT-enoch/hermes-agent`, `Lexus2016/hermes-agent-evolution`, `MaanavN/Mercury`, `Matt0080828/hermes-agent-iot`, `Milize21/paradise_Hermes`, `Pakeshiel/hermes-agent`, `RBNoronha/hermes-agent`, `Rohit-Kuinkel/HermesAgent`, `SWOOPPMAIN/hermes-agent`, `Sanjaykumar2-creator/aispm-test-33`, `SlowGreek/costas-code`, `Soham407/hermes-assistants`, `TonyDH-dev-openclaw/hermes-agent`, `TrungKiencding/AgentX-Workmate`, `TylerGilman/hermes-agent`, `abalaji-xai/hermes-agent`, `abenitop/avidya-hermes`, `abhraweb-boop/ariadne`, `airclear/hermes-agent`, `aivrar/portable-hermes-agent`, `alacr555/FredericoHermesAgent`, `allr-ajmx/allr-agent`, `amankerja/sagaraai-bot`, `apvizual-max/hermes-agent-temp`, `ashishnotfound/iris-bot`, `ashneil12/vanilla-hermes-agent-canary`, `axzza-netizen/hermes-agent-backup2`, `bhaweshkrsingh/ideaHermes`, `bignormal/aera-runtime`, `chidionyema/hermes-agent`, `cncf/landscape`, `connectrpc/connect-go`, `connectrpc/connect-py`, `cryztoobal/Hermes-Orquestador`, `csmiller34/hermes-agent-xmpp`, `csorrells42/Photon`, `cxnaive/hermes-agent-llbot`, `cyt9772/hermes-agent`, `dimayugabenedict75/lucy-agent`, `dmantipinai-hash/hermes-agent`, `dongjiang1989/connect-py`, `dongjiang1989/memflywheel`, `e2b-dev/E2B`, `feiguang50-hub/HermesAgentDIY`, `geminiyubing-jpg/hermes-agent`, `gitLongjie/yunclaw-desktop`, `grafana/mimir-prometheus`, `halah-lo/hermes-halahlo`, `hermes-yd/hermes-agent`, `hushh-labs/hussh-one-hermes`, `i-enliven/hermes-agent`, `i-enliven/hermes-corp`, `iforaa/druzhok-hermes`, `iiyang1016/HerBot`, `imshyma/Cloudysoul-marketing`, `jankratochvilcz/hermes-agent`, `junhoolee/hermes-agent`, `jvarchanjo/meu-hermes-agent`, `kiendev98/hermes-agent-mochi`, `kienntpixon/pixi-agent`, `kukhtik/hermes-reform`, `kuniakil/hermes-agent`, `kylanj7/hermes-agent-stock-market-analysis`, `lancecheney/hermes-feishu`, `lmpradodz23-design/Hermes-OmniRoute-Studio`, `loudon84/copilot-hermes`, `luluthehungrycat/edgmes-agent`, `mikefelder/hermes-agent-azure-terraform`, `mmcen/hermes-anynines`, `mustafacem/hermes-budget-explore`, `nastechai/Updates`, `nastechresearch/nastech-agent`, `neaucode-bot/hermes-agent-pre-standalone-20260807`, `ngpestelos-mirrors/hermes-agent`, `novkien/hermes-agent`, `pakgun10/hermesagent`, `pbga0517/Henry-hermes-agent`, `plm66/hermes-delegate`, `prometheus/prometheus`, `prometheus/sigv4`, `reck74/Janitor-Agent`, `richard-guan-dev/hermes-agent`, `royalskynet/coding-hermes`, `saimunprince/digital-partner`, `shalomfriss/hermex`, `shuymn/hermes-agent`, `shyn55/hermes-agent2`, `sligo-droid/hermes-agent`, `takeeeasy/hermes-agent`, `tamstuz/hermes`, `thanos-io/thanos`, `tigermkiiiddd/hermes-agent-stable`, `to-ge-da/hermes-agent-sdk`, `tolgaakcaoglu/hafiye`, `uudruid74/hermes-agent`, `uxheavy/hermes-agent-P17`, `vivekgoquest/hermes-agent-stable`, `wanliqin/hermes-agent`, `weareturnone/hermes-agent`, `wjsgudrnr12/rodi-cli`, `xRetr00/Marvi`, `xiaoping1111/hermes-cn`, `xmonader/hermes-agent-mirror`, `ykoh42/async-hermes-agent`, `zacharyjleach-stack/Aries`, `zaorenn/thefool-desktop`, `zapabob/hermes-agent-windows-standalone`, `zed-wong/hermesbot`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `aaif-goose/goose`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `hsuhinyu-sketch/SecurityGateway`, `iflytek/.github`, `iflytek/astron-agent`, `iflytek/community`, `iflytek/domux`, `iflytek/iFly-Skills`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `luxi233/astron-agent`, `prometheus/procfs`
 - ✅ **工作重心稳定**：继续聚焦 **iflytek**
 
 ---
@@ -168,10 +187,10 @@ kgateway-dev                   █                    0%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **271** | PR + Issue + Commit |
+| 📊 **总活动** | **312** | PR + Issue + Commit |
 | 📝 **Pull Request** | 35 | 已合并 34，开放 1 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 234 | 代码提交 |
+| 💻 **Commit** | 275 | 代码提交 |
 
 ---
 
@@ -179,22 +198,22 @@ kgateway-dev                   █                    0%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-07-06（一）** | **8** | ████████ | 8 项活动（iflytek/memflywheel), iflytek/memflywheel, iflytek/website)） |
+| **2026-07-06（一）** | **8** | ████████ | 8 项活动（iflytek/website), prometheus-operator/prometheus-operator), iflytek/memflywheel） |
 | 2026-07-07（二） | 3 | ███░░ | agentgateway/agentgateway: feat(metrics): add agen; iflytek/website: docs(blog): translate Domux blog ; iflytek/astronclaw-tutorial: Merge pull request #6 |
-| **2026-07-08（三）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, iflytek/website), agentgateway/agentgateway)） |
-| **2026-07-09（四）** | **7** | ███████ | 7 项活动（prometheus/sigv4), kubernetes-sigs/agent-sandbox), e2b-dev/E2B)） |
+| **2026-07-08（三）** | **5** | █████ | 5 项活动（iflytek/website), agentgateway/agentgateway), agentgateway/agentgateway） |
+| **2026-07-09（四）** | **7** | ███████ | 7 项活动（prometheus/sigv4), prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox)） |
 | 2026-07-10（五） | 0 | ░░░░░ | — |
-| **2026-07-11（六）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), dongjiang1989/connect-py), connectrpc/connect-py)） |
+| **2026-07-11（六）** | **5** | █████ | 5 项活动（connectrpc/connect-py), e2b-dev/E2B), dongjiang1989/connect-py)） |
 | 2026-07-12（日） | 0 | ░░░░░ | — |
-| 2026-07-13（一） | 4 | ████░ | 4 项活动（connectrpc/connect-py, connectrpc/connect-go), e2b-dev/E2B)） |
-| **2026-07-14（二）** | **7** | ███████ | 7 项活动（connectrpc/connect-py, iflytek/memflywheel), iflytek/memflywheel） |
-| **2026-07-15（三）** | **216** | ████████████████████ | 216 项活动（A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E, kubernetes-sigs/agent-sandbox), iiyang1016/HerBot） |
-| **2026-07-16（四）** | **11** | ███████████ | 11 项活动（grafana/mimir-prometheus, prometheus/prometheus), iflytek/memflywheel)） |
-| 2026-07-17（五） | 4 | ████░ | 4 项活动（iflytek/website, connectrpc/connect-go, iflytek/website)） |
+| 2026-07-13（一） | 4 | ████░ | 4 项活动（e2b-dev/E2B), connectrpc/connect-go), connectrpc/connect-py） |
+| **2026-07-14（二）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/memflywheel, iflytek/memflywheel)） |
+| **2026-07-15（三）** | **256** | ████████████████████ | 256 项活动（novkien/hermes-agent, ChatArch/hermes-agent, SlowGreek/costas-code） |
+| **2026-07-16（四）** | **12** | ████████████ | 12 项活动（Sanjaykumar2-creator/aispm-test-33, thanos-io/thanos, thanos-io/thanos)） |
+| 2026-07-17（五） | 4 | ████░ | 4 项活动（iflytek/website), connectrpc/connect-go, iflytek/website） |
 | 2026-07-18（六） | 0 | ░░░░░ | — |
 | 2026-07-19（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-07-15（216 次活动）为最高峰。
+> **活跃高峰**：2026-07-15（256 次活动）为最高峰。
 
 ---
 
@@ -204,118 +223,137 @@ kgateway-dev                   █                    0%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| iflytek | 18 | 6.6% | iflytek/website(10), iflytek/memflywheel(7), iflytek/astronclaw-tutorial(1) | Issue, PR, Push |
-| prometheus-operator | 10 | 3.7% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| kubernetes-sigs | 10 | 3.7% | kubernetes-sigs/agent-sandbox(10) | Issue, PR, Push |
-| connectrpc | 10 | 3.7% | connectrpc/connect-py(7), connectrpc/connect-go(3) | PR, Push |
-| 1deat0r | 6 | 2.2% | 1deat0r/3V0-Agent(2), 1deat0r/axiom-agent-legacy(2), 1deat0r/f1nance-agent(2) | Push |
-| agentgateway | 5 | 1.8% | agentgateway/agentgateway(5) | PR, Push |
-| e2b-dev | 3 | 1.1% | e2b-dev/E2B(3) | PR |
-| prometheus | 3 | 1.1% | prometheus/prometheus(2), prometheus/sigv4(1) | PR, Push |
-| thanos-io | 2 | 0.7% | thanos-io/thanos(2) | PR, Push |
-| cncf | 2 | 0.7% | cncf/landscape(2) | PR, Push |
-| wjsgudrnr12 | 2 | 0.7% | wjsgudrnr12/rodi-cli(2) | Push |
-| xRetr00 | 2 | 0.7% | xRetr00/Marvi(2) | Push |
-| Jasonsun77 | 2 | 0.7% | Jasonsun77/hermes-desktop-remote(2) | Push |
-| Chan-Yong-Kim | 2 | 0.7% | Chan-Yong-Kim/Hermes-Agent-Training(2) | Push |
-| shuymn | 2 | 0.7% | shuymn/hermes-agent(2) | Push |
-| imshyma | 2 | 0.7% | imshyma/Cloudysoul-marketing(2) | Push |
-| allr-ajmx | 2 | 0.7% | allr-ajmx/allr-agent(2) | Push |
-| ngpestelos-mirrors | 2 | 0.7% | ngpestelos-mirrors/hermes-agent(2) | Push |
-| mikefelder | 2 | 0.7% | mikefelder/hermes-agent-azure-terraform(2) | Push |
-| shyn55 | 2 | 0.7% | shyn55/hermes-agent2(2) | Push |
-| brandinskq | 2 | 0.7% | brandinskq/energetic-paradigm(2) | Push |
-| kapilmoond | 2 | 0.7% | kapilmoond/aakalan-agent(2) | Push |
-| wanliqin | 2 | 0.7% | wanliqin/hermes-agent(2) | Push |
-| KaloyanYosifov | 2 | 0.7% | KaloyanYosifov/hermes-agent(2) | Push |
-| Clawpump | 2 | 0.7% | Clawpump/claw-agent(2) | Push |
-| csmiller34 | 2 | 0.7% | csmiller34/hermes-agent-xmpp(2) | Push |
-| SlowGreek | 2 | 0.7% | SlowGreek/costas-code(2) | Push |
-| A-C-I-SOFTWARE-AND-DEVELOPMENT | 2 | 0.7% | A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E(2) | Push |
-| LT-enoch | 2 | 0.7% | LT-enoch/hermes-agent(2) | Push |
-| cointaboo | 2 | 0.7% | cointaboo/hermes-agent(2) | Push |
-| abenitop | 2 | 0.7% | abenitop/avidya-hermes(2) | Push |
-| ashishnotfound | 2 | 0.7% | ashishnotfound/iris-bot(2) | Push |
-| jvarchanjo | 2 | 0.7% | jvarchanjo/meu-hermes-agent(2) | Push |
-| zaorenn | 2 | 0.7% | zaorenn/thefool-desktop(2) | Push |
-| Brez421 | 2 | 0.7% | Brez421/hermes-agent(2) | Push |
-| zacharyjleach-stack | 2 | 0.7% | zacharyjleach-stack/Aries(2) | Push |
-| DavidMcFarlin | 2 | 0.7% | DavidMcFarlin/hermes-agent-evolved(2) | Push |
-| loudon84 | 2 | 0.7% | loudon84/copilot-hermes(2) | Push |
-| bignormal | 2 | 0.7% | bignormal/aera-runtime(2) | Push |
-| CodeDraig | 2 | 0.7% | CodeDraig/hermes-agent(2) | Push |
-| 7hqzd4gtvq-del | 2 | 0.7% | 7hqzd4gtvq-del/namig-agent(2) | Push |
-| csorrells42 | 2 | 0.7% | csorrells42/Photon(2) | Push |
-| clickmamaheti-prog | 2 | 0.7% | clickmamaheti-prog/vectorhead(2) | Push |
-| tigermkiiiddd | 2 | 0.7% | tigermkiiiddd/hermes-agent-stable(2) | Push |
-| Matt0080828 | 2 | 0.7% | Matt0080828/hermes-agent-iot(2) | Push |
-| iforaa | 2 | 0.7% | iforaa/druzhok-hermes(2) | Push |
-| weareturnone | 2 | 0.7% | weareturnone/hermes-agent(2) | Push |
-| xmonader | 2 | 0.7% | xmonader/hermes-agent-mirror(2) | Push |
-| feiguang50-hub | 2 | 0.7% | feiguang50-hub/HermesAgentDIY(2) | Push |
-| novkien | 2 | 0.7% | novkien/hermes-agent(2) | Push |
-| kienntpixon | 2 | 0.7% | kienntpixon/pixi-agent(2) | Push |
-| HaroPad-Hermes | 2 | 0.7% | HaroPad-Hermes/hermes-agent(2) | Push |
-| cryztoobal | 2 | 0.7% | cryztoobal/Hermes-Orquestador(2) | Push |
-| evgyur | 2 | 0.7% | evgyur/Hermes-powerpack(2) | Push |
-| gitLongjie | 2 | 0.7% | gitLongjie/yunclaw-desktop(2) | Push |
-| apvizual-max | 2 | 0.7% | apvizual-max/hermes-agent-temp(2) | Push |
-| richard-guan-dev | 2 | 0.7% | richard-guan-dev/hermes-agent(2) | Push |
-| ykoh42 | 2 | 0.7% | ykoh42/async-hermes-agent(2) | Push |
-| iiyang1016 | 2 | 0.7% | iiyang1016/HerBot(2) | Push |
-| xiaoping1111 | 2 | 0.7% | xiaoping1111/hermes-cn(2) | Push |
-| Lexus2016 | 2 | 0.7% | Lexus2016/hermes-agent-evolution(2) | Push |
-| i-enliven | 2 | 0.7% | i-enliven/hermes-agent(2) | Push |
-| plm66 | 2 | 0.7% | plm66/hermes-delegate(2) | Push |
-| TonyDH-dev-openclaw | 2 | 0.7% | TonyDH-dev-openclaw/hermes-agent(2) | Push |
-| nastechresearch | 2 | 0.7% | nastechresearch/nastech-agent(2) | Push |
-| dmantipinai-hash | 2 | 0.7% | dmantipinai-hash/hermes-agent(2) | Push |
-| MaanavN | 2 | 0.7% | MaanavN/Mercury(2) | Push |
-| hushh-labs | 2 | 0.7% | hushh-labs/hussh-one-hermes(2) | Push |
-| Ablankpaper | 2 | 0.7% | Ablankpaper/aera-runtime(2) | Push |
-| Soham407 | 2 | 0.7% | Soham407/hermes-assistants(2) | Push |
-| InverterNetwork | 2 | 0.7% | InverterNetwork/hermes-agent(2) | Push |
-| TrungKiencding | 2 | 0.7% | TrungKiencding/AgentX-Workmate(2) | Push |
-| pakgun10 | 2 | 0.7% | pakgun10/hermesagent(2) | Push |
-| nastechai | 2 | 0.7% | nastechai/Updates(2) | Push |
-| halah-lo | 2 | 0.7% | halah-lo/hermes-halahlo(2) | Push |
-| junhoolee | 2 | 0.7% | junhoolee/hermes-agent(2) | Push |
-| uudruid74 | 2 | 0.7% | uudruid74/hermes-agent(2) | Push |
-| JGreenInfoTech | 2 | 0.7% | JGreenInfoTech/hermes-agent-review(2) | Push |
-| zed-wong | 2 | 0.7% | zed-wong/hermesbot(2) | Push |
-| sligo-droid | 2 | 0.7% | sligo-droid/hermes-agent(2) | Push |
-| jankratochvilcz | 2 | 0.7% | jankratochvilcz/hermes-agent(2) | Push |
-| lmpradodz23-design | 2 | 0.7% | lmpradodz23-design/Hermes-OmniRoute-Studio(2) | Push |
-| axzza-netizen | 2 | 0.7% | axzza-netizen/hermes-agent-backup2(2) | Push |
-| ChatArch | 2 | 0.7% | ChatArch/hermes-agent(2) | Push |
-| amankerja | 2 | 0.7% | amankerja/sagaraai-bot(2) | Push |
-| geminiyubing-jpg | 2 | 0.7% | geminiyubing-jpg/hermes-agent(2) | Push |
-| SWOOPPMAIN | 2 | 0.7% | SWOOPPMAIN/hermes-agent(2) | Push |
-| kuniakil | 2 | 0.7% | kuniakil/hermes-agent(2) | Push |
-| kylanj7 | 2 | 0.7% | kylanj7/hermes-agent-stock-market-analysis(2) | Push |
-| tamstuz | 2 | 0.7% | tamstuz/hermes(2) | Push |
-| CaravelaLabs | 2 | 0.7% | CaravelaLabs/CaravelaWinDesktop(2) | Push |
-| Milize21 | 2 | 0.7% | Milize21/paradise_Hermes(2) | Push |
-| NousResearch | 2 | 0.7% | NousResearch/hermes-agent(2) | Push |
-| cxnaive | 2 | 0.7% | cxnaive/hermes-agent-llbot(2) | Push |
-| cyt9772 | 2 | 0.7% | cyt9772/hermes-agent(2) | Push |
-| reck74 | 2 | 0.7% | reck74/Janitor-Agent(2) | Push |
-| mustafacem | 2 | 0.7% | mustafacem/hermes-budget-explore(2) | Push |
-| DredusCLWN | 2 | 0.7% | DredusCLWN/hermes-agent-fork(2) | Push |
-| vivekgoquest | 2 | 0.7% | vivekgoquest/hermes-agent-stable(2) | Push |
-| pbga0517 | 2 | 0.7% | pbga0517/Henry-hermes-agent(2) | Push |
-| royalskynet | 2 | 0.7% | royalskynet/coding-hermes(2) | Push |
-| ashneil12 | 2 | 0.7% | ashneil12/vanilla-hermes-agent-canary(2) | Push |
-| RBNoronha | 2 | 0.7% | RBNoronha/hermes-agent(2) | Push |
-| MershLab | 2 | 0.7% | MershLab/harness(2) | Push |
-| Bear615 | 2 | 0.7% | Bear615/houseofagents(2) | Push |
-| neaucode-bot | 2 | 0.7% | neaucode-bot/hermes-agent-pre-standalone-20260807(2) | Push |
-| luluthehungrycat | 2 | 0.7% | luluthehungrycat/edgmes-agent(2) | Push |
-| lancecheney | 2 | 0.7% | lancecheney/hermes-feishu(2) | Push |
-| to-ge-da | 2 | 0.7% | to-ge-da/hermes-agent-sdk(2) | Push |
-| dongjiang1989 | 2 | 0.7% | dongjiang1989/connect-py(1), dongjiang1989/memflywheel(1) | PR |
-| grafana | 1 | 0.4% | grafana/mimir-prometheus(1) | Push |
-| kgateway-dev | 1 | 0.4% | kgateway-dev/kgateway(1) | Push |
+| iflytek | 18 | 5.8% | iflytek/website(10), iflytek/memflywheel(7), iflytek/astronclaw-tutorial(1) | Issue, PR, Push |
+| prometheus-operator | 10 | 3.2% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| kubernetes-sigs | 10 | 3.2% | kubernetes-sigs/agent-sandbox(10) | Issue, PR, Push |
+| connectrpc | 10 | 3.2% | connectrpc/connect-py(7), connectrpc/connect-go(3) | PR, Push |
+| 1deat0r | 6 | 1.9% | 1deat0r/3V0-Agent(2), 1deat0r/axiom-agent-legacy(2), 1deat0r/f1nance-agent(2) | Push |
+| agentgateway | 5 | 1.6% | agentgateway/agentgateway(5) | PR, Push |
+| Ablankpaper | 4 | 1.3% | Ablankpaper/Aino(2), Ablankpaper/aera-runtime(2) | Push |
+| i-enliven | 4 | 1.3% | i-enliven/hermes-corp(2), i-enliven/hermes-agent(2) | Push |
+| e2b-dev | 3 | 1.0% | e2b-dev/E2B(3) | PR |
+| prometheus | 3 | 1.0% | prometheus/prometheus(2), prometheus/sigv4(1) | PR, Push |
+| thanos-io | 2 | 0.6% | thanos-io/thanos(2) | PR, Push |
+| cncf | 2 | 0.6% | cncf/landscape(2) | PR, Push |
+| aivrar | 2 | 0.6% | aivrar/portable-hermes-agent(2) | Push |
+| takeeeasy | 2 | 0.6% | takeeeasy/hermes-agent(2) | Push |
+| wjsgudrnr12 | 2 | 0.6% | wjsgudrnr12/rodi-cli(2) | Push |
+| xRetr00 | 2 | 0.6% | xRetr00/Marvi(2) | Push |
+| Jasonsun77 | 2 | 0.6% | Jasonsun77/hermes-desktop-remote(2) | Push |
+| zapabob | 2 | 0.6% | zapabob/hermes-agent-windows-standalone(2) | Push |
+| Chan-Yong-Kim | 2 | 0.6% | Chan-Yong-Kim/Hermes-Agent-Training(2) | Push |
+| kiendev98 | 2 | 0.6% | kiendev98/hermes-agent-mochi(2) | Push |
+| shuymn | 2 | 0.6% | shuymn/hermes-agent(2) | Push |
+| imshyma | 2 | 0.6% | imshyma/Cloudysoul-marketing(2) | Push |
+| allr-ajmx | 2 | 0.6% | allr-ajmx/allr-agent(2) | Push |
+| ngpestelos-mirrors | 2 | 0.6% | ngpestelos-mirrors/hermes-agent(2) | Push |
+| mikefelder | 2 | 0.6% | mikefelder/hermes-agent-azure-terraform(2) | Push |
+| shyn55 | 2 | 0.6% | shyn55/hermes-agent2(2) | Push |
+| DXFB | 2 | 0.6% | DXFB/hermes-agent-v2026.8.19(2) | Push |
+| wanliqin | 2 | 0.6% | wanliqin/hermes-agent(2) | Push |
+| alacr555 | 2 | 0.6% | alacr555/FredericoHermesAgent(2) | Push |
+| KaloyanYosifov | 2 | 0.6% | KaloyanYosifov/hermes-agent(2) | Push |
+| Clawpump | 2 | 0.6% | Clawpump/claw-agent(2) | Push |
+| csmiller34 | 2 | 0.6% | csmiller34/hermes-agent-xmpp(2) | Push |
+| SlowGreek | 2 | 0.6% | SlowGreek/costas-code(2) | Push |
+| A-C-I-SOFTWARE-AND-DEVELOPMENT | 2 | 0.6% | A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E(2) | Push |
+| LT-enoch | 2 | 0.6% | LT-enoch/hermes-agent(2) | Push |
+| abenitop | 2 | 0.6% | abenitop/avidya-hermes(2) | Push |
+| Rohit-Kuinkel | 2 | 0.6% | Rohit-Kuinkel/HermesAgent(2) | Push |
+| ashishnotfound | 2 | 0.6% | ashishnotfound/iris-bot(2) | Push |
+| kukhtik | 2 | 0.6% | kukhtik/hermes-reform(2) | Push |
+| jvarchanjo | 2 | 0.6% | jvarchanjo/meu-hermes-agent(2) | Push |
+| abhraweb-boop | 2 | 0.6% | abhraweb-boop/ariadne(2) | Push |
+| zaorenn | 2 | 0.6% | zaorenn/thefool-desktop(2) | Push |
+| Brez421 | 2 | 0.6% | Brez421/hermes-agent(2) | Push |
+| zacharyjleach-stack | 2 | 0.6% | zacharyjleach-stack/Aries(2) | Push |
+| DavidMcFarlin | 2 | 0.6% | DavidMcFarlin/hermes-agent-evolved(2) | Push |
+| loudon84 | 2 | 0.6% | loudon84/copilot-hermes(2) | Push |
+| bignormal | 2 | 0.6% | bignormal/aera-runtime(2) | Push |
+| CodeDraig | 2 | 0.6% | CodeDraig/hermes-agent(2) | Push |
+| 7hqzd4gtvq-del | 2 | 0.6% | 7hqzd4gtvq-del/namig-agent(2) | Push |
+| csorrells42 | 2 | 0.6% | csorrells42/Photon(2) | Push |
+| tigermkiiiddd | 2 | 0.6% | tigermkiiiddd/hermes-agent-stable(2) | Push |
+| chidionyema | 2 | 0.6% | chidionyema/hermes-agent(2) | Push |
+| Matt0080828 | 2 | 0.6% | Matt0080828/hermes-agent-iot(2) | Push |
+| iforaa | 2 | 0.6% | iforaa/druzhok-hermes(2) | Push |
+| weareturnone | 2 | 0.6% | weareturnone/hermes-agent(2) | Push |
+| JanIngoHaas | 2 | 0.6% | JanIngoHaas/hermes-agent(2) | Push |
+| xmonader | 2 | 0.6% | xmonader/hermes-agent-mirror(2) | Push |
+| feiguang50-hub | 2 | 0.6% | feiguang50-hub/HermesAgentDIY(2) | Push |
+| novkien | 2 | 0.6% | novkien/hermes-agent(2) | Push |
+| mmcen | 2 | 0.6% | mmcen/hermes-anynines(2) | Push |
+| kienntpixon | 2 | 0.6% | kienntpixon/pixi-agent(2) | Push |
+| Jaikarans2003 | 2 | 0.6% | Jaikarans2003/OkVevo-Nia(2) | Push |
+| dimayugabenedict75 | 2 | 0.6% | dimayugabenedict75/lucy-agent(2) | Push |
+| HaroPad-Hermes | 2 | 0.6% | HaroPad-Hermes/hermes-agent(2) | Push |
+| tolgaakcaoglu | 2 | 0.6% | tolgaakcaoglu/hafiye(2) | Push |
+| cryztoobal | 2 | 0.6% | cryztoobal/Hermes-Orquestador(2) | Push |
+| gitLongjie | 2 | 0.6% | gitLongjie/yunclaw-desktop(2) | Push |
+| Pakeshiel | 2 | 0.6% | Pakeshiel/hermes-agent(2) | Push |
+| apvizual-max | 2 | 0.6% | apvizual-max/hermes-agent-temp(2) | Push |
+| richard-guan-dev | 2 | 0.6% | richard-guan-dev/hermes-agent(2) | Push |
+| ykoh42 | 2 | 0.6% | ykoh42/async-hermes-agent(2) | Push |
+| iiyang1016 | 2 | 0.6% | iiyang1016/HerBot(2) | Push |
+| xiaoping1111 | 2 | 0.6% | xiaoping1111/hermes-cn(2) | Push |
+| Lexus2016 | 2 | 0.6% | Lexus2016/hermes-agent-evolution(2) | Push |
+| airclear | 2 | 0.6% | airclear/hermes-agent(2) | Push |
+| plm66 | 2 | 0.6% | plm66/hermes-delegate(2) | Push |
+| TonyDH-dev-openclaw | 2 | 0.6% | TonyDH-dev-openclaw/hermes-agent(2) | Push |
+| nastechresearch | 2 | 0.6% | nastechresearch/nastech-agent(2) | Push |
+| dmantipinai-hash | 2 | 0.6% | dmantipinai-hash/hermes-agent(2) | Push |
+| MaanavN | 2 | 0.6% | MaanavN/Mercury(2) | Push |
+| hushh-labs | 2 | 0.6% | hushh-labs/hussh-one-hermes(2) | Push |
+| Soham407 | 2 | 0.6% | Soham407/hermes-assistants(2) | Push |
+| bhaweshkrsingh | 2 | 0.6% | bhaweshkrsingh/ideaHermes(2) | Push |
+| InverterNetwork | 2 | 0.6% | InverterNetwork/hermes-agent(2) | Push |
+| TrungKiencding | 2 | 0.6% | TrungKiencding/AgentX-Workmate(2) | Push |
+| TylerGilman | 2 | 0.6% | TylerGilman/hermes-agent(2) | Push |
+| pakgun10 | 2 | 0.6% | pakgun10/hermesagent(2) | Push |
+| nastechai | 2 | 0.6% | nastechai/Updates(2) | Push |
+| halah-lo | 2 | 0.6% | halah-lo/hermes-halahlo(2) | Push |
+| junhoolee | 2 | 0.6% | junhoolee/hermes-agent(2) | Push |
+| uudruid74 | 2 | 0.6% | uudruid74/hermes-agent(2) | Push |
+| JGreenInfoTech | 2 | 0.6% | JGreenInfoTech/hermes-agent-review(2) | Push |
+| saimunprince | 2 | 0.6% | saimunprince/digital-partner(2) | Push |
+| zed-wong | 2 | 0.6% | zed-wong/hermesbot(2) | Push |
+| uxheavy | 2 | 0.6% | uxheavy/hermes-agent-P17(2) | Push |
+| sligo-droid | 2 | 0.6% | sligo-droid/hermes-agent(2) | Push |
+| jankratochvilcz | 2 | 0.6% | jankratochvilcz/hermes-agent(2) | Push |
+| lmpradodz23-design | 2 | 0.6% | lmpradodz23-design/Hermes-OmniRoute-Studio(2) | Push |
+| axzza-netizen | 2 | 0.6% | axzza-netizen/hermes-agent-backup2(2) | Push |
+| ChatArch | 2 | 0.6% | ChatArch/hermes-agent(2) | Push |
+| amankerja | 2 | 0.6% | amankerja/sagaraai-bot(2) | Push |
+| geminiyubing-jpg | 2 | 0.6% | geminiyubing-jpg/hermes-agent(2) | Push |
+| SWOOPPMAIN | 2 | 0.6% | SWOOPPMAIN/hermes-agent(2) | Push |
+| kuniakil | 2 | 0.6% | kuniakil/hermes-agent(2) | Push |
+| kylanj7 | 2 | 0.6% | kylanj7/hermes-agent-stock-market-analysis(2) | Push |
+| tamstuz | 2 | 0.6% | tamstuz/hermes(2) | Push |
+| CaravelaLabs | 2 | 0.6% | CaravelaLabs/CaravelaWinDesktop(2) | Push |
+| abalaji-xai | 2 | 0.6% | abalaji-xai/hermes-agent(2) | Push |
+| Milize21 | 2 | 0.6% | Milize21/paradise_Hermes(2) | Push |
+| NousResearch | 2 | 0.6% | NousResearch/hermes-agent(2) | Push |
+| cxnaive | 2 | 0.6% | cxnaive/hermes-agent-llbot(2) | Push |
+| cyt9772 | 2 | 0.6% | cyt9772/hermes-agent(2) | Push |
+| reck74 | 2 | 0.6% | reck74/Janitor-Agent(2) | Push |
+| mustafacem | 2 | 0.6% | mustafacem/hermes-budget-explore(2) | Push |
+| DredusCLWN | 2 | 0.6% | DredusCLWN/hermes-agent-fork(2) | Push |
+| vivekgoquest | 2 | 0.6% | vivekgoquest/hermes-agent-stable(2) | Push |
+| pbga0517 | 2 | 0.6% | pbga0517/Henry-hermes-agent(2) | Push |
+| royalskynet | 2 | 0.6% | royalskynet/coding-hermes(2) | Push |
+| ashneil12 | 2 | 0.6% | ashneil12/vanilla-hermes-agent-canary(2) | Push |
+| RBNoronha | 2 | 0.6% | RBNoronha/hermes-agent(2) | Push |
+| Bear615 | 2 | 0.6% | Bear615/houseofagents(2) | Push |
+| neaucode-bot | 2 | 0.6% | neaucode-bot/hermes-agent-pre-standalone-20260807(2) | Push |
+| luluthehungrycat | 2 | 0.6% | luluthehungrycat/edgmes-agent(2) | Push |
+| shalomfriss | 2 | 0.6% | shalomfriss/hermex(2) | Push |
+| lancecheney | 2 | 0.6% | lancecheney/hermes-feishu(2) | Push |
+| to-ge-da | 2 | 0.6% | to-ge-da/hermes-agent-sdk(2) | Push |
+| hermes-yd | 2 | 0.6% | hermes-yd/hermes-agent(2) | Push |
+| dongjiang1989 | 2 | 0.6% | dongjiang1989/connect-py(1), dongjiang1989/memflywheel(1) | PR |
+| grafana | 1 | 0.3% | grafana/mimir-prometheus(1) | Push |
+| Sanjaykumar2-creator | 1 | 0.3% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
+| kgateway-dev | 1 | 0.3% | kgateway-dev/kgateway(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -464,29 +502,36 @@ kgateway-dev                   █                    0%
 | agentgateway/agentgateway | 3 | 2026-07-08 | fix: Remove duplicate CEL validation markers (#246; test: add goleak to detect goroutine leaks in cont; feat(metrics): add agentgateway_controller_build_i |
 | connectrpc/connect-py | 3 | 2026-07-14 | Add note about http client ownership to client doc; Avoid unnecessary copies in IdentityCompression an; Avoid quadratic buffer copies in EnvelopeReader st |
 | iflytek/memflywheel | 3 | 2026-07-14 | feat(e2e): add unified data-driven K8s E2E test fr; feat(e2e): add OpenClaw agent to K8s E2E test fram; security(deps): upgrade esbuild to 0.28.1 to resol |
+| aivrar/portable-hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| takeeeasy/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | wjsgudrnr12/rodi-cli | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | xRetr00/Marvi | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Jasonsun77/hermes-desktop-remote | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| zapabob/hermes-agent-windows-standalone | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Chan-Yong-Kim/Hermes-Agent-Training | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| kiendev98/hermes-agent-mochi | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | shuymn/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | imshyma/Cloudysoul-marketing | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | allr-ajmx/allr-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | ngpestelos-mirrors/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| Ablankpaper/Aino | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | mikefelder/hermes-agent-azure-terraform | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | shyn55/hermes-agent2 | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| brandinskq/energetic-paradigm | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| kapilmoond/aakalan-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| DXFB/hermes-agent-v2026.8.19 | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | wanliqin/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| alacr555/FredericoHermesAgent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | KaloyanYosifov/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Clawpump/claw-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | csmiller34/hermes-agent-xmpp | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | SlowGreek/costas-code | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | A-C-I-SOFTWARE-AND-DEVELOPMENT/M.U.S.E | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | LT-enoch/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| cointaboo/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | abenitop/avidya-hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| Rohit-Kuinkel/HermesAgent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | ashishnotfound/iris-bot | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| kukhtik/hermes-reform | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | jvarchanjo/meu-hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| abhraweb-boop/ariadne | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | zaorenn/thefool-desktop | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Brez421/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | zacharyjleach-stack/Aries | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -495,21 +540,27 @@ kgateway-dev                   █                    0%
 | bignormal/aera-runtime | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | CodeDraig/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | 7hqzd4gtvq-del/namig-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| i-enliven/hermes-corp | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | csorrells42/Photon | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | 1deat0r/3V0-Agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| clickmamaheti-prog/vectorhead | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | tigermkiiiddd/hermes-agent-stable | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| chidionyema/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Matt0080828/hermes-agent-iot | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | iforaa/druzhok-hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | weareturnone/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| JanIngoHaas/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | xmonader/hermes-agent-mirror | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | feiguang50-hub/HermesAgentDIY | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | novkien/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| mmcen/hermes-anynines | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | kienntpixon/pixi-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| Jaikarans2003/OkVevo-Nia | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| dimayugabenedict75/lucy-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | HaroPad-Hermes/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| tolgaakcaoglu/hafiye | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | cryztoobal/Hermes-Orquestador | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| evgyur/Hermes-powerpack | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | gitLongjie/yunclaw-desktop | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| Pakeshiel/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | apvizual-max/hermes-agent-temp | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | richard-guan-dev/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | ykoh42/async-hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -517,6 +568,7 @@ kgateway-dev                   █                    0%
 | xiaoping1111/hermes-cn | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Lexus2016/hermes-agent-evolution | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | i-enliven/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| airclear/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | plm66/hermes-delegate | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | TonyDH-dev-openclaw/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | nastechresearch/nastech-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -525,8 +577,10 @@ kgateway-dev                   █                    0%
 | hushh-labs/hussh-one-hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Ablankpaper/aera-runtime | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Soham407/hermes-assistants | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| bhaweshkrsingh/ideaHermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | InverterNetwork/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | TrungKiencding/AgentX-Workmate | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| TylerGilman/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | pakgun10/hermesagent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | nastechai/Updates | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | halah-lo/hermes-halahlo | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -534,7 +588,9 @@ kgateway-dev                   █                    0%
 | uudruid74/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | JGreenInfoTech/hermes-agent-review | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | 1deat0r/axiom-agent-legacy | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| saimunprince/digital-partner | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | zed-wong/hermesbot | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| uxheavy/hermes-agent-P17 | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | sligo-droid/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | jankratochvilcz/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | lmpradodz23-design/Hermes-OmniRoute-Studio | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -547,6 +603,7 @@ kgateway-dev                   █                    0%
 | kylanj7/hermes-agent-stock-market-analysis | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | tamstuz/hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | CaravelaLabs/CaravelaWinDesktop | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| abalaji-xai/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Milize21/paradise_Hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | NousResearch/hermes-agent | 2 | 2026-07-15 | fix(skills-hub): include owner in ClawHub source U; fix(cli): dispatch /indicator to set the busy-indi |
 | cxnaive/hermes-agent-llbot | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
@@ -560,13 +617,15 @@ kgateway-dev                   █                    0%
 | royalskynet/coding-hermes | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | ashneil12/vanilla-hermes-agent-canary | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | RBNoronha/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
-| MershLab/harness | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | Bear615/houseofagents | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | neaucode-bot/hermes-agent-pre-standalone-20260807 | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | luluthehungrycat/edgmes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| shalomfriss/hermex | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | lancecheney/hermes-feishu | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | to-ge-da/hermes-agent-sdk | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
+| hermes-yd/hermes-agent | 2 | 2026-07-15 | fix(cli): dispatch /indicator to set the busy-indi; fix(skills-hub): include owner in ClawHub source U |
 | grafana/mimir-prometheus | 1 | 2026-07-16 | Remove retired Go report card badge |
+| Sanjaykumar2-creator/aispm-test-33 | 1 | 2026-07-16 | Remove retired Go report card badge |
 | connectrpc/connect-go | 1 | 2026-07-17 | Upgrade golangci-lint to v2.12.2 (#945) |
 | cncf/landscape | 1 | 2026-07-15 | feat(landscape): add Astron Agent project (#4928) |
 | prometheus/prometheus | 1 | 2026-07-16 | Remove retired Go report card badge |
@@ -592,4 +651,4 @@ kgateway-dev                   █                    0%
 
 ---
 
-*报告生成时间：2026-08-24 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
