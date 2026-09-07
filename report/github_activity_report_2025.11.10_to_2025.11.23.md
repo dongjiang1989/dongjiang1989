@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -79,14 +79,14 @@ QQGoblin                       █                    3%
 |------|--------|--------|----------|
 | 2025-11-10（一） | 0 | ░░░░░ | — |
 | 2025-11-11（二） | 1 | █░░░░ | PR #8089 (prometheus-operator/prometheus-operator) |
-| **2025-11-12（三）** | **10** | ██████████ | 10 项活动（QQGoblin/node_exporter, asama-ai/node_exporter, prometheus-operator/prometheus-operator)） |
+| **2025-11-12（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, asama-ai/node_exporter, jicki/node_exporter） |
 | 2025-11-13（四） | 2 | ██░░░ | prometheus-operator/prometheus-operator: chore: up; prometheus-operator/prometheus-operator: chore: ad |
 | 2025-11-14（五） | 0 | ░░░░░ | — |
 | 2025-11-15（六） | 2 | ██░░░ | PR #88 (kubeservice-stack/echo); kubeservice-stack/echo: add slices pkg (#88)
 
 Sign |
 | 2025-11-16（日） | 0 | ░░░░░ | — |
-| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/common, prometheus-operator/prometheus-operator), kubernetes-sigs/kueue)） |
+| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator), kubeservice-stack/kspack-go） |
 | 2025-11-18（二） | 1 | █░░░░ | kubernetes-sigs/kueue: add modernize check (#7704) |
 | 2025-11-19（三） | 0 | ░░░░░ | — |
 | 2025-11-20（四） | 0 | ░░░░░ | — |
@@ -251,4 +251,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

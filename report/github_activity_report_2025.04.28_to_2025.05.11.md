@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -89,18 +89,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator), raihanakbr/descheduler-custom） |
+| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（Project-HAMi/HAMi-core), Project-HAMi/HAMi-core, web38444/descheduler） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator)） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), web38444/descheduler, kubernetes-sigs/controller-tools)） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（aimultiple-benchmark/prometheus-bench-cr-2, kubeservice-stack/echo, prometheus/prometheus)） |
+| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（aimultiple-benchmark/prometheus-bench-cur-2, elouafi-abderrahmane-2002/prometheus, pvlltvk/proxeus-prometheus） |
 | 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubeservice-stack/common, prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools)） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/echo, kubeservice-stack/common)） |
+| 2025-05-08（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/echo, kubeservice-stack/common） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -293,4 +293,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

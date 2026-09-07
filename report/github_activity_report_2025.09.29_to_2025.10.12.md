@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -41,12 +41,12 @@ kubernetes-sigs                ████                 20%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 28 | **5** | -82% | 📉 -23 |
+| **总活动量** | 29 | **5** | -83% | 📉 -24 |
 | Pull Request | 12 | 2 | -83% | 📉 -10 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 15 | 3 | -80% | 📉 -12 |
+| Commit | 16 | 3 | -81% | 📉 -13 |
 
-- ❌ **不再活跃的仓库**：`SoujanyaPonnapalli/Metronome`, `apecloud/kubeblocks-addons`, `etcd-io/etcd`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
+- ❌ **不再活跃的仓库**：`SoujanyaPonnapalli/Metronome`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `etcd-io/etcd`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---
@@ -166,4 +166,4 @@ kubernetes-sigs                ████                 20%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

@@ -8,11 +8,11 @@
 
 | 序号 | 统计周期 | 报告链接 | PR数 | Issue数 | Commit数 |
 |------|----------|----------|------|---------|---------|
-| 1 | 2026.08.31 - 2026.09.13 | [github_activity_report_2026.08.31_to_2026.09.13.md](./github_activity_report_2026.08.31_to_2026.09.13.md) | 0 | 0 | 0 |
-| 2 | 2026.08.17 - 2026.08.30 | [github_activity_report_2026.08.17_to_2026.08.30.md](./github_activity_report_2026.08.17_to_2026.08.30.md) | 26 | 0 | 20 |
-| 3 | 2026.08.03 - 2026.08.16 | [github_activity_report_2026.08.03_to_2026.08.16.md](./github_activity_report_2026.08.03_to_2026.08.16.md) | 31 | 8 | 36 |
-| 4 | 2026.07.20 - 2026.08.02 | [github_activity_report_2026.07.20_to_2026.08.02.md](./github_activity_report_2026.07.20_to_2026.08.02.md) | 39 | 5 | 46 |
-| 5 | 2026.07.06 - 2026.07.19 | [github_activity_report_2026.07.06_to_2026.07.19.md](./github_activity_report_2026.07.06_to_2026.07.19.md) | 35 | 2 | 275 |
+| 1 | 2026.08.31 - 2026.09.13 | [github_activity_report_2026.08.31_to_2026.09.13.md](./github_activity_report_2026.08.31_to_2026.09.13.md) | 17 | 18 | 20 |
+| 2 | 2026.08.17 - 2026.08.30 | [github_activity_report_2026.08.17_to_2026.08.30.md](./github_activity_report_2026.08.17_to_2026.08.30.md) | 26 | 0 | 28 |
+| 3 | 2026.08.03 - 2026.08.16 | [github_activity_report_2026.08.03_to_2026.08.16.md](./github_activity_report_2026.08.03_to_2026.08.16.md) | 31 | 8 | 38 |
+| 4 | 2026.07.20 - 2026.08.02 | [github_activity_report_2026.07.20_to_2026.08.02.md](./github_activity_report_2026.07.20_to_2026.08.02.md) | 39 | 5 | 47 |
+| 5 | 2026.07.06 - 2026.07.19 | [github_activity_report_2026.07.06_to_2026.07.19.md](./github_activity_report_2026.07.06_to_2026.07.19.md) | 35 | 2 | 315 |
 | 6 | 2026.06.22 - 2026.07.05 | [github_activity_report_2026.06.22_to_2026.07.05.md](./github_activity_report_2026.06.22_to_2026.07.05.md) | 38 | 15 | 43 |
 | 7 | 2026.06.08 - 2026.06.21 | [github_activity_report_2026.06.08_to_2026.06.21.md](./github_activity_report_2026.06.08_to_2026.06.21.md) | 35 | 15 | 61 |
 | 8 | 2026.05.25 - 2026.06.07 | [github_activity_report_2026.05.25_to_2026.06.07.md](./github_activity_report_2026.05.25_to_2026.06.07.md) | 15 | 2 | 53 |
@@ -33,7 +33,7 @@
 | 23 | 2025.10.27 - 2025.11.09 | [github_activity_report_2025.10.27_to_2025.11.09.md](./github_activity_report_2025.10.27_to_2025.11.09.md) | 8 | 0 | 8 |
 | 24 | 2025.10.13 - 2025.10.26 | [github_activity_report_2025.10.13_to_2025.10.26.md](./github_activity_report_2025.10.13_to_2025.10.26.md) | 5 | 0 | 5 |
 | 25 | 2025.09.29 - 2025.10.12 | [github_activity_report_2025.09.29_to_2025.10.12.md](./github_activity_report_2025.09.29_to_2025.10.12.md) | 2 | 0 | 3 |
-| 26 | 2025.09.15 - 2025.09.28 | [github_activity_report_2025.09.15_to_2025.09.28.md](./github_activity_report_2025.09.15_to_2025.09.28.md) | 12 | 1 | 15 |
+| 26 | 2025.09.15 - 2025.09.28 | [github_activity_report_2025.09.15_to_2025.09.28.md](./github_activity_report_2025.09.15_to_2025.09.28.md) | 12 | 1 | 16 |
 | 27 | 2025.09.01 - 2025.09.14 | [github_activity_report_2025.09.01_to_2025.09.14.md](./github_activity_report_2025.09.01_to_2025.09.14.md) | 10 | 0 | 12 |
 | 28 | 2025.08.18 - 2025.08.31 | [github_activity_report_2025.08.18_to_2025.08.31.md](./github_activity_report_2025.08.18_to_2025.08.31.md) | 6 | 2 | 15 |
 | 29 | 2025.08.04 - 2025.08.17 | [github_activity_report_2025.08.04_to_2025.08.17.md](./github_activity_report_2025.08.04_to_2025.08.17.md) | 6 | 1 | 8 |
@@ -55,4 +55,4 @@
 
 ---
 
-*索引更新时间：2026-08-31*
+*索引更新时间：2026-09-07*

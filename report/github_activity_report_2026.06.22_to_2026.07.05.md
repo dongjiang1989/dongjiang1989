@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -80,20 +80,20 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（NousResearch/hermes-agent), iflytek/iFly-Skills, iflytek/community） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/iFly-Skills), iflytek/.github), iflytek/iFly-Skills） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/website), dongjiang1989/dongjiang1989, iflytek/iFly-Skills） |
-| **2026-06-25（四）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
-| 2026-06-26（五） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/agent-sandbox), NousResearch/hermes-agent)） |
-| 2026-06-27（六） | 4 | ████░ | 4 项活动（iflytek/memflywheel), CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, prometheus/procfs） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/website), iflytek/iFly-Skills), iflytek/website） |
+| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-tools, kubernetes-sigs/agent-sandbox)） |
+| 2026-06-26（五） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, NousResearch/hermes-agent), kubernetes-sigs/agent-sandbox)） |
+| 2026-06-27（六） | 4 | ████░ | 4 项活动（prometheus/procfs, iflytek/memflywheel, iflytek/memflywheel)） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **24** | ████████████████████ | 24 项活动（iflytek/astron-agent, kubeservice-stack/echo, iflytek/memflywheel） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/domux), iflytek/website), iflytek/domux） |
+| **2026-06-29（一）** | **24** | ████████████████████ | 24 项活动（iflytek/memflywheel, kubeservice-stack/echo, iflytek/astron-agent） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/domux), iflytek/memflywheel, iflytek/website)） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **11** | ███████████ | 11 项活动（aaif-goose/goose), iflytek/website), agentgateway/agentgateway)） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website), agentgateway/agentgateway), kgateway-dev/kgateway)） |
+| **2026-07-02（四）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway, iflytek/memflywheel, iflytek/website)） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website, iflytek/website), kgateway-dev/kgateway)） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
-| 2026-07-05（日） | 4 | ████░ | 4 项活动（dongjiang1989/kgateway), agentgateway/agentgateway), dongjiang1989/agentgateway)） |
+| 2026-07-05（日） | 4 | ████░ | 4 项活动（agentgateway/agentgateway), dongjiang1989/agentgateway), kgateway-dev/kgateway)） |
 
 > **活跃高峰**：2026-06-29（24 次活动）为最高峰。
 
@@ -130,7 +130,7 @@ prometheus-operator            █                    1%
 | 5 | **iflytek/domux** | 8 | 1 | 5 | 2 | PR #9: docs: Add community standards and fix docum; Issue #10: Feature: Create demo environments for u; Issue #8: Feature: Support Ollama GGUF models |
 | 6 | **agentgateway/agentgateway** | 7 | 5 | 0 | 2 | PR #2434: fix: resolve kubebuilder mismatched comm; PR #2419: test: add goleak to detect goroutine lea; PR #2399: feat(metrics): add agentgateway_controll |
 | 7 | **NousResearch/hermes-agent** | 6 | 5 | 1 | 0 | PR #53104: fix(cron): respect job's profile when e; PR #51244: fix(skills-hub): include owner in ClawH; PR #51178: fix(cli): dispatch /indicator to set th |
-| 8 | **dongjiang1989/dongjiang1989** | 4 | 0 | 0 | 4 | Commit: Update README.md; Commit: Update README.md; Commit: feat: add biweekly report GitHub Action wo |
+| 8 | **dongjiang1989/dongjiang1989** | 4 | 0 | 0 | 4 | Commit: Update README.md; Commit: feat: add biweekly report GitHub Action wo; Commit: add biweekly report |
 | 9 | **iflytek/astron-agent** | 3 | 1 | 0 | 2 | PR #1459: Potential fix for code scanning alert no; Commit: fix: address Gemini review comments for SS; Commit: Potential fix for code scanning alert no.  |
 | 10 | **kgateway-dev/kgateway** | 2 | 2 | 0 | 0 | PR #14356: refactor: replace sort package with sli; PR #14355: chore(lint): bump golangci-lint to v2.1 |
 
@@ -278,11 +278,11 @@ prometheus-operator            █                    1%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| iflytek/iFly-Skills | 7 | 2026-06-24 | Merge branch 'main' into add-lobehub; add lobehub skill hub; add Manus skillshub |
+| iflytek/iFly-Skills | 7 | 2026-06-22 | Merge pull request #53 from iflytek/dependabot/git; add skillhub Registry; add Manus skillshub |
 | kubernetes-sigs/agent-sandbox | 5 | 2026-06-29 | update deps (#1036); Add example for playwright sandbox (#1043); remove deprecated package (#1037) |
 | iflytek/memflywheel | 5 | 2026-06-30 | docs: add CODE_OF_CONDUCT, update CONTRIBUTING and; add ESLint, Prettier, and improve GitHub Actions C; chore: add GitHub Actions workflows, dependabot, a |
 | iflytek/website | 4 | 2026-06-24 | add two conferences and one adopter (#40); feat: add Hugging Face and ModelScope links to foo;  feat: add MemFlywheel & Domux projects, tech blog |
-| dongjiang1989/dongjiang1989 | 4 | 2026-07-06 | Update README.md; Update README.md; feat: add biweekly report GitHub Action workflow |
+| dongjiang1989/dongjiang1989 | 4 | 2026-07-06 | Update README.md; feat: add biweekly report GitHub Action workflow; add biweekly report |
 | agentgateway/agentgateway | 2 | 2026-07-02 | refactor: replace sort.Slice with slices.Sort for ; chore: Bump `kube-api-linter` version and fix `gos |
 | iflytek/domux | 2 | 2026-06-30 | docs: Add community standards and fix documentatio; Initial release of Domux based on Gemma-4-E2B-it |
 | iflytek/astron-agent | 2 | 2026-06-29 | fix: address Gemini review comments for SSRF fix; Potential fix for code scanning alert no. 54: Serv |
@@ -316,4 +316,4 @@ prometheus-operator            █                    1%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -75,7 +75,7 @@ kubeservice-stack              ████████             40%
 | 2025-10-18（六） | 0 | ░░░░░ | — |
 | 2025-10-19（日） | 0 | ░░░░░ | — |
 | 2025-10-20（一） | 0 | ░░░░░ | — |
-| **2025-10-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), kubeservice-stack/kubservice-charts)） |
+| **2025-10-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator） |
 | 2025-10-22（三） | 0 | ░░░░░ | — |
 | 2025-10-23（四） | 0 | ░░░░░ | — |
 | 2025-10-24（五） | 0 | ░░░░░ | — |
@@ -183,4 +183,4 @@ kubeservice-stack              ████████             40%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

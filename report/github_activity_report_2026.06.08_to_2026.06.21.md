@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -76,16 +76,16 @@ CodeLinaro-mirror              █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（dongjiang1989/opensearch-api), kubernetes-sigs/external-dns), prometheus-operator/prometheus-operator)） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), dongjiang1989/opensearch-api, iflytek/community)） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/external-dns), kagent-dev/kagent), prometheus-operator/prometheus-operator） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), iflytek/community, iflytek/community)） |
 | **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
 | **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
 | **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/website), iflytek/domux, prometheus-operator/prometheus-operator)） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website), iflytek/iFly-Skills, iflytek/iFly-Skills)） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（prometheus-operator/prometheus-operator), iflytek/iFly-Skills, kubernetes-sigs/kubebuilder)） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel, iflytek/website), iflytek/domux） |
+| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website), iflytek/iFly-Skills), kubernetes-sigs/external-dns） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
@@ -265,8 +265,8 @@ CodeLinaro-mirror              █                    1%
 |------|---------|---------|---------|
 | iflytek/website | 32 | 2026-06-11 | Initial commit: iFLYTEK Open Source Website; fix: add OFL-1.1 license for Inter font and update; fix: remove conflicting license-checker flags |
 | dongjiang1989/opensearch-api | 9 | 2026-06-10 | add file type (#8); update; update fileid protocal |
-| iflytek/iFly-Skills | 5 | 2026-06-17 | Delete .github/workflows/cla.yml; feat: organize skills into skills/ directory and a; feat: add skills.sh.json to customize skills.sh re |
-| prometheus-operator/prometheus-operator | 4 | 2026-06-09 | update controller-tools version; add misspell in GO files; fix typo |
+| iflytek/iFly-Skills | 5 | 2026-06-18 | feat: add skills.sh.json to customize skills.sh re; feat: add metadata.internal: true to all skills; feat: add openclaw metadata to all skills and claw |
+| prometheus-operator/prometheus-operator | 4 | 2026-06-18 | fix typo; add misspell in GO files; update controller-tools version |
 | iflytek/community | 3 | 2026-06-16 | feat: Add repository creation issue template and p; fix gomod directory; make toc-update |
 | prometheus/procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/controller-tools | 1 | 2026-06-18 | resolve misspell false positives and bump golangci |
@@ -296,4 +296,4 @@ CodeLinaro-mirror              █                    1%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

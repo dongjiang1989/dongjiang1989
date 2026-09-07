@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -75,9 +75,9 @@ kubernetes-sigs                █                    9%
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
 | 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow), prometheus-operator/prometheus-operator), kubernetes-sigs/prow） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), iflytek/community, prometheus-operator/prometheus-operator） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/hf-sync-action, kubeservice-stack/hf-sync-action), kubeservice-stack/repos-mirror-action)） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/prow, dongjiang1989/mirror-action） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, dongjiang1989/abc, iflytek/community)） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action)） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -111,7 +111,7 @@ kubernetes-sigs                █                    9%
 |------|------|--------|------|---------|---------|----------|
 | 1 | **kubeservice-stack/hf-sync-action** | 14 | 4 | 1 | 9 | PR #8: ci: fix pre dryrun fail; PR #6: Fix pre dryrun fail; PR #4: fix: harden sync workflow and snapshot erro |
 | 2 | **kubeservice-stack/repos-mirror-action** | 13 | 1 | 0 | 12 | PR #3: feat: add gitea and gitlab repos-mirror; Commit: Update README.md; Commit: Merge pull request #4 from kubeservice-sta |
-| 3 | **dongjiang1989/mirror-action** | 12 | 0 | 0 | 12 | Commit: Merge pull request #4 from kubeservice-sta; Commit: Update README.md; Commit: Update README.md |
+| 3 | **dongjiang1989/mirror-action** | 12 | 0 | 0 | 12 | Commit: Rename repos-mirror.yml to repos-mirror-gi; Commit: Update repos-mirror-gitee.yaml; Commit: Update README.md |
 | 4 | **actions-marketplace-validations/kubeservice-stack_hf-sync-action** | 9 | 0 | 0 | 9 | Commit: push; Commit: ci: fix pre dryrun fail (#8); Commit: Fix pre dryrun fail (#6) |
 | 5 | **prometheus-operator/prometheus-operator** | 7 | 3 | 0 | 4 | PR #8610: Fix: validate ProxyConfig in OAuth2 vali; PR #8596: refactor(crd): change RemoteReadConfig u; PR #8594: feat(ci): Add `nodurations` and `norefer |
 | 6 | **iflytek/community** | 7 | 3 | 0 | 4 | PR #11: CI: Add misspell spelling checker tool and; PR #9: ci: Add GitHub dependabot configuration; PR #8: chore(docs): Add bi-weekly community meetin |
@@ -189,11 +189,11 @@ kubernetes-sigs                █                    9%
 
 - **Commit**: 12 次
 - **主要工作**:
-  - Commit: Merge pull request #4 from kubeservice-stack/coderabbitai/ut
-  - Commit: Update README.md
-  - Commit: Update README.md
   - Commit: Rename repos-mirror.yml to repos-mirror-github.yml
   - Commit: Update repos-mirror-gitee.yaml
+  - Commit: Update README.md
+  - Commit: Merge pull request #3 from kubeservice-stack/add-gitea
+  - Commit: Merge branch 'master' into add-gitea
 
 ### actions-marketplace-validations/kubeservice-stack_hf-sync-action（9 次活动）
 
@@ -223,7 +223,7 @@ kubernetes-sigs                █                    9%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| dongjiang1989/mirror-action | 12 | 2026-05-29 | Merge pull request #4 from kubeservice-stack/coder; Update README.md; Update README.md |
+| dongjiang1989/mirror-action | 12 | 2026-05-29 | Rename repos-mirror.yml to repos-mirror-github.yml; Update repos-mirror-gitee.yaml; Update README.md |
 | kubeservice-stack/repos-mirror-action | 12 | 2026-05-29 | Update README.md; Merge pull request #4 from kubeservice-stack/coder; Update repos-mirror-gitee.yaml |
 | kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | add hs to ms aciton; Initial commit; Fix pre dryrun fail (#6) |
 | actions-marketplace-validations/kubeservice-stack_hf-sync-action | 9 | 2026-05-29 | push; ci: fix pre dryrun fail (#8); Fix pre dryrun fail (#6) |
@@ -240,7 +240,7 @@ kubernetes-sigs                █                    9%
 | 仓库 | 时间 | 说明 |
 |------|------|------|
 | [kubeservice-stack/hf-sync-action](https://github.com/kubeservice-stack/hf-sync-action) | 2026-05-29 | Realize bidirectional synchronization of models and datasets |
-| [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) | 2026-05-29 | [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Ran |
+| [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) | 2026-05-29 | [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Ran |
 | [linuxfoundation/insights](https://github.com/linuxfoundation/insights) | 2026-05-28 | Insights into the world's most critical open source software |
 | [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) | 2026-05-27 | Prow is a Kubernetes based CI/CD system developed to serve t |
 | [iflytek/community](https://github.com/iflytek/community) | 2026-05-27 | Welcome to iflytek AI opensource community |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*

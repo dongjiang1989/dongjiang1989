@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：75 | **Following**：52
+> **公开仓库数**：246 | **Followers**：78 | **Following**：53
 
 ---
 
@@ -88,17 +88,17 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-17（一）** | **7** | ███████ | 7 项活动（Apexmail/helm, Sanjaykumar2-creator/aispm-test-28, helm/helm)） |
-| **2025-03-18（二）** | **18** | ██████████████████ | 18 项活动（Apexmail/helm, ckyuto/volcano-upstream, handan-yxh/volcano-old-test） |
-| **2025-03-19（三）** | **7** | ███████ | 7 项活动（Apexmail/helm, Sanjaykumar2-creator/aispm-test-28, ljzljz520-eng/helm-31109） |
-| **2025-03-20（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada, ckyuto/volcano-upstream, handan-yxh/volcano-old-test） |
-| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（ckyuto/volcano-upstream, handan-yxh/volcano-old-test, volcano-sh/volcano） |
+| **2025-03-17（一）** | **7** | ███████ | 7 项活动（helm/helm), Sanjaykumar2-creator/aispm-test-28, hoppipolla-dev/helm） |
+| **2025-03-18（二）** | **18** | ██████████████████ | 18 项活动（handan-yxh/volcano-old-test, Sanjaykumar2-creator/aispm-test-28, GsonZhao/volcano） |
+| **2025-03-19（三）** | **7** | ███████ | 7 项活动（Sanjaykumar2-creator/aispm-test-28, hoppipolla-dev/helm, ljzljz520-eng/helm-31109） |
+| **2025-03-20（四）** | **8** | ████████ | 8 项活动（handan-yxh/volcano-old-test, karmada-io/karmada, karmada-io/karmada)） |
+| **2025-03-21（五）** | **14** | ██████████████ | 14 项活动（handan-yxh/volcano-old-test, GsonZhao/volcano, volcano-sh/volcano)） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/network-doctor, prometheus-operator/prometheus-operator), kubeservice-stack/docker-image） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/docker-image, kubeservice-stack/network-doctor） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **17** | █████████████████ | 17 项活动（Apexmail/helm, kubeservice-stack/echo, prometheus-community/helm-charts） |
-| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
+| **2025-03-26（三）** | **17** | █████████████████ | 17 项活动（cnloxiaoteng-ship-it/helm-charts, helm/helm, yunshenliu92/prometheus） |
+| **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
@@ -293,4 +293,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-08-31 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
