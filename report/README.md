@@ -2,57 +2,58 @@
 
 > 用户：[dongjiang1989](https://github.com/dongjiang1989)
 > 统计范围：2025-01-01 至今
-> 报告数量：44 份
+> 报告数量：45 份
 
 ---
 
 | 序号 | 统计周期 | 报告链接 | PR数 | Issue数 | Commit数 |
 |------|----------|----------|------|---------|---------|
-| 1 | 2026.08.31 - 2026.09.13 | [github_activity_report_2026.08.31_to_2026.09.13.md](./github_activity_report_2026.08.31_to_2026.09.13.md) | 17 | 18 | 20 |
-| 2 | 2026.08.17 - 2026.08.30 | [github_activity_report_2026.08.17_to_2026.08.30.md](./github_activity_report_2026.08.17_to_2026.08.30.md) | 26 | 0 | 28 |
-| 3 | 2026.08.03 - 2026.08.16 | [github_activity_report_2026.08.03_to_2026.08.16.md](./github_activity_report_2026.08.03_to_2026.08.16.md) | 31 | 8 | 38 |
-| 4 | 2026.07.20 - 2026.08.02 | [github_activity_report_2026.07.20_to_2026.08.02.md](./github_activity_report_2026.07.20_to_2026.08.02.md) | 39 | 5 | 47 |
-| 5 | 2026.07.06 - 2026.07.19 | [github_activity_report_2026.07.06_to_2026.07.19.md](./github_activity_report_2026.07.06_to_2026.07.19.md) | 35 | 2 | 315 |
-| 6 | 2026.06.22 - 2026.07.05 | [github_activity_report_2026.06.22_to_2026.07.05.md](./github_activity_report_2026.06.22_to_2026.07.05.md) | 38 | 15 | 43 |
-| 7 | 2026.06.08 - 2026.06.21 | [github_activity_report_2026.06.08_to_2026.06.21.md](./github_activity_report_2026.06.08_to_2026.06.21.md) | 35 | 15 | 61 |
-| 8 | 2026.05.25 - 2026.06.07 | [github_activity_report_2026.05.25_to_2026.06.07.md](./github_activity_report_2026.05.25_to_2026.06.07.md) | 15 | 2 | 53 |
-| 9 | 2026.05.11 - 2026.05.24 | [github_activity_report_2026.05.11_to_2026.05.24.md](./github_activity_report_2026.05.11_to_2026.05.24.md) | 23 | 0 | 40 |
-| 10 | 2026.04.27 - 2026.05.10 | [github_activity_report_2026.04.27_to_2026.05.10.md](./github_activity_report_2026.04.27_to_2026.05.10.md) | 24 | 3 | 38 |
-| 11 | 2026.04.13 - 2026.04.26 | [github_activity_report_2026.04.13_to_2026.04.26.md](./github_activity_report_2026.04.13_to_2026.04.26.md) | 21 | 2 | 49 |
-| 12 | 2026.03.30 - 2026.04.12 | [github_activity_report_2026.03.30_to_2026.04.12.md](./github_activity_report_2026.03.30_to_2026.04.12.md) | 9 | 0 | 21 |
-| 13 | 2026.03.16 - 2026.03.29 | [github_activity_report_2026.03.16_to_2026.03.29.md](./github_activity_report_2026.03.16_to_2026.03.29.md) | 18 | 0 | 13 |
-| 14 | 2026.03.02 - 2026.03.15 | [github_activity_report_2026.03.02_to_2026.03.15.md](./github_activity_report_2026.03.02_to_2026.03.15.md) | 6 | 0 | 10 |
-| 15 | 2026.02.16 - 2026.03.01 | [github_activity_report_2026.02.16_to_2026.03.01.md](./github_activity_report_2026.02.16_to_2026.03.01.md) | 2 | 0 | 1 |
-| 16 | 2026.02.02 - 2026.02.15 | [github_activity_report_2026.02.02_to_2026.02.15.md](./github_activity_report_2026.02.02_to_2026.02.15.md) | 8 | 1 | 8 |
-| 17 | 2026.01.19 - 2026.02.01 | [github_activity_report_2026.01.19_to_2026.02.01.md](./github_activity_report_2026.01.19_to_2026.02.01.md) | 9 | 1 | 21 |
-| 18 | 2026.01.05 - 2026.01.18 | [github_activity_report_2026.01.05_to_2026.01.18.md](./github_activity_report_2026.01.05_to_2026.01.18.md) | 8 | 1 | 12 |
-| 19 | 2025.12.22 - 2026.01.04 | [github_activity_report_2025.12.22_to_2026.01.04.md](./github_activity_report_2025.12.22_to_2026.01.04.md) | 5 | 1 | 11 |
-| 20 | 2025.12.08 - 2025.12.21 | [github_activity_report_2025.12.08_to_2025.12.21.md](./github_activity_report_2025.12.08_to_2025.12.21.md) | 15 | 1 | 21 |
-| 21 | 2025.11.24 - 2025.12.07 | [github_activity_report_2025.11.24_to_2025.12.07.md](./github_activity_report_2025.11.24_to_2025.12.07.md) | 7 | 5 | 21 |
-| 22 | 2025.11.10 - 2025.11.23 | [github_activity_report_2025.11.10_to_2025.11.23.md](./github_activity_report_2025.11.10_to_2025.11.23.md) | 10 | 4 | 16 |
-| 23 | 2025.10.27 - 2025.11.09 | [github_activity_report_2025.10.27_to_2025.11.09.md](./github_activity_report_2025.10.27_to_2025.11.09.md) | 8 | 0 | 8 |
-| 24 | 2025.10.13 - 2025.10.26 | [github_activity_report_2025.10.13_to_2025.10.26.md](./github_activity_report_2025.10.13_to_2025.10.26.md) | 5 | 0 | 5 |
-| 25 | 2025.09.29 - 2025.10.12 | [github_activity_report_2025.09.29_to_2025.10.12.md](./github_activity_report_2025.09.29_to_2025.10.12.md) | 2 | 0 | 3 |
-| 26 | 2025.09.15 - 2025.09.28 | [github_activity_report_2025.09.15_to_2025.09.28.md](./github_activity_report_2025.09.15_to_2025.09.28.md) | 12 | 1 | 16 |
-| 27 | 2025.09.01 - 2025.09.14 | [github_activity_report_2025.09.01_to_2025.09.14.md](./github_activity_report_2025.09.01_to_2025.09.14.md) | 10 | 0 | 12 |
-| 28 | 2025.08.18 - 2025.08.31 | [github_activity_report_2025.08.18_to_2025.08.31.md](./github_activity_report_2025.08.18_to_2025.08.31.md) | 6 | 2 | 15 |
-| 29 | 2025.08.04 - 2025.08.17 | [github_activity_report_2025.08.04_to_2025.08.17.md](./github_activity_report_2025.08.04_to_2025.08.17.md) | 6 | 1 | 8 |
-| 30 | 2025.07.21 - 2025.08.03 | [github_activity_report_2025.07.21_to_2025.08.03.md](./github_activity_report_2025.07.21_to_2025.08.03.md) | 16 | 0 | 27 |
-| 31 | 2025.07.07 - 2025.07.20 | [github_activity_report_2025.07.07_to_2025.07.20.md](./github_activity_report_2025.07.07_to_2025.07.20.md) | 5 | 1 | 10 |
-| 32 | 2025.06.23 - 2025.07.06 | [github_activity_report_2025.06.23_to_2025.07.06.md](./github_activity_report_2025.06.23_to_2025.07.06.md) | 10 | 0 | 9 |
-| 33 | 2025.06.09 - 2025.06.22 | [github_activity_report_2025.06.09_to_2025.06.22.md](./github_activity_report_2025.06.09_to_2025.06.22.md) | 3 | 1 | 11 |
-| 34 | 2025.05.26 - 2025.06.08 | [github_activity_report_2025.05.26_to_2025.06.08.md](./github_activity_report_2025.05.26_to_2025.06.08.md) | 3 | 0 | 5 |
-| 35 | 2025.05.12 - 2025.05.25 | [github_activity_report_2025.05.12_to_2025.05.25.md](./github_activity_report_2025.05.12_to_2025.05.25.md) | 14 | 1 | 36 |
-| 36 | 2025.04.28 - 2025.05.11 | [github_activity_report_2025.04.28_to_2025.05.11.md](./github_activity_report_2025.04.28_to_2025.05.11.md) | 16 | 1 | 43 |
-| 37 | 2025.04.14 - 2025.04.27 | [github_activity_report_2025.04.14_to_2025.04.27.md](./github_activity_report_2025.04.14_to_2025.04.27.md) | 23 | 0 | 31 |
-| 38 | 2025.03.31 - 2025.04.13 | [github_activity_report_2025.03.31_to_2025.04.13.md](./github_activity_report_2025.03.31_to_2025.04.13.md) | 14 | 1 | 23 |
-| 39 | 2025.03.17 - 2025.03.30 | [github_activity_report_2025.03.17_to_2025.03.30.md](./github_activity_report_2025.03.17_to_2025.03.30.md) | 13 | 4 | 72 |
-| 40 | 2025.03.03 - 2025.03.16 | [github_activity_report_2025.03.03_to_2025.03.16.md](./github_activity_report_2025.03.03_to_2025.03.16.md) | 13 | 4 | 28 |
-| 41 | 2025.02.17 - 2025.03.02 | [github_activity_report_2025.02.17_to_2025.03.02.md](./github_activity_report_2025.02.17_to_2025.03.02.md) | 13 | 3 | 21 |
-| 42 | 2025.02.03 - 2025.02.16 | [github_activity_report_2025.02.03_to_2025.02.16.md](./github_activity_report_2025.02.03_to_2025.02.16.md) | 11 | 1 | 6 |
-| 43 | 2025.01.20 - 2025.02.02 | [github_activity_report_2025.01.20_to_2025.02.02.md](./github_activity_report_2025.01.20_to_2025.02.02.md) | 9 | 2 | 15 |
-| 44 | 2025.01.06 - 2025.01.19 | [github_activity_report_2025.01.06_to_2025.01.19.md](./github_activity_report_2025.01.06_to_2025.01.19.md) | 13 | 1 | 52 |
+| 1 | 2026.09.14 - 2026.09.27 | [github_activity_report_2026.09.14_to_2026.09.27.md](./github_activity_report_2026.09.14_to_2026.09.27.md) | 0 | 0 | 0 |
+| 2 | 2026.08.31 - 2026.09.13 | [github_activity_report_2026.08.31_to_2026.09.13.md](./github_activity_report_2026.08.31_to_2026.09.13.md) | 34 | 19 | 39 |
+| 3 | 2026.08.17 - 2026.08.30 | [github_activity_report_2026.08.17_to_2026.08.30.md](./github_activity_report_2026.08.17_to_2026.08.30.md) | 26 | 0 | 28 |
+| 4 | 2026.08.03 - 2026.08.16 | [github_activity_report_2026.08.03_to_2026.08.16.md](./github_activity_report_2026.08.03_to_2026.08.16.md) | 31 | 8 | 41 |
+| 5 | 2026.07.20 - 2026.08.02 | [github_activity_report_2026.07.20_to_2026.08.02.md](./github_activity_report_2026.07.20_to_2026.08.02.md) | 39 | 5 | 48 |
+| 6 | 2026.07.06 - 2026.07.19 | [github_activity_report_2026.07.06_to_2026.07.19.md](./github_activity_report_2026.07.06_to_2026.07.19.md) | 35 | 2 | 321 |
+| 7 | 2026.06.22 - 2026.07.05 | [github_activity_report_2026.06.22_to_2026.07.05.md](./github_activity_report_2026.06.22_to_2026.07.05.md) | 38 | 15 | 43 |
+| 8 | 2026.06.08 - 2026.06.21 | [github_activity_report_2026.06.08_to_2026.06.21.md](./github_activity_report_2026.06.08_to_2026.06.21.md) | 35 | 15 | 62 |
+| 9 | 2026.05.25 - 2026.06.07 | [github_activity_report_2026.05.25_to_2026.06.07.md](./github_activity_report_2026.05.25_to_2026.06.07.md) | 15 | 2 | 53 |
+| 10 | 2026.05.11 - 2026.05.24 | [github_activity_report_2026.05.11_to_2026.05.24.md](./github_activity_report_2026.05.11_to_2026.05.24.md) | 23 | 0 | 41 |
+| 11 | 2026.04.27 - 2026.05.10 | [github_activity_report_2026.04.27_to_2026.05.10.md](./github_activity_report_2026.04.27_to_2026.05.10.md) | 24 | 3 | 38 |
+| 12 | 2026.04.13 - 2026.04.26 | [github_activity_report_2026.04.13_to_2026.04.26.md](./github_activity_report_2026.04.13_to_2026.04.26.md) | 21 | 2 | 58 |
+| 13 | 2026.03.30 - 2026.04.12 | [github_activity_report_2026.03.30_to_2026.04.12.md](./github_activity_report_2026.03.30_to_2026.04.12.md) | 9 | 0 | 21 |
+| 14 | 2026.03.16 - 2026.03.29 | [github_activity_report_2026.03.16_to_2026.03.29.md](./github_activity_report_2026.03.16_to_2026.03.29.md) | 18 | 0 | 13 |
+| 15 | 2026.03.02 - 2026.03.15 | [github_activity_report_2026.03.02_to_2026.03.15.md](./github_activity_report_2026.03.02_to_2026.03.15.md) | 6 | 0 | 10 |
+| 16 | 2026.02.16 - 2026.03.01 | [github_activity_report_2026.02.16_to_2026.03.01.md](./github_activity_report_2026.02.16_to_2026.03.01.md) | 2 | 0 | 1 |
+| 17 | 2026.02.02 - 2026.02.15 | [github_activity_report_2026.02.02_to_2026.02.15.md](./github_activity_report_2026.02.02_to_2026.02.15.md) | 8 | 1 | 8 |
+| 18 | 2026.01.19 - 2026.02.01 | [github_activity_report_2026.01.19_to_2026.02.01.md](./github_activity_report_2026.01.19_to_2026.02.01.md) | 9 | 1 | 21 |
+| 19 | 2026.01.05 - 2026.01.18 | [github_activity_report_2026.01.05_to_2026.01.18.md](./github_activity_report_2026.01.05_to_2026.01.18.md) | 8 | 1 | 12 |
+| 20 | 2025.12.22 - 2026.01.04 | [github_activity_report_2025.12.22_to_2026.01.04.md](./github_activity_report_2025.12.22_to_2026.01.04.md) | 5 | 1 | 11 |
+| 21 | 2025.12.08 - 2025.12.21 | [github_activity_report_2025.12.08_to_2025.12.21.md](./github_activity_report_2025.12.08_to_2025.12.21.md) | 15 | 1 | 22 |
+| 22 | 2025.11.24 - 2025.12.07 | [github_activity_report_2025.11.24_to_2025.12.07.md](./github_activity_report_2025.11.24_to_2025.12.07.md) | 7 | 5 | 21 |
+| 23 | 2025.11.10 - 2025.11.23 | [github_activity_report_2025.11.10_to_2025.11.23.md](./github_activity_report_2025.11.10_to_2025.11.23.md) | 10 | 4 | 17 |
+| 24 | 2025.10.27 - 2025.11.09 | [github_activity_report_2025.10.27_to_2025.11.09.md](./github_activity_report_2025.10.27_to_2025.11.09.md) | 8 | 0 | 8 |
+| 25 | 2025.10.13 - 2025.10.26 | [github_activity_report_2025.10.13_to_2025.10.26.md](./github_activity_report_2025.10.13_to_2025.10.26.md) | 5 | 0 | 5 |
+| 26 | 2025.09.29 - 2025.10.12 | [github_activity_report_2025.09.29_to_2025.10.12.md](./github_activity_report_2025.09.29_to_2025.10.12.md) | 2 | 0 | 3 |
+| 27 | 2025.09.15 - 2025.09.28 | [github_activity_report_2025.09.15_to_2025.09.28.md](./github_activity_report_2025.09.15_to_2025.09.28.md) | 12 | 1 | 16 |
+| 28 | 2025.09.01 - 2025.09.14 | [github_activity_report_2025.09.01_to_2025.09.14.md](./github_activity_report_2025.09.01_to_2025.09.14.md) | 10 | 0 | 12 |
+| 29 | 2025.08.18 - 2025.08.31 | [github_activity_report_2025.08.18_to_2025.08.31.md](./github_activity_report_2025.08.18_to_2025.08.31.md) | 6 | 2 | 15 |
+| 30 | 2025.08.04 - 2025.08.17 | [github_activity_report_2025.08.04_to_2025.08.17.md](./github_activity_report_2025.08.04_to_2025.08.17.md) | 6 | 1 | 9 |
+| 31 | 2025.07.21 - 2025.08.03 | [github_activity_report_2025.07.21_to_2025.08.03.md](./github_activity_report_2025.07.21_to_2025.08.03.md) | 16 | 0 | 27 |
+| 32 | 2025.07.07 - 2025.07.20 | [github_activity_report_2025.07.07_to_2025.07.20.md](./github_activity_report_2025.07.07_to_2025.07.20.md) | 5 | 1 | 10 |
+| 33 | 2025.06.23 - 2025.07.06 | [github_activity_report_2025.06.23_to_2025.07.06.md](./github_activity_report_2025.06.23_to_2025.07.06.md) | 10 | 0 | 9 |
+| 34 | 2025.06.09 - 2025.06.22 | [github_activity_report_2025.06.09_to_2025.06.22.md](./github_activity_report_2025.06.09_to_2025.06.22.md) | 3 | 1 | 11 |
+| 35 | 2025.05.26 - 2025.06.08 | [github_activity_report_2025.05.26_to_2025.06.08.md](./github_activity_report_2025.05.26_to_2025.06.08.md) | 3 | 0 | 5 |
+| 36 | 2025.05.12 - 2025.05.25 | [github_activity_report_2025.05.12_to_2025.05.25.md](./github_activity_report_2025.05.12_to_2025.05.25.md) | 14 | 1 | 36 |
+| 37 | 2025.04.28 - 2025.05.11 | [github_activity_report_2025.04.28_to_2025.05.11.md](./github_activity_report_2025.04.28_to_2025.05.11.md) | 16 | 1 | 43 |
+| 38 | 2025.04.14 - 2025.04.27 | [github_activity_report_2025.04.14_to_2025.04.27.md](./github_activity_report_2025.04.14_to_2025.04.27.md) | 23 | 0 | 31 |
+| 39 | 2025.03.31 - 2025.04.13 | [github_activity_report_2025.03.31_to_2025.04.13.md](./github_activity_report_2025.03.31_to_2025.04.13.md) | 14 | 1 | 23 |
+| 40 | 2025.03.17 - 2025.03.30 | [github_activity_report_2025.03.17_to_2025.03.30.md](./github_activity_report_2025.03.17_to_2025.03.30.md) | 13 | 4 | 72 |
+| 41 | 2025.03.03 - 2025.03.16 | [github_activity_report_2025.03.03_to_2025.03.16.md](./github_activity_report_2025.03.03_to_2025.03.16.md) | 13 | 4 | 28 |
+| 42 | 2025.02.17 - 2025.03.02 | [github_activity_report_2025.02.17_to_2025.03.02.md](./github_activity_report_2025.02.17_to_2025.03.02.md) | 13 | 3 | 21 |
+| 43 | 2025.02.03 - 2025.02.16 | [github_activity_report_2025.02.03_to_2025.02.16.md](./github_activity_report_2025.02.03_to_2025.02.16.md) | 11 | 1 | 6 |
+| 44 | 2025.01.20 - 2025.02.02 | [github_activity_report_2025.01.20_to_2025.02.02.md](./github_activity_report_2025.01.20_to_2025.02.02.md) | 9 | 2 | 15 |
+| 45 | 2025.01.06 - 2025.01.19 | [github_activity_report_2025.01.06_to_2025.01.19.md](./github_activity_report_2025.01.06_to_2025.01.19.md) | 13 | 1 | 52 |
 
 ---
 
-*索引更新时间：2026-09-07*
+*索引更新时间：2026-09-14*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -62,13 +62,13 @@ kubeservice-stack              █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 72 | **65** | -10% | 📉 -7 |
+| **总活动量** | 81 | **65** | -20% | 📉 -16 |
 | Pull Request | 21 | 24 | +14% | 📈 +3 |
 | Issue | 2 | 3 | +50% | 📈 +1 |
-| Commit | 49 | 38 | -22% | 📉 -11 |
+| Commit | 58 | 38 | -34% | 📉 -20 |
 
 - 🆕 **新增活跃仓库**：`Wionerlol/SkillHub`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `erauner12/kagent-detached`, `guanglechen/agenthub-enterprise`, `hnxtcloud/astronhub`, `ichichuang/skillhub-lobster-frontend`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `tellbom/skillhub`, `volcano-sh/volcano`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
-- ❌ **不再活跃的仓库**：`Gitlawb/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `luxi233/astron-agent`, `shrutiyam-glitch/agent-sandbox-trial`
+- ❌ **不再活跃的仓库**：`Gitlawb/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `luxi233/astron-agent`, `shrutiyam-glitch/agent-sandbox-trial`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -90,17 +90,17 @@ kubeservice-stack              █                    2%
 |------|--------|--------|----------|
 | 2026-04-27（一） | 2 | ██░░░ | PR #810 (prometheus/procfs); PR #1759 (kagent-dev/kagent) |
 | 2026-04-28（二） | 3 | ███░░ | PR #706 (kubernetes-sigs/agent-sandbox); PR #705 (kubernetes-sigs/agent-sandbox); PR #704 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-29（三）** | **5** | █████ | 5 项活动（kubeservice-stack/echo, prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api） |
+| **2026-04-29（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/echo, dongjiang1989/opensearch-api） |
 | 2026-04-30（四） | 0 | ░░░░░ | — |
 | 2026-05-01（五） | 0 | ░░░░░ | — |
 | 2026-05-02（六） | 0 | ░░░░░ | — |
 | 2026-05-03（日） | 0 | ░░░░░ | — |
 | 2026-05-04（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: add |
 | 2026-05-05（二） | 2 | ██░░░ | PR #8553 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2026-05-06（三）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), kagent-dev/kagent), kubernetes-sigs/kubebuilder)） |
-| **2026-05-07（四）** | **28** | ████████████████████ | 28 项活动（brandonfang06/skillhub, xiaoyaosanshi/skillhub, Wionerlol/SkillHub） |
-| **2026-05-08（五）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), kagent-dev/kagent), kagent-dev/kagent） |
-| **2026-05-09（六）** | **7** | ███████ | 7 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, kagent-dev/kagent） |
+| **2026-05-06（三）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator)） |
+| **2026-05-07（四）** | **28** | ████████████████████ | 28 项活动（iflytek/skillhub, zhangjun123400/skillhub, prometheus-operator/prometheus-operator） |
+| **2026-05-08（五）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), erauner12/kagent-detached, kagent-dev/kagent)） |
+| **2026-05-09（六）** | **7** | ███████ | 7 项活动（volcano-sh/volcano), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2026-05-10（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2026-05-07（28 次活动）为最高峰。
@@ -297,4 +297,4 @@ kubeservice-stack              █                    2%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -14,43 +14,46 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **17** 个 |
-| 涉及仓库数 | **25** 个 |
-| Pull Request 数 | **31** 个（已合并 27，开放 4） |
+| 涉及组织数 | **20** 个 |
+| 涉及仓库数 | **28** 个 |
+| Pull Request 数 | **31** 个（已合并 28，开放 3） |
 | Issue 数 | **8** 个 |
-| Commit 数 | **38** 次 |
-| 总活动量 | **77** |
+| Commit 数 | **41** 次 |
+| 总活动量 | **80** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        ████████             43%
-kubernetes-sigs                ████                 21%
-agentgateway                   ██                   12%
+iflytek                        ████████             41%
+kubernetes-sigs                ████                 20%
+agentgateway                   ██                   11%
 prometheus-operator            █                    4%
-e2bgateway                     █                    3%
-openclaw                       █                    3%
-sara-dev12                     █                    3%
+e2bgateway                     █                    2%
+openclaw                       █                    2%
+sara-dev12                     █                    2%
 prometheus                     █                    1%
 dongjiang1989                  █                    1%
 NousResearch                   █                    1%
 ruykin                         █                    1%
 a2aproject                     █                    1%
+opensecuritycompliance         █                    1%
 blissito                       █                    1%
+KayzenRoot                     █                    1%
 aaif-goose                     █                    1%
 colinpthomson1                 █                    1%
 kineticquant                   █                    1%
+codyno-dev-org                 █                    1%
 yatfa-ai                       █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（43%），涉及 4 个仓库，共 33 次活动。
-2. 共 **27** 个 PR 已合并，覆盖 13 个仓库。
-3. **4** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-08-13**（14 次活动），展现了高强度的工作节奏。
+1. **iflytek** 是最大贡献方向（41%），涉及 4 个仓库，共 33 次活动。
+2. 共 **28** 个 PR 已合并，覆盖 13 个仓库。
+3. **3** 个 PR 仍在开放/Review 中。
+4. 活跃高峰出现在 **2026-08-03**（16 次活动），展现了高强度的工作节奏。
 5. 创建了 **8** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 19 个仓库提交了 **38** 次代码。
+6. 在 22 个仓库提交了 **41** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -58,13 +61,13 @@ yatfa-ai                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 91 | **77** | -15% | 📉 -14 |
+| **总活动量** | 92 | **80** | -13% | 📉 -12 |
 | Pull Request | 39 | 31 | -21% | 📉 -8 |
 | Issue | 5 | 8 | +60% | 📈 +3 |
-| Commit | 47 | 38 | -19% | 📉 -9 |
+| Commit | 48 | 41 | -15% | 📉 -7 |
 
-- 🆕 **新增活跃仓库**：`aaif-goose/goose`, `agentgateway/community`, `blissito/ghosty-lite`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `prometheus/procfs`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `yatfa-ai/goose`
-- ❌ **不再活跃的仓库**：`Sanjaykumar2-creator/aispm-test-33`, `a2aproject/a2a-go`, `avelino/awesome-go`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/infra`, `grafana/mimir-prometheus`, `iflytek/astron-agent`, `iflytek/memflywheel`, `langfuse/langfuse`, `luxi233/astron-agent`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `prometheus/prometheus`, `ramitsurana/awesome-kubernetes`
+- 🆕 **新增活跃仓库**：`KayzenRoot/hive-code`, `aaif-goose/goose`, `agentgateway/community`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `prometheus/procfs`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `yatfa-ai/goose`
+- ❌ **不再活跃的仓库**：`Sanjaykumar2-creator/aispm-test-33`, `a2aproject/a2a-go`, `avelino/awesome-go`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/runtime`, `grafana/mimir-prometheus`, `iflytek/astron-agent`, `iflytek/memflywheel`, `langfuse/langfuse`, `luxi233/astron-agent`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `prometheus/prometheus`, `ramitsurana/awesome-kubernetes`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **iflytek**
 
 ---
@@ -73,10 +76,10 @@ yatfa-ai                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **77** | PR + Issue + Commit |
-| 📝 **Pull Request** | 31 | 已合并 27，开放 4 |
+| 📊 **总活动** | **80** | PR + Issue + Commit |
+| 📝 **Pull Request** | 31 | 已合并 28，开放 3 |
 | 📋 **Issue** | 8 | 创建 Issue |
-| 💻 **Commit** | 38 | 代码提交 |
+| 💻 **Commit** | 41 | 代码提交 |
 
 ---
 
@@ -84,22 +87,22 @@ yatfa-ai                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-03（一）** | **13** | █████████████ | 13 项活动（iflytek/website), kubernetes-sigs/agent-sandbox), ruykin/dogwatch） |
+| **2026-08-03（一）** | **16** | ████████████████ | 16 项活动（yatfa-ai/goose, agentgateway/agentgateway), iflytek/website） |
 | 2026-08-04（二） | 3 | ███░░ | PR #119319 (openclaw/openclaw); Issue #119294; prometheus-operator/prometheus-operator: lint go h |
-| 2026-08-05（三） | 4 | ████░ | 4 项活动（agentgateway/agentgateway, prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools)） |
+| 2026-08-05（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), agentgateway/agentgateway） |
 | 2026-08-06（四） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: lint: add goheader  |
-| **2026-08-07（五）** | **12** | ████████████ | 12 项活动（e2bgateway/e2bgateway), iflytek/.github, iflytek/dolphin-mcp-pilot)） |
+| **2026-08-07（五）** | **12** | ████████████ | 12 项活动（e2bgateway/e2bgateway), iflytek/dolphin-mcp-pilot, iflytek/dolphin-mcp-pilot)） |
 | 2026-08-08（六） | 0 | ░░░░░ | — |
 | 2026-08-09（日） | 0 | ░░░░░ | — |
-| **2026-08-10（一）** | **12** | ████████████ | 12 项活动（iflytek/website, iflytek/website), iflytek/dolphin-mcp-pilot)） |
-| **2026-08-11（二）** | **7** | ███████ | 7 项活动（agentgateway/website), iflytek/website), iflytek/dolphin-mcp-pilot） |
-| **2026-08-12（三）** | **5** | █████ | 5 项活动（agentgateway/website, iflytek/dolphin-mcp-pilot), sara-dev12/A2A） |
-| **2026-08-13（四）** | **14** | ██████████████ | 14 项活动（prometheus/procfs), kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
-| **2026-08-14（五）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
+| **2026-08-10（一）** | **12** | ████████████ | 12 项活动（iflytek/website, iflytek/dolphin-mcp-pilot, iflytek/dolphin-mcp-pilot)） |
+| **2026-08-11（二）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/dolphin-mcp-pilot, NousResearch/hermes-agent)） |
+| **2026-08-12（三）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/dolphin-mcp-pilot), sara-dev12/A2A） |
+| **2026-08-13（四）** | **14** | ██████████████ | 14 项活动（agentgateway/community, iflytek/community, dongjiang1989/community-agentgateway)） |
+| **2026-08-14（五）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
 | 2026-08-15（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: examples(pi-code-ag |
 | 2026-08-16（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-08-13（14 次活动）为最高峰。
+> **活跃高峰**：2026-08-03（16 次活动）为最高峰。
 
 ---
 
@@ -109,23 +112,26 @@ yatfa-ai                       █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 33 | 42.9% | iflytek/dolphin-mcp-pilot(22), iflytek/website(8), iflytek/community(2) | Issue, PR, Push |
-| **kubernetes-sigs** | 16 | 20.8% | kubernetes-sigs/agent-sandbox(13), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
-| agentgateway | 9 | 11.7% | agentgateway/agentgateway(4), agentgateway/website(3), agentgateway/community(2) | PR, Push |
-| prometheus-operator | 3 | 3.9% | prometheus-operator/prometheus-operator(3) | PR, Push |
-| e2bgateway | 2 | 2.6% | e2bgateway/e2bgateway(2) | PR, Push |
-| openclaw | 2 | 2.6% | openclaw/openclaw(2) | Issue, PR |
-| sara-dev12 | 2 | 2.6% | sara-dev12/goose(1), sara-dev12/A2A(1) | Push |
-| prometheus | 1 | 1.3% | prometheus/procfs(1) | PR |
-| dongjiang1989 | 1 | 1.3% | dongjiang1989/community-agentgateway(1) | PR |
-| NousResearch | 1 | 1.3% | NousResearch/hermes-agent(1) | PR |
-| ruykin | 1 | 1.3% | ruykin/dogwatch(1) | Push |
-| a2aproject | 1 | 1.3% | a2aproject/A2A(1) | Push |
-| blissito | 1 | 1.3% | blissito/ghosty-lite(1) | Push |
-| aaif-goose | 1 | 1.3% | aaif-goose/goose(1) | Push |
-| colinpthomson1 | 1 | 1.3% | colinpthomson1/Obelus(1) | Push |
-| kineticquant | 1 | 1.3% | kineticquant/achilles-harness(1) | Push |
-| yatfa-ai | 1 | 1.3% | yatfa-ai/goose(1) | Push |
+| **iflytek** | 33 | 41.2% | iflytek/dolphin-mcp-pilot(22), iflytek/website(8), iflytek/community(2) | Issue, PR, Push |
+| kubernetes-sigs | 16 | 20.0% | kubernetes-sigs/agent-sandbox(13), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
+| agentgateway | 9 | 11.2% | agentgateway/agentgateway(4), agentgateway/website(3), agentgateway/community(2) | PR, Push |
+| prometheus-operator | 3 | 3.8% | prometheus-operator/prometheus-operator(3) | PR, Push |
+| e2bgateway | 2 | 2.5% | e2bgateway/e2bgateway(2) | PR, Push |
+| openclaw | 2 | 2.5% | openclaw/openclaw(2) | Issue, PR |
+| sara-dev12 | 2 | 2.5% | sara-dev12/goose(1), sara-dev12/A2A(1) | Push |
+| prometheus | 1 | 1.2% | prometheus/procfs(1) | PR |
+| dongjiang1989 | 1 | 1.2% | dongjiang1989/community-agentgateway(1) | PR |
+| NousResearch | 1 | 1.2% | NousResearch/hermes-agent(1) | PR |
+| ruykin | 1 | 1.2% | ruykin/dogwatch(1) | Push |
+| a2aproject | 1 | 1.2% | a2aproject/A2A(1) | Push |
+| opensecuritycompliance | 1 | 1.2% | opensecuritycompliance/goose(1) | Push |
+| blissito | 1 | 1.2% | blissito/ghosty-lite(1) | Push |
+| KayzenRoot | 1 | 1.2% | KayzenRoot/hive-code(1) | Push |
+| aaif-goose | 1 | 1.2% | aaif-goose/goose(1) | Push |
+| colinpthomson1 | 1 | 1.2% | colinpthomson1/Obelus(1) | Push |
+| kineticquant | 1 | 1.2% | kineticquant/achilles-harness(1) | Push |
+| codyno-dev-org | 1 | 1.2% | codyno-dev-org/Codyno-Desktop(1) | Push |
+| yatfa-ai | 1 | 1.2% | yatfa-ai/goose(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -150,42 +156,42 @@ yatfa-ai                       █                    1%
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kubernetes-sigs/agent-sandbox | [#1378](https://github.com/kubernetes-sigs/agent-sandbox/pull/1378) | fix(controllers): pass correct pod error to computeSuspendedCondition | 🔒 已关闭 |
-| 2 | kubernetes-sigs/agent-sandbox | [#1373](https://github.com/kubernetes-sigs/agent-sandbox/pull/1373) | examples(pi-code-agent): add Pi coding agent sandbox example | ✅ 已合并 |
-| 3 | prometheus/procfs | [#860](https://github.com/prometheus/procfs/pull/860) | sysfs: add support for ACPI 4.0 power meters | ✅ 已合并 |
-| 4 | kubernetes-sigs/agent-sandbox | [#1372](https://github.com/kubernetes-sigs/agent-sandbox/pull/1372) | chore(site): add website pages for 18 examples missing site entries | ✅ 已合并 |
-| 5 | iflytek/community | [#21](https://github.com/iflytek/community/pull/21) | chore: Update copyright year in LICENSE file | ✅ 已合并 |
-| 6 | kubernetes-sigs/agent-sandbox | [#1368](https://github.com/kubernetes-sigs/agent-sandbox/pull/1368) | owners: add dongjiang1989 to examples/OWNERS  | ✅ 已合并 |
-| 7 | agentgateway/community | [#7](https://github.com/agentgateway/community/pull/7) | add dongjiang1989 to reviewers | ✅ 已合并 |
-| 8 | dongjiang1989/community-agentgateway | [#1](https://github.com/dongjiang1989/community-agentgateway/pull/1) | add dongjiang1989 to reviewers | ✅ 已合并 |
-| 9 | iflytek/dolphin-mcp-pilot | [#21](https://github.com/iflytek/dolphin-mcp-pilot/pull/21) | changes: Upgrade to MCP 2.0 with stateless protocol support | 🔒 已关闭 |
-| 10 | agentgateway/agentgateway | [#2983](https://github.com/agentgateway/agentgateway/pull/2983) | fix(a2a): correct interface URL rewriting when path rewrite policy is  | ✅ 已合并 |
-| 11 | agentgateway/website | [#883](https://github.com/agentgateway/website/pull/883) | Add iFLYTEK Journey Blog Post | ✅ 已合并 |
-| 12 | iflytek/website | [#83](https://github.com/iflytek/website/pull/83) | release: v0.5.0 | ✅ 已合并 |
-| 13 | NousResearch/hermes-agent | [#83557](https://github.com/NousResearch/hermes-agent/pull/83557) | fix(cron): multiplex delivery uses owning profile's bot token and adap | 🔒 已关闭 |
-| 14 | iflytek/dolphin-mcp-pilot | [#16](https://github.com/iflytek/dolphin-mcp-pilot/pull/16) | chore: release v0.3.0 | ✅ 已合并 |
-| 15 | iflytek/website | [#81](https://github.com/iflytek/website/pull/81) | feat(projects): add Dolphin MCP Pilot project and blog post | ✅ 已合并 |
-| 16 | iflytek/website | [#80](https://github.com/iflytek/website/pull/80) | fix(security): resolve 5 npm audit vulnerabilities | ✅ 已合并 |
-| 17 | iflytek/dolphin-mcp-pilot | [#15](https://github.com/iflytek/dolphin-mcp-pilot/pull/15) | test(e2e): add E2E integration tests with docker-compose | ✅ 已合并 |
-| 18 | iflytek/dolphin-mcp-pilot | [#14](https://github.com/iflytek/dolphin-mcp-pilot/pull/14) | docs: slim README to OSS essentials; extract detailed content to docs/ | ✅ 已合并 |
-| 19 | iflytek/dolphin-mcp-pilot | [#12](https://github.com/iflytek/dolphin-mcp-pilot/pull/12) | feat(compose): production-ready docker-compose.yml | ✅ 已合并 |
-| 20 | iflytek/dolphin-mcp-pilot | [#10](https://github.com/iflytek/dolphin-mcp-pilot/pull/10) | feat(ci): publish multi-arch Docker image to ghcr.io | ✅ 已合并 |
-| 21 | iflytek/dolphin-mcp-pilot | [#2](https://github.com/iflytek/dolphin-mcp-pilot/pull/2) | chore: add compliance files, dependabot, and fix ruff formatting | ✅ 已合并 |
-| 22 | e2bgateway/e2bgateway | [#15](https://github.com/e2bgateway/e2bgateway/pull/15) | fix: comprehensive adapter improvements - security, functionality, and | ✅ 已合并 |
-| 23 | agentgateway/agentgateway | [#2815](https://github.com/agentgateway/agentgateway/pull/2815) | chore(api): convert PolicyConditionType/Reason to string type aliases | ✅ 已合并 |
-| 24 | kubernetes-sigs/controller-runtime | [#3565](https://github.com/kubernetes-sigs/controller-runtime/pull/3565) | 🐛 Fix goroutine leaks in cache Start() methods | ✅ 已合并 |
-| 25 | kubernetes-sigs/agent-sandbox | [#1320](https://github.com/kubernetes-sigs/agent-sandbox/pull/1320) | chore(lint): add goheader and intrange linters | ✅ 已合并 |
-| 26 | prometheus-operator/prometheus-operator | [#8737](https://github.com/prometheus-operator/prometheus-operator/pull/8737) | feat: add goheader linter to enforce license header | ✅ 已合并 |
-| 27 | iflytek/website | [#71](https://github.com/iflytek/website/pull/71) | feat(events): add new hackathon event with bilingual descriptions | ✅ 已合并 |
+| 1 | kubernetes-sigs/agent-sandbox | [#1379](https://github.com/kubernetes-sigs/agent-sandbox/pull/1379) | fix(sandboxd): kill process group on context cancellation to prevent o | ✅ 已合并 |
+| 2 | kubernetes-sigs/agent-sandbox | [#1378](https://github.com/kubernetes-sigs/agent-sandbox/pull/1378) | fix(controllers): pass correct pod error to computeSuspendedCondition | 🔒 已关闭 |
+| 3 | kubernetes-sigs/agent-sandbox | [#1373](https://github.com/kubernetes-sigs/agent-sandbox/pull/1373) | examples(pi-code-agent): add Pi coding agent sandbox example | ✅ 已合并 |
+| 4 | prometheus/procfs | [#860](https://github.com/prometheus/procfs/pull/860) | sysfs: add support for ACPI 4.0 power meters | ✅ 已合并 |
+| 5 | kubernetes-sigs/agent-sandbox | [#1372](https://github.com/kubernetes-sigs/agent-sandbox/pull/1372) | chore(site): add website pages for 18 examples missing site entries | ✅ 已合并 |
+| 6 | iflytek/community | [#21](https://github.com/iflytek/community/pull/21) | chore: Update copyright year in LICENSE file | ✅ 已合并 |
+| 7 | kubernetes-sigs/agent-sandbox | [#1368](https://github.com/kubernetes-sigs/agent-sandbox/pull/1368) | owners: add dongjiang1989 to examples/OWNERS  | ✅ 已合并 |
+| 8 | agentgateway/community | [#7](https://github.com/agentgateway/community/pull/7) | add dongjiang1989 to reviewers | ✅ 已合并 |
+| 9 | dongjiang1989/community-agentgateway | [#1](https://github.com/dongjiang1989/community-agentgateway/pull/1) | add dongjiang1989 to reviewers | ✅ 已合并 |
+| 10 | iflytek/dolphin-mcp-pilot | [#21](https://github.com/iflytek/dolphin-mcp-pilot/pull/21) | changes: Upgrade to MCP 2.0 with stateless protocol support | 🔒 已关闭 |
+| 11 | agentgateway/agentgateway | [#2983](https://github.com/agentgateway/agentgateway/pull/2983) | fix(a2a): correct interface URL rewriting when path rewrite policy is  | ✅ 已合并 |
+| 12 | agentgateway/website | [#883](https://github.com/agentgateway/website/pull/883) | Add iFLYTEK Journey Blog Post | ✅ 已合并 |
+| 13 | iflytek/website | [#83](https://github.com/iflytek/website/pull/83) | release: v0.5.0 | ✅ 已合并 |
+| 14 | NousResearch/hermes-agent | [#83557](https://github.com/NousResearch/hermes-agent/pull/83557) | fix(cron): multiplex delivery uses owning profile's bot token and adap | 🔒 已关闭 |
+| 15 | iflytek/dolphin-mcp-pilot | [#16](https://github.com/iflytek/dolphin-mcp-pilot/pull/16) | chore: release v0.3.0 | ✅ 已合并 |
+| 16 | iflytek/website | [#81](https://github.com/iflytek/website/pull/81) | feat(projects): add Dolphin MCP Pilot project and blog post | ✅ 已合并 |
+| 17 | iflytek/website | [#80](https://github.com/iflytek/website/pull/80) | fix(security): resolve 5 npm audit vulnerabilities | ✅ 已合并 |
+| 18 | iflytek/dolphin-mcp-pilot | [#15](https://github.com/iflytek/dolphin-mcp-pilot/pull/15) | test(e2e): add E2E integration tests with docker-compose | ✅ 已合并 |
+| 19 | iflytek/dolphin-mcp-pilot | [#14](https://github.com/iflytek/dolphin-mcp-pilot/pull/14) | docs: slim README to OSS essentials; extract detailed content to docs/ | ✅ 已合并 |
+| 20 | iflytek/dolphin-mcp-pilot | [#12](https://github.com/iflytek/dolphin-mcp-pilot/pull/12) | feat(compose): production-ready docker-compose.yml | ✅ 已合并 |
+| 21 | iflytek/dolphin-mcp-pilot | [#10](https://github.com/iflytek/dolphin-mcp-pilot/pull/10) | feat(ci): publish multi-arch Docker image to ghcr.io | ✅ 已合并 |
+| 22 | iflytek/dolphin-mcp-pilot | [#2](https://github.com/iflytek/dolphin-mcp-pilot/pull/2) | chore: add compliance files, dependabot, and fix ruff formatting | ✅ 已合并 |
+| 23 | e2bgateway/e2bgateway | [#15](https://github.com/e2bgateway/e2bgateway/pull/15) | fix: comprehensive adapter improvements - security, functionality, and | ✅ 已合并 |
+| 24 | agentgateway/agentgateway | [#2815](https://github.com/agentgateway/agentgateway/pull/2815) | chore(api): convert PolicyConditionType/Reason to string type aliases | ✅ 已合并 |
+| 25 | kubernetes-sigs/controller-runtime | [#3565](https://github.com/kubernetes-sigs/controller-runtime/pull/3565) | 🐛 Fix goroutine leaks in cache Start() methods | ✅ 已合并 |
+| 26 | kubernetes-sigs/agent-sandbox | [#1320](https://github.com/kubernetes-sigs/agent-sandbox/pull/1320) | chore(lint): add goheader and intrange linters | ✅ 已合并 |
+| 27 | prometheus-operator/prometheus-operator | [#8737](https://github.com/prometheus-operator/prometheus-operator/pull/8737) | feat: add goheader linter to enforce license header | ✅ 已合并 |
+| 28 | iflytek/website | [#71](https://github.com/iflytek/website/pull/71) | feat(events): add new hackathon event with bilingual descriptions | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kubernetes-sigs/agent-sandbox | [#1379](https://github.com/kubernetes-sigs/agent-sandbox/pull/1379) | fix(sandboxd): kill process group on context cancellation to prevent o | 🔄 开放 |
-| 2 | kubernetes-sigs/controller-tools | [#1463](https://github.com/kubernetes-sigs/controller-tools/pull/1463) | ✨Support XValidation on type aliases to map/slice/pointer types | 🔄 开放 |
-| 3 | prometheus-operator/prometheus-operator | [#8742](https://github.com/prometheus-operator/prometheus-operator/pull/8742) | feat: add CEL validation for NodeSelector type | 🔄 开放 |
-| 4 | openclaw/openclaw | [#119319](https://github.com/openclaw/openclaw/pull/119319) | feat(mcp): migrate to MCP 2.0 split packages with 2026-07-28 stateless | 🔄 开放 |
+| 1 | kubernetes-sigs/controller-tools | [#1463](https://github.com/kubernetes-sigs/controller-tools/pull/1463) | ✨Support XValidation on type aliases to map/slice/pointer types | 🔄 开放 |
+| 2 | prometheus-operator/prometheus-operator | [#8742](https://github.com/prometheus-operator/prometheus-operator/pull/8742) | feat: add CEL validation for NodeSelector type | 🔄 开放 |
+| 3 | openclaw/openclaw | [#119319](https://github.com/openclaw/openclaw/pull/119319) | feat(mcp): migrate to MCP 2.0 split packages with 2026-07-28 stateless | 🔄 开放 |
 
 ---
 
@@ -274,12 +280,15 @@ yatfa-ai                       █                    1%
 | agentgateway/community | 1 | 2026-08-13 | add dongjiang1989 to reviewers |
 | ruykin/dogwatch | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | a2aproject/A2A | 1 | 2026-08-12 | docs(spec): fix grammar error in Metadata section  |
+| opensecuritycompliance/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | blissito/ghosty-lite | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | sara-dev12/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
+| KayzenRoot/hive-code | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | iflytek/.github | 1 | 2026-08-07 | Update README.md |
 | aaif-goose/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | colinpthomson1/Obelus | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | kineticquant/achilles-harness | 1 | 2026-08-03 | fall back to static model list only for non-models |
+| codyno-dev-org/Codyno-Desktop | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | prometheus-operator/prometheus-operator | 1 | 2026-08-04 | lint go header (#8737) |
 | iflytek/community | 1 | 2026-08-13 | Update copyright year in LICENSE file |
 | sara-dev12/A2A | 1 | 2026-08-12 | docs(spec): fix grammar error in Metadata section  |
@@ -293,7 +302,7 @@ yatfa-ai                       █                    1%
 | 仓库 | 时间 | 说明 |
 |------|------|------|
 | [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) | 2026-08-12 | Next Generation Agentic Proxy for AI Agents and MCP servers |
-| [iflytek/dolphin-mcp-pilot](https://github.com/iflytek/dolphin-mcp-pilot) | 2026-08-10 | Production-ready MCP server that lets AI agents build, sched |
+| [iflytek/dolphin-mcp-pilot](https://github.com/iflytek/dolphin-mcp-pilot) | 2026-08-10 | Production-ready MCP server for Apache DolphinScheduler (小海豚 |
 
 ---
 
@@ -303,4 +312,4 @@ yatfa-ai                       █                    1%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -14,32 +14,33 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **6** 个 |
-| 涉及仓库数 | **13** 个 |
+| 涉及组织数 | **7** 个 |
+| 涉及仓库数 | **14** 个 |
 | Pull Request 数 | **15** 个（已合并 14，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **21** 次 |
-| 总活动量 | **37** |
+| Commit 数 | **22** 次 |
+| 总活动量 | **38** |
 
 ### 🎯 工作重心分布
 
 ```
-kubeservice-stack              ████████             41%
-kubernetes-sigs                █████                30%
-prometheus-operator            ████                 22%
+kubeservice-stack              ███████              39%
+kubernetes-sigs                █████                29%
+prometheus-operator            ████                 21%
 iflytek                        █                    3%
 kumorion                       █                    3%
 dongjiang1989                  █                    3%
+anil7000                       █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **kubeservice-stack** 是最大贡献方向（41%），涉及 4 个仓库，共 15 次活动。
+1. **kubeservice-stack** 是最大贡献方向（39%），涉及 4 个仓库，共 15 次活动。
 2. 共 **14** 个 PR 已合并，覆盖 9 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-12-15**（11 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 11 个仓库提交了 **21** 次代码。
+6. 在 12 个仓库提交了 **22** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -47,12 +48,12 @@ dongjiang1989                  █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 33 | **37** | +12% | 📈 +4 |
+| **总活动量** | 33 | **38** | +15% | 📈 +5 |
 | Pull Request | 7 | 15 | +114% | 📈 +8 |
 | Issue | 5 | 1 | -80% | 📉 -4 |
-| Commit | 21 | 21 | 0% | ➡️ 持平 |
+| Commit | 21 | 22 | +5% | 📈 +1 |
 
-- 🆕 **新增活跃仓库**：`dongjiang1989/zookeeper-registry`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lua-resty-zookeeper`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
+- 🆕 **新增活跃仓库**：`anil7000/external-dns`, `dongjiang1989/zookeeper-registry`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lua-resty-zookeeper`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
 - ❌ **不再活跃的仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `kagent-dev/kagent`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **kubeservice-stack**
 
@@ -62,10 +63,10 @@ dongjiang1989                  █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **37** | PR + Issue + Commit |
+| 📊 **总活动** | **38** | PR + Issue + Commit |
 | 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 21 | 代码提交 |
+| 💻 **Commit** | 22 | 代码提交 |
 
 ---
 
@@ -76,17 +77,19 @@ dongjiang1989                  █                    3%
 | 2025-12-08（一） | 3 | ███░░ | PR #5258 (kubernetes-sigs/kubebuilder); PR #96 (kubeservice-stack/echo); kubeservice-stack/echo: Bump add addlicense check  |
 | 2025-12-09（二） | 2 | ██░░░ | Issue #709; kubernetes-sigs/kubebuilder: ✨ (go/v4): Upgrade go |
 | 2025-12-10（三） | 3 | ███░░ | PR #6011 (kubernetes-sigs/external-dns); PR #5265 (kubernetes-sigs/kubebuilder); kubernetes-sigs/kubebuilder: change sort to slices |
-| 2025-12-11（四） | 2 | ██░░░ | kumorion/external-dns: fix typo (#6011)
+| 2025-12-11（四） | 3 | ███░░ | kumorion/external-dns: fix typo (#6011)
 
 Signed-of; kubernetes-sigs/external-dns: fix typo (#6011)
 
-Si |
-| 2025-12-12（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+Si; anil7000/external-dns: fix typo (#6011)
+
+Signed-of |
+| 2025-12-12（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubernetes-sigs/kueue)） |
 | 2025-12-13（六） | 0 | ░░░░░ | — |
 | 2025-12-14（日） | 0 | ░░░░░ | — |
-| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, kubernetes-sigs/controller-tools)） |
+| **2025-12-15（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lua-resty-zookeeper, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
 | 2025-12-16（二） | 3 | ███░░ | PR #8182 (prometheus-operator/prometheus-operator); PR #8181 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update ki |
-| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/zookeeper-registry） |
+| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper） |
 | 2025-12-18（四） | 1 | █░░░░ | PR #8192 (prometheus-operator/prometheus-operator) |
 | 2025-12-19（五） | 3 | ███░░ | PR #1 (kubeservice-stack/lua-resty-zookeeper); kubeservice-stack/lua-resty-zookeeper: Merge pull ; kubeservice-stack/lua-resty-zookeeper: add lua lin |
 | 2025-12-20（六） | 0 | ░░░░░ | — |
@@ -102,12 +105,13 @@ Si |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubeservice-stack** | 15 | 40.5% | kubeservice-stack/lua-resty-zookeeper(8), kubeservice-stack/lxcfs-webhook(4), kubeservice-stack/echo(2) | PR, Push |
-| **kubernetes-sigs** | 11 | 29.7% | kubernetes-sigs/kubebuilder(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| **prometheus-operator** | 8 | 21.6% | prometheus-operator/prometheus-operator(8) | PR, Push |
-| iflytek | 1 | 2.7% | iflytek/astron-agent(1) | Issue |
-| kumorion | 1 | 2.7% | kumorion/external-dns(1) | Push |
-| dongjiang1989 | 1 | 2.7% | dongjiang1989/zookeeper-registry(1) | Push |
+| **kubeservice-stack** | 15 | 39.5% | kubeservice-stack/lua-resty-zookeeper(8), kubeservice-stack/lxcfs-webhook(4), kubeservice-stack/echo(2) | PR, Push |
+| **kubernetes-sigs** | 11 | 28.9% | kubernetes-sigs/kubebuilder(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| **prometheus-operator** | 8 | 21.1% | prometheus-operator/prometheus-operator(8) | PR, Push |
+| iflytek | 1 | 2.6% | iflytek/astron-agent(1) | Issue |
+| kumorion | 1 | 2.6% | kumorion/external-dns(1) | Push |
+| dongjiang1989 | 1 | 2.6% | dongjiang1989/zookeeper-registry(1) | Push |
+| anil7000 | 1 | 2.6% | anil7000/external-dns(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -232,6 +236,7 @@ Si |
 | kubernetes-sigs/controller-runtime | 1 | 2025-12-15 | update golangci-lint version |
 | kubeservice-stack/kubservice-charts | 1 | 2025-12-12 | Update README.md |
 | dongjiang1989/zookeeper-registry | 1 | 2025-12-17 | Create docker-image.yml |
+| anil7000/external-dns | 1 | 2025-12-11 | fix typo (#6011) |
 | kubeservice-stack/echo | 1 | 2025-12-08 | Bump add addlicense check in Makefile (#96) |
 
 ---
@@ -252,4 +257,4 @@ Si |
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

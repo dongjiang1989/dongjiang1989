@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -32,8 +32,8 @@ dongjiang1989                  █                    6%
 kgateway-dev                   █                    2%
 aaif-goose                     █                    2%
 kubeservice-stack              █                    2%
-hsuhinyu-sketch                █                    2%
 luxi233                        █                    2%
+ynyyzyrf                       █                    2%
 prometheus                     █                    1%
 CodeLinaro-mirror              █                    1%
 prometheus-operator            █                    1%
@@ -44,7 +44,7 @@ prometheus-operator            █                    1%
 1. **iflytek** 是最大贡献方向（54%），涉及 8 个仓库，共 52 次活动。
 2. 共 **37** 个 PR 已合并，覆盖 15 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-06-29**（24 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-06-29**（26 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 18 个仓库提交了 **43** 次代码。
 
@@ -54,13 +54,13 @@ prometheus-operator            █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 111 | **96** | -14% | 📉 -15 |
+| **总活动量** | 112 | **96** | -14% | 📉 -16 |
 | Pull Request | 35 | 38 | +9% | 📈 +3 |
 | Issue | 15 | 15 | 0% | ➡️ 持平 |
-| Commit | 61 | 43 | -30% | 📉 -18 |
+| Commit | 62 | 43 | -31% | 📉 -19 |
 
-- 🆕 **新增活跃仓库**：`NousResearch/hermes-agent`, `aaif-goose/goose`, `agentgateway/agentgateway`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `hsuhinyu-sketch/SecurityGateway`, `iflytek/.github`, `iflytek/astronclaw-tutorial`, `kgateway-dev/kgateway`, `kubernetes-sigs/agent-sandbox`, `kubeservice-stack/echo`, `luxi233/astron-agent`
-- ❌ **不再活跃的仓库**：`dongjiang1989/opensearch-api`, `iflytek/astron-rpa`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/prow`, `kubeservice-stack/modelx`
+- 🆕 **新增活跃仓库**：`NousResearch/hermes-agent`, `aaif-goose/goose`, `agentgateway/agentgateway`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `iflytek/.github`, `iflytek/astronclaw-tutorial`, `kgateway-dev/kgateway`, `kubernetes-sigs/agent-sandbox`, `kubeservice-stack/echo`, `luxi233/astron-agent`, `ynyyzyrf/astron`
+- ❌ **不再活跃的仓库**：`anil7000/external-dns`, `dongjiang1989/opensearch-api`, `iflytek/astron-rpa`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/prow`, `kubeservice-stack/modelx`
 - ✅ **工作重心稳定**：继续聚焦 **iflytek**
 
 ---
@@ -80,22 +80,22 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/iFly-Skills), iflytek/.github), iflytek/iFly-Skills） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/community, iflytek/.github), iflytek/iFly-Skills)） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/website), iflytek/iFly-Skills), iflytek/website） |
-| **2026-06-25（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/controller-tools, kubernetes-sigs/agent-sandbox)） |
-| 2026-06-26（五） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, NousResearch/hermes-agent), kubernetes-sigs/agent-sandbox)） |
-| 2026-06-27（六） | 4 | ████░ | 4 项活动（prometheus/procfs, iflytek/memflywheel, iflytek/memflywheel)） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/website, iflytek/iFly-Skills), iflytek/iFly-Skills） |
+| **2026-06-25（四）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools, kubernetes-sigs/agent-sandbox)） |
+| 2026-06-26（五） | 4 | ████░ | 4 项活动（NousResearch/hermes-agent), kubernetes-sigs/agent-sandbox), dongjiang1989/dongjiang1989） |
+| 2026-06-27（六） | 4 | ████░ | 4 项活动（iflytek/memflywheel, iflytek/memflywheel), prometheus/procfs） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **24** | ████████████████████ | 24 项活动（iflytek/memflywheel, kubeservice-stack/echo, iflytek/astron-agent） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/domux), iflytek/memflywheel, iflytek/website)） |
+| **2026-06-29（一）** | **26** | ████████████████████ | 26 项活动（iflytek/memflywheel), kubeservice-stack/echo, kubeservice-stack/echo)） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway), iflytek/website, iflytek/domux)） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway, iflytek/memflywheel, iflytek/website)） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website, iflytek/website), kgateway-dev/kgateway)） |
+| **2026-07-02（四）** | **9** | █████████ | 9 项活动（agentgateway/agentgateway), iflytek/memflywheel), iflytek/website） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（agentgateway/agentgateway), kgateway-dev/kgateway), iflytek/website） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
-| 2026-07-05（日） | 4 | ████░ | 4 项活动（agentgateway/agentgateway), dongjiang1989/agentgateway), kgateway-dev/kgateway)） |
+| 2026-07-05（日） | 4 | ████░ | 4 项活动（dongjiang1989/kgateway), agentgateway/agentgateway), kgateway-dev/kgateway)） |
 
-> **活跃高峰**：2026-06-29（24 次活动）为最高峰。
+> **活跃高峰**：2026-06-29（26 次活动）为最高峰。
 
 ---
 
@@ -113,8 +113,8 @@ prometheus-operator            █                    1%
 | kgateway-dev | 2 | 2.1% | kgateway-dev/kgateway(2) | PR |
 | aaif-goose | 2 | 2.1% | aaif-goose/goose(2) | PR |
 | kubeservice-stack | 2 | 2.1% | kubeservice-stack/echo(2) | PR, Push |
-| hsuhinyu-sketch | 2 | 2.1% | hsuhinyu-sketch/SecurityGateway(2) | Push |
 | luxi233 | 2 | 2.1% | luxi233/astron-agent(2) | Push |
+| ynyyzyrf | 2 | 2.1% | ynyyzyrf/astron(2) | Push |
 | prometheus | 1 | 1.0% | prometheus/procfs(1) | Push |
 | CodeLinaro-mirror | 1 | 1.0% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
 | prometheus-operator | 1 | 1.0% | prometheus-operator/prometheus-operator(1) | Push |
@@ -130,7 +130,7 @@ prometheus-operator            █                    1%
 | 5 | **iflytek/domux** | 8 | 1 | 5 | 2 | PR #9: docs: Add community standards and fix docum; Issue #10: Feature: Create demo environments for u; Issue #8: Feature: Support Ollama GGUF models |
 | 6 | **agentgateway/agentgateway** | 7 | 5 | 0 | 2 | PR #2434: fix: resolve kubebuilder mismatched comm; PR #2419: test: add goleak to detect goroutine lea; PR #2399: feat(metrics): add agentgateway_controll |
 | 7 | **NousResearch/hermes-agent** | 6 | 5 | 1 | 0 | PR #53104: fix(cron): respect job's profile when e; PR #51244: fix(skills-hub): include owner in ClawH; PR #51178: fix(cli): dispatch /indicator to set th |
-| 8 | **dongjiang1989/dongjiang1989** | 4 | 0 | 0 | 4 | Commit: Update README.md; Commit: feat: add biweekly report GitHub Action wo; Commit: add biweekly report |
+| 8 | **dongjiang1989/dongjiang1989** | 4 | 0 | 0 | 4 | Commit: Update README.md; Commit: Update README.md; Commit: feat: add biweekly report GitHub Action wo |
 | 9 | **iflytek/astron-agent** | 3 | 1 | 0 | 2 | PR #1459: Potential fix for code scanning alert no; Commit: fix: address Gemini review comments for SS; Commit: Potential fix for code scanning alert no.  |
 | 10 | **kgateway-dev/kgateway** | 2 | 2 | 0 | 0 | PR #14356: refactor: replace sort package with sli; PR #14355: chore(lint): bump golangci-lint to v2.1 |
 
@@ -282,12 +282,12 @@ prometheus-operator            █                    1%
 | kubernetes-sigs/agent-sandbox | 5 | 2026-06-29 | update deps (#1036); Add example for playwright sandbox (#1043); remove deprecated package (#1037) |
 | iflytek/memflywheel | 5 | 2026-06-30 | docs: add CODE_OF_CONDUCT, update CONTRIBUTING and; add ESLint, Prettier, and improve GitHub Actions C; chore: add GitHub Actions workflows, dependabot, a |
 | iflytek/website | 4 | 2026-06-24 | add two conferences and one adopter (#40); feat: add Hugging Face and ModelScope links to foo;  feat: add MemFlywheel & Domux projects, tech blog |
-| dongjiang1989/dongjiang1989 | 4 | 2026-07-06 | Update README.md; feat: add biweekly report GitHub Action workflow; add biweekly report |
+| dongjiang1989/dongjiang1989 | 4 | 2026-07-06 | Update README.md; Update README.md; feat: add biweekly report GitHub Action workflow |
 | agentgateway/agentgateway | 2 | 2026-07-02 | refactor: replace sort.Slice with slices.Sort for ; chore: Bump `kube-api-linter` version and fix `gos |
 | iflytek/domux | 2 | 2026-06-30 | docs: Add community standards and fix documentatio; Initial release of Domux based on Gemma-4-E2B-it |
 | iflytek/astron-agent | 2 | 2026-06-29 | fix: address Gemini review comments for SSRF fix; Potential fix for code scanning alert no. 54: Serv |
-| hsuhinyu-sketch/SecurityGateway | 2 | 2026-07-02 | refactor: replace sort.Slice with slices.Sort for ; chore: Bump `kube-api-linter` version and fix `gos |
 | luxi233/astron-agent | 2 | 2026-06-29 | fix: address Gemini review comments for SSRF fix; Potential fix for code scanning alert no. 54: Serv |
+| ynyyzyrf/astron | 2 | 2026-06-29 | fix: address Gemini review comments for SSRF fix; Potential fix for code scanning alert no. 54: Serv |
 | prometheus/procfs | 1 | 2026-06-27 | feat: support  sysfs.Mdraids with Intel VROC (#777 |
 | kubernetes-sigs/controller-tools | 1 | 2026-06-25 | 🌱 Add tests to improve coverage for IntOrStringWit |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-06-27 | feat: support  sysfs.Mdraids with Intel VROC (#777 |
@@ -316,4 +316,4 @@ prometheus-operator            █                    1%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

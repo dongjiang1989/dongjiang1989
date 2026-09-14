@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -14,12 +14,13 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **8** 个 |
-| 涉及仓库数 | **19** 个 |
+| 涉及组织数 | **9** 个 |
+| 涉及仓库数 | **20** 个 |
 | Pull Request 数 | **35** 个（已合并 33，开放 2） |
 | Issue 数 | **15** 个 |
-| Commit 数 | **61** 次 |
-| 总活动量 | **111** |
+| Commit 数 | **62** 次 |
+| 活动事件数 | **1** 次 |
+| 总活动量 | **112** |
 
 ### 🎯 工作重心分布
 
@@ -32,6 +33,7 @@ kagent-dev                     █                    2%
 kubeservice-stack              █                    1%
 prometheus                     █                    1%
 CodeLinaro-mirror              █                    1%
+anil7000                       █                    1%
 ```
 
 ### 💡 核心总结
@@ -41,7 +43,7 @@ CodeLinaro-mirror              █                    1%
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-15**（30 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 13 个仓库提交了 **61** 次代码。
+6. 在 14 个仓库提交了 **62** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -49,12 +51,12 @@ CodeLinaro-mirror              █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 70 | **111** | +59% | 📈 +41 |
+| **总活动量** | 70 | **112** | +60% | 📈 +42 |
 | Pull Request | 15 | 35 | +133% | 📈 +20 |
 | Issue | 2 | 15 | +650% | 📈 +13 |
-| Commit | 53 | 61 | +15% | 📈 +8 |
+| Commit | 53 | 62 | +17% | 📈 +9 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memflywheel`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `anil7000/external-dns`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memflywheel`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
 - ❌ **不再活跃的仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kueue`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **iflytek**
 
@@ -64,10 +66,11 @@ CodeLinaro-mirror              █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **111** | PR + Issue + Commit |
+| 📊 **总活动** | **112** | PR + Issue + Commit |
 | 📝 **Pull Request** | 35 | 已合并 33，开放 2 |
 | 📋 **Issue** | 15 | 创建 Issue |
-| 💻 **Commit** | 61 | 代码提交 |
+| 💻 **Commit** | 62 | 代码提交 |
+| 📌 **DiscussionEvent** | 1 | DiscussionEvent |
 
 ---
 
@@ -76,16 +79,16 @@ CodeLinaro-mirror              █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/external-dns), kagent-dev/kagent), prometheus-operator/prometheus-operator） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), iflytek/community, iflytek/community)） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/external-dns), dongjiang1989/opensearch-api, dongjiang1989/opensearch-api)） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community), iflytek/community, dongjiang1989/opensearch-api） |
 | **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
-| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
+| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
-| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel, iflytek/website), iflytek/domux） |
-| **2026-06-17（三）** | **18** | ██████████████████ | 18 项活动（iflytek/website), iflytek/iFly-Skills), kubernetes-sigs/external-dns） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
+| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/website, iflytek/domux, iflytek/community） |
+| **2026-06-17（三）** | **19** | ███████████████████ | 19 项活动（iflytek/website, iflytek/iFly-Skills), iflytek/iFly-Skills） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools)） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
@@ -100,14 +103,15 @@ CodeLinaro-mirror              █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 76 | 68.5% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
-| dongjiang1989 | 12 | 10.8% | dongjiang1989/opensearch-api(12) | PR, Push |
-| prometheus-operator | 9 | 8.1% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| kubernetes-sigs | 9 | 8.1% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
+| **iflytek** | 76 | 67.9% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
+| dongjiang1989 | 12 | 10.7% | dongjiang1989/opensearch-api(12) | PR, Push |
+| prometheus-operator | 9 | 8.0% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| kubernetes-sigs | 9 | 8.0% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
 | kagent-dev | 2 | 1.8% | kagent-dev/kagent(2) | Issue, PR |
 | kubeservice-stack | 1 | 0.9% | kubeservice-stack/modelx(1) | PR |
 | prometheus | 1 | 0.9% | prometheus/procfs(1) | Push |
 | CodeLinaro-mirror | 1 | 0.9% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
+| anil7000 | 1 | 0.9% | anil7000/external-dns(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -190,7 +194,7 @@ CodeLinaro-mirror              █                    1%
 | 9 | iflytek/astron-agent | [#1420](https://github.com/iflytek/astron-agent/issues/1420) | Need keep CI Pass | ✅ 已关闭 |
 | 10 | kagent-dev/kagent | [#2026](https://github.com/kagent-dev/kagent/issues/2026) | Enable more KAL linters | ✅ 已关闭 |
 | 11 | iflytek/astron-rpa | [#805](https://github.com/iflytek/astron-rpa/issues/805) | Are you using Astron RPA? | 🟢 开放 |
-| 12 | iflytek/skillhub | [#528](https://github.com/iflytek/skillhub/issues/528) | Are you using SkillHub? | 🟢 开放 |
+| 12 | iflytek/skillhub | [#528](https://github.com/iflytek/skillhub/issues/528) | Are you using SkillHub? | ✅ 已关闭 |
 | 13 | iflytek/astron-agent | [#1405](https://github.com/iflytek/astron-agent/issues/1405) | Are you using Astron agent? | 🟢 开放 |
 | 14 | iflytek/website | [#29](https://github.com/iflytek/website/issues/29) | docs: Welcome to add contributor guide for blog posts, projects and ne | 🟢 开放 |
 | 15 | iflytek/website | [#13](https://github.com/iflytek/website/issues/13) | Implement i18n multi-language support for the website | ✅ 已关闭 |
@@ -275,6 +279,7 @@ CodeLinaro-mirror              █                    1%
 | kubernetes-sigs/kubebuilder | 1 | 2026-06-19 | ⚠️ (autoupdate/v1-alpha): Remove GitHub Models int |
 | kubernetes-sigs/controller-runtime | 1 | 2026-06-20 | update golangci-linter to v2.12.2 |
 | iflytek/domux | 1 | 2026-06-16 | Initial commit |
+| anil7000/external-dns | 1 | 2026-06-17 | fix(coredns): write PTR records without random pre |
 | iflytek/memflywheel | 1 | 2026-06-16 | Initial commit |
 
 ---
@@ -296,4 +301,4 @@ CodeLinaro-mirror              █                    1%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

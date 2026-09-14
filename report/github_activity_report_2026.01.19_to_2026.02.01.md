@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -16,7 +16,7 @@
 |------|------|
 | 涉及组织数 | **10** 个 |
 | 涉及仓库数 | **10** 个 |
-| Pull Request 数 | **9** 个（已合并 8，开放 1） |
+| Pull Request 数 | **9** 个（已合并 9，开放 0） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **21** 次 |
 | 总活动量 | **31** |
@@ -39,11 +39,10 @@ dongjiang1989                  █                    3%
 ### 💡 核心总结
 
 1. **Project-HAMi** 是最大贡献方向（32%），涉及 1 个仓库，共 10 次活动。
-2. 共 **8** 个 PR 已合并，覆盖 4 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-01-19**（7 次活动），展现了高强度的工作节奏。
-5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 8 个仓库提交了 **21** 次代码。
+2. 共 **9** 个 PR 已合并，覆盖 5 个仓库。
+3. 活跃高峰出现在 **2026-01-19**（7 次活动），展现了高强度的工作节奏。
+4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 8 个仓库提交了 **21** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -67,7 +66,7 @@ dongjiang1989                  █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **31** | PR + Issue + Commit |
-| 📝 **Pull Request** | 9 | 已合并 8，开放 1 |
+| 📝 **Pull Request** | 9 | 已合并 9，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 21 | 代码提交 |
 
@@ -77,18 +76,18 @@ dongjiang1989                  █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-01-19（一）** | **7** | ███████ | 7 项活动（Project-HAMi/HAMi, aniketpati1121/HAMi, Annie-Summer/HAMi-test） |
+| **2026-01-19（一）** | **7** | ███████ | 7 项活动（Annie-Summer/HAMi-test, Project-HAMi/HAMi), Dzkmobw/HAMi） |
 | 2026-01-20（二） | 0 | ░░░░░ | — |
 | 2026-01-21（三） | 2 | ██░░░ | PR #1614 (Project-HAMi/HAMi); PR #1613 (Project-HAMi/HAMi) |
-| **2026-01-22（四）** | **5** | █████ | 5 项活动（Project-HAMi/HAMi, aniketpati1121/HAMi, Annie-Summer/HAMi-test） |
+| **2026-01-22（四）** | **5** | █████ | 5 项活动（Annie-Summer/HAMi-test, Dzkmobw/HAMi, Project-HAMi/HAMi） |
 | 2026-01-23（五） | 2 | ██░░░ | PR #1365 (virtual-kubelet/virtual-kubelet); virtual-kubelet/virtual-kubelet: add modernize che |
 | 2026-01-24（六） | 0 | ░░░░░ | — |
 | 2026-01-25（日） | 0 | ░░░░░ | — |
 | 2026-01-26（一） | 0 | ░░░░░ | — |
-| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/scheduler-plugins), kubeservice-stack/echo, kubeservice-stack/echo)） |
-| 2026-01-28（三） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, Annie-Summer/HAMi-test, lsj-x/HAMi） |
+| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo, kubeservice-stack/echo), kubernetes/test-infra)） |
+| 2026-01-28（三） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, lsj-x/HAMi, aniketpati1121/HAMi） |
 | 2026-01-29（四） | 2 | ██░░░ | PR #1633 (Project-HAMi/HAMi); Issue #1634 |
-| 2026-01-30（五） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, Annie-Summer/HAMi-test, lsj-x/HAMi） |
+| 2026-01-30（五） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, lsj-x/HAMi, aniketpati1121/HAMi） |
 | 2026-01-31（六） | 0 | ░░░░░ | — |
 | 2026-02-01（日） | 0 | ░░░░░ | — |
 
@@ -138,18 +137,17 @@ dongjiang1989                  █                    3%
 |---|------|----|------|------|
 | 1 | Project-HAMi/HAMi | [#1633](https://github.com/Project-HAMi/HAMi/pull/1633) | feat: add serviceMonitor for device plugin | ✅ 已合并 |
 | 2 | kubernetes/test-infra | [#36318](https://github.com/kubernetes/test-infra/pull/36318) | config/jobs: Update go to 1.25 in scheduler-plugins | 🔒 已关闭 |
-| 3 | kubeservice-stack/echo | [#102](https://github.com/kubeservice-stack/echo/pull/102) | feat: Add Swagger index.html for gin debug/test mode | ✅ 已合并 |
-| 4 | virtual-kubelet/virtual-kubelet | [#1365](https://github.com/virtual-kubelet/virtual-kubelet/pull/1365) | chore: Bump golangci-lint and enable modernize check | ✅ 已合并 |
-| 5 | Project-HAMi/HAMi | [#1614](https://github.com/Project-HAMi/HAMi/pull/1614) | feat: add promtheus serviceMonitor in helm-charts | ✅ 已合并 |
-| 6 | Project-HAMi/HAMi | [#1613](https://github.com/Project-HAMi/HAMi/pull/1613) | feat: add vGPUmonitor --metrics-bind-address flag  | ✅ 已合并 |
-| 7 | Project-HAMi/HAMi | [#1600](https://github.com/Project-HAMi/HAMi/pull/1600) | feat: add promtheus podMonitor in helm-charts | 🔒 已关闭 |
-| 8 | Project-HAMi/HAMi | [#1599](https://github.com/Project-HAMi/HAMi/pull/1599) | feat: add vGPUmonitor --metrics-bind-address flag | 🔒 已关闭 |
+| 3 | kubernetes-sigs/scheduler-plugins | [#946](https://github.com/kubernetes-sigs/scheduler-plugins/pull/946) | Upgrade controller-runtime from v0.22.3 to v0.23.1 | 🔒 已关闭 |
+| 4 | kubeservice-stack/echo | [#102](https://github.com/kubeservice-stack/echo/pull/102) | feat: Add Swagger index.html for gin debug/test mode | ✅ 已合并 |
+| 5 | virtual-kubelet/virtual-kubelet | [#1365](https://github.com/virtual-kubelet/virtual-kubelet/pull/1365) | chore: Bump golangci-lint and enable modernize check | ✅ 已合并 |
+| 6 | Project-HAMi/HAMi | [#1614](https://github.com/Project-HAMi/HAMi/pull/1614) | feat: add promtheus serviceMonitor in helm-charts | ✅ 已合并 |
+| 7 | Project-HAMi/HAMi | [#1613](https://github.com/Project-HAMi/HAMi/pull/1613) | feat: add vGPUmonitor --metrics-bind-address flag  | ✅ 已合并 |
+| 8 | Project-HAMi/HAMi | [#1600](https://github.com/Project-HAMi/HAMi/pull/1600) | feat: add promtheus podMonitor in helm-charts | 🔒 已关闭 |
+| 9 | Project-HAMi/HAMi | [#1599](https://github.com/Project-HAMi/HAMi/pull/1599) | feat: add vGPUmonitor --metrics-bind-address flag | 🔒 已关闭 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | kubernetes-sigs/scheduler-plugins | [#946](https://github.com/kubernetes-sigs/scheduler-plugins/pull/946) | Upgrade controller-runtime from v0.22.3 to v0.23.1 | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -242,4 +240,4 @@ dongjiang1989                  █                    3%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

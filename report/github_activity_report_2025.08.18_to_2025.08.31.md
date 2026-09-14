@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -49,13 +49,13 @@ jimmidyson                     █                    4%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 15 | **23** | +53% | 📈 +8 |
+| **总活动量** | 16 | **23** | +44% | 📈 +7 |
 | Pull Request | 6 | 6 | 0% | ➡️ 持平 |
 | Issue | 1 | 2 | +100% | 📈 +1 |
-| Commit | 8 | 15 | +88% | 📈 +7 |
+| Commit | 9 | 15 | +67% | 📈 +6 |
 
 - 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
-- ❌ **不再活跃的仓库**：`cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
+- ❌ **不再活跃的仓库**：`anil7000/external-dns`, `cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **dongjiang1989**
 
 ---
@@ -77,15 +77,15 @@ jimmidyson                     █                    4%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| **2025-08-26（二）** | **6** | ██████ | 6 项活动（bytebase/clabot-config, bytebase/bytebase), weedgit/bytebase） |
+| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, bytebase/bytebase), bytebase/clabot-config)） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| **2025-08-28（四）** | **5** | █████ | 5 项活动（jimmidyson/kcp-cluster-api, prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api） |
+| **2025-08-28（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/cluster-api), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -233,4 +233,4 @@ jimmidyson                     █                    4%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*

@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：246 | **Followers**：78 | **Following**：53
+> **公开仓库数**：249 | **Followers**：81 | **Following**：56
 
 ---
 
@@ -47,13 +47,13 @@ kubernetes-sigs                █                    9%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 63 | **70** | +11% | 📈 +7 |
+| **总活动量** | 64 | **70** | +9% | 📈 +6 |
 | Pull Request | 23 | 15 | -35% | 📉 -8 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 40 | 53 | +32% | 📈 +13 |
+| Commit | 41 | 53 | +29% | 📈 +12 |
 
 - 🆕 **新增活跃仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `hnxtcloud/astronhub`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `tellbom/skillhub`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `hnxtcloud/astronhub`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `tellbom/skillhub`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `ynyyzyrf/astron`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubeservice-stack**
 
 ---
@@ -74,10 +74,10 @@ kubernetes-sigs                █                    9%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-05-25（一） | 2 | ██░░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs  |
-| 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/prow, dongjiang1989/mirror-action） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, dongjiang1989/abc, iflytek/community)） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action)） |
+| 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（iflytek/community, prometheus-operator/prometheus-operator, dongjiang1989/mirror-action） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（iflytek/community, prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action), kubeservice-stack/hf-sync-action） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -110,7 +110,7 @@ kubernetes-sigs                █                    9%
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **kubeservice-stack/hf-sync-action** | 14 | 4 | 1 | 9 | PR #8: ci: fix pre dryrun fail; PR #6: Fix pre dryrun fail; PR #4: fix: harden sync workflow and snapshot erro |
-| 2 | **kubeservice-stack/repos-mirror-action** | 13 | 1 | 0 | 12 | PR #3: feat: add gitea and gitlab repos-mirror; Commit: Update README.md; Commit: Merge pull request #4 from kubeservice-sta |
+| 2 | **kubeservice-stack/repos-mirror-action** | 13 | 1 | 0 | 12 | PR #3: feat: add gitea and gitlab repos-mirror; Commit: Update repos-mirror-gitee.yaml; Commit: Update README.md |
 | 3 | **dongjiang1989/mirror-action** | 12 | 0 | 0 | 12 | Commit: Rename repos-mirror.yml to repos-mirror-gi; Commit: Update repos-mirror-gitee.yaml; Commit: Update README.md |
 | 4 | **actions-marketplace-validations/kubeservice-stack_hf-sync-action** | 9 | 0 | 0 | 9 | Commit: push; Commit: ci: fix pre dryrun fail (#8); Commit: Fix pre dryrun fail (#6) |
 | 5 | **prometheus-operator/prometheus-operator** | 7 | 3 | 0 | 4 | PR #8610: Fix: validate ProxyConfig in OAuth2 vali; PR #8596: refactor(crd): change RemoteReadConfig u; PR #8594: feat(ci): Add `nodurations` and `norefer |
@@ -180,10 +180,10 @@ kubernetes-sigs                █                    9%
 - **Commit**: 12 次
 - **主要工作**:
   - PR #3: feat: add gitea and gitlab repos-mirror
-  - Commit: Update README.md
-  - Commit: Merge pull request #4 from kubeservice-stack/coderabbitai/ut
   - Commit: Update repos-mirror-gitee.yaml
-  - Commit: Rename repos-mirror.yml to repos-mirror-github.yml
+  - Commit: Update README.md
+  - Commit: Merge pull request #3 from kubeservice-stack/add-gitea
+  - Commit: Merge branch 'master' into add-gitea
 
 ### dongjiang1989/mirror-action（12 次活动）
 
@@ -224,7 +224,7 @@ kubernetes-sigs                █                    9%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | dongjiang1989/mirror-action | 12 | 2026-05-29 | Rename repos-mirror.yml to repos-mirror-github.yml; Update repos-mirror-gitee.yaml; Update README.md |
-| kubeservice-stack/repos-mirror-action | 12 | 2026-05-29 | Update README.md; Merge pull request #4 from kubeservice-stack/coder; Update repos-mirror-gitee.yaml |
+| kubeservice-stack/repos-mirror-action | 12 | 2026-05-27 | Update repos-mirror-gitee.yaml; Update README.md; Merge pull request #3 from kubeservice-stack/add-g |
 | kubeservice-stack/hf-sync-action | 9 | 2026-05-29 | add hs to ms aciton; Initial commit; Fix pre dryrun fail (#6) |
 | actions-marketplace-validations/kubeservice-stack_hf-sync-action | 9 | 2026-05-29 | push; ci: fix pre dryrun fail (#8); Fix pre dryrun fail (#6) |
 | prometheus-operator/prometheus-operator | 4 | 2026-05-27 | update .golangci-kal.yml; changet url string to URL type (#8596); refactor(crd): refactoring `resource.Quantity` val |
@@ -258,4 +258,4 @@ kubernetes-sigs                █                    9%
 
 ---
 
-*报告生成时间：2026-09-07 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*
