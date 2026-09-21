@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：249 | **Followers**：81 | **Following**：56
+> **公开仓库数**：254 | **Followers**：82 | **Following**：51
 
 ---
 
@@ -89,18 +89,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/descheduler, kubernetes-sigs/descheduler), kubernetes-sigs/controller-tools)） |
+| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), kubernetes-sigs/descheduler） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools)） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（rajendra-k10200/prometheus, elouafi-abderrahmane-2002/prometheus, kubeservice-stack/echo） |
-| 2025-05-07（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, bwplotka/mdox)） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), kubeservice-stack/common） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/echo, kubeservice-stack/common） |
+| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（SINDEKARHAS/Prometheus, aimultiple-benchmark/prometheus-bench-gre-2, aimultiple-benchmark/prometheus-bench-cr-2） |
+| 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
+| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/common, prometheus-operator/prometheus-operator)） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/common), kubeservice-stack/echo） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -293,4 +293,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*

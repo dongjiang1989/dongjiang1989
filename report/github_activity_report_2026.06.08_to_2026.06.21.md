@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：249 | **Followers**：81 | **Following**：56
+> **公开仓库数**：254 | **Followers**：82 | **Following**：51
 
 ---
 
@@ -19,7 +19,6 @@
 | Pull Request 数 | **35** 个（已合并 33，开放 2） |
 | Issue 数 | **15** 个 |
 | Commit 数 | **62** 次 |
-| 活动事件数 | **1** 次 |
 | 总活动量 | **112** |
 
 ### 🎯 工作重心分布
@@ -70,7 +69,6 @@ anil7000                       █                    1%
 | 📝 **Pull Request** | 35 | 已合并 33，开放 2 |
 | 📋 **Issue** | 15 | 创建 Issue |
 | 💻 **Commit** | 62 | 代码提交 |
-| 📌 **DiscussionEvent** | 1 | DiscussionEvent |
 
 ---
 
@@ -79,16 +77,16 @@ anil7000                       █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/external-dns), dongjiang1989/opensearch-api, dongjiang1989/opensearch-api)） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（iflytek/community), iflytek/community, dongjiang1989/opensearch-api） |
-| **2026-06-11（四）** | **8** | ████████ | 8 项活动（iflytek/website, kubernetes-sigs/prow)） |
-| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website, iflytek/website)） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api, iflytek/community, iflytek/community)） |
+| **2026-06-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/prow), iflytek/website） |
+| **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
-| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website, iflytek/website)） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/website, iflytek/domux, iflytek/community） |
-| **2026-06-17（三）** | **19** | ███████████████████ | 19 项活动（iflytek/website, iflytek/iFly-Skills), iflytek/iFly-Skills） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（iflytek/iFly-Skills), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools)） |
+| **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), iflytek/community), iflytek/community） |
+| **2026-06-17（三）** | **19** | ███████████████████ | 19 项活动（iflytek/iFly-Skills), kubernetes-sigs/external-dns, anil7000/external-dns） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/kubebuilder), iflytek/iFly-Skills)） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
 | 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
@@ -301,4 +299,4 @@ anil7000                       █                    1%
 
 ---
 
-*报告生成时间：2026-09-14 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
