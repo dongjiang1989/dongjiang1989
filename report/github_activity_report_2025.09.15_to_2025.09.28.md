@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,34 +14,35 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **9** 个 |
-| 涉及仓库数 | **11** 个 |
+| 涉及组织数 | **10** 个 |
+| 涉及仓库数 | **12** 个 |
 | Pull Request 数 | **12** 个（已合并 12，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **16** 次 |
-| 总活动量 | **29** |
+| Commit 数 | **17** 次 |
+| 总活动量 | **30** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ██████               34%
-kubeservice-stack              █████                28%
+prometheus-operator            ██████               33%
+kubeservice-stack              █████                27%
 kubernetes-sigs                ██                   10%
 etcd-io                        █                    7%
 apecloud                       █                    7%
 ambaxter                       █                    3%
 SoujanyaPonnapalli             █                    3%
+chromium-full-mirror           █                    3%
 sg-evals                       █                    3%
 sunyaojing                     █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（34%），涉及 1 个仓库，共 10 次活动。
+1. **prometheus-operator** 是最大贡献方向（33%），涉及 1 个仓库，共 10 次活动。
 2. 共 **12** 个 PR 已合并，覆盖 7 个仓库。
 3. 活跃高峰出现在 **2025-09-23**（10 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 10 个仓库提交了 **16** 次代码。
+5. 在 11 个仓库提交了 **17** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -49,12 +50,12 @@ sunyaojing                     █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 22 | **29** | +32% | 📈 +7 |
+| **总活动量** | 22 | **30** | +36% | 📈 +8 |
 | Pull Request | 10 | 12 | +20% | 📈 +2 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 12 | 16 | +33% | 📈 +4 |
+| Commit | 12 | 17 | +42% | 📈 +5 |
 
-- 🆕 **新增活跃仓库**：`SoujanyaPonnapalli/Metronome`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `etcd-io/etcd`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
+- 🆕 **新增活跃仓库**：`SoujanyaPonnapalli/Metronome`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `chromium-full-mirror/external_github.com_coreos_etcd`, `etcd-io/etcd`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
 - ❌ **不再活跃的仓库**：`bwplotka/mdox`, `bytebase/bytebase`, `kagent-dev/kagent`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
@@ -64,10 +65,10 @@ sunyaojing                     █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **29** | PR + Issue + Commit |
+| 📊 **总活动** | **30** | PR + Issue + Commit |
 | 📝 **Pull Request** | 12 | 已合并 12，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 16 | 代码提交 |
+| 💻 **Commit** | 17 | 代码提交 |
 
 ---
 
@@ -78,13 +79,13 @@ sunyaojing                     █                    3%
 | 2025-09-15（一） | 1 | █░░░░ | PR #2024 (apecloud/kubeblocks-addons) |
 | 2025-09-16（二） | 0 | ░░░░░ | — |
 | 2025-09-17（三） | 1 | █░░░░ | apecloud/kubeblocks-addons: feat: Add support etcd |
-| **2025-09-18（四）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, sg-evals/etcd--d89978e8） |
+| **2025-09-18（四）** | **10** | ██████████ | 10 项活动（ambaxter/etcd, SoujanyaPonnapalli/Metronome, etcd-io/etcd） |
 | 2025-09-19（五） | 0 | ░░░░░ | — |
 | 2025-09-20（六） | 0 | ░░░░░ | — |
 | 2025-09-21（日） | 0 | ░░░░░ | — |
 | 2025-09-22（一） | 0 | ░░░░░ | — |
-| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator） |
-| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
+| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（kubeservice-stack/kubservice-charts), prometheus-operator/prometheus-operator), kubeservice-stack/lxcfs-webhook)） |
+| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-tools)） |
 | 2025-09-25（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-09-26（五） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: ch |
 | 2025-09-27（六） | 0 | ░░░░░ | — |
@@ -100,15 +101,16 @@ sunyaojing                     █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 10 | 34.5% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| **kubeservice-stack** | 8 | 27.6% | kubeservice-stack/kubservice-charts(4), kubeservice-stack/lxcfs-webhook(4) | Issue, PR, Push |
-| kubernetes-sigs | 3 | 10.3% | kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | PR, Push |
-| etcd-io | 2 | 6.9% | etcd-io/etcd(2) | PR, Push |
-| apecloud | 2 | 6.9% | apecloud/kubeblocks-addons(2) | PR, Push |
-| ambaxter | 1 | 3.4% | ambaxter/etcd(1) | Push |
-| SoujanyaPonnapalli | 1 | 3.4% | SoujanyaPonnapalli/Metronome(1) | Push |
-| sg-evals | 1 | 3.4% | sg-evals/etcd--d89978e8(1) | Push |
-| sunyaojing | 1 | 3.4% | sunyaojing/etcd(1) | Push |
+| **prometheus-operator** | 10 | 33.3% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| **kubeservice-stack** | 8 | 26.7% | kubeservice-stack/kubservice-charts(4), kubeservice-stack/lxcfs-webhook(4) | Issue, PR, Push |
+| kubernetes-sigs | 3 | 10.0% | kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | PR, Push |
+| etcd-io | 2 | 6.7% | etcd-io/etcd(2) | PR, Push |
+| apecloud | 2 | 6.7% | apecloud/kubeblocks-addons(2) | PR, Push |
+| ambaxter | 1 | 3.3% | ambaxter/etcd(1) | Push |
+| SoujanyaPonnapalli | 1 | 3.3% | SoujanyaPonnapalli/Metronome(1) | Push |
+| chromium-full-mirror | 1 | 3.3% | chromium-full-mirror/external_github.com_coreos_etcd(1) | Push |
+| sg-evals | 1 | 3.3% | sg-evals/etcd--d89978e8(1) | Push |
+| sunyaojing | 1 | 3.3% | sunyaojing/etcd(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -123,7 +125,7 @@ sunyaojing                     █                    3%
 | 7 | **kubernetes-sigs/controller-runtime** | 1 | 1 | 0 | 0 | PR #3323: 🌱chore: Update golangci-lint version to  |
 | 8 | **ambaxter/etcd** | 1 | 0 | 0 | 1 | Commit: Update ca-csr.json |
 | 9 | **SoujanyaPonnapalli/Metronome** | 1 | 0 | 0 | 1 | Commit: Update ca-csr.json |
-| 10 | **sg-evals/etcd--d89978e8** | 1 | 0 | 0 | 1 | Commit: Update ca-csr.json |
+| 10 | **chromium-full-mirror/external_github.com_coreos_etcd** | 1 | 0 | 0 | 1 | Commit: Update ca-csr.json |
 
 ---
 
@@ -224,6 +226,7 @@ sunyaojing                     █                    3%
 | SoujanyaPonnapalli/Metronome | 1 | 2025-09-18 | Update ca-csr.json |
 | kubernetes-sigs/controller-tools | 1 | 2025-09-24 | update golangci-lint to v2.5.0 |
 | apecloud/kubeblocks-addons | 1 | 2025-09-17 | feat: Add support etcd podAntiAffinity (#2024) |
+| chromium-full-mirror/external_github.com_coreos_etcd | 1 | 2025-09-18 | Update ca-csr.json |
 | etcd-io/etcd | 1 | 2025-09-18 | Update ca-csr.json |
 | sg-evals/etcd--d89978e8 | 1 | 2025-09-18 | Update ca-csr.json |
 | sunyaojing/etcd | 1 | 2025-09-18 | Update ca-csr.json |
@@ -246,4 +249,4 @@ sunyaojing                     █                    3%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

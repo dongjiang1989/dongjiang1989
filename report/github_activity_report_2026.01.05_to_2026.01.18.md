@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,22 +14,23 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **11** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **12** 个 |
 | Pull Request 数 | **8** 个（已合并 8，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **12** 次 |
-| 总活动量 | **21** |
+| Commit 数 | **13** 次 |
+| 总活动量 | **22** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████                 24%
+prometheus-operator            ████                 23%
 Project-HAMi                   ██                   14%
 kubeservice-stack              ██                   14%
 dongjiang1989                  ██                   14%
-grafana                        █                    10%
+grafana                        █                    9%
 prometheus                     █                    5%
+honeyvig                       █                    5%
 Dzkmobw                        █                    5%
 lsj-x                          █                    5%
 aniketpati1121                 █                    5%
@@ -38,11 +39,11 @@ Annie-Summer                   █                    5%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（24%），涉及 2 个仓库，共 5 次活动。
+1. **prometheus-operator** 是最大贡献方向（23%），涉及 2 个仓库，共 5 次活动。
 2. 共 **8** 个 PR 已合并，覆盖 6 个仓库。
 3. 活跃高峰出现在 **2026-01-15**（6 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 8 个仓库提交了 **12** 次代码。
+5. 在 9 个仓库提交了 **13** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,12 +51,12 @@ Annie-Summer                   █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 17 | **21** | +24% | 📈 +4 |
+| **总活动量** | 17 | **22** | +29% | 📈 +5 |
 | Pull Request | 5 | 8 | +60% | 📈 +3 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 11 | 12 | +9% | 📈 +1 |
+| Commit | 11 | 13 | +18% | 📈 +2 |
 
-- 🆕 **新增活跃仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `kubeservice-stack/lxcfs-webhook`, `lsj-x/HAMi`, `prometheus-operator/website`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `honeyvig/HAMi`, `kubeservice-stack/lxcfs-webhook`, `lsj-x/HAMi`, `prometheus-operator/website`, `prometheus/procfs`
 - ❌ **不再活跃的仓库**：`apecloud/kubeblocks-addons`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/lua-resty-zookeeper`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **prometheus-operator**
 
@@ -65,10 +66,10 @@ Annie-Summer                   █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **21** | PR + Issue + Commit |
+| 📊 **总活动** | **22** | PR + Issue + Commit |
 | 📝 **Pull Request** | 8 | 已合并 8，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 12 | 代码提交 |
+| 💻 **Commit** | 13 | 代码提交 |
 
 ---
 
@@ -78,15 +79,15 @@ Annie-Summer                   █                    5%
 |------|--------|--------|----------|
 | 2026-01-05（一） | 0 | ░░░░░ | — |
 | 2026-01-06（二） | 0 | ░░░░░ | — |
-| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), grafana/grafana)） |
+| 2026-01-07（三） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook, grafana/grafana)） |
 | 2026-01-08（四） | 1 | █░░░░ | kubeservice-stack/lxcfs-webhook: Update release.ya |
 | 2026-01-09（五） | 3 | ███░░ | PR #777 (prometheus/procfs); PR #8264 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: Up |
 | 2026-01-10（六） | 0 | ░░░░░ | — |
 | 2026-01-11（日） | 0 | ░░░░░ | — |
 | 2026-01-12（一） | 1 | █░░░░ | PR #1578 (Project-HAMi/HAMi) |
 | 2026-01-13（二） | 1 | █░░░░ | PR #1581 (Project-HAMi/HAMi) |
-| **2026-01-14（三）** | **5** | █████ | 5 项活动（aniketpati1121/HAMi, Dzkmobw/HAMi, Project-HAMi/HAMi） |
-| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989, prometheus-operator/website)） |
+| **2026-01-14（三）** | **6** | ██████ | 6 项活动（Annie-Summer/HAMi-test, honeyvig/HAMi, Dzkmobw/HAMi） |
+| **2026-01-15（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, prometheus-operator/website)） |
 | 2026-01-16（五） | 0 | ░░░░░ | — |
 | 2026-01-17（六） | 0 | ░░░░░ | — |
 | 2026-01-18（日） | 0 | ░░░░░ | — |
@@ -101,16 +102,17 @@ Annie-Summer                   █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 5 | 23.8% | prometheus-operator/prometheus-operator(4), prometheus-operator/website(1) | PR, Push |
-| Project-HAMi | 3 | 14.3% | Project-HAMi/HAMi(3) | PR, Push |
-| kubeservice-stack | 3 | 14.3% | kubeservice-stack/lxcfs-webhook(3) | PR, Push |
-| dongjiang1989 | 3 | 14.3% | dongjiang1989/dongjiang1989(3) | Push |
-| grafana | 2 | 9.5% | grafana/grafana(2) | Issue, PR |
-| prometheus | 1 | 4.8% | prometheus/procfs(1) | PR |
-| Dzkmobw | 1 | 4.8% | Dzkmobw/HAMi(1) | Push |
-| lsj-x | 1 | 4.8% | lsj-x/HAMi(1) | Push |
-| aniketpati1121 | 1 | 4.8% | aniketpati1121/HAMi(1) | Push |
-| Annie-Summer | 1 | 4.8% | Annie-Summer/HAMi-test(1) | Push |
+| **prometheus-operator** | 5 | 22.7% | prometheus-operator/prometheus-operator(4), prometheus-operator/website(1) | PR, Push |
+| Project-HAMi | 3 | 13.6% | Project-HAMi/HAMi(3) | PR, Push |
+| kubeservice-stack | 3 | 13.6% | kubeservice-stack/lxcfs-webhook(3) | PR, Push |
+| dongjiang1989 | 3 | 13.6% | dongjiang1989/dongjiang1989(3) | Push |
+| grafana | 2 | 9.1% | grafana/grafana(2) | Issue, PR |
+| prometheus | 1 | 4.5% | prometheus/procfs(1) | PR |
+| honeyvig | 1 | 4.5% | honeyvig/HAMi(1) | Push |
+| Dzkmobw | 1 | 4.5% | Dzkmobw/HAMi(1) | Push |
+| lsj-x | 1 | 4.5% | lsj-x/HAMi(1) | Push |
+| aniketpati1121 | 1 | 4.5% | aniketpati1121/HAMi(1) | Push |
+| Annie-Summer | 1 | 4.5% | Annie-Summer/HAMi-test(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -123,9 +125,9 @@ Annie-Summer                   █                    5%
 | 5 | **grafana/grafana** | 2 | 1 | 1 | 0 | PR #115918: Alerting: Fix zero value eval in alert; Issue #115917: Alerting: No Alert for result value |
 | 6 | **prometheus-operator/website** | 1 | 1 | 0 | 0 | PR #151: chore: bump operator version to v0.88.0 |
 | 7 | **prometheus/procfs** | 1 | 1 | 0 | 0 | PR #777: feat: support  sysfs.Mdraids with Intel V |
-| 8 | **Dzkmobw/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
-| 9 | **lsj-x/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
-| 10 | **aniketpati1121/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
+| 8 | **honeyvig/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
+| 9 | **Dzkmobw/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
+| 10 | **lsj-x/HAMi** | 1 | 0 | 0 | 1 | Commit: Add modernize check (#1578) |
 
 ---
 
@@ -214,6 +216,7 @@ Annie-Summer                   █                    5%
 | dongjiang1989/dongjiang1989 | 3 | 2026-01-15 | Update README.md; Update README.md; Update README.md |
 | kubeservice-stack/lxcfs-webhook | 2 | 2026-01-08 | Update release.yaml; update golang v1.25 (#59) |
 | prometheus-operator/prometheus-operator | 2 | 2026-01-15 | fix hugo server bug (#8282); chore: Update golangci-lint version to v2.8.0 (#82 |
+| honeyvig/HAMi | 1 | 2026-01-14 | Add modernize check (#1578) |
 | Dzkmobw/HAMi | 1 | 2026-01-14 | Add modernize check (#1578) |
 | Project-HAMi/HAMi | 1 | 2026-01-14 | Add modernize check (#1578) |
 | lsj-x/HAMi | 1 | 2026-01-14 | Add modernize check (#1578) |
@@ -239,4 +242,4 @@ Annie-Summer                   █                    5%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

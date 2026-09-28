@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -63,13 +63,13 @@ punith1006                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 54 | **60** | +11% | 📈 +6 |
+| **总活动量** | 55 | **60** | +9% | 📈 +5 |
 | Pull Request | 23 | 16 | -30% | 📉 -7 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 31 | 43 | +39% | 📈 +12 |
+| Commit | 32 | 43 | +34% | 📈 +11 |
 
 - 🆕 **新增活跃仓库**：`0xkato/prometheus-fork`, `Project-HAMi/HAMi-core`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bwplotka/mdox`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `punith1006/LaaS-Hami`, `pvlltvk/proxeus-prometheus`, `raihanakbr/descheduler-custom`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `web38444/descheduler`
-- ❌ **不再活跃的仓库**：`Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `ljzljz520-eng/helm-31109`, `oliver006/redis_exporter`, `volcano-sh/volcano`, `yankeguo/helm-enhanced`
+- ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `ljzljz520-eng/helm-31109`, `oliver006/redis_exporter`, `volcano-sh/volcano`, `yankeguo/helm-enhanced`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **kubernetes-sigs**
 
 ---
@@ -89,18 +89,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), kubernetes-sigs/descheduler） |
+| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（Project-HAMi/HAMi-core, Project-HAMi/HAMi-core), prometheus-operator/prometheus-operator)） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), web38444/descheduler, kubernetes-sigs/controller-tools)） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（SINDEKARHAS/Prometheus, aimultiple-benchmark/prometheus-bench-gre-2, aimultiple-benchmark/prometheus-bench-cr-2） |
+| **2025-05-06（二）** | **25** | ████████████████████ | 25 项活动（prometheus/prometheus, mlops143681/prometheus, elouafi-abderrahmane-2002/prometheus） |
 | 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/common, prometheus-operator/prometheus-operator)） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/common), kubeservice-stack/echo） |
+| 2025-05-08（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/echo, kubeservice-stack/common） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -293,4 +293,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

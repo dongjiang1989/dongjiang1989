@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,17 +14,17 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **9** 个 |
-| 涉及仓库数 | **20** 个 |
+| 涉及组织数 | **10** 个 |
+| 涉及仓库数 | **21** 个 |
 | Pull Request 数 | **35** 个（已合并 33，开放 2） |
 | Issue 数 | **15** 个 |
-| Commit 数 | **62** 次 |
-| 总活动量 | **112** |
+| Commit 数 | **63** 次 |
+| 总活动量 | **113** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        █████████████        68%
+iflytek                        █████████████        67%
 dongjiang1989                  ██                   11%
 prometheus-operator            █                    8%
 kubernetes-sigs                █                    8%
@@ -32,17 +32,18 @@ kagent-dev                     █                    2%
 kubeservice-stack              █                    1%
 prometheus                     █                    1%
 CodeLinaro-mirror              █                    1%
+chromium-full-mirror           █                    1%
 anil7000                       █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（68%），涉及 8 个仓库，共 76 次活动。
+1. **iflytek** 是最大贡献方向（67%），涉及 8 个仓库，共 76 次活动。
 2. 共 **33** 个 PR 已合并，覆盖 11 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-06-15**（30 次活动），展现了高强度的工作节奏。
 5. 创建了 **15** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 14 个仓库提交了 **62** 次代码。
+6. 在 15 个仓库提交了 **63** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,12 +51,12 @@ anil7000                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 70 | **112** | +60% | 📈 +42 |
+| **总活动量** | 70 | **113** | +61% | 📈 +43 |
 | Pull Request | 15 | 35 | +133% | 📈 +20 |
 | Issue | 2 | 15 | +650% | 📈 +13 |
-| Commit | 53 | 62 | +17% | 📈 +9 |
+| Commit | 53 | 63 | +19% | 📈 +10 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `anil7000/external-dns`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memflywheel`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `anil7000/external-dns`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/opensearch-api`, `iflytek/astron-agent`, `iflytek/astron-rpa`, `iflytek/domux`, `iflytek/iFly-Skills`, `iflytek/memflywheel`, `iflytek/skillhub`, `iflytek/website`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubeservice-stack/modelx`, `prometheus/procfs`
 - ❌ **不再活跃的仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kueue`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **iflytek**
 
@@ -65,10 +66,10 @@ anil7000                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **112** | PR + Issue + Commit |
+| 📊 **总活动** | **113** | PR + Issue + Commit |
 | 📝 **Pull Request** | 35 | 已合并 33，开放 2 |
 | 📋 **Issue** | 15 | 创建 Issue |
-| 💻 **Commit** | 62 | 代码提交 |
+| 💻 **Commit** | 63 | 代码提交 |
 
 ---
 
@@ -77,19 +78,19 @@ anil7000                       █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-06-08（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: validate  |
-| **2026-06-09（二）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, dongjiang1989/opensearch-api） |
-| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api, iflytek/community, iflytek/community)） |
+| **2026-06-09（二）** | **9** | █████████ | 9 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator), dongjiang1989/opensearch-api)） |
+| **2026-06-10（三）** | **10** | ██████████ | 10 项活动（dongjiang1989/opensearch-api), dongjiang1989/opensearch-api, iflytek/community)） |
 | **2026-06-11（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/prow), iflytek/website） |
 | **2026-06-12（五）** | **7** | ███████ | 7 项活动（iflytek/website), iflytek/website） |
 | 2026-06-13（六） | 0 | ░░░░░ | — |
 | 2026-06-14（日） | 0 | ░░░░░ | — |
 | **2026-06-15（一）** | **30** | ████████████████████ | 30 项活动（iflytek/website), iflytek/website） |
-| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), iflytek/community), iflytek/community） |
-| **2026-06-17（三）** | **19** | ███████████████████ | 19 项活动（iflytek/iFly-Skills), kubernetes-sigs/external-dns, anil7000/external-dns） |
-| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/kubebuilder), iflytek/iFly-Skills)） |
+| **2026-06-16（二）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel, iflytek/website, iflytek/community)） |
+| **2026-06-17（三）** | **19** | ███████████████████ | 19 项活动（iflytek/website, anil7000/external-dns, iflytek/website)） |
+| **2026-06-18（四）** | **12** | ████████████ | 12 项活动（prometheus-operator/prometheus-operator), iflytek/iFly-Skills), kubeservice-stack/modelx)） |
 | 2026-06-19（五） | 1 | █░░░░ | kubernetes-sigs/kubebuilder: ⚠️ (autoupdate/v1-alp |
 | 2026-06-20（六） | 2 | ██░░░ | PR #3532 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: update golangc |
-| 2026-06-21（日） | 2 | ██░░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_ |
+| 2026-06-21（日） | 3 | ███░░ | prometheus/procfs: feat(xfs): add Linux 7.0 XFS st; CodeLinaro-mirror/yocto-mirrors_github_prometheus_; chromium-full-mirror/external_github.com_prometheu |
 
 > **活跃高峰**：2026-06-15（30 次活动）为最高峰。
 
@@ -101,14 +102,15 @@ anil7000                       █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 76 | 67.9% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
-| dongjiang1989 | 12 | 10.7% | dongjiang1989/opensearch-api(12) | PR, Push |
+| **iflytek** | 76 | 67.3% | iflytek/website(48), iflytek/iFly-Skills(17), iflytek/community(5) | Issue, PR, Push |
+| dongjiang1989 | 12 | 10.6% | dongjiang1989/opensearch-api(12) | PR, Push |
 | prometheus-operator | 9 | 8.0% | prometheus-operator/prometheus-operator(9) | PR, Push |
 | kubernetes-sigs | 9 | 8.0% | kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(2), kubernetes-sigs/kubebuilder(2) | PR, Push |
 | kagent-dev | 2 | 1.8% | kagent-dev/kagent(2) | Issue, PR |
 | kubeservice-stack | 1 | 0.9% | kubeservice-stack/modelx(1) | PR |
 | prometheus | 1 | 0.9% | prometheus/procfs(1) | Push |
 | CodeLinaro-mirror | 1 | 0.9% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
+| chromium-full-mirror | 1 | 0.9% | chromium-full-mirror/external_github.com_prometheus_procfs(1) | Push |
 | anil7000 | 1 | 0.9% | anil7000/external-dns(1) | Push |
 
 ### 4.2 仓库详细 Top 10
@@ -274,6 +276,7 @@ anil7000                       █                    1%
 | kubernetes-sigs/controller-tools | 1 | 2026-06-18 | resolve misspell false positives and bump golangci |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/external-dns | 1 | 2026-06-17 | fix(coredns): write PTR records without random pre |
+| chromium-full-mirror/external_github.com_prometheus_procfs | 1 | 2026-06-21 | feat(xfs): add Linux 7.0 XFS statistics fields (#8 |
 | kubernetes-sigs/kubebuilder | 1 | 2026-06-19 | ⚠️ (autoupdate/v1-alpha): Remove GitHub Models int |
 | kubernetes-sigs/controller-runtime | 1 | 2026-06-20 | update golangci-linter to v2.12.2 |
 | iflytek/domux | 1 | 2026-06-16 | Initial commit |
@@ -299,4 +302,4 @@ anil7000                       █                    1%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

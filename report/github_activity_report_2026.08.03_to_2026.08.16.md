@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,17 +14,17 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **21** 个 |
-| 涉及仓库数 | **29** 个 |
+| 涉及组织数 | **22** 个 |
+| 涉及仓库数 | **30** 个 |
 | Pull Request 数 | **31** 个（已合并 29，开放 2） |
 | Issue 数 | **8** 个 |
-| Commit 数 | **42** 次 |
-| 总活动量 | **81** |
+| Commit 数 | **43** 次 |
+| 总活动量 | **82** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        ████████             41%
+iflytek                        ████████             40%
 kubernetes-sigs                ███                  20%
 agentgateway                   ██                   11%
 prometheus-operator            █                    4%
@@ -38,23 +38,24 @@ ruykin                         █                    1%
 a2aproject                     █                    1%
 opensecuritycompliance         █                    1%
 HanMarry                       █                    1%
-turingcat                      █                    1%
 blissito                       █                    1%
 aaif-goose                     █                    1%
 colinpthomson1                 █                    1%
+gachon-star-want               █                    1%
 kineticquant                   █                    1%
 codyno-dev-org                 █                    1%
+farijarifriyanto-debug         █                    1%
 yatfa-ai                       █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（41%），涉及 4 个仓库，共 33 次活动。
+1. **iflytek** 是最大贡献方向（40%），涉及 4 个仓库，共 33 次活动。
 2. 共 **29** 个 PR 已合并，覆盖 14 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-08-03**（17 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-08-03**（18 次活动），展现了高强度的工作节奏。
 5. 创建了 **8** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 23 个仓库提交了 **42** 次代码。
+6. 在 24 个仓库提交了 **43** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -62,13 +63,13 @@ yatfa-ai                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 92 | **81** | -12% | 📉 -11 |
+| **总活动量** | 94 | **82** | -13% | 📉 -12 |
 | Pull Request | 39 | 31 | -21% | 📉 -8 |
 | Issue | 5 | 8 | +60% | 📈 +3 |
-| Commit | 48 | 42 | -12% | 📉 -6 |
+| Commit | 50 | 43 | -14% | 📉 -7 |
 
-- 🆕 **新增活跃仓库**：`HanMarry/modelforge`, `aaif-goose/goose`, `agentgateway/community`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `prometheus/procfs`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `turingcat/HeyBuddy`, `yatfa-ai/goose`
-- ❌ **不再活跃的仓库**：`Sanjaykumar2-creator/aispm-test-33`, `a2aproject/a2a-go`, `avelino/awesome-go`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/runtime`, `grafana/mimir-prometheus`, `iflytek/astron-agent`, `iflytek/memflywheel`, `langfuse/langfuse`, `luxi233/astron-agent`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `prometheus/prometheus`, `ramitsurana/awesome-kubernetes`, `ynyyzyrf/astron`
+- 🆕 **新增活跃仓库**：`HanMarry/modelforge`, `aaif-goose/goose`, `agentgateway/community`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `prometheus/procfs`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `yatfa-ai/goose`
+- ❌ **不再活跃的仓库**：`Sanjaykumar2-creator/aispm-test-33`, `a2aproject/a2a-go`, `avelino/awesome-go`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/runtime`, `grafana/mimir-prometheus`, `iflytek/astron-agent`, `iflytek/memflywheel`, `langfuse/langfuse`, `luxi233/astron-agent`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `prometheus/prometheus`, `ramitsurana/awesome-kubernetes`, `skirubak/agentgateway`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **iflytek**
 
 ---
@@ -77,10 +78,10 @@ yatfa-ai                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **81** | PR + Issue + Commit |
+| 📊 **总活动** | **82** | PR + Issue + Commit |
 | 📝 **Pull Request** | 31 | 已合并 29，开放 2 |
 | 📋 **Issue** | 8 | 创建 Issue |
-| 💻 **Commit** | 42 | 代码提交 |
+| 💻 **Commit** | 43 | 代码提交 |
 
 ---
 
@@ -88,22 +89,22 @@ yatfa-ai                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-03（一）** | **17** | █████████████████ | 17 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway), kubernetes-sigs/controller-runtime)） |
+| **2026-08-03（一）** | **18** | ██████████████████ | 18 项活动（iflytek/website, blissito/ghosty-lite, codyno-dev-org/Codyno-Desktop） |
 | 2026-08-04（二） | 3 | ███░░ | PR #119319 (openclaw/openclaw); Issue #119294; prometheus-operator/prometheus-operator: lint go h |
-| 2026-08-05（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), agentgateway/agentgateway） |
+| 2026-08-05（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway, kubernetes-sigs/controller-tools)） |
 | 2026-08-06（四） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: lint: add goheader  |
 | **2026-08-07（五）** | **12** | ████████████ | 12 项活动（e2bgateway/e2bgateway), iflytek/.github, iflytek/dolphin-mcp-pilot） |
 | 2026-08-08（六） | 0 | ░░░░░ | — |
 | 2026-08-09（日） | 0 | ░░░░░ | — |
 | **2026-08-10（一）** | **12** | ████████████ | 12 项活动（iflytek/website), iflytek/dolphin-mcp-pilot, iflytek/dolphin-mcp-pilot)） |
-| **2026-08-11（二）** | **7** | ███████ | 7 项活动（iflytek/dolphin-mcp-pilot, agentgateway/website, iflytek/website） |
-| **2026-08-12（三）** | **5** | █████ | 5 项活动（sara-dev12/A2A, iflytek/dolphin-mcp-pilot), agentgateway/agentgateway)） |
-| **2026-08-13（四）** | **14** | ██████████████ | 14 项活动（kubernetes-sigs/agent-sandbox, agentgateway/community), dongjiang1989/community-agentgateway)） |
-| **2026-08-14（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, agentgateway/agentgateway） |
+| **2026-08-11（二）** | **7** | ███████ | 7 项活动（agentgateway/website, iflytek/website, iflytek/website)） |
+| **2026-08-12（三）** | **5** | █████ | 5 项活动（agentgateway/website, sara-dev12/A2A, agentgateway/agentgateway)） |
+| **2026-08-13（四）** | **14** | ██████████████ | 14 项活动（prometheus/procfs), e2bgateway/e2bgateway, kubernetes-sigs/agent-sandbox） |
+| **2026-08-14（五）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
 | 2026-08-15（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: examples(pi-code-ag |
 | 2026-08-16（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-08-03（17 次活动）为最高峰。
+> **活跃高峰**：2026-08-03（18 次活动）为最高峰。
 
 ---
 
@@ -113,13 +114,13 @@ yatfa-ai                       █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **iflytek** | 33 | 40.7% | iflytek/dolphin-mcp-pilot(22), iflytek/website(8), iflytek/community(2) | Issue, PR, Push |
-| kubernetes-sigs | 16 | 19.8% | kubernetes-sigs/agent-sandbox(13), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
-| agentgateway | 9 | 11.1% | agentgateway/agentgateway(4), agentgateway/website(3), agentgateway/community(2) | PR, Push |
+| **iflytek** | 33 | 40.2% | iflytek/dolphin-mcp-pilot(22), iflytek/website(8), iflytek/community(2) | Issue, PR, Push |
+| kubernetes-sigs | 16 | 19.5% | kubernetes-sigs/agent-sandbox(13), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(1) | Issue, PR, Push |
+| agentgateway | 9 | 11.0% | agentgateway/agentgateway(4), agentgateway/website(3), agentgateway/community(2) | PR, Push |
 | prometheus-operator | 3 | 3.7% | prometheus-operator/prometheus-operator(3) | PR, Push |
-| e2bgateway | 2 | 2.5% | e2bgateway/e2bgateway(2) | PR, Push |
-| openclaw | 2 | 2.5% | openclaw/openclaw(2) | Issue, PR |
-| sara-dev12 | 2 | 2.5% | sara-dev12/goose(1), sara-dev12/A2A(1) | Push |
+| e2bgateway | 2 | 2.4% | e2bgateway/e2bgateway(2) | PR, Push |
+| openclaw | 2 | 2.4% | openclaw/openclaw(2) | Issue, PR |
+| sara-dev12 | 2 | 2.4% | sara-dev12/goose(1), sara-dev12/A2A(1) | Push |
 | prometheus | 1 | 1.2% | prometheus/procfs(1) | PR |
 | dongjiang1989 | 1 | 1.2% | dongjiang1989/community-agentgateway(1) | PR |
 | NousResearch | 1 | 1.2% | NousResearch/hermes-agent(1) | PR |
@@ -127,12 +128,13 @@ yatfa-ai                       █                    1%
 | a2aproject | 1 | 1.2% | a2aproject/A2A(1) | Push |
 | opensecuritycompliance | 1 | 1.2% | opensecuritycompliance/goose(1) | Push |
 | HanMarry | 1 | 1.2% | HanMarry/modelforge(1) | Push |
-| turingcat | 1 | 1.2% | turingcat/HeyBuddy(1) | Push |
 | blissito | 1 | 1.2% | blissito/ghosty-lite(1) | Push |
 | aaif-goose | 1 | 1.2% | aaif-goose/goose(1) | Push |
 | colinpthomson1 | 1 | 1.2% | colinpthomson1/Obelus(1) | Push |
+| gachon-star-want | 1 | 1.2% | gachon-star-want/pleumcode(1) | Push |
 | kineticquant | 1 | 1.2% | kineticquant/achilles-harness(1) | Push |
 | codyno-dev-org | 1 | 1.2% | codyno-dev-org/Codyno-Desktop(1) | Push |
+| farijarifriyanto-debug | 1 | 1.2% | farijarifriyanto-debug/BotConnector-Core(1) | Push |
 | yatfa-ai | 1 | 1.2% | yatfa-ai/goose(1) | Push |
 
 ### 4.2 仓库详细 Top 10
@@ -284,14 +286,15 @@ yatfa-ai                       █                    1%
 | a2aproject/A2A | 1 | 2026-08-12 | docs(spec): fix grammar error in Metadata section  |
 | opensecuritycompliance/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | HanMarry/modelforge | 1 | 2026-08-03 | fall back to static model list only for non-models |
-| turingcat/HeyBuddy | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | blissito/ghosty-lite | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | sara-dev12/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | iflytek/.github | 1 | 2026-08-07 | Update README.md |
 | aaif-goose/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | colinpthomson1/Obelus | 1 | 2026-08-03 | fall back to static model list only for non-models |
+| gachon-star-want/pleumcode | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | kineticquant/achilles-harness | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | codyno-dev-org/Codyno-Desktop | 1 | 2026-08-03 | fall back to static model list only for non-models |
+| farijarifriyanto-debug/BotConnector-Core | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | prometheus-operator/prometheus-operator | 1 | 2026-08-04 | lint go header (#8737) |
 | iflytek/community | 1 | 2026-08-13 | Update copyright year in LICENSE file |
 | sara-dev12/A2A | 1 | 2026-08-12 | docs(spec): fix grammar error in Metadata section  |
@@ -315,4 +318,4 @@ yatfa-ai                       █                    1%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

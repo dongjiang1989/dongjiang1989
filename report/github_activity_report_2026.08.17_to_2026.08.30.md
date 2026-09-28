@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,37 +14,40 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **12** 个 |
-| 涉及仓库数 | **17** 个 |
+| 涉及组织数 | **15** 个 |
+| 涉及仓库数 | **20** 个 |
 | Pull Request 数 | **26** 个（已合并 23，开放 3） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **29** 次 |
-| 总活动量 | **55** |
+| Commit 数 | **32** 次 |
+| 总活动量 | **58** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ████                 24%
-XHToken                        ████                 22%
-iflytek                        ███                  18%
-prometheus-operator            ██                   13%
+kubernetes-sigs                ████                 22%
+XHToken                        ████                 21%
+iflytek                        ███                  17%
+prometheus-operator            ██                   12%
 agentgateway                   █                    7%
-modelcontextprotocol           █                    4%
-Project-HAMi                   █                    4%
+modelcontextprotocol           █                    3%
+Project-HAMi                   █                    3%
 vllm-project                   █                    2%
 prometheus                     █                    2%
 CodeLinaro-mirror              █                    2%
+honeyvig                       █                    2%
+chromium-full-mirror           █                    2%
 zhcndoc                        █                    2%
 a2aproject                     █                    2%
+enclawed                       █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（24%），涉及 4 个仓库，共 13 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（22%），涉及 4 个仓库，共 13 次活动。
 2. 共 **23** 个 PR 已合并，覆盖 11 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-08-25**（10 次活动），展现了高强度的工作节奏。
-5. 在 15 个仓库提交了 **29** 次代码。
+4. 活跃高峰出现在 **2026-08-25**（11 次活动），展现了高强度的工作节奏。
+5. 在 18 个仓库提交了 **32** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -52,13 +55,13 @@ a2aproject                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 81 | **55** | -32% | 📉 -26 |
+| **总活动量** | 82 | **58** | -29% | 📉 -24 |
 | Pull Request | 31 | 26 | -16% | 📉 -5 |
 | Issue | 8 | 0 | -100% | 📉 -8 |
-| Commit | 42 | 29 | -31% | 📉 -13 |
+| Commit | 43 | 32 | -26% | 📉 -11 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.5`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
-- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `turingcat/HeyBuddy`, `yatfa-ai/goose`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.5`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `honeyvig/HAMi`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
+- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `yatfa-ai/goose`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubernetes-sigs**
 
 ---
@@ -67,10 +70,10 @@ a2aproject                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **55** | PR + Issue + Commit |
+| 📊 **总活动** | **58** | PR + Issue + Commit |
 | 📝 **Pull Request** | 26 | 已合并 23，开放 3 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 29 | 代码提交 |
+| 💻 **Commit** | 32 | 代码提交 |
 
 ---
 
@@ -78,22 +81,22 @@ a2aproject                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-17（一）** | **5** | █████ | 5 项活动（iflytek/website), agentgateway/agentgateway), iflytek/website） |
+| **2026-08-17（一）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/website), iflytek/website） |
 | 2026-08-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go） |
 | 2026-08-19（三） | 2 | ██░░░ | PR #8762 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
 | **2026-08-20（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, XHToken/community） |
 | 2026-08-21（五） | 0 | ░░░░░ | — |
 | 2026-08-22（六） | 0 | ░░░░░ | — |
 | 2026-08-23（日） | 0 | ░░░░░ | — |
-| **2026-08-24（一）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), Project-HAMi/HAMi), XHToken/Spark-X2.5） |
-| **2026-08-25（二）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/kubebuilder), kubernetes-sigs/controller-tools), agentgateway/agentgateway)） |
-| **2026-08-26（三）** | **5** | █████ | 5 项活动（iflytek/website, modelcontextprotocol/modelcontextprotocol), iflytek/website)） |
-| **2026-08-27（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), agentgateway/agentgateway, XHToken/community） |
-| **2026-08-28（五）** | **9** | █████████ | 9 项活动（prometheus/procfs, XHToken/community, XHToken/Spark-plugin)） |
+| **2026-08-24（一）** | **9** | █████████ | 9 项活动（iflytek/website, prometheus-operator/prometheus-operator), iflytek/website)） |
+| **2026-08-25（二）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/controller-tools, honeyvig/HAMi, agentgateway/agentgateway)） |
+| **2026-08-26（三）** | **6** | ██████ | 6 项活动（enclawed/omcp, zhcndoc/mcp, iflytek/website） |
+| **2026-08-27（四）** | **5** | █████ | 5 项活动（agentgateway/agentgateway, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools)） |
+| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（XHToken/Spark-plugin), prometheus/procfs, XHToken/Spark-plugin） |
 | 2026-08-29（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-08-30（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-08-25（10 次活动）为最高峰。
+> **活跃高峰**：2026-08-25（11 次活动）为最高峰。
 
 ---
 
@@ -103,18 +106,21 @@ a2aproject                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 13 | 23.6% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(3), kubernetes-sigs/agent-sandbox(3) | PR, Push |
-| **XHToken** | 12 | 21.8% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.5(1) | PR, Push |
-| iflytek | 10 | 18.2% | iflytek/website(10) | PR, Push |
-| prometheus-operator | 7 | 12.7% | prometheus-operator/prometheus-operator(7) | PR, Push |
-| agentgateway | 4 | 7.3% | agentgateway/agentgateway(4) | PR, Push |
-| modelcontextprotocol | 2 | 3.6% | modelcontextprotocol/modelcontextprotocol(2) | PR, Push |
-| Project-HAMi | 2 | 3.6% | Project-HAMi/HAMi(2) | PR, Push |
-| vllm-project | 1 | 1.8% | vllm-project/aibrix(1) | PR |
-| prometheus | 1 | 1.8% | prometheus/procfs(1) | Push |
-| CodeLinaro-mirror | 1 | 1.8% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
-| zhcndoc | 1 | 1.8% | zhcndoc/mcp(1) | Push |
-| a2aproject | 1 | 1.8% | a2aproject/a2a-go(1) | Push |
+| **kubernetes-sigs** | 13 | 22.4% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(3), kubernetes-sigs/agent-sandbox(3) | PR, Push |
+| **XHToken** | 12 | 20.7% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.5(1) | PR, Push |
+| iflytek | 10 | 17.2% | iflytek/website(10) | PR, Push |
+| prometheus-operator | 7 | 12.1% | prometheus-operator/prometheus-operator(7) | PR, Push |
+| agentgateway | 4 | 6.9% | agentgateway/agentgateway(4) | PR, Push |
+| modelcontextprotocol | 2 | 3.4% | modelcontextprotocol/modelcontextprotocol(2) | PR, Push |
+| Project-HAMi | 2 | 3.4% | Project-HAMi/HAMi(2) | PR, Push |
+| vllm-project | 1 | 1.7% | vllm-project/aibrix(1) | PR |
+| prometheus | 1 | 1.7% | prometheus/procfs(1) | Push |
+| CodeLinaro-mirror | 1 | 1.7% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
+| honeyvig | 1 | 1.7% | honeyvig/HAMi(1) | Push |
+| chromium-full-mirror | 1 | 1.7% | chromium-full-mirror/external_github.com_prometheus_procfs(1) | Push |
+| zhcndoc | 1 | 1.7% | zhcndoc/mcp(1) | Push |
+| a2aproject | 1 | 1.7% | a2aproject/a2a-go(1) | Push |
+| enclawed | 1 | 1.7% | enclawed/omcp(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -250,13 +256,16 @@ a2aproject                     █                    2%
 | prometheus-operator/prometheus-operator | 2 | 2026-08-19 | update prometheus version; update golangci-linter version to v2.13.1 |
 | prometheus/procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
+| honeyvig/HAMi | 1 | 2026-08-25 | chore: add new linters to golangci-lint config (#2 |
 | modelcontextprotocol/modelcontextprotocol | 1 | 2026-08-26 | docs: fix outdated links and incorrect repository  |
 | agentgateway/agentgateway | 1 | 2026-08-27 | chore: update golangci-lint plugins and enable unc |
 | Project-HAMi/HAMi | 1 | 2026-08-25 | chore: add new linters to golangci-lint config (#2 |
+| chromium-full-mirror/external_github.com_prometheus_procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
 | XHToken/Spark-X2.5 | 1 | 2026-08-24 | Initial commit for Spark-X2.5 |
 | kubernetes-sigs/controller-runtime | 1 | 2026-08-27 | :seedling: Bump to k8s.io/* v0.37.0 (#3579) |
 | zhcndoc/mcp | 1 | 2026-08-26 | docs: fix outdated links and incorrect repository  |
 | a2aproject/a2a-go | 1 | 2026-08-18 | fix(jsonrpc): lenient decode of error.data to pres |
+| enclawed/omcp | 1 | 2026-08-26 | docs: fix outdated links and incorrect repository  |
 
 ---
 
@@ -272,4 +281,4 @@ a2aproject                     █                    2%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

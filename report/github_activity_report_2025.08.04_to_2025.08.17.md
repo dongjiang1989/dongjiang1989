@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -52,13 +52,13 @@ cnloxiaoteng-ship-it           █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 43 | **16** | -63% | 📉 -27 |
+| **总活动量** | 45 | **16** | -64% | 📉 -29 |
 | Pull Request | 16 | 6 | -62% | 📉 -10 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 27 | 9 | -67% | 📉 -18 |
+| Commit | 29 | 9 | -69% | 📉 -20 |
 
 - 🆕 **新增活跃仓库**：`anil7000/external-dns`, `cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -85,7 +85,7 @@ cnloxiaoteng-ship-it           █                    6%
 | 2025-08-08（五） | 3 | ███░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update ; anil7000/external-dns: chore(deps): update golangc |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 4 | ████░ | 4 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, prometheus-community/helm-charts, cnloxiaoteng-ship-it/helm-charts） |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, cnloxiaoteng-ship-it/helm-charts, prometheus-community/helm-charts） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -231,4 +231,4 @@ cnloxiaoteng-ship-it           █                    6%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*

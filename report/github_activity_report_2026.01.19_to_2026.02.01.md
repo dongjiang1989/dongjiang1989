@@ -4,7 +4,7 @@
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！
-> **公开仓库数**：254 | **Followers**：82 | **Following**：51
+> **公开仓库数**：259 | **Followers**：85 | **Following**：51
 
 ---
 
@@ -14,20 +14,21 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **10** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **11** 个 |
 | Pull Request 数 | **9** 个（已合并 9，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **21** 次 |
-| 总活动量 | **31** |
+| Commit 数 | **25** 次 |
+| 总活动量 | **35** |
 
 ### 🎯 工作重心分布
 
 ```
-Project-HAMi                   ██████               32%
-lsj-x                          ██                   13%
-aniketpati1121                 ██                   13%
-Annie-Summer                   ██                   13%
+Project-HAMi                   █████                29%
+honeyvig                       ██                   11%
+lsj-x                          ██                   11%
+aniketpati1121                 ██                   11%
+Annie-Summer                   ██                   11%
 kubeservice-stack              █                    6%
 virtual-kubelet                █                    6%
 Dzkmobw                        █                    6%
@@ -38,11 +39,11 @@ dongjiang1989                  █                    3%
 
 ### 💡 核心总结
 
-1. **Project-HAMi** 是最大贡献方向（32%），涉及 1 个仓库，共 10 次活动。
+1. **Project-HAMi** 是最大贡献方向（29%），涉及 1 个仓库，共 10 次活动。
 2. 共 **9** 个 PR 已合并，覆盖 5 个仓库。
-3. 活跃高峰出现在 **2026-01-19**（7 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2026-01-19**（8 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 8 个仓库提交了 **21** 次代码。
+5. 在 9 个仓库提交了 **25** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,10 +51,10 @@ dongjiang1989                  █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 21 | **31** | +48% | 📈 +10 |
+| **总活动量** | 22 | **35** | +59% | 📈 +13 |
 | Pull Request | 8 | 9 | +12% | 📈 +1 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 12 | 21 | +75% | 📈 +9 |
+| Commit | 13 | 25 | +92% | 📈 +12 |
 
 - 🆕 **新增活跃仓库**：`kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `virtual-kubelet/virtual-kubelet`
 - ❌ **不再活跃的仓库**：`grafana/grafana`, `kubeservice-stack/lxcfs-webhook`, `prometheus-operator/prometheus-operator`, `prometheus-operator/website`, `prometheus/procfs`
@@ -65,10 +66,10 @@ dongjiang1989                  █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **31** | PR + Issue + Commit |
+| 📊 **总活动** | **35** | PR + Issue + Commit |
 | 📝 **Pull Request** | 9 | 已合并 9，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 21 | 代码提交 |
+| 💻 **Commit** | 25 | 代码提交 |
 
 ---
 
@@ -76,22 +77,22 @@ dongjiang1989                  █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-01-19（一）** | **7** | ███████ | 7 项活动（aniketpati1121/HAMi, Project-HAMi/HAMi), Dzkmobw/HAMi） |
+| **2026-01-19（一）** | **8** | ████████ | 8 项活动（Annie-Summer/HAMi-test, Project-HAMi/HAMi), honeyvig/HAMi） |
 | 2026-01-20（二） | 0 | ░░░░░ | — |
 | 2026-01-21（三） | 2 | ██░░░ | PR #1614 (Project-HAMi/HAMi); PR #1613 (Project-HAMi/HAMi) |
-| **2026-01-22（四）** | **5** | █████ | 5 项活动（aniketpati1121/HAMi, Dzkmobw/HAMi, Project-HAMi/HAMi） |
+| **2026-01-22（四）** | **6** | ██████ | 6 项活动（Annie-Summer/HAMi-test, honeyvig/HAMi, Dzkmobw/HAMi） |
 | 2026-01-23（五） | 2 | ██░░░ | PR #1365 (virtual-kubelet/virtual-kubelet); virtual-kubelet/virtual-kubelet: add modernize che |
 | 2026-01-24（六） | 0 | ░░░░░ | — |
 | 2026-01-25（日） | 0 | ░░░░░ | — |
 | 2026-01-26（一） | 0 | ░░░░░ | — |
-| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo), dongjiang1989/dongjiang1989, kubernetes/test-infra)） |
-| 2026-01-28（三） | 4 | ████░ | 4 项活动（Annie-Summer/HAMi-test, lsj-x/HAMi, aniketpati1121/HAMi） |
+| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo), kubernetes-sigs/scheduler-plugins), dongjiang1989/dongjiang1989） |
+| **2026-01-28（三）** | **5** | █████ | 5 项活动（Annie-Summer/HAMi-test, honeyvig/HAMi, lsj-x/HAMi） |
 | 2026-01-29（四） | 2 | ██░░░ | PR #1633 (Project-HAMi/HAMi); Issue #1634 |
-| 2026-01-30（五） | 4 | ████░ | 4 项活动（Annie-Summer/HAMi-test, lsj-x/HAMi, aniketpati1121/HAMi） |
+| **2026-01-30（五）** | **5** | █████ | 5 项活动（Annie-Summer/HAMi-test, honeyvig/HAMi, lsj-x/HAMi） |
 | 2026-01-31（六） | 0 | ░░░░░ | — |
 | 2026-02-01（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-01-19（7 次活动）为最高峰。
+> **活跃高峰**：2026-01-19（8 次活动）为最高峰。
 
 ---
 
@@ -101,31 +102,32 @@ dongjiang1989                  █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **Project-HAMi** | 10 | 32.3% | Project-HAMi/HAMi(10) | Issue, PR, Push |
-| lsj-x | 4 | 12.9% | lsj-x/HAMi(4) | Push |
-| aniketpati1121 | 4 | 12.9% | aniketpati1121/HAMi(4) | Push |
-| Annie-Summer | 4 | 12.9% | Annie-Summer/HAMi-test(4) | Push |
-| kubeservice-stack | 2 | 6.5% | kubeservice-stack/echo(2) | PR, Push |
-| virtual-kubelet | 2 | 6.5% | virtual-kubelet/virtual-kubelet(2) | PR, Push |
-| Dzkmobw | 2 | 6.5% | Dzkmobw/HAMi(2) | Push |
-| kubernetes | 1 | 3.2% | kubernetes/test-infra(1) | PR |
-| kubernetes-sigs | 1 | 3.2% | kubernetes-sigs/scheduler-plugins(1) | PR |
-| dongjiang1989 | 1 | 3.2% | dongjiang1989/dongjiang1989(1) | Push |
+| **Project-HAMi** | 10 | 28.6% | Project-HAMi/HAMi(10) | Issue, PR, Push |
+| honeyvig | 4 | 11.4% | honeyvig/HAMi(4) | Push |
+| lsj-x | 4 | 11.4% | lsj-x/HAMi(4) | Push |
+| aniketpati1121 | 4 | 11.4% | aniketpati1121/HAMi(4) | Push |
+| Annie-Summer | 4 | 11.4% | Annie-Summer/HAMi-test(4) | Push |
+| kubeservice-stack | 2 | 5.7% | kubeservice-stack/echo(2) | PR, Push |
+| virtual-kubelet | 2 | 5.7% | virtual-kubelet/virtual-kubelet(2) | PR, Push |
+| Dzkmobw | 2 | 5.7% | Dzkmobw/HAMi(2) | Push |
+| kubernetes | 1 | 2.9% | kubernetes/test-infra(1) | PR |
+| kubernetes-sigs | 1 | 2.9% | kubernetes-sigs/scheduler-plugins(1) | PR |
+| dongjiang1989 | 1 | 2.9% | dongjiang1989/dongjiang1989(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **Project-HAMi/HAMi** | 10 | 5 | 1 | 4 | PR #1633: feat: add serviceMonitor for device plug; PR #1614: feat: add promtheus serviceMonitor in he; PR #1613: feat: add vGPUmonitor --metrics-bind-add |
-| 2 | **lsj-x/HAMi** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
-| 3 | **aniketpati1121/HAMi** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
-| 4 | **Annie-Summer/HAMi-test** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
-| 5 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #102: feat: Add Swagger index.html for gin debu; Commit: add Swagger index.heml for debug/test mode |
-| 6 | **virtual-kubelet/virtual-kubelet** | 2 | 1 | 0 | 1 | PR #1365: chore: Bump golangci-lint and enable mod; Commit: add modernize check |
-| 7 | **Dzkmobw/HAMi** | 2 | 0 | 0 | 2 | Commit: add metrics-bind-address (#1613); Commit: feat: Add hami_build_info metrics and vers |
-| 8 | **kubernetes/test-infra** | 1 | 1 | 0 | 0 | PR #36318: config/jobs: Update go to 1.25 in sched |
-| 9 | **kubernetes-sigs/scheduler-plugins** | 1 | 1 | 0 | 0 | PR #946: Upgrade controller-runtime from v0.22.3 t |
-| 10 | **dongjiang1989/dongjiang1989** | 1 | 0 | 0 | 1 | Commit: Update README.md |
+| 2 | **honeyvig/HAMi** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
+| 3 | **lsj-x/HAMi** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
+| 4 | **aniketpati1121/HAMi** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
+| 5 | **Annie-Summer/HAMi-test** | 4 | 0 | 0 | 4 | Commit: feat: add serviceMonitor for device plugin; Commit: feat: add promtheus serviceMonitor in helm; Commit: add metrics-bind-address (#1613) |
+| 6 | **kubeservice-stack/echo** | 2 | 1 | 0 | 1 | PR #102: feat: Add Swagger index.html for gin debu; Commit: add Swagger index.heml for debug/test mode |
+| 7 | **virtual-kubelet/virtual-kubelet** | 2 | 1 | 0 | 1 | PR #1365: chore: Bump golangci-lint and enable mod; Commit: add modernize check |
+| 8 | **Dzkmobw/HAMi** | 2 | 0 | 0 | 2 | Commit: add metrics-bind-address (#1613); Commit: feat: Add hami_build_info metrics and vers |
+| 9 | **kubernetes/test-infra** | 1 | 1 | 0 | 0 | PR #36318: config/jobs: Update go to 1.25 in sched |
+| 10 | **kubernetes-sigs/scheduler-plugins** | 1 | 1 | 0 | 0 | PR #946: Upgrade controller-runtime from v0.22.3 t |
 
 ---
 
@@ -173,6 +175,15 @@ dongjiang1989                  █                    3%
   - PR #1600: feat: add promtheus podMonitor in helm-charts
   - PR #1599: feat: add vGPUmonitor --metrics-bind-address flag
 
+### honeyvig/HAMi（4 次活动）
+
+- **Commit**: 4 次
+- **主要工作**:
+  - Commit: feat: add serviceMonitor for device plugin (#1633)
+  - Commit: feat: add promtheus serviceMonitor in helm-charts (#1614)
+  - Commit: add metrics-bind-address (#1613)
+  - Commit: feat: Add hami_build_info metrics and version print (#1581)
+
 ### lsj-x/HAMi（4 次活动）
 
 - **Commit**: 4 次
@@ -200,14 +211,6 @@ dongjiang1989                  █                    3%
   - Commit: add metrics-bind-address (#1613)
   - Commit: feat: Add hami_build_info metrics and version print (#1581)
 
-### kubeservice-stack/echo（2 次活动）
-
-- **PR**: 1 个
-- **Commit**: 1 次
-- **主要工作**:
-  - PR #102: feat: Add Swagger index.html for gin debug/test mode
-  - Commit: add Swagger index.heml for debug/test mode (#102)
-
 
 ---
 
@@ -215,6 +218,7 @@ dongjiang1989                  █                    3%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
+| honeyvig/HAMi | 4 | 2026-01-30 | feat: add serviceMonitor for device plugin (#1633); feat: add promtheus serviceMonitor in helm-charts ; add metrics-bind-address (#1613) |
 | Project-HAMi/HAMi | 4 | 2026-01-30 | feat: add serviceMonitor for device plugin (#1633); feat: add promtheus serviceMonitor in helm-charts ; add metrics-bind-address (#1613) |
 | lsj-x/HAMi | 4 | 2026-01-30 | feat: add serviceMonitor for device plugin (#1633); feat: add promtheus serviceMonitor in helm-charts ; add metrics-bind-address (#1613) |
 | aniketpati1121/HAMi | 4 | 2026-01-30 | feat: add serviceMonitor for device plugin (#1633); feat: add promtheus serviceMonitor in helm-charts ; add metrics-bind-address (#1613) |
@@ -240,4 +244,4 @@ dongjiang1989                  █                    3%
 
 ---
 
-*报告生成时间：2026-09-21 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
