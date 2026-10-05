@@ -3,8 +3,9 @@
 > **统计周期**：2025年9月15日 — 2025年9月28日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -56,7 +57,7 @@ sunyaojing                     █                    3%
 | Commit | 12 | 17 | +42% | 📈 +5 |
 
 - 🆕 **新增活跃仓库**：`SoujanyaPonnapalli/Metronome`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `chromium-full-mirror/external_github.com_coreos_etcd`, `etcd-io/etcd`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
-- ❌ **不再活跃的仓库**：`bwplotka/mdox`, `bytebase/bytebase`, `kagent-dev/kagent`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
+- ❌ **不再活跃的仓库**：`brianlallen/bytebase`, `bwplotka/mdox`, `bytebase/bytebase`, `kagent-dev/kagent`, `weedgit/bytebase`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -79,13 +80,13 @@ sunyaojing                     █                    3%
 | 2025-09-15（一） | 1 | █░░░░ | PR #2024 (apecloud/kubeblocks-addons) |
 | 2025-09-16（二） | 0 | ░░░░░ | — |
 | 2025-09-17（三） | 1 | █░░░░ | apecloud/kubeblocks-addons: feat: Add support etcd |
-| **2025-09-18（四）** | **10** | ██████████ | 10 项活动（ambaxter/etcd, SoujanyaPonnapalli/Metronome, etcd-io/etcd） |
+| **2025-09-18（四）** | **10** | ██████████ | 10 项活动（SoujanyaPonnapalli/Metronome, chromium-full-mirror/external_github.com_coreos_etcd, prometheus-operator/prometheus-operator)） |
 | 2025-09-19（五） | 0 | ░░░░░ | — |
 | 2025-09-20（六） | 0 | ░░░░░ | — |
 | 2025-09-21（日） | 0 | ░░░░░ | — |
 | 2025-09-22（一） | 0 | ░░░░░ | — |
-| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（kubeservice-stack/kubservice-charts), prometheus-operator/prometheus-operator), kubeservice-stack/lxcfs-webhook)） |
-| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-tools)） |
+| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts, kubeservice-stack/kubservice-charts)） |
+| **2025-09-24（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator） |
 | 2025-09-25（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-09-26（五） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: ch |
 | 2025-09-27（六） | 0 | ░░░░░ | — |
@@ -249,4 +250,4 @@ sunyaojing                     █                    3%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

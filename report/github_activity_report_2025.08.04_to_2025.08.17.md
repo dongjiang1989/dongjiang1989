@@ -3,8 +3,9 @@
 > **统计周期**：2025年8月4日 — 2025年8月17日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -85,7 +86,7 @@ cnloxiaoteng-ship-it           █                    6%
 | 2025-08-08（五） | 3 | ███░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update ; anil7000/external-dns: chore(deps): update golangc |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 4 | ████░ | 4 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, cnloxiaoteng-ship-it/helm-charts, prometheus-community/helm-charts） |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（prometheus-community/helm-charts, psharma0905/Prometheus-and-Grafana-helm-charts, yunshenliu92/prometheus） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -231,4 +232,4 @@ cnloxiaoteng-ship-it           █                    6%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

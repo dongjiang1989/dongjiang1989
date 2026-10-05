@@ -3,8 +3,9 @@
 > **统计周期**：2025年8月18日 — 2025年8月31日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -31,7 +32,7 @@ apache                         ██                   13%
 kubernetes-sigs                █                    9%
 kagent-dev                     █                    4%
 weedgit                        █                    4%
-white-night-eco-live           █                    4%
+brianlallen                    █                    4%
 jimmidyson                     █                    4%
 ```
 
@@ -54,7 +55,7 @@ jimmidyson                     █                    4%
 | Issue | 1 | 2 | +100% | 📈 +1 |
 | Commit | 9 | 15 | +67% | 📈 +6 |
 
-- 🆕 **新增活跃仓库**：`apache/dubbo-go`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`, `white-night-eco-live/bytebase`
+- 🆕 **新增活跃仓库**：`apache/dubbo-go`, `brianlallen/bytebase`, `bytebase/bytebase`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`, `weedgit/bytebase`
 - ❌ **不再活跃的仓库**：`anil7000/external-dns`, `cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubernetes-sigs/external-dns`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **dongjiang1989**
 
@@ -77,15 +78,15 @@ jimmidyson                     █                    4%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, bytebase/clabot-config, white-night-eco-live/bytebase） |
+| **2025-08-26（二）** | **6** | ██████ | 6 项活动（brianlallen/bytebase, bytebase/clabot-config, bytebase/bytebase)） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| **2025-08-28（四）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), jimmidyson/kcp-cluster-api, kubernetes-sigs/cluster-api） |
+| **2025-08-28（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/cluster-api), prometheus-operator/prometheus-operator), kubernetes-sigs/cluster-api） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -107,7 +108,7 @@ jimmidyson                     █                    4%
 | kubernetes-sigs | 2 | 8.7% | kubernetes-sigs/cluster-api(2) | PR, Push |
 | kagent-dev | 1 | 4.3% | kagent-dev/community(1) | Issue |
 | weedgit | 1 | 4.3% | weedgit/bytebase(1) | Push |
-| white-night-eco-live | 1 | 4.3% | white-night-eco-live/bytebase(1) | Push |
+| brianlallen | 1 | 4.3% | brianlallen/bytebase(1) | Push |
 | jimmidyson | 1 | 4.3% | jimmidyson/kcp-cluster-api(1) | Push |
 
 ### 4.2 仓库详细 Top 10
@@ -122,7 +123,7 @@ jimmidyson                     █                    4%
 | 6 | **bytebase/bytebase** | 2 | 1 | 0 | 1 | PR #17282: fix(mongodb): fix mongodb collection na; Commit: fix mongodb collection name contains speci |
 | 7 | **kagent-dev/community** | 1 | 0 | 1 | 0 | Issue #6: Kagent-dev Org Membership Request |
 | 8 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
-| 9 | **white-night-eco-live/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
+| 9 | **brianlallen/bytebase** | 1 | 0 | 0 | 1 | Commit: fix mongodb collection name contains speci |
 | 10 | **jimmidyson/kcp-cluster-api** | 1 | 0 | 0 | 1 | Commit: update golangci linter version to v2.4.0 |
 
 ---
@@ -215,7 +216,7 @@ jimmidyson                     █                    4%
 | weedgit/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | bytebase/clabot-config | 1 | 2025-08-26 | add myself as contributor |
 | bytebase/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
-| white-night-eco-live/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
+| brianlallen/bytebase | 1 | 2025-08-26 | fix mongodb collection name contains special chara |
 | prometheus-operator/prometheus-operator | 1 | 2025-08-28 | update golangci linter version to v2.4.0 |
 | jimmidyson/kcp-cluster-api | 1 | 2025-08-28 | update golangci linter version to v2.4.0 |
 
@@ -233,4 +234,4 @@ jimmidyson                     █                    4%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

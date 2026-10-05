@@ -3,8 +3,9 @@
 > **统计周期**：2025年7月7日 — 2025年7月20日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -77,7 +78,7 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), GsonZhao/volcano, handan-yxh/volcano-old-test） |
+| **2025-07-09（三）** | **9** | █████████ | 9 项活动（kev1N916/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
@@ -229,4 +230,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

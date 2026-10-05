@@ -3,8 +3,9 @@
 > **统计周期**：2025年3月3日 — 2025年3月16日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -57,13 +58,13 @@ raihanakbr                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 38 | **47** | +24% | 📈 +9 |
+| **总活动量** | 39 | **47** | +21% | 📈 +8 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 3 | 4 | +33% | 📈 +1 |
-| Commit | 22 | 30 | +36% | 📈 +8 |
+| Commit | 23 | 30 | +30% | 📈 +7 |
 
 - 🆕 **新增活跃仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `Scaling-Smart/prometheus-helm-charts`, `ckyuto/volcano-upstream`, `cnloxiaoteng-ship-it/helm-charts`, `handan-yxh/volcano-old-test`, `idadmin007/prometheus`, `karmada-io/karmada`, `kev1N916/volcano`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/descheduler`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `volcano-sh/volcano`, `web38444/descheduler`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `ai-integr8tor/prometheus-client_golang`, `barajeel/golang`, `chromium-full-mirror/external_github.com_prometheus_client_golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/common`, `kubeservice-stack/modelx`, `kubeservice-stack/repos-mirror-action`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `ai-integr8tor/prometheus-client_golang`, `barajeel/golang`, `chromium-full-mirror/external_github.com_prometheus_client_golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/common`, `kubeservice-stack/modelx`, `kubeservice-stack/repos-mirror-action`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`, `t9xm7plpy2/prometheus__client_golang.d6087ee4`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **volcano-sh**
 
 ---
@@ -84,17 +85,17 @@ raihanakbr                     █                    2%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-03-03（一） | 0 | ░░░░░ | — |
-| **2025-03-04（二）** | **7** | ███████ | 7 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, cnloxiaoteng-ship-it/helm-charts, Scaling-Smart/prometheus-helm-charts） |
+| **2025-03-04（二）** | **7** | ███████ | 7 项活动（cnloxiaoteng-ship-it/helm-charts, prometheus-community/helm-charts, Scaling-Smart/prometheus-helm-charts） |
 | 2025-03-05（三） | 2 | ██░░░ | PR #7382 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2025-03-06（四）** | **8** | ████████ | 8 项活动（volcano-sh/apis, volcano-sh/community, volcano-sh/community)） |
+| **2025-03-06（四）** | **8** | ████████ | 8 项活动（karmada-io/karmada, volcano-sh/apis), volcano-sh/community)） |
 | 2025-03-07（五） | 0 | ░░░░░ | — |
 | 2025-03-08（六） | 0 | ░░░░░ | — |
 | 2025-03-09（日） | 0 | ░░░░░ | — |
-| **2025-03-10（一）** | **11** | ███████████ | 11 项活动（volcano-sh/community, GsonZhao/volcano, volcano-sh/community)） |
+| **2025-03-10（一）** | **11** | ███████████ | 11 项活动（kev1N916/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
 | 2025-03-11（二） | 2 | ██░░░ | PR #7397 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Fix: fix  |
-| 2025-03-12（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/descheduler, web38444/descheduler, kubernetes-sigs/descheduler)） |
-| **2025-03-13（四）** | **8** | ████████ | 8 项活动（GsonZhao/volcano, handan-yxh/volcano-old-test, volcano-sh/volcano） |
-| **2025-03-14（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), volcano-sh/volcano), prometheus-operator/prometheus-operator） |
+| 2025-03-12（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/descheduler), kubernetes-sigs/descheduler, web38444/descheduler） |
+| **2025-03-13（四）** | **8** | ████████ | 8 项活动（kev1N916/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
+| **2025-03-14（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, volcano-sh/volcano)） |
 | 2025-03-15（六） | 0 | ░░░░░ | — |
 | 2025-03-16（日） | 0 | ░░░░░ | — |
 
@@ -281,4 +282,4 @@ raihanakbr                     █                    2%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

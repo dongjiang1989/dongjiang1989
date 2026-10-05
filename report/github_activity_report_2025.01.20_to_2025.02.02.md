@@ -3,8 +3,9 @@
 > **统计周期**：2025年1月20日 — 2025年2月2日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -47,13 +48,13 @@ kubeflow                       █                    4%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 67 | **26** | -61% | 📉 -41 |
+| **总活动量** | 68 | **26** | -62% | 📉 -42 |
 | Pull Request | 13 | 9 | -31% | 📉 -4 |
 | Issue | 1 | 2 | +100% | 📈 +1 |
-| Commit | 53 | 15 | -72% | 📉 -38 |
+| Commit | 54 | 15 | -72% | 📉 -39 |
 
 - 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `dongjiang1989/customapis`, `kubeflow/mpi-operator`, `kubernetes-sigs/controller-tools`, `kubernetes/kubernetes`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/node-metrics`
-- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `Benqacemsalah/alertmanager`, `Carson-Ax/alertmanager`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `Rishi2600/prometheus`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Synaptica-cor/prometheus`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana`, `chromium-full-mirror/external_github.com_prometheus_common`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `golangci/golangci-lint`, `grafana/mimir-prometheus`, `karmada-io/karmada`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/script_exporter`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `muhammedalimalik901-code/Alert-Manager-Experiment`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/prometheus`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tennisleng/alertmanager`, `thanos-io/thanos-prometheus`, `thockin/go-build-template`
+- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `Benqacemsalah/alertmanager`, `Carson-Ax/alertmanager`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `Rishi2600/prometheus`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Synaptica-cor/prometheus`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana`, `chromium-full-mirror/external_github.com_prometheus_common`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `golangci/golangci-lint`, `grafana/mimir-prometheus`, `karmada-io/karmada`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/script_exporter`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `muhammedalimalik901-code/Alert-Manager-Experiment`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/prometheus`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tennisleng/alertmanager`, `thanos-io/thanos-prometheus`, `thockin/go-build-template`, `ub42t1za0d/prometheus__prometheus.5241a27f`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **prometheus-operator**
 
 ---
@@ -74,9 +75,9 @@ kubeflow                       █                    4%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-01-20（一） | 3 | ███░░ | PR #679 (kubeflow/mpi-operator); PR #7287 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: up |
-| **2025-01-21（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/custom-limit-range, kubeservice-stack/lxcfs-webhook） |
-| **2025-01-22（三）** | **9** | █████████ | 9 项活动（ahmetb/gen-crd-api-reference-docs), prometheus-operator/prometheus-operator), kubernetes/kubernetes)） |
-| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubernetes-sigs/controller-tools), kubeservice-stack/common） |
+| **2025-01-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/custom-limit-range, kubeservice-stack/node-metrics, prometheus-operator/prometheus-operator)） |
+| **2025-01-22（三）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), kubernetes/kubernetes), ahmetb/gen-crd-api-reference-docs)） |
+| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubeservice-stack/common, kubernetes-sigs/controller-tools)） |
 | 2025-01-24（五） | 0 | ░░░░░ | — |
 | 2025-01-25（六） | 0 | ░░░░░ | — |
 | 2025-01-26（日） | 0 | ░░░░░ | — |
@@ -233,4 +234,4 @@ kubeflow                       █                    4%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

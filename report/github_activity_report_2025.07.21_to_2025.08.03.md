@@ -3,8 +3,9 @@
 > **统计周期**：2025年7月21日 — 2025年8月3日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -78,19 +79,19 @@ jimmidyson                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **12** | ████████████ | 12 项活动（prometheus/procfs), prometheus/procfs, prometheus-operator/prometheus-operator)） |
+| **2025-07-21（一）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/external-dns), prometheus-operator/prometheus-operator), prometheus/procfs)） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), erauner12/kagent-detached, kagent-dev/kagent)） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（erauner12/kagent-detached, prometheus-operator/prometheus-operator), tmohanvamsi/kagent） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
 | 2025-07-30（三） | 3 | ███░░ | PR #1248 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update golangci ; prometheus-operator/prometheus-operator: feat: add |
-| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime） |
+| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime)） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **7** | ███████ | 7 项活动（Project-HAMi/HAMi-core, Project-HAMi/HAMi-core), jimmidyson/kcp-cluster-api） |
+| **2025-08-02（六）** | **7** | ███████ | 7 项活动（kubernetes-sigs/cluster-api), punith1006/LaaS-Hami, Project-HAMi/HAMi-core） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-07-21（12 次活动）为最高峰。
@@ -261,4 +262,4 @@ jimmidyson                     █                    2%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

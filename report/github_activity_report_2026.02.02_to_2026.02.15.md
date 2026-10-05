@@ -3,8 +3,9 @@
 > **统计周期**：2026年2月2日 — 2026年2月15日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -50,7 +51,7 @@ Project-HAMi                   █                    6%
 | Commit | 25 | 8 | -68% | 📉 -17 |
 
 - 🆕 **新增活跃仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kueue`, `prometheus-operator/prometheus-operator`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `honeyvig/HAMi`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `virtual-kubelet/virtual-kubelet`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `u1op29ss7b/project-hami__hami.4707fb02`, `virtual-kubelet/virtual-kubelet`
 - 🔄 **工作重心转移**：从 **Project-HAMi** 转向 **kubernetes-sigs**
 
 ---
@@ -74,7 +75,7 @@ Project-HAMi                   █                    6%
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
 | **2026-02-05（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime)） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -215,4 +216,4 @@ Project-HAMi                   █                    6%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*

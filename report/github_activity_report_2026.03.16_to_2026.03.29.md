@@ -3,8 +3,9 @@
 > **统计周期**：2026年3月16日 — 2026年3月29日
 > **用户**：[dongjiang1989](https://github.com/dongjiang1989)（dongjiang）
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
-> **简介**：I like share！
-> **公开仓库数**：259 | **Followers**：85 | **Following**：51
+> **简介**：I like share！@prometheus & @agentgateway team member
+
+> **公开仓库数**：259 | **Followers**：90 | **Following**：51
 
 ---
 
@@ -14,35 +15,36 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **12** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **13** 个 |
 | Pull Request 数 | **18** 个（已合并 16，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **13** 次 |
-| 总活动量 | **31** |
+| Commit 数 | **14** 次 |
+| 总活动量 | **32** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███████              39%
+kubernetes-sigs                ███████              38%
 prometheus-operator            ███                  16%
-Arry8                          ██                   13%
+Arry8                          ██                   12%
 anomalyco                      █                    6%
 kubernetes                     █                    6%
 dongjiang1989                  █                    6%
 kubeservice-stack              █                    3%
 kubegems                       █                    3%
 openclaw                       █                    3%
+e7t1s2n9yo                     █                    3%
 shrutiyam-glitch               █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（39%），涉及 3 个仓库，共 12 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（38%），涉及 3 个仓库，共 12 次活动。
 2. 共 **16** 个 PR 已合并，覆盖 9 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-03-18**（12 次活动），展现了高强度的工作节奏。
-5. 在 8 个仓库提交了 **13** 次代码。
+5. 在 9 个仓库提交了 **14** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,10 +52,10 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 16 | **31** | +94% | 📈 +15 |
+| **总活动量** | 17 | **32** | +88% | 📈 +15 |
 | Pull Request | 6 | 18 | +200% | 📈 +12 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 10 | 13 | +30% | 📈 +3 |
+| Commit | 11 | 14 | +27% | 📈 +3 |
 
 - 🆕 **新增活跃仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `dongjiang1989/api-server`, `kubegems/modelx`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
 - ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
@@ -64,10 +66,10 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **31** | PR + Issue + Commit |
+| 📊 **总活动** | **32** | PR + Issue + Commit |
 | 📝 **Pull Request** | 18 | 已合并 16，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 13 | 代码提交 |
+| 💻 **Commit** | 14 | 代码提交 |
 
 ---
 
@@ -77,8 +79,8 @@ shrutiyam-glitch               █                    3%
 |------|--------|--------|----------|
 | 2026-03-16（一） | 1 | █░░░░ | PR #421 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-17（二） | 0 | ░░░░░ | — |
-| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime） |
-| **2026-03-19（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, kubernetes/test-infra, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（Arry8/openclaw-edge, kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator)） |
+| **2026-03-19（四）** | **6** | ██████ | 6 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes/test-infra, kubernetes-sigs/agent-sandbox)） |
 | 2026-03-20（五） | 0 | ░░░░░ | — |
 | 2026-03-21（六） | 3 | ███░░ | PR #458 (kubernetes-sigs/agent-sandbox); PR #457 (kubernetes-sigs/agent-sandbox); PR #456 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-22（日） | 0 | ░░░░░ | — |
@@ -86,7 +88,7 @@ shrutiyam-glitch               █                    3%
 | 2026-03-24（二） | 0 | ░░░░░ | — |
 | 2026-03-25（三） | 1 | █░░░░ | PR #1370 (kubernetes-sigs/controller-tools) |
 | 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, anomalyco/opencode)） |
-| 2026-03-27（五） | 4 | ████░ | 4 项活动（kubeservice-stack/modelx), kubegems/modelx), dongjiang1989/api-server） |
+| 2026-03-27（五） | 4 | ████░ | 4 项活动（kubeservice-stack/modelx), dongjiang1989/api-server, kubegems/modelx)） |
 | 2026-03-28（六） | 0 | ░░░░░ | — |
 | 2026-03-29（日） | 1 | █░░░░ | PR #486 (kubernetes-sigs/agent-sandbox) |
 
@@ -100,16 +102,17 @@ shrutiyam-glitch               █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 12 | 38.7% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| prometheus-operator | 5 | 16.1% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| Arry8 | 4 | 12.9% | Arry8/openclaw-edge(4) | Push |
-| anomalyco | 2 | 6.5% | anomalyco/opencode(2) | PR |
-| kubernetes | 2 | 6.5% | kubernetes/test-infra(2) | PR, Push |
-| dongjiang1989 | 2 | 6.5% | dongjiang1989/api-server(2) | Push |
-| kubeservice-stack | 1 | 3.2% | kubeservice-stack/modelx(1) | PR |
-| kubegems | 1 | 3.2% | kubegems/modelx(1) | PR |
-| openclaw | 1 | 3.2% | openclaw/openclaw(1) | PR |
-| shrutiyam-glitch | 1 | 3.2% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
+| **kubernetes-sigs** | 12 | 37.5% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| prometheus-operator | 5 | 15.6% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| Arry8 | 4 | 12.5% | Arry8/openclaw-edge(4) | Push |
+| anomalyco | 2 | 6.2% | anomalyco/opencode(2) | PR |
+| kubernetes | 2 | 6.2% | kubernetes/test-infra(2) | PR, Push |
+| dongjiang1989 | 2 | 6.2% | dongjiang1989/api-server(2) | Push |
+| kubeservice-stack | 1 | 3.1% | kubeservice-stack/modelx(1) | PR |
+| kubegems | 1 | 3.1% | kubegems/modelx(1) | PR |
+| openclaw | 1 | 3.1% | openclaw/openclaw(1) | PR |
+| e7t1s2n9yo | 1 | 3.1% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(1) | Push |
+| shrutiyam-glitch | 1 | 3.1% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -225,6 +228,7 @@ shrutiyam-glitch               █                    3%
 | Arry8/openclaw-edge | 4 | 2026-03-18 | Merge branch 'main' into add-token-count; fix: remove unused hasNonzeroUsage import; Merge branch 'main' into add-token-count |
 | dongjiang1989/api-server | 2 | 2026-03-27 | Merge pull request #31 from dongjiang1989/dependab; Merge pull request #32 from dongjiang1989/dependab |
 | prometheus-operator/prometheus-operator | 2 | 2026-03-26 | update controller-tools version; update golangci-linter version (#8452) |
+| e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 1 | 2026-03-19 | feat: add kube-api-linter checker (#421) |
 | kubernetes-sigs/controller-tools | 1 | 2026-03-18 | update golangci-linter version |
 | kubernetes-sigs/controller-runtime | 1 | 2026-03-18 | update golangci-linter version to v2.11.3 |
 | kubernetes/test-infra | 1 | 2026-03-19 | add kube api linter in presubmits |
@@ -248,4 +252,4 @@ shrutiyam-glitch               █                    3%
 
 ---
 
-*报告生成时间：2026-09-28 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
