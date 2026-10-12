@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,25 +15,26 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **9** 个 |
-| 涉及仓库数 | **14** 个 |
+| 涉及组织数 | **10** 个 |
+| 涉及仓库数 | **15** 个 |
 | Pull Request 数 | **21** 个（已合并 21，开放 0） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **66** 次 |
-| 总活动量 | **89** |
+| Commit 数 | **67** 次 |
+| 总活动量 | **90** |
 
 ### 🎯 工作重心分布
 
 ```
 kubernetes-sigs                ████                 22%
 iflytek                        ███                  18%
-dongjiang1989                  ██                   15%
+dongjiang1989                  ██                   14%
 luxi233                        ██                   10%
 ynyyzyrf                       ██                   10%
 e7t1s2n9yo                     █                    9%
 shrutiyam-glitch               █                    9%
 prometheus-operator            █                    6%
 Twigpine                       █                    1%
+jacobsee                       █                    1%
 ```
 
 ### 💡 核心总结
@@ -42,7 +43,7 @@ Twigpine                       █                    1%
 2. 共 **21** 个 PR 已合并，覆盖 7 个仓库。
 3. 活跃高峰出现在 **2026-04-13**（31 次活动），展现了高强度的工作节奏。
 4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 13 个仓库提交了 **66** 次代码。
+5. 在 14 个仓库提交了 **67** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,12 +51,12 @@ Twigpine                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 36 | **89** | +147% | 📈 +53 |
+| **总活动量** | 36 | **90** | +150% | 📈 +54 |
 | Pull Request | 9 | 21 | +133% | 📈 +12 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 27 | 66 | +144% | 📈 +39 |
+| Commit | 27 | 67 | +148% | 📈 +40 |
 
-- 🆕 **新增活跃仓库**：`Twigpine/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `kubernetes-sigs/kubebuilder`, `luxi233/astron-agent`, `ynyyzyrf/astron`
+- 🆕 **新增活跃仓库**：`Twigpine/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `luxi233/astron-agent`, `ynyyzyrf/astron`
 - ❌ **不再活跃的仓库**：`dongjiang1989/api-server`, `prometheus/alertmanager`
 - ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
@@ -65,10 +66,10 @@ Twigpine                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **89** | PR + Issue + Commit |
+| 📊 **总活动** | **90** | PR + Issue + Commit |
 | 📝 **Pull Request** | 21 | 已合并 21，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 66 | 代码提交 |
+| 💻 **Commit** | 67 | 代码提交 |
 
 ---
 
@@ -76,20 +77,20 @@ Twigpine                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（iflytek/astron-agent), luxi233/astron-agent, kubernetes-sigs/agent-sandbox)） |
-| **2026-04-14（二）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox), e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox） |
-| **2026-04-15（三）** | **20** | ████████████████████ | 20 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, iflytek/astron-agent), luxi233/astron-agent） |
+| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（luxi233/astron-agent, dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator)） |
+| **2026-04-14（二）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
+| **2026-04-15（三）** | **20** | ████████████████████ | 20 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, ynyyzyrf/astron, luxi233/astron-agent） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
 | **2026-04-17（五）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-18（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
-| 2026-04-19（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: update IntOrStri; dongjiang1989/myclawbot: Merge pull request #1 fro |
+| 2026-04-19（日） | 3 | ███░░ | kubernetes-sigs/controller-tools: update IntOrStri; jacobsee/usr-kubernetes-sigs-controller-tools: upd; dongjiang1989/myclawbot: Merge pull request #1 fro |
 | 2026-04-20（一） | 3 | ███░░ | PR #621 (kubernetes-sigs/agent-sandbox); dongjiang1989/scumbag: add scumbag skill
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
-| 2026-04-21（二） | 4 | ████░ | 4 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, Twigpine/openclaude), prometheus-operator/prometheus-operator)） |
+| 2026-04-21（二） | 4 | ████░ | 4 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), prometheus-operator/prometheus-operator)） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
-| 2026-04-24（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox） |
+| 2026-04-24（五） | 4 | ████░ | 4 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox） |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
 | 2026-04-26（日） | 0 | ░░░░░ | — |
 
@@ -103,15 +104,16 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 20 | 22.5% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
-| iflytek | 16 | 18.0% | iflytek/astron-agent(16) | Issue, PR, Push |
-| dongjiang1989 | 13 | 14.6% | dongjiang1989/opensearch-api(10), dongjiang1989/myclawbot(1), dongjiang1989/scumbag(1) | PR, Push |
-| luxi233 | 9 | 10.1% | luxi233/astron-agent(9) | Push |
-| ynyyzyrf | 9 | 10.1% | ynyyzyrf/astron(9) | Push |
-| e7t1s2n9yo | 8 | 9.0% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(8) | Push |
-| shrutiyam-glitch | 8 | 9.0% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
+| **kubernetes-sigs** | 20 | 22.2% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
+| iflytek | 16 | 17.8% | iflytek/astron-agent(16) | Issue, PR, Push |
+| dongjiang1989 | 13 | 14.4% | dongjiang1989/opensearch-api(10), dongjiang1989/myclawbot(1), dongjiang1989/scumbag(1) | PR, Push |
+| luxi233 | 9 | 10.0% | luxi233/astron-agent(9) | Push |
+| ynyyzyrf | 9 | 10.0% | ynyyzyrf/astron(9) | Push |
+| e7t1s2n9yo | 8 | 8.9% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(8) | Push |
+| shrutiyam-glitch | 8 | 8.9% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
 | prometheus-operator | 5 | 5.6% | prometheus-operator/prometheus-operator(5) | PR, Push |
 | Twigpine | 1 | 1.1% | Twigpine/openclaude(1) | PR |
+| jacobsee | 1 | 1.1% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -247,6 +249,7 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | prometheus-operator/prometheus-operator | 2 | 2026-04-22 | update prometheus version; update golangci linter version (#8510) |
 | kubernetes-sigs/controller-tools | 1 | 2026-04-19 | update IntOrString generated (#1370) |
 | kubernetes-sigs/kubebuilder | 1 | 2026-04-22 | ✨ (go/v4): upgrade golangci-lint to v2.11.4 (#5653 |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 1 | 2026-04-19 | update IntOrString generated (#1370) |
 | dongjiang1989/myclawbot | 1 | 2026-04-19 | Merge pull request #1 from dongjiang1989/feature/n |
 | dongjiang1989/scumbag | 1 | 2026-04-20 | add scumbag skill |
 | dongjiang1989/dongjiang1989 | 1 | 2026-04-20 | Update README.md |
@@ -272,4 +275,4 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

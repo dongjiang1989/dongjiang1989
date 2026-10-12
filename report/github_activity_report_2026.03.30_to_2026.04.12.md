@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -47,13 +47,13 @@ prometheus                     █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 32 | **36** | +12% | 📈 +4 |
+| **总活动量** | 33 | **36** | +9% | 📈 +3 |
 | Pull Request | 18 | 9 | -50% | 📉 -9 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 14 | 27 | +93% | 📈 +13 |
+| Commit | 15 | 27 | +80% | 📈 +12 |
 
 - 🆕 **新增活跃仓库**：`dongjiang1989/opensearch-api`, `prometheus/alertmanager`
-- ❌ **不再活跃的仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `kubegems/modelx`, `kubernetes-sigs/controller-runtime`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
+- ❌ **不再活跃的仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubegems/modelx`, `kubernetes-sigs/controller-runtime`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
 - ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
 ---
@@ -77,13 +77,13 @@ prometheus                     █                    3%
 | 2026-03-31（二） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Change(crd): rename; shrutiyam-glitch/agent-sandbox-trial: Change(crd): |
 | 2026-04-01（三） | 0 | ░░░░░ | — |
 | 2026-04-02（四） | 1 | █░░░░ | PR #503 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-03（五）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, dongjiang1989/api-server, kubernetes-sigs/agent-sandbox） |
+| **2026-04-03（五）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-04（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Migrate to controll; shrutiyam-glitch/agent-sandbox-trial: Migrate to c |
 | 2026-04-05（日） | 0 | ░░░░░ | — |
 | 2026-04-06（一） | 0 | ░░░░░ | — |
 | 2026-04-07（二） | 3 | ███░░ | PR #8495 (prometheus-operator/prometheus-operator); PR #5157 (prometheus/alertmanager); PR #8494 (prometheus-operator/prometheus-operator) |
 | 2026-04-08（三） | 3 | ███░░ | PR #549 (kubernetes-sigs/agent-sandbox); PR #548 (kubernetes-sigs/agent-sandbox); PR #545 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-09（四）** | **8** | ████████ | 8 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-09（四）** | **8** | ████████ | 8 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
 | **2026-04-10（五）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api） |
 | 2026-04-11（六） | 0 | ░░░░░ | — |
 | 2026-04-12（日） | 2 | ██░░░ | PR #576 (kubernetes-sigs/agent-sandbox); dongjiang1989/opensearch-api: update opensearch ap |
@@ -234,4 +234,4 @@ prometheus                     █                    3%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

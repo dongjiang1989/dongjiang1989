@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -53,13 +53,13 @@ ynyyzyrf                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 16 | **31** | +94% | 📈 +15 |
+| **总活动量** | 19 | **31** | +63% | 📈 +12 |
 | Pull Request | 8 | 10 | +25% | 📈 +2 |
 | Issue | 0 | 4 | 🆕 新增 | 📈 +4 |
-| Commit | 8 | 17 | +112% | 📈 +9 |
+| Commit | 11 | 17 | +55% | 📈 +6 |
 
 - 🆕 **新增活跃仓库**：`QQGoblin/node_exporter`, `asama-ai/node_exporter`, `dongjiang1989/dongjiang1989`, `iflytek/astron-agent`, `jicki/node_exporter`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/kspack-go`, `luxi233/astron-agent`, `prometheus/node_exporter`, `ynyyzyrf/astron`
-- ❌ **不再活跃的仓库**：`ahmetb/gen-crd-api-reference-docs`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
+- ❌ **不再活跃的仓库**：`ahmetb/gen-crd-api-reference-docs`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---
@@ -81,14 +81,14 @@ ynyyzyrf                       █                    3%
 |------|--------|--------|----------|
 | 2025-11-10（一） | 0 | ░░░░░ | — |
 | 2025-11-11（二） | 1 | █░░░░ | PR #8089 (prometheus-operator/prometheus-operator) |
-| **2025-11-12（三）** | **10** | ██████████ | 10 项活动（QQGoblin/node_exporter, kubernetes-sigs/controller-runtime, jicki/node_exporter） |
+| **2025-11-12（三）** | **10** | ██████████ | 10 项活动（jicki/node_exporter, asama-ai/node_exporter, prometheus-operator/prometheus-operator)） |
 | 2025-11-13（四） | 2 | ██░░░ | prometheus-operator/prometheus-operator: chore: up; prometheus-operator/prometheus-operator: chore: ad |
 | 2025-11-14（五） | 0 | ░░░░░ | — |
 | 2025-11-15（六） | 2 | ██░░░ | PR #88 (kubeservice-stack/echo); kubeservice-stack/echo: add slices pkg (#88)
 
 Sign |
 | 2025-11-16（日） | 0 | ░░░░░ | — |
-| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/common, prometheus-operator/prometheus-operator), kubeservice-stack/kspack-go） |
+| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/kspack-go, kubeservice-stack/common, kubernetes-sigs/kueue)） |
 | 2025-11-18（二） | 1 | █░░░░ | kubernetes-sigs/kueue: add modernize check (#7704) |
 | 2025-11-19（三） | 0 | ░░░░░ | — |
 | 2025-11-20（四） | 0 | ░░░░░ | — |
@@ -255,4 +255,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

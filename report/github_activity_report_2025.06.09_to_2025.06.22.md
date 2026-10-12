@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,29 +15,30 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **4** 个 |
-| 涉及仓库数 | **4** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **5** 个 |
 | Pull Request 数 | **3** 个（已合并 3，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **11** 次 |
-| 总活动量 | **15** |
+| Commit 数 | **12** 次 |
+| 总活动量 | **16** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ██████████           53%
-kubernetes-sigs                ████                 20%
-dongjiang1989                  ████                 20%
-apecloud                       █                    7%
+prometheus-operator            ██████████           50%
+kubernetes-sigs                ███                  19%
+dongjiang1989                  ███                  19%
+apecloud                       █                    6%
+jacobsee                       █                    6%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（53%），涉及 1 个仓库，共 8 次活动。
+1. **prometheus-operator** 是最大贡献方向（50%），涉及 1 个仓库，共 8 次活动。
 2. 共 **3** 个 PR 已合并，覆盖 2 个仓库。
 3. 活跃高峰出现在 **2025-06-13**（5 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 3 个仓库提交了 **11** 次代码。
+5. 在 4 个仓库提交了 **12** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -45,12 +46,12 @@ apecloud                       █                    7%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 8 | **15** | +88% | 📈 +7 |
+| **总活动量** | 8 | **16** | +100% | 📈 +8 |
 | Pull Request | 3 | 3 | 0% | ➡️ 持平 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 5 | 11 | +120% | 📈 +6 |
+| Commit | 5 | 12 | +140% | 📈 +7 |
 
-- 🆕 **新增活跃仓库**：`apecloud/kubeblocks-addons`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-tools`
+- 🆕 **新增活跃仓库**：`apecloud/kubeblocks-addons`, `dongjiang1989/dongjiang1989`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`
 - ❌ **不再活跃的仓库**：`karmada-io/karmada`, `oliver006/redis_exporter`, `thanos-io/thanos`, `vpuhoff/redis-exporter`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
@@ -60,10 +61,10 @@ apecloud                       █                    7%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **15** | PR + Issue + Commit |
+| 📊 **总活动** | **16** | PR + Issue + Commit |
 | 📝 **Pull Request** | 3 | 已合并 3，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 11 | 代码提交 |
+| 💻 **Commit** | 12 | 代码提交 |
 
 ---
 
@@ -75,14 +76,14 @@ apecloud                       █                    7%
 | 2025-06-10（二） | 1 | █░░░░ | dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-11（三） | 0 | ░░░░░ | — |
 | 2025-06-12（四） | 0 | ░░░░░ | — |
-| **2025-06-13（五）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
+| **2025-06-13（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989） |
 | 2025-06-14（六） | 2 | ██░░░ | prometheus-operator/prometheus-operator: fix e2e c; prometheus-operator/prometheus-operator: fix
 
 Sign |
 | 2025-06-15（日） | 0 | ░░░░░ | — |
 | 2025-06-16（一） | 2 | ██░░░ | Issue #1712; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-17（二） | 2 | ██░░░ | PR #7605 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update to |
-| 2025-06-18（三） | 3 | ███░░ | PR #1215 (kubernetes-sigs/controller-tools); PR #1214 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: envtest v1.34.0- |
+| 2025-06-18（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools） |
 | 2025-06-19（四） | 0 | ░░░░░ | — |
 | 2025-06-20（五） | 0 | ░░░░░ | — |
 | 2025-06-21（六） | 0 | ░░░░░ | — |
@@ -98,10 +99,11 @@ Sign |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 8 | 53.3% | prometheus-operator/prometheus-operator(8) | PR, Push |
-| kubernetes-sigs | 3 | 20.0% | kubernetes-sigs/controller-tools(3) | PR, Push |
-| dongjiang1989 | 3 | 20.0% | dongjiang1989/dongjiang1989(3) | Push |
-| apecloud | 1 | 6.7% | apecloud/kubeblocks-addons(1) | Issue |
+| **prometheus-operator** | 8 | 50.0% | prometheus-operator/prometheus-operator(8) | PR, Push |
+| kubernetes-sigs | 3 | 18.8% | kubernetes-sigs/controller-tools(3) | PR, Push |
+| dongjiang1989 | 3 | 18.8% | dongjiang1989/dongjiang1989(3) | Push |
+| apecloud | 1 | 6.2% | apecloud/kubeblocks-addons(1) | Issue |
+| jacobsee | 1 | 6.2% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -111,6 +113,7 @@ Sign |
 | 2 | **kubernetes-sigs/controller-tools** | 3 | 2 | 0 | 1 | PR #1215: ✨ Release envtest v1.34.0-alpha.1; PR #1214: 🌱Bump to k8s.io/* v0.34.0-alpha.1; Commit: envtest v1.34.0-alpha.1 |
 | 3 | **dongjiang1989/dongjiang1989** | 3 | 0 | 0 | 3 | Commit: Update README.md; Commit: Update README.md; Commit: Update README.md |
 | 4 | **apecloud/kubeblocks-addons** | 1 | 0 | 1 | 0 | Issue #1712: [Features]Support rocketmq? |
+| 5 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 1 | 0 | 0 | 1 | Commit: envtest v1.34.0-alpha.1 |
 
 ---
 
@@ -174,6 +177,12 @@ Sign |
 - **主要工作**:
   - Issue #1712: [Features]Support rocketmq?
 
+### jacobsee/usr-kubernetes-sigs-controller-tools（1 次活动）
+
+- **Commit**: 1 次
+- **主要工作**:
+  - Commit: envtest v1.34.0-alpha.1
+
 
 ---
 
@@ -184,6 +193,7 @@ Sign |
 | prometheus-operator/prometheus-operator | 7 | 2025-06-17 | update tools version; fix e2e case; fix |
 | dongjiang1989/dongjiang1989 | 3 | 2025-06-16 | Update README.md; Update README.md; Update README.md |
 | kubernetes-sigs/controller-tools | 1 | 2025-06-18 | envtest v1.34.0-alpha.1 |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 1 | 2025-06-18 | envtest v1.34.0-alpha.1 |
 
 ---
 
@@ -199,4 +209,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

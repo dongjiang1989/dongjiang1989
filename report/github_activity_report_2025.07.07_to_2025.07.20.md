@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -50,13 +50,13 @@ kev1N916                       █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 19 | **17** | -11% | 📉 -2 |
+| **总活动量** | 20 | **17** | -15% | 📉 -3 |
 | Pull Request | 10 | 5 | -50% | 📉 -5 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 9 | 11 | +22% | 📈 +2 |
+| Commit | 10 | 11 | +10% | 📈 +1 |
 
 - 🆕 **新增活跃仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
-- ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
+- ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - 🔄 **工作重心转移**：从 **apecloud** 转向 **prometheus-operator**
 
 ---
@@ -78,7 +78,7 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **9** | █████████ | 9 项活动（kev1N916/volcano, GsonZhao/volcano, volcano-sh/volcano)） |
+| **2025-07-09（三）** | **9** | █████████ | 9 项活动（volcano-sh/volcano, prometheus-operator/prometheus-operator), GsonZhao/volcano） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
@@ -230,4 +230,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

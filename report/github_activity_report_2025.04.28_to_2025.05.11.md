@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,22 +15,23 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **23** 个 |
-| 涉及仓库数 | **28** 个 |
+| 涉及组织数 | **24** 个 |
+| 涉及仓库数 | **29** 个 |
 | Pull Request 数 | **16** 个（已合并 15，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **44** 次 |
-| 总活动量 | **61** |
+| Commit 数 | **47** 次 |
+| 总活动量 | **64** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███                  18%
-kubeservice-stack              ███                  18%
-prometheus-operator            ██                   15%
-aimultiple-benchmark           █                    7%
+kubernetes-sigs                ███                  17%
+kubeservice-stack              ███                  17%
+prometheus-operator            ██                   14%
+aimultiple-benchmark           █                    6%
 Project-HAMi                   █                    5%
 web38444                       █                    5%
+jacobsee                       █                    5%
 raihanakbr                     █                    5%
 prometheus                     █                    3%
 bwplotka                       █                    2%
@@ -52,12 +53,12 @@ punith1006                     █                    2%
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（18%），涉及 2 个仓库，共 11 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（17%），涉及 2 个仓库，共 11 次活动。
 2. 共 **15** 个 PR 已合并，覆盖 8 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-05-06**（26 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 25 个仓库提交了 **44** 次代码。
+6. 在 26 个仓库提交了 **47** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -65,13 +66,13 @@ punith1006                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 57 | **61** | +7% | 📈 +4 |
+| **总活动量** | 55 | **64** | +16% | 📈 +9 |
 | Pull Request | 23 | 16 | -30% | 📉 -7 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 34 | 44 | +29% | 📈 +10 |
+| Commit | 32 | 47 | +47% | 📈 +15 |
 
-- 🆕 **新增活跃仓库**：`0xkato/prometheus-fork`, `Project-HAMi/HAMi-core`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bwplotka/mdox`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `punith1006/LaaS-Hami`, `pvlltvk/proxeus-prometheus`, `raihanakbr/descheduler-custom`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `ub42t1za0d/prometheus__prometheus.5241a27f`, `web38444/descheduler`
-- ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `iv57yf034b/helm__helm.bec5b06e`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `ljzljz520-eng/helm-31109`, `oliver006/redis_exporter`, `volcano-sh/volcano`, `yankeguo-deprecated/helm-enhanced`
+- 🆕 **新增活跃仓库**：`0xkato/prometheus-fork`, `Project-HAMi/HAMi-core`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bwplotka/mdox`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `punith1006/LaaS-Hami`, `pvlltvk/proxeus-prometheus`, `raihanakbr/descheduler-custom`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `ub42t1za0d/prometheus__prometheus.5241a27f`, `web38444/descheduler`
+- ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `iv57yf034b/helm__helm.bec5b06e`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `volcano-sh/volcano`, `yankeguo-deprecated/helm-enhanced`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **kubernetes-sigs**
 
 ---
@@ -80,10 +81,10 @@ punith1006                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **61** | PR + Issue + Commit |
+| 📊 **总活动** | **64** | PR + Issue + Commit |
 | 📝 **Pull Request** | 16 | 已合并 15，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 44 | 代码提交 |
+| 💻 **Commit** | 47 | 代码提交 |
 
 ---
 
@@ -91,18 +92,18 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/descheduler), kubernetes-sigs/descheduler, punith1006/LaaS-Hami） |
+| **2025-04-28（一）** | **15** | ███████████████ | 15 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/descheduler), kubernetes-sigs/controller-tools)） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（web38444/descheduler, kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator)） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator)） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **26** | ████████████████████ | 26 项活动（rhobs/obo-prometheus, elouafi-abderrahmane-2002/prometheus, aimultiple-benchmark/prometheus-bench-cur-2） |
-| 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
-| 2025-05-08（四） | 4 | ████░ | 4 项活动（kubeservice-stack/common, prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubeservice-stack/echo, kubeservice-stack/common)） |
+| **2025-05-06（二）** | **26** | ████████████████████ | 26 项活动（kubeservice-stack/echo, SINDEKARHAS/Prometheus, raihanakbr/descheduler-custom） |
+| 2025-05-07（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, bwplotka/mdox)） |
+| **2025-05-08（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/common, prometheus-operator/prometheus-operator)） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/common, kubeservice-stack/echo） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
@@ -116,14 +117,15 @@ punith1006                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubernetes-sigs | 11 | 18.0% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/descheduler(4) | PR, Push |
-| kubeservice-stack | 11 | 18.0% | kubeservice-stack/echo(6), kubeservice-stack/common(5) | PR, Push |
-| prometheus-operator | 9 | 14.8% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| aimultiple-benchmark | 4 | 6.6% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| Project-HAMi | 3 | 4.9% | Project-HAMi/HAMi-core(3) | Issue, PR, Push |
-| web38444 | 3 | 4.9% | web38444/descheduler(3) | Push |
-| raihanakbr | 3 | 4.9% | raihanakbr/descheduler-custom(3) | Push |
-| prometheus | 2 | 3.3% | prometheus/prometheus(2) | PR, Push |
+| kubernetes-sigs | 11 | 17.2% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/descheduler(4) | PR, Push |
+| kubeservice-stack | 11 | 17.2% | kubeservice-stack/echo(6), kubeservice-stack/common(5) | PR, Push |
+| prometheus-operator | 9 | 14.1% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| aimultiple-benchmark | 4 | 6.2% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| Project-HAMi | 3 | 4.7% | Project-HAMi/HAMi-core(3) | Issue, PR, Push |
+| web38444 | 3 | 4.7% | web38444/descheduler(3) | Push |
+| jacobsee | 3 | 4.7% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| raihanakbr | 3 | 4.7% | raihanakbr/descheduler-custom(3) | Push |
+| prometheus | 2 | 3.1% | prometheus/prometheus(2) | PR, Push |
 | bwplotka | 1 | 1.6% | bwplotka/mdox(1) | PR |
 | prometheus-community | 1 | 1.6% | prometheus-community/helm-charts(1) | PR |
 | thanos-io | 1 | 1.6% | thanos-io/thanos(1) | PR |
@@ -151,9 +153,9 @@ punith1006                     █                    2%
 | 5 | **kubernetes-sigs/descheduler** | 4 | 1 | 0 | 3 | PR #1675: chore: Bump to official kubernetes v0.33; Commit: Merge branch 'kubernetes-sigs:master' into; Commit: update k8s to v1.33 |
 | 6 | **Project-HAMi/HAMi-core** | 3 | 1 | 1 | 1 | PR #73: feat: Add cuCtxCreate_v3 context func hook; Issue #71: By grabbing the latest version of cuda ; Commit: add cuCtxCreate_v3 |
 | 7 | **web38444/descheduler** | 3 | 0 | 0 | 3 | Commit: Merge branch 'kubernetes-sigs:master' into; Commit: update k8s to v1.33; Commit: Update run-e2e-tests.sh |
-| 8 | **raihanakbr/descheduler-custom** | 3 | 0 | 0 | 3 | Commit: Merge branch 'kubernetes-sigs:master' into; Commit: update k8s to v1.33; Commit: Update run-e2e-tests.sh |
-| 9 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #16560: docs: update configuration.md; Commit: update fix configuration.md |
-| 10 | **bwplotka/mdox** | 1 | 1 | 0 | 0 | PR #172: Fix: `http2: timeout awaiting response he |
+| 8 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 3 | 0 | 0 | 3 | Commit: Bump to k8s.io/* v0.33.0; Commit: add envtest v1.33.0; Commit: add envtest v1.33.0 |
+| 9 | **raihanakbr/descheduler-custom** | 3 | 0 | 0 | 3 | Commit: Merge branch 'kubernetes-sigs:master' into; Commit: update k8s to v1.33; Commit: Update run-e2e-tests.sh |
+| 10 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #16560: docs: update configuration.md; Commit: update fix configuration.md |
 
 ---
 
@@ -261,6 +263,7 @@ punith1006                     █                    2%
 | prometheus-operator/prometheus-operator | 5 | 2025-05-07 | Merge pull request #7480 from kubeservice-stack/al; Merge pull request #7501 from kubeservice-stack/up; Merge pull request #7487 from kubeservice-stack/up |
 | web38444/descheduler | 3 | 2025-05-06 | Merge branch 'kubernetes-sigs:master' into fix-sec; update k8s to v1.33; Update run-e2e-tests.sh |
 | kubernetes-sigs/controller-tools | 3 | 2025-05-08 | Bump to k8s.io/* v0.33.0; add envtest v1.33.0; add envtest v1.33.0 |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2025-05-08 | Bump to k8s.io/* v0.33.0; add envtest v1.33.0; add envtest v1.33.0 |
 | kubeservice-stack/common | 3 | 2025-05-09 | add custom service name (#88); feat: add tracing package (#87); Update go.yml |
 | kubernetes-sigs/descheduler | 3 | 2025-05-06 | Merge branch 'kubernetes-sigs:master' into fix-sec; update k8s to v1.33; Update run-e2e-tests.sh |
 | raihanakbr/descheduler-custom | 3 | 2025-05-06 | Merge branch 'kubernetes-sigs:master' into fix-sec; update k8s to v1.33; Update run-e2e-tests.sh |
@@ -297,4 +300,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

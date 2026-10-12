@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,21 +15,22 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **13** 个 |
-| 涉及仓库数 | **16** 个 |
+| 涉及组织数 | **14** 个 |
+| 涉及仓库数 | **17** 个 |
 | Pull Request 数 | **16** 个（已合并 16，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **29** 次 |
-| 总活动量 | **45** |
+| Commit 数 | **32** 次 |
+| 总活动量 | **48** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ████                 24%
-prometheus-operator            ████                 22%
-kagent-dev                     ██                   11%
-prometheus                     █                    7%
-dongjiang1989                  █                    7%
+kubernetes-sigs                ████                 23%
+prometheus-operator            ████                 21%
+kagent-dev                     ██                   10%
+prometheus                     █                    6%
+jacobsee                       █                    6%
+dongjiang1989                  █                    6%
 Project-HAMi                   █                    4%
 CodeLinaro-mirror              █                    4%
 chromium-full-mirror           █                    4%
@@ -42,10 +43,10 @@ jimmidyson                     █                    2%
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（24%），涉及 4 个仓库，共 11 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（23%），涉及 4 个仓库，共 11 次活动。
 2. 共 **16** 个 PR 已合并，覆盖 8 个仓库。
-3. 活跃高峰出现在 **2025-07-21**（12 次活动），展现了高强度的工作节奏。
-4. 在 15 个仓库提交了 **29** 次代码。
+3. 活跃高峰出现在 **2025-07-21**（13 次活动），展现了高强度的工作节奏。
+4. 在 16 个仓库提交了 **32** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -53,12 +54,12 @@ jimmidyson                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 17 | **45** | +165% | 📈 +28 |
+| **总活动量** | 17 | **48** | +182% | 📈 +31 |
 | Pull Request | 5 | 16 | +220% | 📈 +11 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 11 | 29 | +164% | 📈 +18 |
+| Commit | 11 | 32 | +191% | 📈 +21 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `apecloud/kubeblocks-addons`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
@@ -68,10 +69,10 @@ jimmidyson                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **45** | PR + Issue + Commit |
+| 📊 **总活动** | **48** | PR + Issue + Commit |
 | 📝 **Pull Request** | 16 | 已合并 16，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 29 | 代码提交 |
+| 💻 **Commit** | 32 | 代码提交 |
 
 ---
 
@@ -79,22 +80,22 @@ jimmidyson                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/external-dns), prometheus-operator/prometheus-operator), prometheus/procfs)） |
+| **2025-07-21（一）** | **13** | █████████████ | 13 项活动（prometheus/procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, kubernetes-sigs/controller-tools)） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（erauner12/kagent-detached, prometheus-operator/prometheus-operator), tmohanvamsi/kagent） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（kagent-dev/kagent), kagent-dev/kagent, prometheus-operator/prometheus-operator)） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
-| 2025-07-30（三） | 3 | ███░░ | PR #1248 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update golangci ; prometheus-operator/prometheus-operator: feat: add |
-| **2025-07-31（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime)） |
+| 2025-07-30（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **7** | ███████ | 7 项活动（kubernetes-sigs/cluster-api), punith1006/LaaS-Hami, Project-HAMi/HAMi-core） |
+| **2025-08-02（六）** | **7** | ███████ | 7 项活动（kubernetes-sigs/cluster-api), kubernetes-sigs/cluster-api, punith1006/LaaS-Hami） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-07-21（12 次活动）为最高峰。
+> **活跃高峰**：2025-07-21（13 次活动）为最高峰。
 
 ---
 
@@ -104,19 +105,20 @@ jimmidyson                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 11 | 24.4% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/cluster-api(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| **prometheus-operator** | 10 | 22.2% | prometheus-operator/prometheus-operator(10) | PR, Push |
-| kagent-dev | 5 | 11.1% | kagent-dev/kagent(5) | PR, Push |
-| prometheus | 3 | 6.7% | prometheus/procfs(3) | PR, Push |
-| dongjiang1989 | 3 | 6.7% | dongjiang1989/dongjiang1989(3) | Push |
-| Project-HAMi | 2 | 4.4% | Project-HAMi/HAMi-core(2) | PR, Push |
-| CodeLinaro-mirror | 2 | 4.4% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(2) | Push |
-| chromium-full-mirror | 2 | 4.4% | chromium-full-mirror/external_github.com_prometheus_procfs(2) | Push |
-| tmohanvamsi | 2 | 4.4% | tmohanvamsi/kagent(2) | Push |
-| erauner12 | 2 | 4.4% | erauner12/kagent-detached(2) | Push |
-| chrischdi | 1 | 2.2% | chrischdi/openshift-cluster-api(1) | Push |
-| punith1006 | 1 | 2.2% | punith1006/LaaS-Hami(1) | Push |
-| jimmidyson | 1 | 2.2% | jimmidyson/kcp-cluster-api(1) | Push |
+| **kubernetes-sigs** | 11 | 22.9% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/cluster-api(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| **prometheus-operator** | 10 | 20.8% | prometheus-operator/prometheus-operator(10) | PR, Push |
+| kagent-dev | 5 | 10.4% | kagent-dev/kagent(5) | PR, Push |
+| prometheus | 3 | 6.2% | prometheus/procfs(3) | PR, Push |
+| jacobsee | 3 | 6.2% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| dongjiang1989 | 3 | 6.2% | dongjiang1989/dongjiang1989(3) | Push |
+| Project-HAMi | 2 | 4.2% | Project-HAMi/HAMi-core(2) | PR, Push |
+| CodeLinaro-mirror | 2 | 4.2% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(2) | Push |
+| chromium-full-mirror | 2 | 4.2% | chromium-full-mirror/external_github.com_prometheus_procfs(2) | Push |
+| tmohanvamsi | 2 | 4.2% | tmohanvamsi/kagent(2) | Push |
+| erauner12 | 2 | 4.2% | erauner12/kagent-detached(2) | Push |
+| chrischdi | 1 | 2.1% | chrischdi/openshift-cluster-api(1) | Push |
+| punith1006 | 1 | 2.1% | punith1006/LaaS-Hami(1) | Push |
+| jimmidyson | 1 | 2.1% | jimmidyson/kcp-cluster-api(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -126,12 +128,12 @@ jimmidyson                     █                    2%
 | 2 | **kubernetes-sigs/controller-tools** | 6 | 3 | 0 | 3 | PR #1249: 🌱chore: Sync `.golangci.yaml` from contr; PR #1248: 🌱chore: Update golangci lint version to ; PR #1240: ✨ Release envtest v1.34.0-beta.0 |
 | 3 | **kagent-dev/kagent** | 5 | 3 | 0 | 2 | PR #650: feat(env): Add automatic memory limit han; PR #644: feat(env): auto set GOMAXPROCS by go.uber; PR #643: feat: add `kagent_build_info` metrics for |
 | 4 | **prometheus/procfs** | 3 | 1 | 0 | 2 | PR #738: feat: Add hung_task_detect_count; Commit: update testdata; Commit: add hung_task_detect_count |
-| 5 | **dongjiang1989/dongjiang1989** | 3 | 0 | 0 | 3 | Commit: Update README.md; Commit: Update README.md; Commit: Update README.md |
-| 6 | **Project-HAMi/HAMi-core** | 2 | 1 | 0 | 1 | PR #106: feat: Add cuMemcpy2D memory func hook; Commit: add cuMemcpy2D |
-| 7 | **kubernetes-sigs/cluster-api** | 2 | 1 | 0 | 1 | PR #12573: 🌱chore: Update golangci-lint to v2.3.0; Commit: update golangci-lint to v2.3.0 |
-| 8 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3266: 🌱chore: Update golangci-lint version to ; Commit: update golangci-lint version |
-| 9 | **CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs** | 2 | 0 | 0 | 2 | Commit: update testdata; Commit: add hung_task_detect_count |
-| 10 | **chromium-full-mirror/external_github.com_prometheus_procfs** | 2 | 0 | 0 | 2 | Commit: update testdata; Commit: add hung_task_detect_count |
+| 5 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 3 | 0 | 0 | 3 | Commit: sync controller-runtime .golangci.yaml; Commit: update golangci lint; Commit: Create v1.34.0-beta.0.yaml |
+| 6 | **dongjiang1989/dongjiang1989** | 3 | 0 | 0 | 3 | Commit: Update README.md; Commit: Update README.md; Commit: Update README.md |
+| 7 | **Project-HAMi/HAMi-core** | 2 | 1 | 0 | 1 | PR #106: feat: Add cuMemcpy2D memory func hook; Commit: add cuMemcpy2D |
+| 8 | **kubernetes-sigs/cluster-api** | 2 | 1 | 0 | 1 | PR #12573: 🌱chore: Update golangci-lint to v2.3.0; Commit: update golangci-lint to v2.3.0 |
+| 9 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3266: 🌱chore: Update golangci-lint version to ; Commit: update golangci-lint version |
+| 10 | **CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs** | 2 | 0 | 0 | 2 | Commit: update testdata; Commit: add hung_task_detect_count |
 
 ---
 
@@ -214,13 +216,13 @@ jimmidyson                     █                    2%
   - Commit: update testdata
   - Commit: add hung_task_detect_count
 
-### dongjiang1989/dongjiang1989（3 次活动）
+### jacobsee/usr-kubernetes-sigs-controller-tools（3 次活动）
 
 - **Commit**: 3 次
 - **主要工作**:
-  - Commit: Update README.md
-  - Commit: Update README.md
-  - Commit: Update README.md
+  - Commit: sync controller-runtime .golangci.yaml
+  - Commit: update golangci lint
+  - Commit: Create v1.34.0-beta.0.yaml
 
 
 ---
@@ -231,6 +233,7 @@ jimmidyson                     █                    2%
 |------|---------|---------|---------|
 | prometheus-operator/prometheus-operator | 5 | 2025-07-30 | feat: add `ruleGracePeriod` options for thanos CRD; update thanos to v0.39.2; chore: Update k8s-libs to v0.33.3 (#7740) |
 | kubernetes-sigs/controller-tools | 3 | 2025-07-31 | sync controller-runtime .golangci.yaml; update golangci lint; Create v1.34.0-beta.0.yaml |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2025-07-31 | sync controller-runtime .golangci.yaml; update golangci lint; Create v1.34.0-beta.0.yaml |
 | dongjiang1989/dongjiang1989 | 3 | 2025-07-31 | Update README.md; Update README.md; Update README.md |
 | prometheus/procfs | 2 | 2025-07-21 | update testdata; add hung_task_detect_count |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 2 | 2025-07-21 | update testdata; add hung_task_detect_count |
@@ -262,4 +265,4 @@ jimmidyson                     █                    2%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -65,13 +65,13 @@ ynyyzyrf                       █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 65 | **65** | 0% | ➡️ 持平 |
+| **总活动量** | 66 | **65** | -2% | 📉 -1 |
 | Pull Request | 24 | 23 | -4% | 📉 -1 |
 | Issue | 3 | 0 | -100% | 📉 -3 |
-| Commit | 38 | 42 | +11% | 📈 +4 |
+| Commit | 39 | 42 | +8% | 📈 +3 |
 
 - 🆕 **新增活跃仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `iflytek/astron-agent`, `iflytek/community`, `kubeservice-stack/common`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `u1op29ss7b/project-hami__hami.4707fb02`, `ynyyzyrf/astron`
-- ❌ **不再活跃的仓库**：`guanglechen/agenthub-enterprise`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`
+- ❌ **不再活跃的仓库**：`guanglechen/agenthub-enterprise`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `volcano-sh/volcano`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **iflytek**
 
 ---
@@ -91,18 +91,18 @@ ynyyzyrf                       █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（erauner12/kagent-detached, kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator)） |
-| **2026-05-12（二）** | **19** | ███████████████████ | 19 项活动（wei-shon/skillhub_delete, ichichuang/skillhub-lobster-frontend, iflytek/astron-agent)） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（kagent-dev/kagent, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2026-05-12（二）** | **19** | ███████████████████ | 19 项活动（bohe1026/skillhub, tellbom/skillhub, kagent-dev/kagent） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 1 | █░░░░ | PR #1322 (iflytek/astron-agent) |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo), kubeservice-stack/common） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kagent-dev/kagent), kubeservice-stack/common), kubeservice-stack/node-metrics） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, prometheus-operator/prometheus-operator), iflytek/community)） |
-| **2026-05-21（四）** | **13** | █████████████ | 13 项活动（Project-HAMi/HAMi, dongjiang1989/opensearch-api, iflytek/community)） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-runtime, kubeservice-stack/common, iflytek/community） |
+| **2026-05-20（三）** | **6** | ██████ | 6 项活动（iflytek/community), dongjiang1989/opensearch-api, Project-HAMi/HAMi)） |
+| **2026-05-21（四）** | **13** | █████████████ | 13 项活动（Project-HAMi/HAMi, u1op29ss7b/project-hami__hami.4707fb02, iflytek/community)） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（iflytek/community, kubeservice-stack/common), kubeservice-stack/common） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
@@ -309,4 +309,4 @@ ynyyzyrf                       █                    2%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

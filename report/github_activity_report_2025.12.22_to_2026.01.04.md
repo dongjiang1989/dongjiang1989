@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -48,13 +48,13 @@ grafana                        █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 38 | **17** | -55% | 📉 -21 |
+| **总活动量** | 39 | **17** | -56% | 📉 -22 |
 | Pull Request | 15 | 5 | -67% | 📉 -10 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 22 | 11 | -50% | 📉 -11 |
+| Commit | 23 | 11 | -52% | 📉 -12 |
 
 - 🆕 **新增活跃仓库**：`apecloud/kubeblocks-addons`, `dongjiang1989/dongjiang1989`, `grafana/grafana`
-- ❌ **不再活跃的仓库**：`anil7000/external-dns`, `dongjiang1989/zookeeper-registry`, `iflytek/astron-agent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/echo`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
+- ❌ **不再活跃的仓库**：`anil7000/external-dns`, `dongjiang1989/zookeeper-registry`, `iflytek/astron-agent`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/echo`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
 - ✅ **工作重心稳定**：继续聚焦 **kubeservice-stack**
 
 ---
@@ -74,10 +74,10 @@ grafana                        █                    6%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime)） |
+| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-runtime） |
 | 2025-12-23（二） | 3 | ███░░ | PR #8203 (prometheus-operator/prometheus-operator); dongjiang1989/dongjiang1989: Update README.md; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-12-24（三） | 1 | █░░░░ | PR #2345 (apecloud/kubeblocks-addons) |
-| **2025-12-25（四）** | **8** | ████████ | 8 项活动（kubeservice-stack/lua-resty-zookeeper, apecloud/kubeblocks-addons, prometheus-operator/prometheus-operator)） |
+| **2025-12-25（四）** | **8** | ████████ | 8 项活动（kubeservice-stack/lua-resty-zookeeper, prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper)） |
 | 2025-12-26（五） | 0 | ░░░░░ | — |
 | 2025-12-27（六） | 0 | ░░░░░ | — |
 | 2025-12-28（日） | 0 | ░░░░░ | — |
@@ -222,4 +222,4 @@ grafana                        █                    6%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

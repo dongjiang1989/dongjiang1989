@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,28 +15,29 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **4** 个 |
-| 涉及仓库数 | **5** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **6** 个 |
 | Pull Request 数 | **10** 个（已合并 10，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **9** 次 |
-| 总活动量 | **19** |
+| Commit 数 | **10** 次 |
+| 总活动量 | **20** |
 
 ### 🎯 工作重心分布
 
 ```
-apecloud                       ████████             42%
-prometheus-operator            ██████               32%
-kubernetes-sigs                ████                 21%
+apecloud                       ████████             40%
+prometheus-operator            ██████               30%
+kubernetes-sigs                ████                 20%
+jacobsee                       █                    5%
 dongjiang1989                  █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **apecloud** 是最大贡献方向（42%），涉及 1 个仓库，共 8 次活动。
+1. **apecloud** 是最大贡献方向（40%），涉及 1 个仓库，共 8 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 4 个仓库。
-3. 活跃高峰出现在 **2025-06-27**（5 次活动），展现了高强度的工作节奏。
-4. 在 5 个仓库提交了 **9** 次代码。
+3. 活跃高峰出现在 **2025-06-27**（6 次活动），展现了高强度的工作节奏。
+4. 在 6 个仓库提交了 **10** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -44,10 +45,10 @@ dongjiang1989                  █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 15 | **19** | +27% | 📈 +4 |
+| **总活动量** | 16 | **20** | +25% | 📈 +4 |
 | Pull Request | 3 | 10 | +233% | 📈 +7 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 11 | 9 | -18% | 📉 -2 |
+| Commit | 12 | 10 | -17% | 📉 -2 |
 
 - 🆕 **新增活跃仓库**：`kubernetes-sigs/controller-runtime`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **apecloud**
@@ -58,10 +59,10 @@ dongjiang1989                  █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **19** | PR + Issue + Commit |
+| 📊 **总活动** | **20** | PR + Issue + Commit |
 | 📝 **Pull Request** | 10 | 已合并 10，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 9 | 代码提交 |
+| 💻 **Commit** | 10 | 代码提交 |
 
 ---
 
@@ -73,18 +74,18 @@ dongjiang1989                  █                    5%
 | 2025-06-24（二） | 2 | ██░░░ | PR #1746 (apecloud/kubeblocks-addons); PR #1743 (apecloud/kubeblocks-addons) |
 | 2025-06-25（三） | 2 | ██░░░ | PR #3243 (kubernetes-sigs/controller-runtime); kubernetes-sigs/controller-runtime: fix priority q |
 | 2025-06-26（四） | 0 | ░░░░░ | — |
-| **2025-06-27（五）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools, apecloud/kubeblocks-addons)） |
+| **2025-06-27（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), apecloud/kubeblocks-addons), dongjiang1989/dongjiang1989） |
 | 2025-06-28（六） | 0 | ░░░░░ | — |
 | 2025-06-29（日） | 0 | ░░░░░ | — |
 | 2025-06-30（一） | 2 | ██░░░ | PR #7656 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
 | 2025-07-01（二） | 2 | ██░░░ | PR #7659 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
-| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons, apecloud/kubeblocks-addons)） |
+| 2025-07-02（三） | 4 | ████░ | 4 项活动（apecloud/kubeblocks-addons), apecloud/kubeblocks-addons） |
 | 2025-07-03（四） | 2 | ██░░░ | PR #7672 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: feat: add |
 | 2025-07-04（五） | 0 | ░░░░░ | — |
 | 2025-07-05（六） | 0 | ░░░░░ | — |
 | 2025-07-06（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-06-27（5 次活动）为最高峰。
+> **活跃高峰**：2025-06-27（6 次活动）为最高峰。
 
 ---
 
@@ -94,10 +95,11 @@ dongjiang1989                  █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **apecloud** | 8 | 42.1% | apecloud/kubeblocks-addons(8) | PR, Push |
-| **prometheus-operator** | 6 | 31.6% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| **kubernetes-sigs** | 4 | 21.1% | kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| dongjiang1989 | 1 | 5.3% | dongjiang1989/dongjiang1989(1) | Push |
+| **apecloud** | 8 | 40.0% | apecloud/kubeblocks-addons(8) | PR, Push |
+| **prometheus-operator** | 6 | 30.0% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| kubernetes-sigs | 4 | 20.0% | kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| jacobsee | 1 | 5.0% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
+| dongjiang1989 | 1 | 5.0% | dongjiang1989/dongjiang1989(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -107,7 +109,8 @@ dongjiang1989                  █                    5%
 | 2 | **prometheus-operator/prometheus-operator** | 6 | 3 | 0 | 3 | PR #7672: feat: add `ruleOutageTolerance` option f; PR #7659: feat: add thanos rule concurrent evaluat; PR #7656: chore: bump default prometheus version t |
 | 3 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1225: 🌱Bump to k8s.io/* v0.34.0-alpha.2; Commit: update to v0.34.0-alpha.2 |
 | 4 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3243: 🐛 Priorityqueue: Don't block on Get when; Commit: fix priority queue |
-| 5 | **dongjiang1989/dongjiang1989** | 1 | 0 | 0 | 1 | Commit: Update README.md |
+| 5 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 1 | 0 | 0 | 1 | Commit: update to v0.34.0-alpha.2 |
+| 6 | **dongjiang1989/dongjiang1989** | 1 | 0 | 0 | 1 | Commit: Update README.md |
 
 ---
 
@@ -180,11 +183,11 @@ dongjiang1989                  █                    5%
   - PR #3243: 🐛 Priorityqueue: Don't block on Get when queue is shutdown
   - Commit: fix priority queue
 
-### dongjiang1989/dongjiang1989（1 次活动）
+### jacobsee/usr-kubernetes-sigs-controller-tools（1 次活动）
 
 - **Commit**: 1 次
 - **主要工作**:
-  - Commit: Update README.md
+  - Commit: update to v0.34.0-alpha.2
 
 
 ---
@@ -197,6 +200,7 @@ dongjiang1989                  █                    5%
 | prometheus-operator/prometheus-operator | 3 | 2025-07-03 | feat: add `ruleOutageTolerance` option for thanos ; feat: add thanos rule concurrent evaluation option; update prometheus version |
 | kubernetes-sigs/controller-tools | 1 | 2025-06-27 | update to v0.34.0-alpha.2 |
 | kubernetes-sigs/controller-runtime | 1 | 2025-06-25 | fix priority queue |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 1 | 2025-06-27 | update to v0.34.0-alpha.2 |
 | dongjiang1989/dongjiang1989 | 1 | 2025-06-27 | Update README.md |
 
 ---
@@ -213,4 +217,4 @@ dongjiang1989                  █                    5%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

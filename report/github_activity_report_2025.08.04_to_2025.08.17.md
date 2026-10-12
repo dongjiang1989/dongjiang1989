@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -53,13 +53,13 @@ cnloxiaoteng-ship-it           █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 45 | **16** | -64% | 📉 -29 |
+| **总活动量** | 48 | **16** | -67% | 📉 -32 |
 | Pull Request | 16 | 6 | -62% | 📉 -10 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 29 | 9 | -69% | 📉 -20 |
+| Commit | 32 | 9 | -72% | 📉 -23 |
 
 - 🆕 **新增活跃仓库**：`anil7000/external-dns`, `cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -80,13 +80,13 @@ cnloxiaoteng-ship-it           █                    6%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo, kubeservice-stack/echo)） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（kubeservice-stack/echo), kubeservice-stack/echo, prometheus-operator/prometheus-operator)） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 3 | ███░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update ; anil7000/external-dns: chore(deps): update golangc |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 4 | ████░ | 4 项活动（prometheus-community/helm-charts, psharma0905/Prometheus-and-Grafana-helm-charts, yunshenliu92/prometheus） |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（yunshenliu92/prometheus, prometheus-community/helm-charts, cnloxiaoteng-ship-it/helm-charts） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -232,4 +232,4 @@ cnloxiaoteng-ship-it           █                    6%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

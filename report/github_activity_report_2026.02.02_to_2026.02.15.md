@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,29 +15,30 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **4** 个 |
-| 涉及仓库数 | **7** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **8** 个 |
 | Pull Request 数 | **8** 个（已合并 8，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **8** 次 |
-| 总活动量 | **17** |
+| Commit 数 | **13** 次 |
+| 总活动量 | **22** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ██████████████       71%
-dongjiang1989                  ███                  18%
-prometheus-operator            █                    6%
-Project-HAMi                   █                    6%
+kubernetes-sigs                ██████████           55%
+jacobsee                       ████                 23%
+dongjiang1989                  ██                   14%
+prometheus-operator            █                    5%
+Project-HAMi                   █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（71%），涉及 4 个仓库，共 12 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（55%），涉及 4 个仓库，共 12 次活动。
 2. 共 **8** 个 PR 已合并，覆盖 6 个仓库。
-3. 活跃高峰出现在 **2026-02-05**（7 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2026-02-05**（12 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 3 个仓库提交了 **8** 次代码。
+5. 在 4 个仓库提交了 **13** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -45,12 +46,12 @@ Project-HAMi                   █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 35 | **17** | -51% | 📉 -18 |
+| **总活动量** | 35 | **22** | -37% | 📉 -13 |
 | Pull Request | 9 | 8 | -11% | 📉 -1 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 25 | 8 | -68% | 📉 -17 |
+| Commit | 25 | 13 | -48% | 📉 -12 |
 
-- 🆕 **新增活跃仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kueue`, `prometheus-operator/prometheus-operator`
+- 🆕 **新增活跃仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kueue`, `prometheus-operator/prometheus-operator`
 - ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `u1op29ss7b/project-hami__hami.4707fb02`, `virtual-kubelet/virtual-kubelet`
 - 🔄 **工作重心转移**：从 **Project-HAMi** 转向 **kubernetes-sigs**
 
@@ -60,10 +61,10 @@ Project-HAMi                   █                    6%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **17** | PR + Issue + Commit |
+| 📊 **总活动** | **22** | PR + Issue + Commit |
 | 📝 **Pull Request** | 8 | 已合并 8，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 8 | 代码提交 |
+| 💻 **Commit** | 13 | 代码提交 |
 
 ---
 
@@ -74,8 +75,8 @@ Project-HAMi                   █                    6%
 | 2026-02-02（一） | 0 | ░░░░░ | — |
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
-| **2026-02-05（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime)） |
+| **2026-02-05（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns)） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -86,7 +87,7 @@ Project-HAMi                   █                    6%
 | 2026-02-14（六） | 2 | ██░░░ | PR #1 (dongjiang1989/myclawbot); dongjiang1989/myclawbot: feat(netpkg): add TCP/UDP |
 | 2026-02-15（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-02-05（7 次活动）为最高峰。
+> **活跃高峰**：2026-02-05（12 次活动）为最高峰。
 
 ---
 
@@ -96,22 +97,24 @@ Project-HAMi                   █                    6%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 12 | 70.6% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/external-dns(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| dongjiang1989 | 3 | 17.6% | dongjiang1989/myclawbot(3) | PR, Push |
-| prometheus-operator | 1 | 5.9% | prometheus-operator/prometheus-operator(1) | PR |
-| Project-HAMi | 1 | 5.9% | Project-HAMi/community(1) | Issue |
+| **kubernetes-sigs** | 12 | 54.5% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/external-dns(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| **jacobsee** | 5 | 22.7% | jacobsee/usr-kubernetes-sigs-controller-tools(5) | Push |
+| dongjiang1989 | 3 | 13.6% | dongjiang1989/myclawbot(3) | PR, Push |
+| prometheus-operator | 1 | 4.5% | prometheus-operator/prometheus-operator(1) | PR |
+| Project-HAMi | 1 | 4.5% | Project-HAMi/community(1) | Issue |
 
 ### 4.2 仓库详细 Top 10
 
 | 排名 | 仓库 | 活动数 | PR数 | Issue数 | Commit数 | 关键工作 |
 |------|------|--------|------|---------|---------|----------|
 | 1 | **kubernetes-sigs/controller-tools** | 7 | 2 | 0 | 5 | PR #1332: 🌱chore: Update golangci-lint version to ; PR #1331: ✨feat: Support nested pointer to type-al; Commit: update by codereview |
-| 2 | **dongjiang1989/myclawbot** | 3 | 1 | 0 | 2 | PR #1: feat(netpkg): add TCP/UDP protocol encapsul; Commit: feat(netpkg): add TCP/UDP protocol encapsu; Commit: Initial commit |
-| 3 | **kubernetes-sigs/external-dns** | 2 | 2 | 0 | 0 | PR #6169: resolve `LC_DYSYMTAB` warning in unit te; PR #6168: chore(deps): bump the k8s-libs group and |
-| 4 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3448: 🌱chore: Update golangci-lint version to ; Commit: update golangci-linter version |
-| 5 | **prometheus-operator/prometheus-operator** | 1 | 1 | 0 | 0 | PR #8366: chore: Update golangci-lint version to v |
-| 6 | **kubernetes-sigs/kueue** | 1 | 1 | 0 | 0 | PR #9078: chore: Change `GetEventRecorderFor` to ` |
-| 7 | **Project-HAMi/community** | 1 | 0 | 1 | 0 | Issue #34: REQUEST：New Membership Request for dong |
+| 2 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 5 | 0 | 0 | 5 | Commit: update by codereview; Commit: fix unittest case fail; Commit: update test case |
+| 3 | **dongjiang1989/myclawbot** | 3 | 1 | 0 | 2 | PR #1: feat(netpkg): add TCP/UDP protocol encapsul; Commit: feat(netpkg): add TCP/UDP protocol encapsu; Commit: Initial commit |
+| 4 | **kubernetes-sigs/external-dns** | 2 | 2 | 0 | 0 | PR #6169: resolve `LC_DYSYMTAB` warning in unit te; PR #6168: chore(deps): bump the k8s-libs group and |
+| 5 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3448: 🌱chore: Update golangci-lint version to ; Commit: update golangci-linter version |
+| 6 | **prometheus-operator/prometheus-operator** | 1 | 1 | 0 | 0 | PR #8366: chore: Update golangci-lint version to v |
+| 7 | **kubernetes-sigs/kueue** | 1 | 1 | 0 | 0 | PR #9078: chore: Change `GetEventRecorderFor` to ` |
+| 8 | **Project-HAMi/community** | 1 | 0 | 1 | 0 | Issue #34: REQUEST：New Membership Request for dong |
 
 ---
 
@@ -157,6 +160,16 @@ Project-HAMi                   █                    6%
   - Commit: fix unittest case fail
   - Commit: update test case
 
+### jacobsee/usr-kubernetes-sigs-controller-tools（5 次活动）
+
+- **Commit**: 5 次
+- **主要工作**:
+  - Commit: update by codereview
+  - Commit: fix unittest case fail
+  - Commit: update test case
+  - Commit: update golangci lint version
+  - Commit: support nested pointer to type-aliased slices
+
 ### dongjiang1989/myclawbot（3 次活动）
 
 - **PR**: 1 个
@@ -181,12 +194,6 @@ Project-HAMi                   █                    6%
   - PR #3448: 🌱chore: Update golangci-lint version to v2.8.0
   - Commit: update golangci-linter version
 
-### prometheus-operator/prometheus-operator（1 次活动）
-
-- **PR**: 1 个
-- **主要工作**:
-  - PR #8366: chore: Update golangci-lint version to v2.9.0
-
 
 ---
 
@@ -195,6 +202,7 @@ Project-HAMi                   █                    6%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | kubernetes-sigs/controller-tools | 5 | 2026-02-05 | update by codereview; fix unittest case fail; update test case |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 5 | 2026-02-05 | update by codereview; fix unittest case fail; update test case |
 | dongjiang1989/myclawbot | 2 | 2026-02-14 | feat(netpkg): add TCP/UDP protocol encapsulation w; Initial commit |
 | kubernetes-sigs/controller-runtime | 1 | 2026-02-06 | update golangci-linter version |
 
@@ -216,4 +224,4 @@ Project-HAMi                   █                    6%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

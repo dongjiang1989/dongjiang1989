@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -44,13 +44,13 @@ prometheus-operator            ██████               33%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 17 | **3** | -82% | 📉 -14 |
+| **总活动量** | 22 | **3** | -86% | 📉 -19 |
 | Pull Request | 8 | 2 | -75% | 📉 -6 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 8 | 1 | -88% | 📉 -7 |
+| Commit | 13 | 1 | -92% | 📉 -12 |
 
 - 🆕 **新增活跃仓库**：`dongjiang1989/kueue`
-- ❌ **不再活跃的仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`
+- ❌ **不再活跃的仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`
 - ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
 
 ---
@@ -174,4 +174,4 @@ prometheus-operator            ██████               33%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

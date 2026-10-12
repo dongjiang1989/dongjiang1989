@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,31 +15,32 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **7** 个 |
-| 涉及仓库数 | **8** 个 |
+| 涉及组织数 | **8** 个 |
+| 涉及仓库数 | **9** 个 |
 | Pull Request 数 | **10** 个（已合并 10，开放 0） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **12** 次 |
-| 总活动量 | **22** |
+| Commit 数 | **15** 次 |
+| 总活动量 | **25** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                █████████            45%
-prometheus-operator            █████                27%
-bytebase                       █                    9%
-kagent-dev                     █                    5%
-weedgit                        █                    5%
-bwplotka                       █                    5%
-brianlallen                    █                    5%
+kubernetes-sigs                ████████             40%
+prometheus-operator            ████                 24%
+jacobsee                       ██                   12%
+bytebase                       █                    8%
+kagent-dev                     █                    4%
+weedgit                        █                    4%
+bwplotka                       █                    4%
+brianlallen                    █                    4%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（45%），涉及 2 个仓库，共 10 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（40%），涉及 2 个仓库，共 10 次活动。
 2. 共 **10** 个 PR 已合并，覆盖 5 个仓库。
-3. 活跃高峰出现在 **2025-09-12**（7 次活动），展现了高强度的工作节奏。
-4. 在 7 个仓库提交了 **12** 次代码。
+3. 活跃高峰出现在 **2025-09-11**（9 次活动），展现了高强度的工作节奏。
+4. 在 8 个仓库提交了 **15** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -47,12 +48,12 @@ brianlallen                    █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 23 | **22** | -4% | 📉 -1 |
+| **总活动量** | 23 | **25** | +9% | 📈 +2 |
 | Pull Request | 6 | 10 | +67% | 📈 +4 |
 | Issue | 2 | 0 | -100% | 📉 -2 |
-| Commit | 15 | 12 | -20% | 📉 -3 |
+| Commit | 15 | 15 | 0% | ➡️ 持平 |
 
-- 🆕 **新增活跃仓库**：`bwplotka/mdox`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
+- 🆕 **新增活跃仓库**：`bwplotka/mdox`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - ❌ **不再活跃的仓库**：`apache/dubbo-go`, `bytebase/clabot-config`, `dongjiang1989/dubbo-go-server`, `jimmidyson/kcp-cluster-api`, `kagent-dev/community`, `kubernetes-sigs/cluster-api`
 - 🔄 **工作重心转移**：从 **dongjiang1989** 转向 **kubernetes-sigs**
 
@@ -62,10 +63,10 @@ brianlallen                    █                    5%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **22** | PR + Issue + Commit |
+| 📊 **总活动** | **25** | PR + Issue + Commit |
 | 📝 **Pull Request** | 10 | 已合并 10，开放 0 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 12 | 代码提交 |
+| 💻 **Commit** | 15 | 代码提交 |
 
 ---
 
@@ -75,7 +76,7 @@ brianlallen                    █                    5%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -83,12 +84,12 @@ brianlallen                    █                    5%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime, bytebase/bytebase), kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **7** | ███████ | 7 项活动（brianlallen/bytebase, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools） |
+| **2025-09-11（四）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
+| **2025-09-12（五）** | **8** | ████████ | 8 项活动（bytebase/bytebase, kubernetes-sigs/controller-tools), brianlallen/bytebase） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-09-12（7 次活动）为最高峰。
+> **活跃高峰**：2025-09-11（9 次活动）为最高峰。
 
 ---
 
@@ -98,13 +99,14 @@ brianlallen                    █                    5%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 10 | 45.5% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
-| **prometheus-operator** | 6 | 27.3% | prometheus-operator/prometheus-operator(6) | PR, Push |
-| bytebase | 2 | 9.1% | bytebase/bytebase(2) | PR, Push |
-| kagent-dev | 1 | 4.5% | kagent-dev/kagent(1) | PR |
-| weedgit | 1 | 4.5% | weedgit/bytebase(1) | Push |
-| bwplotka | 1 | 4.5% | bwplotka/mdox(1) | Push |
-| brianlallen | 1 | 4.5% | brianlallen/bytebase(1) | Push |
+| **kubernetes-sigs** | 10 | 40.0% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(4) | PR, Push |
+| **prometheus-operator** | 6 | 24.0% | prometheus-operator/prometheus-operator(6) | PR, Push |
+| jacobsee | 3 | 12.0% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| bytebase | 2 | 8.0% | bytebase/bytebase(2) | PR, Push |
+| kagent-dev | 1 | 4.0% | kagent-dev/kagent(1) | PR |
+| weedgit | 1 | 4.0% | weedgit/bytebase(1) | Push |
+| bwplotka | 1 | 4.0% | bwplotka/mdox(1) | Push |
+| brianlallen | 1 | 4.0% | brianlallen/bytebase(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -113,11 +115,12 @@ brianlallen                    █                    5%
 | 1 | **kubernetes-sigs/controller-tools** | 6 | 3 | 0 | 3 | PR #1281: 🌱chore: Update golangci-lint version to ; PR #1280: 🌱Release envtest v1.34.1; PR #1279: 🌱Bump to k8s.io/* v0.34.1 |
 | 2 | **prometheus-operator/prometheus-operator** | 6 | 3 | 0 | 3 | PR #7892: chore: Update controller-tools to v0.19.; PR #7868: chore: Update golangci-linter to v2.4.0; PR #7867: chore: change the `record` api to the ne |
 | 3 | **kubernetes-sigs/controller-runtime** | 4 | 2 | 0 | 2 | PR #3318: 🌱chore: Update golangci-lint version to ; PR #3316: 🌱Bump to k8s.io/* v0.34.1; Commit: update golangci-lint to v2.4.0 |
-| 4 | **bytebase/bytebase** | 2 | 1 | 0 | 1 | PR #17404: fix(mongodb): fix mongodb readonly user; Commit: fix MONGODB readonly user roles (#17404) |
-| 5 | **kagent-dev/kagent** | 1 | 1 | 0 | 0 | PR #850: Bump to k8s.io/* v0.34.0 |
-| 6 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
-| 7 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
-| 8 | **brianlallen/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
+| 4 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 3 | 0 | 0 | 3 | Commit: 🌱chore: Update golangci-lint version to v2; Commit: Release envtest v1.34.1; Commit: update k8s/* to v0.34.1 |
+| 5 | **bytebase/bytebase** | 2 | 1 | 0 | 1 | PR #17404: fix(mongodb): fix mongodb readonly user; Commit: fix MONGODB readonly user roles (#17404) |
+| 6 | **kagent-dev/kagent** | 1 | 1 | 0 | 0 | PR #850: Bump to k8s.io/* v0.34.0 |
+| 7 | **weedgit/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
+| 8 | **bwplotka/mdox** | 1 | 0 | 0 | 1 | Commit: fix http2: timeout awaiting response heade |
+| 9 | **brianlallen/bytebase** | 1 | 0 | 0 | 1 | Commit: fix MONGODB readonly user roles (#17404) |
 
 ---
 
@@ -184,6 +187,14 @@ brianlallen                    █                    5%
   - Commit: update golangci-lint to v2.4.0
   - Commit: Bump to k8s.io/* v0.34.1
 
+### jacobsee/usr-kubernetes-sigs-controller-tools（3 次活动）
+
+- **Commit**: 3 次
+- **主要工作**:
+  - Commit: 🌱chore: Update golangci-lint version to v2.4.0
+  - Commit: Release envtest v1.34.1
+  - Commit: update k8s/* to v0.34.1
+
 ### bytebase/bytebase（2 次活动）
 
 - **PR**: 1 个
@@ -191,12 +202,6 @@ brianlallen                    █                    5%
 - **主要工作**:
   - PR #17404: fix(mongodb): fix mongodb readonly user with only `readAnyDa
   - Commit: fix MONGODB readonly user roles (#17404)
-
-### kagent-dev/kagent（1 次活动）
-
-- **PR**: 1 个
-- **主要工作**:
-  - PR #850: Bump to k8s.io/* v0.34.0
 
 
 ---
@@ -206,6 +211,7 @@ brianlallen                    █                    5%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | kubernetes-sigs/controller-tools | 3 | 2025-09-12 | 🌱chore: Update golangci-lint version to v2.4.0; Release envtest v1.34.1; update k8s/* to v0.34.1 |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2025-09-12 | 🌱chore: Update golangci-lint version to v2.4.0; Release envtest v1.34.1; update k8s/* to v0.34.1 |
 | prometheus-operator/prometheus-operator | 3 | 2025-09-09 | update controller-tools to v0.19.0; update golangci-linter and kube-api-linter to v2.4; tools: add KAL tools for golangci-linter with bina |
 | kubernetes-sigs/controller-runtime | 2 | 2025-09-12 | update golangci-lint to v2.4.0; Bump to k8s.io/* v0.34.1 |
 | weedgit/bytebase | 1 | 2025-09-12 | fix MONGODB readonly user roles (#17404) |
@@ -229,4 +235,4 @@ brianlallen                    █                    5%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

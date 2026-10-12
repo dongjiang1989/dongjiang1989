@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,29 +15,30 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **4** 个 |
-| 涉及仓库数 | **5** 个 |
+| 涉及组织数 | **5** 个 |
+| 涉及仓库数 | **6** 个 |
 | Pull Request 数 | **8** 个（已合并 7，开放 1） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **8** 次 |
-| 总活动量 | **16** |
+| Commit 数 | **11** 次 |
+| 总活动量 | **19** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████████             44%
-kubernetes-sigs                ████████             44%
-loggie-io                      █                    6%
-ahmetb                         █                    6%
+prometheus-operator            ███████              37%
+kubernetes-sigs                ███████              37%
+jacobsee                       ███                  16%
+loggie-io                      █                    5%
+ahmetb                         █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（44%），涉及 1 个仓库，共 7 次活动。
+1. **prometheus-operator** 是最大贡献方向（37%），涉及 1 个仓库，共 7 次活动。
 2. 共 **7** 个 PR 已合并，覆盖 3 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-10-31**（4 次活动），展现了高强度的工作节奏。
-5. 在 4 个仓库提交了 **8** 次代码。
+4. 活跃高峰出现在 **2025-10-30**（5 次活动），展现了高强度的工作节奏。
+5. 在 5 个仓库提交了 **11** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -45,12 +46,12 @@ ahmetb                         █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 10 | **16** | +60% | 📈 +6 |
+| **总活动量** | 10 | **19** | +90% | 📈 +9 |
 | Pull Request | 5 | 8 | +60% | 📈 +3 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 5 | 8 | +60% | 📈 +3 |
+| Commit | 5 | 11 | +120% | 📈 +6 |
 
-- 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
+- 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
 - ❌ **不再活跃的仓库**：`kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
@@ -60,10 +61,10 @@ ahmetb                         █                    6%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **16** | PR + Issue + Commit |
+| 📊 **总活动** | **19** | PR + Issue + Commit |
 | 📝 **Pull Request** | 8 | 已合并 7，开放 1 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 8 | 代码提交 |
+| 💻 **Commit** | 11 | 代码提交 |
 
 ---
 
@@ -74,10 +75,10 @@ ahmetb                         █                    6%
 | 2025-10-27（一） | 0 | ░░░░░ | — |
 | 2025-10-28（二） | 0 | ░░░░░ | — |
 | 2025-10-29（三） | 2 | ██░░░ | PR #3370 (kubernetes-sigs/controller-runtime); ahmetb/gen-crd-api-reference-docs: fix unsupported |
-| 2025-10-30（四） | 3 | ███░░ | PR #1299 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: Change sort to s; kubernetes-sigs/controller-runtime: change sort to |
-| 2025-10-31（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime)） |
+| **2025-10-30（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools） |
+| 2025-10-31（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime） |
 | 2025-11-01（六） | 0 | ░░░░░ | — |
-| 2025-11-02（日） | 1 | █░░░░ | kubernetes-sigs/controller-tools: Merge branch 'ma |
+| 2025-11-02（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: Merge branch 'ma; jacobsee/usr-kubernetes-sigs-controller-tools: Mer |
 | 2025-11-03（一） | 3 | ███░░ | PR #8065 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Merge pul; prometheus-operator/prometheus-operator: update pr |
 | 2025-11-04（二） | 2 | ██░░░ | PR #8070 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: change so |
 | 2025-11-05（三） | 0 | ░░░░░ | — |
@@ -86,7 +87,7 @@ ahmetb                         █                    6%
 | 2025-11-08（六） | 1 | █░░░░ | PR #703 (loggie-io/loggie) |
 | 2025-11-09（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-10-31（4 次活动）为最高峰。
+> **活跃高峰**：2025-10-30（5 次活动）为最高峰。
 
 ---
 
@@ -96,10 +97,11 @@ ahmetb                         █                    6%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 7 | 43.8% | prometheus-operator/prometheus-operator(7) | PR, Push |
-| **kubernetes-sigs** | 7 | 43.8% | kubernetes-sigs/controller-runtime(4), kubernetes-sigs/controller-tools(3) | PR, Push |
-| loggie-io | 1 | 6.2% | loggie-io/loggie(1) | PR |
-| ahmetb | 1 | 6.2% | ahmetb/gen-crd-api-reference-docs(1) | Push |
+| **prometheus-operator** | 7 | 36.8% | prometheus-operator/prometheus-operator(7) | PR, Push |
+| **kubernetes-sigs** | 7 | 36.8% | kubernetes-sigs/controller-runtime(4), kubernetes-sigs/controller-tools(3) | PR, Push |
+| jacobsee | 3 | 15.8% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| loggie-io | 1 | 5.3% | loggie-io/loggie(1) | PR |
+| ahmetb | 1 | 5.3% | ahmetb/gen-crd-api-reference-docs(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -108,8 +110,9 @@ ahmetb                         █                    6%
 | 1 | **prometheus-operator/prometheus-operator** | 7 | 4 | 0 | 3 | PR #8070: chore: Change sort to slices package; PR #8065: chore: Update prometheus version to v3.7; PR #8063: chore: Update golangci-lint version to v |
 | 2 | **kubernetes-sigs/controller-runtime** | 4 | 2 | 0 | 2 | PR #3374: 🌱 Add depguard golangci-linter for forbi; PR #3370: 🌱chore: Change `sort` to `slices` packag; Commit: add golangci lint rule |
 | 3 | **kubernetes-sigs/controller-tools** | 3 | 1 | 0 | 2 | PR #1299: 🌱Change sort to slices package; Commit: Merge branch 'main' into slices-pkg; Commit: Change sort to slices package |
-| 4 | **loggie-io/loggie** | 1 | 1 | 0 | 0 | PR #703: Fix: concurrent map iteration and map wri |
-| 5 | **ahmetb/gen-crd-api-reference-docs** | 1 | 0 | 0 | 1 | Commit: fix unsupported type (#109) |
+| 4 | **jacobsee/usr-kubernetes-sigs-controller-tools** | 3 | 0 | 0 | 3 | Commit: UPSTREAM: 1299: Change sort to slices pack; Commit: Merge branch 'main' into slices-pkg; Commit: Change sort to slices package |
+| 5 | **loggie-io/loggie** | 1 | 1 | 0 | 0 | PR #703: Fix: concurrent map iteration and map wri |
+| 6 | **ahmetb/gen-crd-api-reference-docs** | 1 | 0 | 0 | 1 | Commit: fix unsupported type (#109) |
 
 ---
 
@@ -173,17 +176,19 @@ ahmetb                         █                    6%
   - Commit: Merge branch 'main' into slices-pkg
   - Commit: Change sort to slices package
 
+### jacobsee/usr-kubernetes-sigs-controller-tools（3 次活动）
+
+- **Commit**: 3 次
+- **主要工作**:
+  - Commit: UPSTREAM: 1299: Change sort to slices package
+  - Commit: Merge branch 'main' into slices-pkg
+  - Commit: Change sort to slices package
+
 ### loggie-io/loggie（1 次活动）
 
 - **PR**: 1 个
 - **主要工作**:
   - PR #703: Fix: concurrent map iteration and map write in runtime packa
-
-### ahmetb/gen-crd-api-reference-docs（1 次活动）
-
-- **Commit**: 1 次
-- **主要工作**:
-  - Commit: fix unsupported type (#109)
 
 
 ---
@@ -192,6 +197,7 @@ ahmetb                         █                    6%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
+| jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2025-10-30 | UPSTREAM: 1299: Change sort to slices package; Merge branch 'main' into slices-pkg; Change sort to slices package |
 | prometheus-operator/prometheus-operator | 3 | 2025-11-04 | change sort to slices package; Merge pull request #8063 from kubeservice-stack/ad; update promtheus version |
 | kubernetes-sigs/controller-tools | 2 | 2025-11-02 | Merge branch 'main' into slices-pkg; Change sort to slices package |
 | kubernetes-sigs/controller-runtime | 2 | 2025-10-31 | add golangci lint rule; change sort to slices package (#3370) |
@@ -213,4 +219,4 @@ ahmetb                         █                    6%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*

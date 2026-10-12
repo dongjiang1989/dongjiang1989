@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：90 | **Following**：51
+> **公开仓库数**：259 | **Followers**：92 | **Following**：52
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **11** 个 |
-| 涉及仓库数 | **13** 个 |
-| Pull Request 数 | **18** 个（已合并 16，开放 2） |
+| 涉及组织数 | **12** 个 |
+| 涉及仓库数 | **14** 个 |
+| Pull Request 数 | **18** 个（已合并 17，开放 1） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **14** 次 |
-| 总活动量 | **32** |
+| Commit 数 | **15** 次 |
+| 总活动量 | **33** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███████              38%
-prometheus-operator            ███                  16%
+kubernetes-sigs                ███████              36%
+prometheus-operator            ███                  15%
 Arry8                          ██                   12%
 anomalyco                      █                    6%
 kubernetes                     █                    6%
@@ -35,16 +35,17 @@ kubeservice-stack              █                    3%
 kubegems                       █                    3%
 openclaw                       █                    3%
 e7t1s2n9yo                     █                    3%
+jacobsee                       █                    3%
 shrutiyam-glitch               █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（38%），涉及 3 个仓库，共 12 次活动。
-2. 共 **16** 个 PR 已合并，覆盖 9 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-03-18**（12 次活动），展现了高强度的工作节奏。
-5. 在 9 个仓库提交了 **14** 次代码。
+1. **kubernetes-sigs** 是最大贡献方向（36%），涉及 3 个仓库，共 12 次活动。
+2. 共 **17** 个 PR 已合并，覆盖 9 个仓库。
+3. **1** 个 PR 仍在开放/Review 中。
+4. 活跃高峰出现在 **2026-03-18**（13 次活动），展现了高强度的工作节奏。
+5. 在 10 个仓库提交了 **15** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -52,10 +53,10 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 17 | **32** | +88% | 📈 +15 |
+| **总活动量** | 18 | **33** | +83% | 📈 +15 |
 | Pull Request | 6 | 18 | +200% | 📈 +12 |
 | Issue | 0 | 0 | N/A | ➡️ 持平 |
-| Commit | 11 | 14 | +27% | 📈 +3 |
+| Commit | 12 | 15 | +25% | 📈 +3 |
 
 - 🆕 **新增活跃仓库**：`Arry8/openclaw-edge`, `anomalyco/opencode`, `dongjiang1989/api-server`, `kubegems/modelx`, `kubernetes/test-infra`, `kubeservice-stack/modelx`, `openclaw/openclaw`
 - ✅ **工作重心稳定**：继续聚焦 **kubernetes-sigs**
@@ -66,10 +67,10 @@ shrutiyam-glitch               █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **32** | PR + Issue + Commit |
-| 📝 **Pull Request** | 18 | 已合并 16，开放 2 |
+| 📊 **总活动** | **33** | PR + Issue + Commit |
+| 📝 **Pull Request** | 18 | 已合并 17，开放 1 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 14 | 代码提交 |
+| 💻 **Commit** | 15 | 代码提交 |
 
 ---
 
@@ -79,20 +80,20 @@ shrutiyam-glitch               █                    3%
 |------|--------|--------|----------|
 | 2026-03-16（一） | 1 | █░░░░ | PR #421 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-17（二） | 0 | ░░░░░ | — |
-| **2026-03-18（三）** | **12** | ████████████ | 12 项活动（Arry8/openclaw-edge, kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator)） |
-| **2026-03-19（四）** | **6** | ██████ | 6 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes/test-infra, kubernetes-sigs/agent-sandbox)） |
+| **2026-03-18（三）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator), openclaw/openclaw)） |
+| **2026-03-19（四）** | **6** | ██████ | 6 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes/test-infra, kubernetes/test-infra)） |
 | 2026-03-20（五） | 0 | ░░░░░ | — |
 | 2026-03-21（六） | 3 | ███░░ | PR #458 (kubernetes-sigs/agent-sandbox); PR #457 (kubernetes-sigs/agent-sandbox); PR #456 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-22（日） | 0 | ░░░░░ | — |
 | 2026-03-23（一） | 0 | ░░░░░ | — |
 | 2026-03-24（二） | 0 | ░░░░░ | — |
 | 2026-03-25（三） | 1 | █░░░░ | PR #1370 (kubernetes-sigs/controller-tools) |
-| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, anomalyco/opencode)） |
-| 2026-03-27（五） | 4 | ████░ | 4 项活动（kubeservice-stack/modelx), dongjiang1989/api-server, kubegems/modelx)） |
+| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, anomalyco/opencode), prometheus-operator/prometheus-operator)） |
+| 2026-03-27（五） | 4 | ████░ | 4 项活动（kubegems/modelx), kubeservice-stack/modelx), dongjiang1989/api-server） |
 | 2026-03-28（六） | 0 | ░░░░░ | — |
 | 2026-03-29（日） | 1 | █░░░░ | PR #486 (kubernetes-sigs/agent-sandbox) |
 
-> **活跃高峰**：2026-03-18（12 次活动）为最高峰。
+> **活跃高峰**：2026-03-18（13 次活动）为最高峰。
 
 ---
 
@@ -102,17 +103,18 @@ shrutiyam-glitch               █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 12 | 37.5% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| prometheus-operator | 5 | 15.6% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| Arry8 | 4 | 12.5% | Arry8/openclaw-edge(4) | Push |
-| anomalyco | 2 | 6.2% | anomalyco/opencode(2) | PR |
-| kubernetes | 2 | 6.2% | kubernetes/test-infra(2) | PR, Push |
-| dongjiang1989 | 2 | 6.2% | dongjiang1989/api-server(2) | Push |
-| kubeservice-stack | 1 | 3.1% | kubeservice-stack/modelx(1) | PR |
-| kubegems | 1 | 3.1% | kubegems/modelx(1) | PR |
-| openclaw | 1 | 3.1% | openclaw/openclaw(1) | PR |
-| e7t1s2n9yo | 1 | 3.1% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(1) | Push |
-| shrutiyam-glitch | 1 | 3.1% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
+| **kubernetes-sigs** | 12 | 36.4% | kubernetes-sigs/agent-sandbox(7), kubernetes-sigs/controller-tools(3), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| prometheus-operator | 5 | 15.2% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| Arry8 | 4 | 12.1% | Arry8/openclaw-edge(4) | Push |
+| anomalyco | 2 | 6.1% | anomalyco/opencode(2) | PR |
+| kubernetes | 2 | 6.1% | kubernetes/test-infra(2) | PR, Push |
+| dongjiang1989 | 2 | 6.1% | dongjiang1989/api-server(2) | Push |
+| kubeservice-stack | 1 | 3.0% | kubeservice-stack/modelx(1) | PR |
+| kubegems | 1 | 3.0% | kubegems/modelx(1) | PR |
+| openclaw | 1 | 3.0% | openclaw/openclaw(1) | PR |
+| e7t1s2n9yo | 1 | 3.0% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(1) | Push |
+| jacobsee | 1 | 3.0% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
+| shrutiyam-glitch | 1 | 3.0% | shrutiyam-glitch/agent-sandbox-trial(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -141,25 +143,25 @@ shrutiyam-glitch               █                    3%
 | 2 | kubeservice-stack/modelx | [#410](https://github.com/kubeservice-stack/modelx/pull/410) | chore: update golang version to fix github action | ✅ 已合并 |
 | 3 | kubegems/modelx | [#11](https://github.com/kubegems/modelx/pull/11) | fix: Update golang version to github action golangci-linter | 🔒 已关闭 |
 | 4 | prometheus-operator/prometheus-operator | [#8467](https://github.com/prometheus-operator/prometheus-operator/pull/8467) | chore: Update controller-tools to v0.20.1 | ✅ 已合并 |
-| 5 | kubernetes-sigs/controller-tools | [#1370](https://github.com/kubernetes-sigs/controller-tools/pull/1370) | ✨Preserve Enum validation for IntOrString type in CRD generation | ✅ 已合并 |
-| 6 | kubernetes-sigs/agent-sandbox | [#458](https://github.com/kubernetes-sigs/agent-sandbox/pull/458) | Migrate to controller-runtime v0.23+ Event Recorder API | ✅ 已合并 |
-| 7 | kubernetes-sigs/agent-sandbox | [#457](https://github.com/kubernetes-sigs/agent-sandbox/pull/457) | feat(env): Add automatic memory limit handling | 🔒 已关闭 |
-| 8 | kubernetes-sigs/agent-sandbox | [#456](https://github.com/kubernetes-sigs/agent-sandbox/pull/456) | Add replicas default value in sandbox crd | ✅ 已合并 |
-| 9 | kubernetes-sigs/agent-sandbox | [#440](https://github.com/kubernetes-sigs/agent-sandbox/pull/440) | Change(crd): rename 'Name' to 'name' in sandboxclaim_types CRD | ✅ 已合并 |
-| 10 | kubernetes/test-infra | [#36685](https://github.com/kubernetes/test-infra/pull/36685) | feat: add kube api linter in presubmits in agent-sandbox | ✅ 已合并 |
-| 11 | kubernetes-sigs/controller-tools | [#1367](https://github.com/kubernetes-sigs/controller-tools/pull/1367) | 🌱chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
-| 12 | kubernetes-sigs/controller-runtime | [#3482](https://github.com/kubernetes-sigs/controller-runtime/pull/3482) | 🌱chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
-| 13 | openclaw/openclaw | [#49707](https://github.com/openclaw/openclaw/pull/49707) | fix(token): tokens usage statistics show "?" when provider returns zer | 🔒 已关闭 |
-| 14 | anomalyco/opencode | [#18049](https://github.com/anomalyco/opencode/pull/18049) | fix(desktop): fix server addr projectKey  | 🔒 已关闭 |
-| 15 | prometheus-operator/prometheus-operator | [#8452](https://github.com/prometheus-operator/prometheus-operator/pull/8452) | chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
-| 16 | kubernetes-sigs/agent-sandbox | [#421](https://github.com/kubernetes-sigs/agent-sandbox/pull/421) | feat: add kube-api-linter checker | ✅ 已合并 |
+| 5 | anomalyco/opencode | [#19261](https://github.com/anomalyco/opencode/pull/19261) | fix: add defensive checks for undefined values in diff handling | 🔒 已关闭 |
+| 6 | kubernetes-sigs/controller-tools | [#1370](https://github.com/kubernetes-sigs/controller-tools/pull/1370) | ✨Preserve Enum validation for IntOrString type in CRD generation | ✅ 已合并 |
+| 7 | kubernetes-sigs/agent-sandbox | [#458](https://github.com/kubernetes-sigs/agent-sandbox/pull/458) | Migrate to controller-runtime v0.23+ Event Recorder API | ✅ 已合并 |
+| 8 | kubernetes-sigs/agent-sandbox | [#457](https://github.com/kubernetes-sigs/agent-sandbox/pull/457) | feat(env): Add automatic memory limit handling | 🔒 已关闭 |
+| 9 | kubernetes-sigs/agent-sandbox | [#456](https://github.com/kubernetes-sigs/agent-sandbox/pull/456) | Add replicas default value in sandbox crd | ✅ 已合并 |
+| 10 | kubernetes-sigs/agent-sandbox | [#440](https://github.com/kubernetes-sigs/agent-sandbox/pull/440) | Change(crd): rename 'Name' to 'name' in sandboxclaim_types CRD | ✅ 已合并 |
+| 11 | kubernetes/test-infra | [#36685](https://github.com/kubernetes/test-infra/pull/36685) | feat: add kube api linter in presubmits in agent-sandbox | ✅ 已合并 |
+| 12 | kubernetes-sigs/controller-tools | [#1367](https://github.com/kubernetes-sigs/controller-tools/pull/1367) | 🌱chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
+| 13 | kubernetes-sigs/controller-runtime | [#3482](https://github.com/kubernetes-sigs/controller-runtime/pull/3482) | 🌱chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
+| 14 | openclaw/openclaw | [#49707](https://github.com/openclaw/openclaw/pull/49707) | fix(token): tokens usage statistics show "?" when provider returns zer | 🔒 已关闭 |
+| 15 | anomalyco/opencode | [#18049](https://github.com/anomalyco/opencode/pull/18049) | fix(desktop): fix server addr projectKey  | 🔒 已关闭 |
+| 16 | prometheus-operator/prometheus-operator | [#8452](https://github.com/prometheus-operator/prometheus-operator/pull/8452) | chore: Update golangci-linter version to v2.11.3 | ✅ 已合并 |
+| 17 | kubernetes-sigs/agent-sandbox | [#421](https://github.com/kubernetes-sigs/agent-sandbox/pull/421) | feat: add kube-api-linter checker | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus-operator/prometheus-operator | [#8466](https://github.com/prometheus-operator/prometheus-operator/pull/8466) | feat: Add fgprof debug endpoint for Off-CPU time analysis. | 🔄 开放 |
-| 2 | anomalyco/opencode | [#19261](https://github.com/anomalyco/opencode/pull/19261) | fix: add defensive checks for undefined values in diff handling | 🔄 开放 |
 
 ---
 
@@ -232,6 +234,7 @@ shrutiyam-glitch               █                    3%
 | kubernetes-sigs/controller-tools | 1 | 2026-03-18 | update golangci-linter version |
 | kubernetes-sigs/controller-runtime | 1 | 2026-03-18 | update golangci-linter version to v2.11.3 |
 | kubernetes/test-infra | 1 | 2026-03-19 | add kube api linter in presubmits |
+| jacobsee/usr-kubernetes-sigs-controller-tools | 1 | 2026-03-18 | update golangci-linter version |
 | kubernetes-sigs/agent-sandbox | 1 | 2026-03-19 | feat: add kube-api-linter checker (#421) |
 | shrutiyam-glitch/agent-sandbox-trial | 1 | 2026-03-19 | feat: add kube-api-linter checker (#421) |
 
@@ -252,4 +255,4 @@ shrutiyam-glitch               █                    3%
 
 ---
 
-*报告生成时间：2026-10-05 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
