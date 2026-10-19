@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -83,9 +83,9 @@ n2h9                           █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-02-17（一） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/common), kubeservice-stack/common） |
+| 2025-02-17（一） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus/client_golang), kubeservice-stack/common)） |
 | 2025-02-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, cloudflare/ebpf_exporter)） |
-| **2025-02-19（三）** | **9** | █████████ | 9 项活动（ai-integr8tor/prometheus-client_golang, barajeel/golang, t9xm7plpy2/prometheus__client_golang.d6087ee4） |
+| **2025-02-19（三）** | **9** | █████████ | 9 项活动（CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang, rmathena79/lsp-eval-prometheus, barajeel/golang） |
 | 2025-02-20（四） | 0 | ░░░░░ | — |
 | 2025-02-21（五） | 0 | ░░░░░ | — |
 | 2025-02-22（六） | 0 | ░░░░░ | — |
@@ -94,7 +94,7 @@ n2h9                           █                    2%
 | 2025-02-25（二） | 3 | ███░░ | PR #58 (kubeservice-stack/modelx); dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-26（三） | 2 | ██░░░ | dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-27（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: Add |
-| **2025-02-28（五）** | **16** | ████████████████ | 16 项活动（kubernetes/test-infra, n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes/test-infra)） |
+| **2025-02-28（五）** | **16** | ████████████████ | 16 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes/test-infra)） |
 | 2025-03-01（六） | 0 | ░░░░░ | — |
 | 2025-03-02（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: update v1.33.0-a; jacobsee/usr-kubernetes-sigs-controller-tools: upd |
 
@@ -270,4 +270,4 @@ n2h9                           █                    2%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

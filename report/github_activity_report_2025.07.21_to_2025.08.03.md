@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -80,19 +80,19 @@ jimmidyson                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **13** | █████████████ | 13 项活动（prometheus/procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, kubernetes-sigs/controller-tools)） |
+| **2025-07-21（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/external-dns), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（kagent-dev/kagent), kagent-dev/kagent, prometheus-operator/prometheus-operator)） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（tmohanvamsi/kagent, kagent-dev/kagent, prometheus-operator/prometheus-operator)） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
-| 2025-07-30（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime） |
+| 2025-07-30（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
+| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **7** | ███████ | 7 项活动（kubernetes-sigs/cluster-api), kubernetes-sigs/cluster-api, punith1006/LaaS-Hami） |
+| **2025-08-02（六）** | **7** | ███████ | 7 项活动（Project-HAMi/HAMi-core), punith1006/LaaS-Hami, jimmidyson/kcp-cluster-api） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-07-21（13 次活动）为最高峰。
@@ -265,4 +265,4 @@ jimmidyson                     █                    2%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

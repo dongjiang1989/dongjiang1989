@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -46,13 +46,13 @@ Project-HAMi                   █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 35 | **22** | -37% | 📉 -13 |
+| **总活动量** | 31 | **22** | -29% | 📉 -9 |
 | Pull Request | 9 | 8 | -11% | 📉 -1 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 25 | 13 | -48% | 📉 -12 |
+| Commit | 21 | 13 | -38% | 📉 -8 |
 
 - 🆕 **新增活跃仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kueue`, `prometheus-operator/prometheus-operator`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `u1op29ss7b/project-hami__hami.4707fb02`, `virtual-kubelet/virtual-kubelet`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `virtual-kubelet/virtual-kubelet`
 - 🔄 **工作重心转移**：从 **Project-HAMi** 转向 **kubernetes-sigs**
 
 ---
@@ -76,7 +76,7 @@ Project-HAMi                   █                    5%
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
 | **2026-02-05（四）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns)） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -213,7 +213,7 @@ Project-HAMi                   █                    5%
 | 仓库 | 时间 | 说明 |
 |------|------|------|
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2026-02-11 | agent-sandbox enables easy management of isolated, stateful, |
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 2026-02-11 | A next.js web application that integrates AI capabilities wi |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 2026-02-11 | Draw and edit draw.io diagrams by chatting with an AI. Web a |
 | [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) | 2026-02-10 | Tools to use with the controller-runtime libraries |
 
 ---
@@ -224,4 +224,4 @@ Project-HAMi                   █                    5%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

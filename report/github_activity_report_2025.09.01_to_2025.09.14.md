@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -76,7 +76,7 @@ brianlallen                    █                    4%
 |------|--------|--------|----------|
 | 2025-09-01（一） | 0 | ░░░░░ | — |
 | 2025-09-02（二） | 0 | ░░░░░ | — |
-| **2025-09-03（三）** | **5** | █████ | 5 项活动（kagent-dev/kagent), prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| **2025-09-03（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kagent-dev/kagent), prometheus-operator/prometheus-operator） |
 | 2025-09-04（四） | 0 | ░░░░░ | — |
 | 2025-09-05（五） | 0 | ░░░░░ | — |
 | 2025-09-06（六） | 0 | ░░░░░ | — |
@@ -84,8 +84,8 @@ brianlallen                    █                    4%
 | 2025-09-08（一） | 0 | ░░░░░ | — |
 | 2025-09-09（二） | 3 | ███░░ | PR #7892 (prometheus-operator/prometheus-operator); bwplotka/mdox: fix http2: timeout awaiting respons; prometheus-operator/prometheus-operator: update co |
 | 2025-09-10（三） | 0 | ░░░░░ | — |
-| **2025-09-11（四）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime)） |
-| **2025-09-12（五）** | **8** | ████████ | 8 项活动（bytebase/bytebase, kubernetes-sigs/controller-tools), brianlallen/bytebase） |
+| **2025-09-11（四）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
+| **2025-09-12（五）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
 | 2025-09-13（六） | 0 | ░░░░░ | — |
 | 2025-09-14（日） | 0 | ░░░░░ | — |
 
@@ -235,4 +235,4 @@ brianlallen                    █                    4%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

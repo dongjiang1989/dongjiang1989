@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -46,13 +46,13 @@ vpuhoff                        ██                   12%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 53 | **8** | -85% | 📉 -45 |
+| **总活动量** | 54 | **8** | -85% | 📉 -46 |
 | Pull Request | 14 | 3 | -79% | 📉 -11 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 38 | 5 | -87% | 📉 -33 |
+| Commit | 39 | 5 | -87% | 📉 -34 |
 
 - 🆕 **新增活跃仓库**：`karmada-io/karmada`, `oliver006/redis_exporter`, `vpuhoff/redis-exporter`
-- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `ChristianTryti/thanos-fork-of-fork`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Scaling-Smart/prometheus-helm-charts`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `cnloxiaoteng-ship-it/helm-charts`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `idadmin007/prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `ub42t1za0d/prometheus__prometheus.5241a27f`, `volcano-sh/community`, `wangw111/thanos`, `yunshenliu92/prometheus`
+- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `ChristianTryti/thanos-fork-of-fork`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Scaling-Smart/prometheus-helm-charts`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `cnloxiaoteng-ship-it/helm-charts`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `idadmin007/prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `volcano-sh/community`, `wangw111/thanos`, `yunshenliu92/prometheus`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---
@@ -84,7 +84,7 @@ vpuhoff                        ██                   12%
 | 2025-06-04（三） | 0 | ░░░░░ | — |
 | 2025-06-05（四） | 0 | ░░░░░ | — |
 | 2025-06-06（五） | 0 | ░░░░░ | — |
-| **2025-06-07（六）** | **6** | ██████ | 6 项活动（vpuhoff/redis-exporter, oliver006/redis_exporter, prometheus-operator/prometheus-operator） |
+| **2025-06-07（六）** | **6** | ██████ | 6 项活动（oliver006/redis_exporter, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-06-08（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-06-07（6 次活动）为最高峰。
@@ -199,4 +199,4 @@ vpuhoff                        ██                   12%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

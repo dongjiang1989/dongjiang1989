@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -90,16 +90,16 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-17（一）** | **7** | ███████ | 7 项活动（hoppipolla-dev/helm, Govardhan988/helm-repo, helm/helm） |
-| **2025-03-18（二）** | **19** | ███████████████████ | 19 项活动（hoppipolla-dev/helm, Govardhan988/helm-repo, volcano-sh/volcano） |
-| **2025-03-19（三）** | **7** | ███████ | 7 项活动（hoppipolla-dev/helm, Govardhan988/helm-repo, helm/helm） |
-| **2025-03-20（四）** | **9** | █████████ | 9 项活动（volcano-sh/volcano, karmada-io/karmada, karmada-io/karmada)） |
-| **2025-03-21（五）** | **16** | ████████████████ | 16 项活动（volcano-sh/volcano, GsonZhao/volcano, AhmaadKaleeem/volcano） |
+| **2025-03-17（一）** | **7** | ███████ | 7 项活动（helm/helm), Govardhan988/helm-repo, iv57yf034b/helm__helm.bec5b06e） |
+| **2025-03-18（二）** | **19** | ███████████████████ | 19 项活动（AhmaadKaleeem/volcano, Govardhan988/helm-repo, iv57yf034b/helm__helm.bec5b06e） |
+| **2025-03-19（三）** | **7** | ███████ | 7 项活动（Govardhan988/helm-repo, iv57yf034b/helm__helm.bec5b06e, helm/helm） |
+| **2025-03-20（四）** | **9** | █████████ | 9 项活动（AhmaadKaleeem/volcano, volcano-sh/volcano, kev1N916/volcano） |
+| **2025-03-21（五）** | **16** | ████████████████ | 16 项活动（AhmaadKaleeem/volcano, volcano-sh/volcano, kev1N916/volcano） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/network-doctor, kubeservice-stack/docker-image, prometheus-operator/prometheus-operator)） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor, kubeservice-stack/docker-image） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **17** | █████████████████ | 17 项活动（hoppipolla-dev/helm, Govardhan988/helm-repo, Scaling-Smart/prometheus-helm-charts） |
+| **2025-03-26（三）** | **17** | █████████████████ | 17 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, Scaling-Smart/prometheus-helm-charts, Govardhan988/helm-repo） |
 | **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook), kubeservice-stack/lxcfs-webhook） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
@@ -297,4 +297,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

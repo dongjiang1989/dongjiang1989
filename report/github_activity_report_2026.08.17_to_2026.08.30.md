@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -59,13 +59,13 @@ johan-sellstrom                █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 93 | **64** | -31% | 📉 -29 |
+| **总活动量** | 94 | **64** | -32% | 📉 -30 |
 | Pull Request | 31 | 26 | -16% | 📉 -5 |
 | Issue | 8 | 0 | -100% | 📉 -8 |
-| Commit | 54 | 38 | -30% | 📉 -16 |
+| Commit | 55 | 38 | -31% | 📉 -17 |
 
 - 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.5`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
-- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `yatfa-ai/goose`
+- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubernetes-sigs**
 
 ---
@@ -85,18 +85,18 @@ johan-sellstrom                █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-17（一）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/website, iflytek/website)） |
+| **2026-08-17（一）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/website), iflytek/website） |
 | 2026-08-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go） |
 | 2026-08-19（三） | 2 | ██░░░ | PR #8762 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-08-20（四）** | **6** | ██████ | 6 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, XHToken/community, kubernetes-sigs/agent-sandbox） |
+| **2026-08-20（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, XHToken/community） |
 | 2026-08-21（五） | 0 | ░░░░░ | — |
 | 2026-08-22（六） | 0 | ░░░░░ | — |
 | 2026-08-23（日） | 0 | ░░░░░ | — |
-| **2026-08-24（一）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, Project-HAMi/HAMi)） |
-| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（Project-HAMi/HAMi, agentgateway/agentgateway), kubernetes-sigs/kubebuilder)） |
-| **2026-08-26（三）** | **6** | ██████ | 6 项活动（iflytek/website), zhcndoc/mcp, modelcontextprotocol/modelcontextprotocol)） |
-| **2026-08-27（四）** | **8** | ████████ | 8 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools), yumaitau/magpie-gateway） |
-| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（prometheus/procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, vllm-project/aibrix)） |
+| **2026-08-24（一）** | **9** | █████████ | 9 项活动（XHToken/Spark-X2.5, prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox)） |
+| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
+| **2026-08-26（三）** | **6** | ██████ | 6 项活动（modelcontextprotocol/modelcontextprotocol, zhcndoc/mcp, iflytek/website） |
+| **2026-08-27（四）** | **8** | ████████ | 8 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（XHToken/Spark-plugin, vllm-project/aibrix), XHToken/community） |
 | 2026-08-29（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-08-30（日） | 0 | ░░░░░ | — |
 
@@ -245,8 +245,8 @@ johan-sellstrom                █                    2%
   - PR #6: ci: add license compliance check to CI pipeline
   - PR #5: chore: add CHANGELOG.md and PyPI publish workflow
   - PR #1: chore: add project governance and GitHub templates
-  - Commit: chore: add CHANGELOG.md and PyPI publish workflow (#5)
   - Commit: chore: add project governance and GitHub templates (#1)
+  - Commit: chore: add CHANGELOG.md and PyPI publish workflow (#5)
 
 
 ---
@@ -261,7 +261,7 @@ johan-sellstrom                █                    2%
 | jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2026-08-27 | Bump k8s.io/* to v0.37.0; 🌱chore: Bump golangci-lint to v2.13.1; ✨ Release envtest v1.37.0 |
 | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 2 | 2026-08-29 | Bump: Update golangci-linter version to v2.13.1 (#; refactor(api): move enum validation markers from f |
 | kubernetes-sigs/agent-sandbox | 2 | 2026-08-20 | refactor(api): move enum validation markers from f; Bump: Update golangci-linter version to v2.13.1 (# |
-| XHToken/Spark-plugin | 2 | 2026-08-28 | chore: add CHANGELOG.md and PyPI publish workflow ; chore: add project governance and GitHub templates |
+| XHToken/Spark-plugin | 2 | 2026-08-28 | chore: add project governance and GitHub templates; chore: add CHANGELOG.md and PyPI publish workflow  |
 | prometheus-operator/prometheus-operator | 2 | 2026-08-19 | update prometheus version; update golangci-linter version to v2.13.1 |
 | prometheus/procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
@@ -291,4 +291,4 @@ johan-sellstrom                █                    2%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

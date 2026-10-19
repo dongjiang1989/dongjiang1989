@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -76,7 +76,7 @@ jacobsee                       █                    6%
 | 2025-06-10（二） | 1 | █░░░░ | dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-11（三） | 0 | ░░░░░ | — |
 | 2025-06-12（四） | 0 | ░░░░░ | — |
-| **2025-06-13（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989） |
+| **2025-06-13（五）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
 | 2025-06-14（六） | 2 | ██░░░ | prometheus-operator/prometheus-operator: fix e2e c; prometheus-operator/prometheus-operator: fix
 
 Sign |
@@ -209,4 +209,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

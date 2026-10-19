@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -84,10 +84,10 @@ kev1N916                       █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-31（一）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook), karmada-io/karmada)） |
-| 2025-04-01（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/scheduler-plugins), kubeservice-stack/lxcfs-webhook） |
-| **2025-04-02（三）** | **11** | ███████████ | 11 项活动（koordinator-sh/koordinator), volcano-sh/volcano, kubernetes-sigs/controller-tools)） |
-| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), koordinator-sh/koordinator） |
+| **2025-03-31（一）** | **7** | ███████ | 7 项活动（karmada-io/karmada), kubeservice-stack/lxcfs-webhook), prometheus-operator/prometheus-operator） |
+| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/scheduler-plugins), prometheus-operator/prometheus-operator） |
+| **2025-04-02（三）** | **11** | ███████████ | 11 项活动（AhmaadKaleeem/volcano, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
+| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder), kubernetes-sigs/kubebuilder, koordinator-sh/koordinator） |
 | 2025-04-04（五） | 0 | ░░░░░ | — |
 | 2025-04-05（六） | 0 | ░░░░░ | — |
 | 2025-04-06（日） | 0 | ░░░░░ | — |
@@ -95,7 +95,7 @@ kev1N916                       █                    3%
 | 2025-04-08（二） | 3 | ███░░ | PR #2396 (koordinator-sh/koordinator); PR #131207 (kubernetes/kubernetes); PR #2395 (koordinator-sh/koordinator) |
 | 2025-04-09（三） | 0 | ░░░░░ | — |
 | 2025-04-10（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder), koordinator-sh/koordinator, kubeservice-stack/lxcfs-webhook） |
-| **2025-04-11（五）** | **6** | ██████ | 6 项活动（n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder)） |
+| **2025-04-11（五）** | **6** | ██████ | 6 项活动（Project-HAMi/HAMi-core), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00, punith1006/LaaS-Hami） |
 | 2025-04-12（六） | 0 | ░░░░░ | — |
 | 2025-04-13（日） | 0 | ░░░░░ | — |
 
@@ -266,4 +266,4 @@ kev1N916                       █                    3%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*

@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：259 | **Followers**：92 | **Following**：52
+> **公开仓库数**：260 | **Followers**：95 | **Following**：52
 
 ---
 
@@ -55,7 +55,7 @@ jacobsee                       █                    4%
 | Commit | 54 | 16 | -70% | 📉 -38 |
 
 - 🆕 **新增活跃仓库**：`ahmetb/gen-crd-api-reference-docs`, `dongjiang1989/customapis`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubeflow/mpi-operator`, `kubernetes-sigs/controller-tools`, `kubernetes/kubernetes`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/node-metrics`
-- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `Benqacemsalah/alertmanager`, `Carson-Ax/alertmanager`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `Rishi2600/prometheus`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Synaptica-cor/prometheus`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana`, `chromium-full-mirror/external_github.com_prometheus_common`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `golangci/golangci-lint`, `grafana/mimir-prometheus`, `karmada-io/karmada`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/script_exporter`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `muhammedalimalik901-code/Alert-Manager-Experiment`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/prometheus`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tennisleng/alertmanager`, `thanos-io/thanos-prometheus`, `thockin/go-build-template`, `ub42t1za0d/prometheus__prometheus.5241a27f`
+- ❌ **不再活跃的仓库**：`0xkato/prometheus-fork`, `Benqacemsalah/alertmanager`, `Carson-Ax/alertmanager`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `Rishi2600/prometheus`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `Synaptica-cor/prometheus`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `bablubhandary/Monitoring-Project-Build-a-Dashboard-with-Prometheus-Grafana`, `chromium-full-mirror/external_github.com_prometheus_common`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `golangci/golangci-lint`, `grafana/mimir-prometheus`, `karmada-io/karmada`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/script_exporter`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `muhammedalimalik901-code/Alert-Manager-Experiment`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/prometheus`, `pvlltvk/proxeus-prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tennisleng/alertmanager`, `thockin/go-build-template`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **prometheus-operator**
 
 ---
@@ -76,9 +76,9 @@ jacobsee                       █                    4%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-01-20（一） | 3 | ███░░ | PR #679 (kubeflow/mpi-operator); PR #7287 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: chore: up |
-| **2025-01-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/custom-limit-range, kubeservice-stack/node-metrics, prometheus-operator/prometheus-operator)） |
-| **2025-01-22（三）** | **10** | ██████████ | 10 项活动（ahmetb/gen-crd-api-reference-docs), kubernetes-sigs/controller-tools), kubeservice-stack/echo） |
-| **2025-01-23（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), kubeservice-stack/common, dongjiang1989/customapis） |
+| **2025-01-21（二）** | **6** | ██████ | 6 项活动（kubeservice-stack/custom-limit-range, kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator)） |
+| **2025-01-22（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/controller-tools, kubernetes/kubernetes), kubernetes-sigs/controller-tools)） |
+| **2025-01-23（四）** | **5** | █████ | 5 项活动（dongjiang1989/customapis, kubernetes-sigs/controller-tools), kubeservice-stack/common） |
 | 2025-01-24（五） | 0 | ░░░░░ | — |
 | 2025-01-25（六） | 0 | ░░░░░ | — |
 | 2025-01-26（日） | 0 | ░░░░░ | — |
@@ -237,4 +237,4 @@ jacobsee                       █                    4%
 
 ---
 
-*报告生成时间：2026-10-12 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
