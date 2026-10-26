@@ -1,0 +1,42 @@
+name: Update DevStats Badge
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # daily at 08:00 UTC
+  workflow_dispatch: {}    # manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch CNCF DevStats score
+        id: score
+        run: |
+          RESPONSE=$(curl -sL -X POST "https://devstats.cncf.io/api/v1" \
+            -H "Content-Type: application/json" \
+            -d '{"api":"GithubIDContributions","payload":{"github_id":"dongjiang1989"}}')
+          CONTRIBUTIONS=$(echo "$RESPONSE" | jq -r '.contributions')
+          ISSUES=$(echo "$RESPONSE" | jq -r '.issues')
+          PRS=$(echo "$RESPONSE" | jq -r '.prs')
+          echo "contributions=$CONTRIBUTIONS" >> $GITHUB_OUTPUT
+          echo "issues=$ISSUES" >> $GITHUB_OUTPUT
+          echo "prs=$PRS" >> $GITHUB_OUTPUT
+
+      - name: Download badge SVG
+        run: |
+          SCORE=${{ steps.score.outputs.contributions }}
+          curl -sL \
+            "https://img.shields.io/badge/CNCF%20DevStats-${SCORE}-brightgreen?logo=cncf&logoColor=white" \
+            -o devstats-badge.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add devstats-badge.svg
+          git diff --cached --quiet || git commit -s -m "chore: update devstats badge [skip ci]"
+          git push

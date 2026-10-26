@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 - [CKA](https://www.credly.com/badges/eadcf879-bbd5-4ed0-a4a7-d69a407789e7/public_url)
 - [KubeCon Keynote Speaker](https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6)
-- [CNCF devstats score](https://devstats.cluster.fun/?user=dongjiang1989)
+[![CNCF DevStats](./devstats-badge.svg)](https://devstats.cluster.fun/?user=dongjiang1989)
 
 <a href="https://www.credly.com/badges/70d7c1eb-1940-41c1-935f-4639586a90e6/public_url" target="_blank">
   <img src="https://images.credly.com/images/00f3949e-c9f9-44da-862a-c9f8fe797899/blob" width="200">
