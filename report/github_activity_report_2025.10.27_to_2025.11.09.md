@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -75,8 +75,8 @@ ahmetb                         █                    5%
 | 2025-10-27（一） | 0 | ░░░░░ | — |
 | 2025-10-28（二） | 0 | ░░░░░ | — |
 | 2025-10-29（三） | 2 | ██░░░ | PR #3370 (kubernetes-sigs/controller-runtime); ahmetb/gen-crd-api-reference-docs: fix unsupported |
-| **2025-10-30（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime） |
-| 2025-10-31（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator)） |
+| **2025-10-30（四）** | **5** | █████ | 5 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| 2025-10-31（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime） |
 | 2025-11-01（六） | 0 | ░░░░░ | — |
 | 2025-11-02（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: Merge branch 'ma; jacobsee/usr-kubernetes-sigs-controller-tools: Mer |
 | 2025-11-03（一） | 3 | ███░░ | PR #8065 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: Merge pul; prometheus-operator/prometheus-operator: update pr |
@@ -219,4 +219,4 @@ ahmetb                         █                    5%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

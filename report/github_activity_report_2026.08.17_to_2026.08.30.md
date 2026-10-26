@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -59,13 +59,13 @@ johan-sellstrom                █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 94 | **64** | -32% | 📉 -30 |
+| **总活动量** | 95 | **64** | -33% | 📉 -31 |
 | Pull Request | 31 | 26 | -16% | 📉 -5 |
 | Issue | 8 | 0 | -100% | 📉 -8 |
-| Commit | 55 | 38 | -31% | 📉 -17 |
+| Commit | 56 | 38 | -32% | 📉 -18 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.5`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
-- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.6`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
+- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `riusricardo/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubernetes-sigs**
 
 ---
@@ -85,18 +85,18 @@ johan-sellstrom                █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-17（一）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/website), iflytek/website） |
+| **2026-08-17（一）** | **5** | █████ | 5 项活动（iflytek/website), iflytek/website, agentgateway/agentgateway)） |
 | 2026-08-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go） |
 | 2026-08-19（三） | 2 | ██░░░ | PR #8762 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-08-20（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, XHToken/community） |
+| **2026-08-20（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, XHToken/community, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
 | 2026-08-21（五） | 0 | ░░░░░ | — |
 | 2026-08-22（六） | 0 | ░░░░░ | — |
 | 2026-08-23（日） | 0 | ░░░░░ | — |
-| **2026-08-24（一）** | **9** | █████████ | 9 项活动（XHToken/Spark-X2.5, prometheus-operator/prometheus-operator), kubernetes-sigs/agent-sandbox)） |
-| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
-| **2026-08-26（三）** | **6** | ██████ | 6 项活动（modelcontextprotocol/modelcontextprotocol, zhcndoc/mcp, iflytek/website） |
-| **2026-08-27（四）** | **8** | ████████ | 8 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（XHToken/Spark-plugin, vllm-project/aibrix), XHToken/community） |
+| **2026-08-24（一）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), iflytek/website, XHToken/Spark-X2.6） |
+| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（agentgateway/agentgateway), kubernetes-sigs/controller-tools), kubernetes-sigs/kubebuilder)） |
+| **2026-08-26（三）** | **6** | ██████ | 6 项活动（modelcontextprotocol/modelcontextprotocol, modelcontextprotocol/modelcontextprotocol), enclawed/omcp） |
+| **2026-08-27（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools） |
+| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（chromium-full-mirror/external_github.com_prometheus_procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, XHToken/Spark-plugin)） |
 | 2026-08-29（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-08-30（日） | 0 | ░░░░░ | — |
 
@@ -111,7 +111,7 @@ johan-sellstrom                █                    2%
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
 | **kubernetes-sigs** | 13 | 20.3% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(3), kubernetes-sigs/agent-sandbox(3) | PR, Push |
-| XHToken | 12 | 18.8% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.5(1) | PR, Push |
+| XHToken | 12 | 18.8% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.6(1) | PR, Push |
 | iflytek | 10 | 15.6% | iflytek/website(10) | PR, Push |
 | prometheus-operator | 7 | 10.9% | prometheus-operator/prometheus-operator(7) | PR, Push |
 | agentgateway | 4 | 6.2% | agentgateway/agentgateway(4) | PR, Push |
@@ -269,7 +269,7 @@ johan-sellstrom                █                    2%
 | agentgateway/agentgateway | 1 | 2026-08-27 | chore: update golangci-lint plugins and enable unc |
 | Project-HAMi/HAMi | 1 | 2026-08-25 | chore: add new linters to golangci-lint config (#2 |
 | chromium-full-mirror/external_github.com_prometheus_procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
-| XHToken/Spark-X2.5 | 1 | 2026-08-24 | Initial commit for Spark-X2.5 |
+| XHToken/Spark-X2.6 | 1 | 2026-08-24 | Initial commit for Spark-X2.5 |
 | kubernetes-sigs/controller-runtime | 1 | 2026-08-27 | :seedling: Bump to k8s.io/* v0.37.0 (#3579) |
 | zhcndoc/mcp | 1 | 2026-08-26 | docs: fix outdated links and incorrect repository  |
 | a2aproject/a2a-go | 1 | 2026-08-18 | fix(jsonrpc): lenient decode of error.data to pres |
@@ -291,4 +291,4 @@ johan-sellstrom                █                    2%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

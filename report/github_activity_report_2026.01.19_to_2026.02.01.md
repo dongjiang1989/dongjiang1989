@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -77,18 +77,18 @@ dongjiang1989                  █                    3%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-01-19（一）** | **7** | ███████ | 7 项活动（aniketpati1121/HAMi, Annie-Summer/HAMi-test, Dzkmobw/HAMi） |
+| **2026-01-19（一）** | **7** | ███████ | 7 项活动（aniketpati1121/HAMi, Dzkmobw/HAMi, lsj-x/HAMi） |
 | 2026-01-20（二） | 0 | ░░░░░ | — |
 | 2026-01-21（三） | 2 | ██░░░ | PR #1614 (Project-HAMi/HAMi); PR #1613 (Project-HAMi/HAMi) |
-| **2026-01-22（四）** | **5** | █████ | 5 项活动（aniketpati1121/HAMi, Annie-Summer/HAMi-test, Dzkmobw/HAMi） |
+| **2026-01-22（四）** | **5** | █████ | 5 项活动（aniketpati1121/HAMi, Dzkmobw/HAMi, lsj-x/HAMi） |
 | 2026-01-23（五） | 2 | ██░░░ | PR #1365 (virtual-kubelet/virtual-kubelet); virtual-kubelet/virtual-kubelet: add modernize che |
 | 2026-01-24（六） | 0 | ░░░░░ | — |
 | 2026-01-25（日） | 0 | ░░░░░ | — |
 | 2026-01-26（一） | 0 | ░░░░░ | — |
-| **2026-01-27（二）** | **5** | █████ | 5 项活动（kubeservice-stack/echo, kubernetes-sigs/scheduler-plugins), kubernetes/test-infra)） |
-| 2026-01-28（三） | 4 | ████░ | 4 项活动（aniketpati1121/HAMi, Annie-Summer/HAMi-test, Project-HAMi/HAMi） |
+| **2026-01-27（二）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, kubeservice-stack/echo, kubernetes-sigs/scheduler-plugins)） |
+| 2026-01-28（三） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, aniketpati1121/HAMi, lsj-x/HAMi） |
 | 2026-01-29（四） | 2 | ██░░░ | PR #1633 (Project-HAMi/HAMi); Issue #1634 |
-| 2026-01-30（五） | 4 | ████░ | 4 项活动（aniketpati1121/HAMi, Annie-Summer/HAMi-test, Project-HAMi/HAMi） |
+| 2026-01-30（五） | 4 | ████░ | 4 项活动（Project-HAMi/HAMi, aniketpati1121/HAMi, lsj-x/HAMi） |
 | 2026-01-31（六） | 0 | ░░░░░ | — |
 | 2026-02-01（日） | 0 | ░░░░░ | — |
 
@@ -241,4 +241,4 @@ dongjiang1989                  █                    3%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -86,20 +86,20 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（NousResearch/hermes-agent), iflytek/.github), iflytek/iFly-Skills)） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/iFly-Skills), NousResearch/hermes-agent), iflytek/.github） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), iflytek/iFly-Skills, dongjiang1989/dongjiang1989） |
-| **2026-06-25（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
-| 2026-06-26（五） | 4 | ████░ | 4 项活动（NousResearch/hermes-agent), dongjiang1989/dongjiang1989, kubernetes-sigs/agent-sandbox)） |
-| **2026-06-27（六）** | **5** | █████ | 5 项活动（prometheus/procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, chromium-full-mirror/external_github.com_prometheus_procfs） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), iflytek/website, iflytek/iFly-Skills） |
+| **2026-06-25（四）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools） |
+| 2026-06-26（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), NousResearch/hermes-agent), dongjiang1989/dongjiang1989） |
+| **2026-06-27（六）** | **5** | █████ | 5 项活动（chromium-full-mirror/external_github.com_prometheus_procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, iflytek/memflywheel)） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **30** | ████████████████████ | 30 项活动（ynyyzyrf/astron, kubernetes-sigs/agent-sandbox, kubeservice-stack/echo） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/memflywheel, iflytek/domux), kubernetes-sigs/agent-sandbox)） |
+| **2026-06-29（一）** | **30** | ████████████████████ | 30 项活动（iflytek/astronclaw-tutorial, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, ynyyzyrf/astron） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway), iflytek/domux), iflytek/website） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **15** | ███████████████ | 15 项活动（johan-sellstrom/agentgateway, iflytek/memflywheel, yumaitau/magpie-gateway） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（agentgateway/agentgateway), iflytek/website), kgateway-dev/kgateway)） |
+| **2026-07-02（四）** | **15** | ███████████████ | 15 项活动（agentgateway/agentgateway), iflytek/website, iflytek/memflywheel)） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website), kgateway-dev/kgateway), iflytek/website） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
-| 2026-07-05（日） | 4 | ████░ | 4 项活动（agentgateway/agentgateway), kgateway-dev/kgateway), dongjiang1989/agentgateway)） |
+| 2026-07-05（日） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), agentgateway/agentgateway), dongjiang1989/kgateway)） |
 
 > **活跃高峰**：2026-06-29（30 次活动）为最高峰。
 
@@ -333,4 +333,4 @@ prometheus-operator            █                    1%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

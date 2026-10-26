@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -77,20 +77,20 @@ jacobsee                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（ynyyzyrf/astron, dongjiang1989/opensearch-api), prometheus-operator/prometheus-operator)） |
-| **2026-04-14（二）** | **7** | ███████ | 7 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
-| **2026-04-15（三）** | **20** | ████████████████████ | 20 项活动（ynyyzyrf/astron, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（prometheus-operator/prometheus-operator), dongjiang1989/opensearch-api, dongjiang1989/opensearch-api)） |
+| **2026-04-14（二）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-15（三）** | **20** | ████████████████████ | 20 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, ynyyzyrf/astron, iflytek/astron-agent） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-17（五）** | **7** | ███████ | 7 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-04-17（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
 | 2026-04-18（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
 | 2026-04-19（日） | 3 | ███░░ | kubernetes-sigs/controller-tools: update IntOrStri; jacobsee/usr-kubernetes-sigs-controller-tools: upd; dongjiang1989/myclawbot: Merge pull request #1 fro |
 | 2026-04-20（一） | 3 | ███░░ | PR #621 (kubernetes-sigs/agent-sandbox); dongjiang1989/scumbag: add scumbag skill
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
-| 2026-04-21（二） | 4 | ████░ | 4 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/controller-tools), kubernetes-sigs/agent-sandbox） |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（Twigpine/openclaude), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| 2026-04-21（二） | 4 | ████░ | 4 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/kubebuilder), kubernetes-sigs/kubebuilder） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
-| 2026-04-24（五） | 4 | ████░ | 4 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
+| 2026-04-24（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial） |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
 | 2026-04-26（日） | 0 | ░░░░░ | — |
 
@@ -275,4 +275,4 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

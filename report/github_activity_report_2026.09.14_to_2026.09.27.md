@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **20** 个 |
-| 涉及仓库数 | **26** 个 |
-| Pull Request 数 | **29** 个（已合并 17，开放 12） |
+| 涉及组织数 | **21** 个 |
+| 涉及仓库数 | **27** 个 |
+| Pull Request 数 | **29** 个（已合并 18，开放 11） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **23** 次 |
-| 总活动量 | **55** |
+| Commit 数 | **24** 次 |
+| 总活动量 | **56** |
 
 ### 🎯 工作重心分布
 
 ```
 iflytek                        ███                  16%
-prometheus-operator            ██                   15%
+prometheus-operator            ██                   14%
 kubernetes-sigs                ██                   11%
 istio                          █                    5%
 theagentrouter                 █                    5%
@@ -44,17 +44,18 @@ a-ghorbani                     █                    2%
 pytorch                        █                    2%
 anomalyco                      █                    2%
 grafana                        █                    2%
+Aikido-pentest-benchmarks      █                    2%
 prabhawti                      █                    2%
 ```
 
 ### 💡 核心总结
 
 1. **iflytek** 是最大贡献方向（16%），涉及 2 个仓库，共 9 次活动。
-2. 共 **17** 个 PR 已合并，覆盖 12 个仓库。
-3. **12** 个 PR 仍在开放/Review 中。
+2. 共 **18** 个 PR 已合并，覆盖 13 个仓库。
+3. **11** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-09-18**（11 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 15 个仓库提交了 **23** 次代码。
+6. 在 16 个仓库提交了 **24** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -62,13 +63,13 @@ prabhawti                      █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 111 | **55** | -50% | 📉 -56 |
+| **总活动量** | 110 | **56** | -49% | 📉 -54 |
 | Pull Request | 34 | 29 | -15% | 📉 -5 |
 | Issue | 19 | 3 | -84% | 📉 -16 |
-| Commit | 58 | 23 | -60% | 📉 -35 |
+| Commit | 57 | 24 | -58% | 📉 -33 |
 
-- 🆕 **新增活跃仓库**：`NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/ospolandscape`, `iflytek/.github`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `pytorch/executorch`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `XHToken/Spark-plugin`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `johan-sellstrom/agentgateway`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `nbbjs/pocketpal-AI-`, `nbbjs/pocketpal-AI-2`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `skullrex0987-ctrl/pocketpal-ai-mali`, `vllm-project/aibrix`, `yumaitau/magpie-gateway`
+- 🆕 **新增活跃仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/ospolandscape`, `iflytek/.github`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `pytorch/executorch`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
+- ❌ **不再活跃的仓库**：`BallParkBanter/pocketpal-bray`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `XHToken/Spark-plugin`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `johan-sellstrom/agentgateway`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `skullrex0987-ctrl/pocketpal-ai-mali`, `vllm-project/aibrix`, `yumaitau/magpie-gateway`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **iflytek**
 
 ---
@@ -77,10 +78,10 @@ prabhawti                      █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **55** | PR + Issue + Commit |
-| 📝 **Pull Request** | 29 | 已合并 17，开放 12 |
+| 📊 **总活动** | **56** | PR + Issue + Commit |
+| 📝 **Pull Request** | 29 | 已合并 18，开放 11 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 23 | 代码提交 |
+| 💻 **Commit** | 24 | 代码提交 |
 
 ---
 
@@ -88,20 +89,20 @@ prabhawti                      █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-09-14（一）** | **7** | ███████ | 7 项活动（agentgateway/agentgateway), dongjiang1989/ospolandscape), iflytek/.github） |
+| **2026-09-14（一）** | **7** | ███████ | 7 项活动（agentgateway/agentgateway), iflytek/website, iflytek/.github） |
 | 2026-09-15（二） | 4 | ████░ | 4 项活动（iflytek/website), iflytek/website） |
-| 2026-09-16（三） | 3 | ███░░ | PR #1661 (kubernetes-sigs/agent-sandbox); PR #22865 (pytorch/executorch); XHToken/Spark-X2.5: Add release notes for Spark-X2 |
+| 2026-09-16（三） | 3 | ███░░ | PR #1661 (kubernetes-sigs/agent-sandbox); PR #22865 (pytorch/executorch); XHToken/Spark-X2.6: Add release notes for Spark-X2 |
 | 2026-09-17（四） | 2 | ██░░░ | PR #262 (kubernetes-sigs/kube-api-linter); Issue #261 |
-| **2026-09-18（五）** | **11** | ███████████ | 11 项活动（theagentrouter/agent-router), prometheus-operator/website), kubernetes-sigs/agent-sandbox） |
+| **2026-09-18（五）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway), theagentrouter/agent-router)） |
 | 2026-09-19（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: fix(go-sdk): remove |
-| **2026-09-20（日）** | **5** | █████ | 5 项活动（theagentrouter/agent-router), prometheus-operator/prometheus-operator), a2aproject/a2a-go)） |
+| **2026-09-20（日）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), XHToken/Spark-X2.6, theagentrouter/agent-router)） |
 | 2026-09-21（一） | 0 | ░░░░░ | — |
 | 2026-09-22（二） | 3 | ███░░ | PR #7 (a-ghorbani/pocketpal-device-rules); Issue #54; e2bgateway/e2bgateway: feat: envd data plane refac |
-| **2026-09-23（三）** | **5** | █████ | 5 项活动（istio/istio), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator)） |
-| **2026-09-24（四）** | **6** | ██████ | 6 项活动（istio/istio), istio/istio, iflytek/website)） |
+| **2026-09-23（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), istio/istio), prometheus-operator/prometheus-operator） |
+| **2026-09-24（四）** | **7** | ███████ | 7 项活动（todogroup/ospolandscape, prabhawti/istio, istio/istio)） |
 | 2026-09-25（五） | 0 | ░░░░░ | — |
 | 2026-09-26（六） | 0 | ░░░░░ | — |
-| **2026-09-27（日）** | **7** | ███████ | 7 项活动（grafana/mimir-prometheus, prometheus/prometheus, prometheus/exporter-toolkit)） |
+| **2026-09-27（日）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), prometheus/exporter-toolkit), SlinkyProject/slurm-operator)） |
 
 > **活跃高峰**：2026-09-18（11 次活动）为最高峰。
 
@@ -113,14 +114,14 @@ prabhawti                      █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| iflytek | 9 | 16.4% | iflytek/website(8), iflytek/.github(1) | PR, Push |
-| prometheus-operator | 8 | 14.5% | prometheus-operator/prometheus-operator(6), prometheus-operator/website(2) | PR, Push |
-| kubernetes-sigs | 6 | 10.9% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/kube-api-linter(2) | Issue, PR, Push |
-| istio | 3 | 5.5% | istio/istio(3) | PR, Push |
-| theagentrouter | 3 | 5.5% | theagentrouter/agent-router(3) | PR |
-| XHToken | 3 | 5.5% | XHToken/Spark-X2.5(3) | Push |
-| prometheus | 3 | 5.5% | prometheus/prometheus(2), prometheus/exporter-toolkit(1) | PR, Push |
-| a2aproject | 3 | 5.5% | a2aproject/a2a-go(2), a2aproject/A2A(1) | Issue, PR, Push |
+| iflytek | 9 | 16.1% | iflytek/website(8), iflytek/.github(1) | PR, Push |
+| prometheus-operator | 8 | 14.3% | prometheus-operator/prometheus-operator(6), prometheus-operator/website(2) | PR, Push |
+| kubernetes-sigs | 6 | 10.7% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/kube-api-linter(2) | Issue, PR, Push |
+| istio | 3 | 5.4% | istio/istio(3) | PR, Push |
+| theagentrouter | 3 | 5.4% | theagentrouter/agent-router(3) | PR |
+| XHToken | 3 | 5.4% | XHToken/Spark-X2.6(3) | Push |
+| prometheus | 3 | 5.4% | prometheus/prometheus(2), prometheus/exporter-toolkit(1) | PR, Push |
+| a2aproject | 3 | 5.4% | a2aproject/a2a-go(2), a2aproject/A2A(1) | Issue, PR, Push |
 | agentgateway | 2 | 3.6% | agentgateway/agentgateway(2) | PR |
 | todogroup | 2 | 3.6% | todogroup/ospolandscape(2) | PR, Push |
 | e2bgateway | 2 | 3.6% | e2bgateway/e2bgateway(2) | Issue, Push |
@@ -132,6 +133,7 @@ prabhawti                      █                    2%
 | pytorch | 1 | 1.8% | pytorch/executorch(1) | PR |
 | anomalyco | 1 | 1.8% | anomalyco/models.dev(1) | PR |
 | grafana | 1 | 1.8% | grafana/mimir-prometheus(1) | Push |
+| Aikido-pentest-benchmarks | 1 | 1.8% | Aikido-pentest-benchmarks/istio(1) | Push |
 | prabhawti | 1 | 1.8% | prabhawti/istio(1) | Push |
 
 ### 4.2 仓库详细 Top 10
@@ -143,7 +145,7 @@ prabhawti                      █                    2%
 | 3 | **kubernetes-sigs/agent-sandbox** | 4 | 2 | 0 | 2 | PR #1698: fix(go-sdk): drop unnecessary else block; PR #1661: Bump: Update golangci-linter version to ; Commit: fix(go-sdk): remove unnecessary else block |
 | 4 | **istio/istio** | 3 | 2 | 0 | 1 | PR #61907: feat: add OpenMetrics 2.0 support to pi; PR #61872: Use apiequality.Semantic.DeepEqual in c; Commit: Use apiequality.Semantic.DeepEqual selecti |
 | 5 | **theagentrouter/agent-router** | 3 | 3 | 0 | 0 | PR #2717: feat: add kube-api-linter support; PR #2710: chore:  add modernize lint and resolve i; PR #2709: fix: resolve modernize lint issues |
-| 6 | **XHToken/Spark-X2.5** | 3 | 0 | 0 | 3 | Commit: docs: simplify Ollama and LM Studio sectio; Commit: Add release notes for Spark-X2.5 model sup; Commit: docs: add Unsloth section |
+| 6 | **XHToken/Spark-X2.6** | 3 | 0 | 0 | 3 | Commit: docs: add Unsloth section; Commit: docs: simplify Ollama and LM Studio sectio; Commit: Add release notes for Spark-X2.5 model sup |
 | 7 | **prometheus/prometheus** | 2 | 1 | 0 | 1 | PR #19848: web: upgrade exporter-toolkit to v0.20.; Commit: web: upgrade exporter-toolkit to v0.20.0 t |
 | 8 | **a2aproject/a2a-go** | 2 | 1 | 0 | 1 | PR #440: chore(lint): fix all golangci-lint issues; Commit: chore(lint): fix all golangci-lint issues  |
 | 9 | **agentgateway/agentgateway** | 2 | 2 | 0 | 0 | PR #3550: feat(a2a): support label selectors on A2; PR #3453: fix(proxy): inject X-Forwarded-Proto on  |
@@ -158,22 +160,23 @@ prabhawti                      █                    2%
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus/prometheus | [#19848](https://github.com/prometheus/prometheus/pull/19848) | web: upgrade exporter-toolkit to v0.20.0 to fix HTTP/2 ALPN under Go 1 | ✅ 已合并 |
-| 2 | iflytek/website | [#119](https://github.com/iflytek/website/pull/119) | fix(ci): prevent infinite loops and improve API rate limits in update  | ✅ 已合并 |
-| 3 | istio/istio | [#61872](https://github.com/istio/istio/pull/61872) | Use apiequality.Semantic.DeepEqual in controller and krt | ✅ 已合并 |
-| 4 | prometheus-operator/prometheus-operator | [#8836](https://github.com/prometheus-operator/prometheus-operator/pull/8836) | chore: update promthues lts latest version to v3.13.3 | ✅ 已合并 |
-| 5 | a-ghorbani/pocketpal-device-rules | [#7](https://github.com/a-ghorbani/pocketpal-device-rules/pull/7) | feat: Add Spark-X2.5 models to device rules | 🔒 已关闭 |
-| 6 | a2aproject/a2a-go | [#440](https://github.com/a2aproject/a2a-go/pull/440) | chore(lint): fix all golangci-lint issues | ✅ 已合并 |
-| 7 | theagentrouter/agent-router | [#2709](https://github.com/theagentrouter/agent-router/pull/2709) | fix: resolve modernize lint issues | 🔒 已关闭 |
-| 8 | kubernetes-sigs/agent-sandbox | [#1698](https://github.com/kubernetes-sigs/agent-sandbox/pull/1698) | fix(go-sdk): drop unnecessary else block after t.Fatalf | ✅ 已合并 |
-| 9 | prometheus-operator/website | [#159](https://github.com/prometheus-operator/website/pull/159) | chore: update prometheusOperator version to v0.94.0 | ✅ 已合并 |
-| 10 | prometheus-operator/prometheus-operator | [#8827](https://github.com/prometheus-operator/prometheus-operator/pull/8827) | feat: Add unused and whitespace linters | ✅ 已合并 |
-| 11 | kubernetes-sigs/agent-sandbox | [#1661](https://github.com/kubernetes-sigs/agent-sandbox/pull/1661) | Bump: Update golangci-linter version to v2.13.2 | ✅ 已合并 |
-| 12 | pytorch/executorch | [#22865](https://github.com/pytorch/executorch/pull/22865) | feat(example): Add Spark-X2.5 model example with hybrid attention supp | ✅ 已合并 |
-| 13 | iflytek/website | [#116](https://github.com/iflytek/website/pull/116) | feat: add Spark LLM talk at AICC 2026 | ✅ 已合并 |
-| 14 | iflytek/website | [#115](https://github.com/iflytek/website/pull/115) | feat: add AIOps architecture event at GOPS 2026 Shanghai | ✅ 已合并 |
-| 15 | iflytek/website | [#114](https://github.com/iflytek/website/pull/114) | release: v0.7.0 | ✅ 已合并 |
-| 16 | todogroup/ospolandscape | [#252](https://github.com/todogroup/ospolandscape/pull/252) | Add iFlytek as a adopter | ✅ 已合并 |
-| 17 | dongjiang1989/ospolandscape | [#1](https://github.com/dongjiang1989/ospolandscape/pull/1) | Add iFlytek as a member and adopter | ✅ 已合并 |
+| 2 | SlinkyProject/slurm-operator | [#268](https://github.com/SlinkyProject/slurm-operator/pull/268) | fix: prevent nil-map panic when writing pod annotations | 🔒 已关闭 |
+| 3 | iflytek/website | [#119](https://github.com/iflytek/website/pull/119) | fix(ci): prevent infinite loops and improve API rate limits in update  | ✅ 已合并 |
+| 4 | istio/istio | [#61872](https://github.com/istio/istio/pull/61872) | Use apiequality.Semantic.DeepEqual in controller and krt | ✅ 已合并 |
+| 5 | prometheus-operator/prometheus-operator | [#8836](https://github.com/prometheus-operator/prometheus-operator/pull/8836) | chore: update promthues lts latest version to v3.13.3 | ✅ 已合并 |
+| 6 | a-ghorbani/pocketpal-device-rules | [#7](https://github.com/a-ghorbani/pocketpal-device-rules/pull/7) | feat: Add Spark-X2.5 models to device rules | 🔒 已关闭 |
+| 7 | a2aproject/a2a-go | [#440](https://github.com/a2aproject/a2a-go/pull/440) | chore(lint): fix all golangci-lint issues | ✅ 已合并 |
+| 8 | theagentrouter/agent-router | [#2709](https://github.com/theagentrouter/agent-router/pull/2709) | fix: resolve modernize lint issues | 🔒 已关闭 |
+| 9 | kubernetes-sigs/agent-sandbox | [#1698](https://github.com/kubernetes-sigs/agent-sandbox/pull/1698) | fix(go-sdk): drop unnecessary else block after t.Fatalf | ✅ 已合并 |
+| 10 | prometheus-operator/website | [#159](https://github.com/prometheus-operator/website/pull/159) | chore: update prometheusOperator version to v0.94.0 | ✅ 已合并 |
+| 11 | prometheus-operator/prometheus-operator | [#8827](https://github.com/prometheus-operator/prometheus-operator/pull/8827) | feat: Add unused and whitespace linters | ✅ 已合并 |
+| 12 | kubernetes-sigs/agent-sandbox | [#1661](https://github.com/kubernetes-sigs/agent-sandbox/pull/1661) | Bump: Update golangci-linter version to v2.13.2 | ✅ 已合并 |
+| 13 | pytorch/executorch | [#22865](https://github.com/pytorch/executorch/pull/22865) | feat(example): Add Spark-X2.5 model example with hybrid attention supp | ✅ 已合并 |
+| 14 | iflytek/website | [#116](https://github.com/iflytek/website/pull/116) | feat: add Spark LLM talk at AICC 2026 | ✅ 已合并 |
+| 15 | iflytek/website | [#115](https://github.com/iflytek/website/pull/115) | feat: add AIOps architecture event at GOPS 2026 Shanghai | ✅ 已合并 |
+| 16 | iflytek/website | [#114](https://github.com/iflytek/website/pull/114) | release: v0.7.0 | ✅ 已合并 |
+| 17 | todogroup/ospolandscape | [#252](https://github.com/todogroup/ospolandscape/pull/252) | Add iFlytek as a adopter | ✅ 已合并 |
+| 18 | dongjiang1989/ospolandscape | [#1](https://github.com/dongjiang1989/ospolandscape/pull/1) | Add iFlytek as a member and adopter | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -181,16 +184,15 @@ prabhawti                      █                    2%
 |---|------|----|------|------|
 | 1 | prometheus/exporter-toolkit | [#449](https://github.com/prometheus/exporter-toolkit/pull/449) | web: add post-quantum hybrid KEM groups to curve_preferences | 🔄 开放 |
 | 2 | prometheus-operator/prometheus-operator | [#8844](https://github.com/prometheus-operator/prometheus-operator/pull/8844) | chore: Update prometheus version to v3.15.0 | 🔄 开放 |
-| 3 | SlinkyProject/slurm-operator | [#268](https://github.com/SlinkyProject/slurm-operator/pull/268) | fix: prevent nil-map panic when writing pod annotations | 🔄 开放 |
-| 4 | NVIDIA/pyxis | [#183](https://github.com/NVIDIA/pyxis/pull/183) | Refactor: extract join_namespace helper for setns calls | 🔄 开放 |
-| 5 | istio/istio | [#61907](https://github.com/istio/istio/pull/61907) | feat: add OpenMetrics 2.0 support to pilot-agent metrics merger | 🔄 开放 |
-| 6 | theagentrouter/agent-router | [#2717](https://github.com/theagentrouter/agent-router/pull/2717) | feat: add kube-api-linter support | 🔄 开放 |
-| 7 | prometheus-operator/prometheus-operator | [#8831](https://github.com/prometheus-operator/prometheus-operator/pull/8831) | feat: Add ServiceName field to Sigv4 config for Prometheus | 🔄 开放 |
-| 8 | agentgateway/agentgateway | [#3550](https://github.com/agentgateway/agentgateway/pull/3550) | feat(a2a): support label selectors on A2A backends | 🔄 开放 |
-| 9 | theagentrouter/agent-router | [#2710](https://github.com/theagentrouter/agent-router/pull/2710) | chore:  add modernize lint and resolve issues | 🔄 开放 |
-| 10 | kubernetes-sigs/kube-api-linter | [#262](https://github.com/kubernetes-sigs/kube-api-linter/pull/262) | feat(commentstart): support excluding standard Go comment prefixes | 🔄 开放 |
-| 11 | anomalyco/models.dev | [#7057](https://github.com/anomalyco/models.dev/pull/7057) | feat(providers): add iFlytek MaaS (China) provider | 🔄 开放 |
-| 12 | agentgateway/agentgateway | [#3453](https://github.com/agentgateway/agentgateway/pull/3453) | fix(proxy): inject X-Forwarded-Proto on TLS termination | 🔄 开放 |
+| 3 | NVIDIA/pyxis | [#183](https://github.com/NVIDIA/pyxis/pull/183) | Refactor: extract join_namespace helper for setns calls | 🔄 开放 |
+| 4 | istio/istio | [#61907](https://github.com/istio/istio/pull/61907) | feat: add OpenMetrics 2.0 support to pilot-agent metrics merger | 🔄 开放 |
+| 5 | theagentrouter/agent-router | [#2717](https://github.com/theagentrouter/agent-router/pull/2717) | feat: add kube-api-linter support | 🔄 开放 |
+| 6 | prometheus-operator/prometheus-operator | [#8831](https://github.com/prometheus-operator/prometheus-operator/pull/8831) | feat: Add ServiceName field to Sigv4 config for Prometheus | 🔄 开放 |
+| 7 | agentgateway/agentgateway | [#3550](https://github.com/agentgateway/agentgateway/pull/3550) | feat(a2a): support label selectors on A2A backends | 🔄 开放 |
+| 8 | theagentrouter/agent-router | [#2710](https://github.com/theagentrouter/agent-router/pull/2710) | chore:  add modernize lint and resolve issues | 🔄 开放 |
+| 9 | kubernetes-sigs/kube-api-linter | [#262](https://github.com/kubernetes-sigs/kube-api-linter/pull/262) | feat(commentstart): support excluding standard Go comment prefixes | 🔄 开放 |
+| 10 | anomalyco/models.dev | [#7057](https://github.com/anomalyco/models.dev/pull/7057) | feat(providers): add iFlytek MaaS (China) provider | 🔄 开放 |
+| 11 | agentgateway/agentgateway | [#3453](https://github.com/agentgateway/agentgateway/pull/3453) | fix(proxy): inject X-Forwarded-Proto on TLS termination | 🔄 开放 |
 
 ---
 
@@ -263,7 +265,7 @@ prabhawti                      █                    2%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | iflytek/website | 4 | 2026-09-14 | release: v0.7.0 (#114); feat: add Spark LLM talk at AICC 2026 AI Computing; feat: add AIOps architecture event at GOPS 2026 Sh |
-| XHToken/Spark-X2.5 | 3 | 2026-09-18 | docs: simplify Ollama and LM Studio sections; Add release notes for Spark-X2.5 model support; docs: add Unsloth section |
+| XHToken/Spark-X2.6 | 3 | 2026-09-20 | docs: add Unsloth section; docs: simplify Ollama and LM Studio sections; Add release notes for Spark-X2.5 model support |
 | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 2 | 2026-09-19 | fix(go-sdk): remove unnecessary else block in file; chore: bump golangci-lint to v2.13.2 (#1661) |
 | kubernetes-sigs/agent-sandbox | 2 | 2026-09-19 | fix(go-sdk): remove unnecessary else block in file; chore: bump golangci-lint to v2.13.2 (#1661) |
 | prometheus-operator/prometheus-operator | 2 | 2026-09-18 | add unused and whitespace linters (#8827); update promthues lts version v3.13.3 |
@@ -274,6 +276,7 @@ prabhawti                      █                    2%
 | prometheus-operator/website | 1 | 2026-09-18 | Update prometheusOperator version to v0.94.0 |
 | a2aproject/a2a-go | 1 | 2026-09-23 | chore(lint): fix all golangci-lint issues (#440) |
 | prometheus/prometheus | 1 | 2026-09-27 | web: upgrade exporter-toolkit to v0.20.0 to fix HT |
+| Aikido-pentest-benchmarks/istio | 1 | 2026-09-24 | Use apiequality.Semantic.DeepEqual selectively acr |
 | dongjiang1989/dongjiang1989 | 1 | 2026-09-23 | docs: add AICC 2026 conference and reorder by date |
 | e2bgateway/e2bgateway | 1 | 2026-09-22 | feat: envd data plane refactor with full E2E suppo |
 | prabhawti/istio | 1 | 2026-09-24 | Use apiequality.Semantic.DeepEqual selectively acr |
@@ -301,4 +304,4 @@ prabhawti                      █                    2%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

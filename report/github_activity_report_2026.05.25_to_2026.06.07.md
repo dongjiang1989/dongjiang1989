@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **7** 个 |
 | 涉及仓库数 | **11** 个 |
-| Pull Request 数 | **15** 个（已合并 14，开放 1） |
+| Pull Request 数 | **15** 个（已合并 15，开放 0） |
 | Issue 数 | **2** 个 |
 | Commit 数 | **54** 次 |
 | 总活动量 | **71** |
@@ -37,11 +37,10 @@ jacobsee                       █                    1%
 ### 💡 核心总结
 
 1. **kubeservice-stack** 是最大贡献方向（38%），涉及 2 个仓库，共 27 次活动。
-2. 共 **14** 个 PR 已合并，覆盖 7 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-05-29**（46 次活动），展现了高强度的工作节奏。
-5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 10 个仓库提交了 **54** 次代码。
+2. 共 **15** 个 PR 已合并，覆盖 7 个仓库。
+3. 活跃高峰出现在 **2026-05-29**（46 次活动），展现了高强度的工作节奏。
+4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 10 个仓库提交了 **54** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -49,13 +48,13 @@ jacobsee                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 64 | **71** | +11% | 📈 +7 |
+| **总活动量** | 63 | **71** | +13% | 📈 +8 |
 | Pull Request | 23 | 15 | -35% | 📉 -8 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 41 | 54 | +32% | 📈 +13 |
+| Commit | 40 | 54 | +35% | 📈 +14 |
 
 - 🆕 **新增活跃仓库**：`actions-marketplace-validations/kubeservice-stack_hf-sync-action`, `dongjiang1989/abc`, `dongjiang1989/mirror-action`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kueue`, `kubernetes-sigs/prow`, `kubeservice-stack/hf-sync-action`, `kubeservice-stack/repos-mirror-action`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `hnxtcloud/astronhub`, `ichichuang/skillhub-lobster-frontend`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `tellbom/skillhub`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `ynyyzyrf/astron`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Project-HAMi/HAMi`, `Wionerlol/SkillHub`, `aniketpati1121/HAMi`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `dongjiang1989/opensearch-api`, `erauner12/kagent-detached`, `hnxtcloud/astronhub`, `iflytek/astron-agent`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/agent-sandbox`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/node-metrics`, `luxi233/astron-agent`, `tellbom/skillhub`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `ynyyzyrf/astron`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubeservice-stack**
 
 ---
@@ -65,7 +64,7 @@ jacobsee                       █                    1%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **71** | PR + Issue + Commit |
-| 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
+| 📝 **Pull Request** | 15 | 已合并 15，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
 | 💻 **Commit** | 54 | 代码提交 |
 
@@ -76,10 +75,10 @@ jacobsee                       █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2026-05-25（一） | 3 | ███░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs ; jacobsee/usr-kubernetes-sigs-controller-tools: upd |
-| 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow), dongjiang1989/mirror-action, kubeservice-stack/repos-mirror-action） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（dongjiang1989/abc, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action), dongjiang1989/mirror-action, kubeservice-stack/hf-sync-action） |
+| 2026-05-26（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/kueue)） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), dongjiang1989/mirror-action, kubernetes-sigs/prow)） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), iflytek/community, prometheus-operator/prometheus-operator） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（dongjiang1989/mirror-action, actions-marketplace-validations/kubeservice-stack_hf-sync-action, kubeservice-stack/hf-sync-action） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -144,13 +143,12 @@ jacobsee                       █                    1%
 | 11 | iflytek/community | [#9](https://github.com/iflytek/community/pull/9) | ci: Add GitHub dependabot configuration | ✅ 已合并 |
 | 12 | iflytek/community | [#8](https://github.com/iflytek/community/pull/8) | chore(docs): Add bi-weekly community meeting documentation  | ✅ 已合并 |
 | 13 | kubernetes-sigs/kueue | [#11645](https://github.com/kubernetes-sigs/kueue/pull/11645) | KEP: Automatic GOMEMLIMIT Tuning for Kueue Controller  | 🔒 已关闭 |
-| 14 | kubernetes-sigs/controller-tools | [#1418](https://github.com/kubernetes-sigs/controller-tools/pull/1418) | 🌱Update dependencies to k8s.io v1.36.1 | ✅ 已合并 |
+| 14 | kubernetes-sigs/kueue | [#11642](https://github.com/kubernetes-sigs/kueue/pull/11642) | feat: Add automatic memory limit handling | 🔒 已关闭 |
+| 15 | kubernetes-sigs/controller-tools | [#1418](https://github.com/kubernetes-sigs/controller-tools/pull/1418) | 🌱Update dependencies to k8s.io v1.36.1 | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | kubernetes-sigs/kueue | [#11642](https://github.com/kubernetes-sigs/kueue/pull/11642) | feat: Add automatic memory limit handling | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -262,4 +260,4 @@ jacobsee                       █                    1%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

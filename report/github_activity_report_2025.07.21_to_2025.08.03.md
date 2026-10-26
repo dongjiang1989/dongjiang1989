@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -54,13 +54,13 @@ jimmidyson                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 17 | **48** | +182% | 📈 +31 |
+| **总活动量** | 18 | **48** | +167% | 📈 +30 |
 | Pull Request | 5 | 16 | +220% | 📈 +11 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 11 | 32 | +191% | 📈 +21 |
+| Commit | 12 | 32 | +167% | 📈 +20 |
 
 - 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
-- ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `apecloud/kubeblocks-addons`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
+- ❌ **不再活跃的仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `apecloud/kubeblocks-addons`, `bhcoder23/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
 ---
@@ -80,19 +80,19 @@ jimmidyson                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-07-21（一）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/external-dns), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| **2025-07-21（一）** | **13** | █████████████ | 13 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), chromium-full-mirror/external_github.com_prometheus_procfs） |
 | 2025-07-22（二） | 0 | ░░░░░ | — |
 | 2025-07-23（三） | 2 | ██░░░ | PR #7737 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（tmohanvamsi/kagent, kagent-dev/kagent, prometheus-operator/prometheus-operator)） |
+| **2025-07-24（四）** | **10** | ██████████ | 10 项活动（prometheus-operator/prometheus-operator), tmohanvamsi/kagent, prometheus-operator/prometheus-operator） |
 | 2025-07-25（五） | 1 | █░░░░ | PR #650 (kagent-dev/kagent) |
 | 2025-07-26（六） | 0 | ░░░░░ | — |
 | 2025-07-27（日） | 0 | ░░░░░ | — |
 | 2025-07-28（一） | 0 | ░░░░░ | — |
 | 2025-07-29（二） | 3 | ███░░ | PR #7750 (prometheus-operator/prometheus-operator); PR #7748 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update th |
-| 2025-07-30（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
-| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime)） |
+| 2025-07-30（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
+| **2025-07-31（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools） |
 | 2025-08-01（五） | 0 | ░░░░░ | — |
-| **2025-08-02（六）** | **7** | ███████ | 7 项活动（Project-HAMi/HAMi-core), punith1006/LaaS-Hami, jimmidyson/kcp-cluster-api） |
+| **2025-08-02（六）** | **7** | ███████ | 7 项活动（jimmidyson/kcp-cluster-api, Project-HAMi/HAMi-core, kubernetes-sigs/cluster-api） |
 | 2025-08-03（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-07-21（13 次活动）为最高峰。
@@ -265,4 +265,4 @@ jimmidyson                     █                    2%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

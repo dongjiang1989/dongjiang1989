@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -76,14 +76,14 @@ jacobsee                       █                    6%
 | 2025-06-10（二） | 1 | █░░░░ | dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-11（三） | 0 | ░░░░░ | — |
 | 2025-06-12（四） | 0 | ░░░░░ | — |
-| **2025-06-13（五）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator） |
+| **2025-06-13（五）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989） |
 | 2025-06-14（六） | 2 | ██░░░ | prometheus-operator/prometheus-operator: fix e2e c; prometheus-operator/prometheus-operator: fix
 
 Sign |
 | 2025-06-15（日） | 0 | ░░░░░ | — |
 | 2025-06-16（一） | 2 | ██░░░ | Issue #1712; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-17（二） | 2 | ██░░░ | PR #7605 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update to |
-| 2025-06-18（三） | 4 | ████░ | 4 项活动（kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools） |
+| 2025-06-18（三） | 4 | ████░ | 4 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
 | 2025-06-19（四） | 0 | ░░░░░ | — |
 | 2025-06-20（五） | 0 | ░░░░░ | — |
 | 2025-06-21（六） | 0 | ░░░░░ | — |
@@ -209,4 +209,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

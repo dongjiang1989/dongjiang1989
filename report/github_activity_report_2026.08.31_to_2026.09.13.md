@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -16,17 +16,17 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **25** 个 |
-| 涉及仓库数 | **37** 个 |
+| 涉及仓库数 | **36** 个 |
 | Pull Request 数 | **34** 个（已合并 27，开放 7） |
 | Issue 数 | **19** 个 |
-| Commit 数 | **58** 次 |
-| 总活动量 | **111** |
+| Commit 数 | **57** 次 |
+| 总活动量 | **110** |
 
 ### 🎯 工作重心分布
 
 ```
 e2bgateway                     █████                29%
-kubernetes-sigs                █                    10%
+kubernetes-sigs                ██                   10%
 prometheus                     █                    9%
 prometheus-operator            █                    8%
 agentgateway                   █                    7%
@@ -40,12 +40,12 @@ ollama                         █                    2%
 e7t1s2n9yo                     █                    2%
 dongjiang1989                  █                    2%
 joshuajimenezw-spec            █                    2%
-nbbjs                          █                    2%
 grafana                        █                    1%
 danylomaiberov-max             █                    1%
 linarezwilyer2-boop            █                    1%
 chromium-full-mirror           █                    1%
 skullrex0987-ctrl              █                    1%
+BallParkBanter                 █                    1%
 jacobsee                       █                    1%
 CodeLinaro-mirror              █                    1%
 vllm-project                   █                    1%
@@ -59,7 +59,7 @@ rdatguacharo-hue               █                    1%
 3. **7** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-09-02**（26 次活动），展现了高强度的工作节奏。
 5. 创建了 **19** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 33 个仓库提交了 **58** 次代码。
+6. 在 32 个仓库提交了 **57** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -67,12 +67,12 @@ rdatguacharo-hue               █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 64 | **111** | +73% | 📈 +47 |
+| **总活动量** | 64 | **110** | +72% | 📈 +46 |
 | Pull Request | 26 | 34 | +31% | 📈 +8 |
 | Issue | 0 | 19 | 🆕 新增 | 📈 +19 |
-| Commit | 38 | 58 | +53% | 📈 +20 |
+| Commit | 38 | 57 | +50% | 📈 +19 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `dongjiang1989/dongjiang1989`, `e2bgateway/e2bgateway`, `grafana/mimir-prometheus`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/external-dns`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `nbbjs/pocketpal-AI-`, `nbbjs/pocketpal-AI-2`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/prometheus`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `skullrex0987-ctrl/pocketpal-ai-mali`
+- 🆕 **新增活跃仓库**：`BallParkBanter/pocketpal-bray`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `dongjiang1989/dongjiang1989`, `e2bgateway/e2bgateway`, `grafana/mimir-prometheus`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/external-dns`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/prometheus`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `skullrex0987-ctrl/pocketpal-ai-mali`
 - ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `modelcontextprotocol/modelcontextprotocol`, `prometheus/procfs`, `zhcndoc/mcp`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **e2bgateway**
 
@@ -82,10 +82,10 @@ rdatguacharo-hue               █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **111** | PR + Issue + Commit |
+| 📊 **总活动** | **110** | PR + Issue + Commit |
 | 📝 **Pull Request** | 34 | 已合并 27，开放 7 |
 | 📋 **Issue** | 19 | 创建 Issue |
-| 💻 **Commit** | 58 | 代码提交 |
+| 💻 **Commit** | 57 | 代码提交 |
 
 ---
 
@@ -93,19 +93,19 @@ rdatguacharo-hue               █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-31（一）** | **6** | ██████ | 6 项活动（XHToken/Spark-plugin, prometheus/sigv4, prometheus/node_exporter） |
+| **2026-08-31（一）** | **6** | ██████ | 6 项活动（prometheus/node_exporter), prometheus/sigv4, prometheus/node_exporter） |
 | 2026-09-01（二） | 1 | █░░░░ | PR #8784 (prometheus-operator/prometheus-operator) |
-| **2026-09-02（三）** | **26** | ████████████████████ | 26 项活动（grafana/mimir-prometheus, prometheus/prometheus, prometheus/alertmanager)） |
-| **2026-09-03（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-runtime, XHToken/Spark-X2.5, prometheus-operator/prometheus-operator)） |
-| **2026-09-04（五）** | **11** | ███████████ | 11 项活动（kubernetes-sigs/external-dns), johan-sellstrom/agentgateway, yumaitau/magpie-gateway） |
+| **2026-09-02（三）** | **26** | ████████████████████ | 26 项活动（prometheus/node_exporter), prometheus/alertmanager), kubernetes-sigs/controller-runtime） |
+| **2026-09-03（四）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway), kubernetes-sigs/controller-runtime） |
+| **2026-09-04（五）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway), kubernetes-sigs/kubebuilder） |
 | 2026-09-05（六） | 3 | ███░░ | PR #1571 (kubernetes-sigs/agent-sandbox); e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: feat: upgrade contr |
-| **2026-09-06（日）** | **6** | ██████ | 6 项活动（dongjiang1989/dongjiang1989, agentgateway/agentgateway), iflytek/website)） |
-| **2026-09-07（一）** | **6** | ██████ | 6 项活动（mybigday/llama.rn), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator)） |
-| **2026-09-08（二）** | **15** | ███████████████ | 15 项活动（mybigday/llama.rn, XHToken/Spark-X2.5, e2bgateway/e2bgateway)） |
-| **2026-09-09（三）** | **6** | ██████ | 6 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-09-10（四）** | **10** | ██████████ | 10 项活动（danylomaiberov-max/pocket-pal-fork, a-ghorbani/pocketpal-ai, joshuajimenezw-spec/UCVAG-IA） |
-| **2026-09-11（五）** | **10** | ██████████ | 10 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/agent-sandbox, yumaitau/magpie-gateway） |
-| 2026-09-12（六） | 2 | ██░░░ | PR #987 (prometheus/common); XHToken/Spark-X2.5: Update release notes for Spark |
+| **2026-09-06（日）** | **6** | ██████ | 6 项活动（iflytek/website), iflytek/website, agentgateway/agentgateway)） |
+| **2026-09-07（一）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), ollama/ollama), dongjiang1989/dongjiang1989） |
+| **2026-09-08（二）** | **15** | ███████████████ | 15 项活动（a-ghorbani/pocketpal-ai), agentgateway/agentgateway), e2bgateway/e2bgateway） |
+| **2026-09-09（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, jacobsee/usr-kubernetes-sigs-controller-tools） |
+| **2026-09-10（四）** | **9** | █████████ | 9 项活动（joshuajimenezw-spec/UCVAG, a-ghorbani/pocketpal-ai), rdatguacharo-hue/UCVAG） |
+| **2026-09-11（五）** | **10** | ██████████ | 10 项活动（e2bgateway/e2bgateway, iflytek/website, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| 2026-09-12（六） | 2 | ██░░░ | PR #987 (prometheus/common); XHToken/Spark-X2.6: Update release notes for Spark |
 | 2026-09-13（日） | 3 | ███░░ | chromium-full-mirror/external_github.com_prometheu; CodeLinaro-mirror/yocto-mirrors_github_prometheus_; prometheus/common: Update gofumpt config and apply |
 
 > **活跃高峰**：2026-09-02（26 次活动）为最高峰。
@@ -118,13 +118,13 @@ rdatguacharo-hue               █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **e2bgateway** | 32 | 28.8% | e2bgateway/e2bgateway(32) | Issue, PR, Push |
-| kubernetes-sigs | 11 | 9.9% | kubernetes-sigs/agent-sandbox(5), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| prometheus | 10 | 9.0% | prometheus/common(3), prometheus/node_exporter(3), prometheus/prometheus(2) | PR, Push |
-| prometheus-operator | 9 | 8.1% | prometheus-operator/prometheus-operator(8), prometheus-operator/community(1) | Issue, PR, Push |
-| agentgateway | 8 | 7.2% | agentgateway/agentgateway(8) | PR, Push |
-| iflytek | 6 | 5.4% | iflytek/website(6) | PR, Push |
-| XHToken | 5 | 4.5% | XHToken/Spark-X2.5(4), XHToken/Spark-plugin(1) | Push |
+| **e2bgateway** | 32 | 29.1% | e2bgateway/e2bgateway(32) | Issue, PR, Push |
+| kubernetes-sigs | 11 | 10.0% | kubernetes-sigs/agent-sandbox(5), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| prometheus | 10 | 9.1% | prometheus/common(3), prometheus/node_exporter(3), prometheus/prometheus(2) | PR, Push |
+| prometheus-operator | 9 | 8.2% | prometheus-operator/prometheus-operator(8), prometheus-operator/community(1) | Issue, PR, Push |
+| agentgateway | 8 | 7.3% | agentgateway/agentgateway(8) | PR, Push |
+| iflytek | 6 | 5.5% | iflytek/website(6) | PR, Push |
+| XHToken | 5 | 4.5% | XHToken/Spark-X2.6(4), XHToken/Spark-plugin(1) | Push |
 | a-ghorbani | 3 | 2.7% | a-ghorbani/pocketpal-ai(3) | PR, Push |
 | yumaitau | 3 | 2.7% | yumaitau/magpie-gateway(3) | Push |
 | johan-sellstrom | 3 | 2.7% | johan-sellstrom/agentgateway(3) | Push |
@@ -133,12 +133,12 @@ rdatguacharo-hue               █                    1%
 | e7t1s2n9yo | 2 | 1.8% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(2) | Push |
 | dongjiang1989 | 2 | 1.8% | dongjiang1989/dongjiang1989(2) | Push |
 | joshuajimenezw-spec | 2 | 1.8% | joshuajimenezw-spec/UCVAG-IA(1), joshuajimenezw-spec/UCVAG(1) | Push |
-| nbbjs | 2 | 1.8% | nbbjs/pocketpal-AI-2(1), nbbjs/pocketpal-AI-(1) | Push |
 | grafana | 1 | 0.9% | grafana/mimir-prometheus(1) | Push |
 | danylomaiberov-max | 1 | 0.9% | danylomaiberov-max/pocket-pal-fork(1) | Push |
 | linarezwilyer2-boop | 1 | 0.9% | linarezwilyer2-boop/UCVAG-1.1(1) | Push |
 | chromium-full-mirror | 1 | 0.9% | chromium-full-mirror/external_github.com_prometheus_common(1) | Push |
 | skullrex0987-ctrl | 1 | 0.9% | skullrex0987-ctrl/pocketpal-ai-mali(1) | Push |
+| BallParkBanter | 1 | 0.9% | BallParkBanter/pocketpal-bray(1) | Push |
 | jacobsee | 1 | 0.9% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
 | CodeLinaro-mirror | 1 | 0.9% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_common(1) | Push |
 | vllm-project | 1 | 0.9% | vllm-project/aibrix(1) | Push |
@@ -153,7 +153,7 @@ rdatguacharo-hue               █                    1%
 | 3 | **prometheus-operator/prometheus-operator** | 8 | 4 | 0 | 4 | PR #8802: feat: Add nolintlint, unused and whitesp; PR #8793: chore: Bump controller-runtime to v0.25.; PR #8792: chore: Bump controller tools version to  |
 | 4 | **iflytek/website** | 6 | 3 | 0 | 3 | PR #110: chore(deps): resolve 10 security vulnerab; PR #106: fix(contribute): ensure contributor data ; PR #105: fix(deps): resolve 6 security vulnerabili |
 | 5 | **kubernetes-sigs/agent-sandbox** | 5 | 3 | 0 | 2 | PR #1571: feat: add --enable-rest-client-metrics f; PR #1547: feat: upgrade controller-runtime to v0.2; PR #1502: feat(sandbox-router): add byte transfer  |
-| 6 | **XHToken/Spark-X2.5** | 4 | 0 | 0 | 4 | Commit: Update release notes for Spark-X2.5 model ; Commit: Add RELEASE.md and update README with rele; Commit: docs: update llama.cpp integration info |
+| 6 | **XHToken/Spark-X2.6** | 4 | 0 | 0 | 4 | Commit: Update release notes for Spark-X2.5 model ; Commit: docs: update llama.cpp integration info; Commit: Add RELEASE.md and update README with rele |
 | 7 | **prometheus/common** | 3 | 2 | 0 | 1 | PR #987: chore: Update gofumpt config and apply ne; PR #986: chore: Replace sort package with slices a; Commit: Update gofumpt config and apply new format |
 | 8 | **a-ghorbani/pocketpal-ai** | 3 | 2 | 0 | 1 | PR #908: feat: add Spark X2.5 models as default mo; PR #901: Upgrade llama.rn to 0.13.0-rc.3 (llama.cp; Commit: chore(deps): upgrade llama.rn to 0.13.0-rc |
 | 9 | **prometheus/node_exporter** | 3 | 2 | 0 | 1 | PR #3808: feat(collector): add power_meter collect; PR #3799: build(deps): Bump prometheus/procfs to v; Commit: ump prometheus/procfs to v0.22.0 (#3799) |
@@ -301,7 +301,7 @@ rdatguacharo-hue               █                    1%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | e2bgateway/e2bgateway | 8 | 2026-09-08 | feat(opensandbox): implement GetAccessToken with s; feat(opensandbox): hybrid access token with OSEP-0; feat(adapter): implement GetAccessToken for agent- |
-| XHToken/Spark-X2.5 | 4 | 2026-09-12 | Update release notes for Spark-X2.5 model support; Add RELEASE.md and update README with release note; docs: update llama.cpp integration info |
+| XHToken/Spark-X2.6 | 4 | 2026-09-12 | Update release notes for Spark-X2.5 model support; docs: update llama.cpp integration info; Add RELEASE.md and update README with release note |
 | prometheus-operator/prometheus-operator | 4 | 2026-09-02 | fix(am): Update Alertmanager support external ID v; chore: bump the k8s-libs version to 0.37.0 (#8784); update controller tools version to v0.22.0 (#8792) |
 | agentgateway/agentgateway | 3 | 2026-09-09 | fix(mcp): propagate _meta envelope to multi-target; fix(controller): propagate Gateway ancestry throug; fix(xds): harden leaf cert rotation with observabi |
 | iflytek/website | 3 | 2026-09-06 | fix(contribute): ensure contributor data fetched d; fix(deps): resolve 6 security vulnerabilities and ; chore(deps): bump svgo, sharp, smol-toml to resolv |
@@ -323,8 +323,8 @@ rdatguacharo-hue               █                    1%
 | skullrex0987-ctrl/pocketpal-ai-mali | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 | joshuajimenezw-spec/UCVAG-IA | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 | kubernetes-sigs/kubebuilder | 1 | 2026-09-04 | ✨ (go/v4): upgrade golangci-lint to v2.13.1 (#5992 |
+| BallParkBanter/pocketpal-bray | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 | jacobsee/usr-kubernetes-sigs-controller-tools | 1 | 2026-09-09 | chore(deps): bump sigs.k8s.io/controller-runtime f |
-| nbbjs/pocketpal-AI-2 | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 | XHToken/Spark-plugin | 1 | 2026-08-31 | ci: add license compliance check to CI pipeline (# |
 | prometheus/prometheus | 1 | 2026-09-02 | config: upgrade sigv4 to v0.5.0 and document new f |
 | CodeLinaro-mirror/yocto-mirrors_github_prometheus_common | 1 | 2026-09-13 | Update gofumpt config and apply new formatting (#9 |
@@ -332,7 +332,6 @@ rdatguacharo-hue               █                    1%
 | vllm-project/aibrix | 1 | 2026-09-04 | [CI] Upgrade golangci-lint to v2.13.1 (#2630) |
 | joshuajimenezw-spec/UCVAG | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 | rdatguacharo-hue/UCVAG | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
-| nbbjs/pocketpal-AI- | 1 | 2026-09-10 | chore(deps): upgrade llama.rn to 0.13.0-rc.3 (llam |
 
 ---
 
@@ -345,7 +344,7 @@ rdatguacharo-hue               █                    1%
 | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 2026-09-07 | DeepEP: an efficient expert-parallel communication library |
 | [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) | 2026-09-06 | PyTorch Single Controller |
 | [meta-pytorch/monarch-kubernetes](https://github.com/meta-pytorch/monarch-kubernetes) | 2026-09-06 | Monarch CRD and operator for native kubernetes support |
-| [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5) | 2026-08-31 | Spark-x2.5 open model series. Pushing the Limits of Agentic  |
+| [XHToken/Spark-X2.6](https://github.com/XHToken/Spark-X2.6) | 2026-08-31 | Spark-x2.6 open model series. Pushing the Limits of Agentic  |
 | [XHToken/community](https://github.com/XHToken/community) | 2026-08-31 | Welcome to XHToken AI opensource community  |
 | [prometheus/procfs](https://github.com/prometheus/procfs) | 2026-08-31 | procfs provides functions to retrieve system, kernel and pro |
 
@@ -357,4 +356,4 @@ rdatguacharo-hue               █                    1%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*

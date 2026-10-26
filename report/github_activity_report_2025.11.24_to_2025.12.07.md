@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：260 | **Followers**：95 | **Following**：52
+> **公开仓库数**：262 | **Followers**：100 | **Following**：52
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **20** 个 |
-| 涉及仓库数 | **22** 个 |
+| 涉及组织数 | **21** 个 |
+| 涉及仓库数 | **23** 个 |
 | Pull Request 数 | **7** 个（已合并 7，开放 0） |
 | Issue 数 | **5** 个 |
-| Commit 数 | **26** 次 |
-| 总活动量 | **38** |
+| Commit 数 | **27** 次 |
+| 总活动量 | **39** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███                  16%
-kagent-dev                     ██                   11%
+kubernetes-sigs                ███                  15%
+kagent-dev                     ██                   10%
 iflytek                        █                    8%
 jacobsee                       █                    8%
 kubeservice-stack              █                    5%
@@ -39,6 +39,7 @@ apache                         █                    3%
 kubernetes                     █                    3%
 rhobs                          █                    3%
 rajendra-k10200                █                    3%
+aperturerobotics               █                    3%
 demogxp-mig                    █                    3%
 elouafi-abderrahmane-2002      █                    3%
 Sanjaykumar2-creator           █                    3%
@@ -49,11 +50,11 @@ prometheus-operator            █                    3%
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（16%），涉及 2 个仓库，共 6 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（15%），涉及 2 个仓库，共 6 次活动。
 2. 共 **7** 个 PR 已合并，覆盖 6 个仓库。
-3. 活跃高峰出现在 **2025-12-05**（13 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2025-12-05**（14 次活动），展现了高强度的工作节奏。
 4. 创建了 **5** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 18 个仓库提交了 **26** 次代码。
+5. 在 19 个仓库提交了 **27** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -61,12 +62,12 @@ prometheus-operator            █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 31 | **38** | +23% | 📈 +7 |
+| **总活动量** | 31 | **39** | +26% | 📈 +8 |
 | Pull Request | 10 | 7 | -30% | 📉 -3 |
 | Issue | 4 | 5 | +25% | 📈 +1 |
-| Commit | 17 | 26 | +53% | 📈 +9 |
+| Commit | 17 | 27 | +59% | 📈 +10 |
 
-- 🆕 **新增活跃仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kagent-dev/kagent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tmohanvamsi/kagent`
+- 🆕 **新增活跃仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `aperturerobotics/prometheus-lite`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kagent-dev/kagent`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tmohanvamsi/kagent`
 - ❌ **不再活跃的仓库**：`QQGoblin/node_exporter`, `asama-ai/node_exporter`, `jicki/node_exporter`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/kspack-go`, `luxi233/astron-agent`, `prometheus/node_exporter`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **prometheus-operator** 转向 **kubernetes-sigs**
 
@@ -76,10 +77,10 @@ prometheus-operator            █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **38** | PR + Issue + Commit |
+| 📊 **总活动** | **39** | PR + Issue + Commit |
 | 📝 **Pull Request** | 7 | 已合并 7，开放 0 |
 | 📋 **Issue** | 5 | 创建 Issue |
-| 💻 **Commit** | 26 | 代码提交 |
+| 💻 **Commit** | 27 | 代码提交 |
 
 ---
 
@@ -88,21 +89,21 @@ prometheus-operator            █                    3%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-11-24（一） | 3 | ███░░ | PR #12772 (apache/apisix); Issue #631; Issue #629 |
-| 2025-11-25（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/metrics-server, kubernetes-sigs/metrics-server), prometheus-operator/prometheus-operator） |
+| 2025-11-25（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/metrics-server), kubernetes-sigs/metrics-server） |
 | 2025-11-26（三） | 0 | ░░░░░ | — |
 | 2025-11-27（四） | 0 | ░░░░░ | — |
 | 2025-11-28（五） | 0 | ░░░░░ | — |
 | 2025-11-29（六） | 0 | ░░░░░ | — |
 | 2025-11-30（日） | 0 | ░░░░░ | — |
-| **2025-12-01（一）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| **2025-12-01（一）** | **5** | █████ | 5 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, dongjiang1989/dongjiang1989） |
 | 2025-12-02（二） | 0 | ░░░░░ | — |
 | 2025-12-03（三） | 1 | █░░░░ | PR #17640 (prometheus/prometheus) |
-| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（kubeservice-stack/echo, tmohanvamsi/kagent, kagent-dev/kagent） |
-| **2025-12-05（五）** | **13** | █████████████ | 13 项活动（kubernetes-sigs/controller-tools, grafana/mimir-prometheus, demogxp-mig/prometheus） |
+| **2025-12-04（四）** | **12** | ████████████ | 12 项活动（tmohanvamsi/kagent, kagent-dev/kagent, dongjiang1989/dongjiang1989） |
+| **2025-12-05（五）** | **14** | ██████████████ | 14 项活动（demogxp-mig2/prometheus, demogxp-mig/prometheus, rhobs/obo-prometheus） |
 | 2025-12-06（六） | 0 | ░░░░░ | — |
 | 2025-12-07（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-12-05（13 次活动）为最高峰。
+> **活跃高峰**：2025-12-05（14 次活动）为最高峰。
 
 ---
 
@@ -112,20 +113,21 @@ prometheus-operator            █                    3%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubernetes-sigs | 6 | 15.8% | kubernetes-sigs/controller-tools(4), kubernetes-sigs/metrics-server(2) | PR, Push |
-| kagent-dev | 4 | 10.5% | kagent-dev/kagent(4) | PR, Push |
-| iflytek | 3 | 7.9% | iflytek/astron-agent(3) | Issue |
-| jacobsee | 3 | 7.9% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
-| kubeservice-stack | 2 | 5.3% | kubeservice-stack/echo(2) | PR, Push |
-| prometheus | 2 | 5.3% | prometheus/prometheus(2) | PR, Push |
-| tmohanvamsi | 2 | 5.3% | tmohanvamsi/kagent(2) | Push |
-| dongjiang1989 | 2 | 5.3% | dongjiang1989/dongjiang1989(2) | Push |
-| erauner12 | 2 | 5.3% | erauner12/kagent-detached(2) | Push |
-| grafana | 2 | 5.3% | grafana/grafana(1), grafana/mimir-prometheus(1) | Issue, Push |
+| kubernetes-sigs | 6 | 15.4% | kubernetes-sigs/controller-tools(4), kubernetes-sigs/metrics-server(2) | PR, Push |
+| kagent-dev | 4 | 10.3% | kagent-dev/kagent(4) | PR, Push |
+| iflytek | 3 | 7.7% | iflytek/astron-agent(3) | Issue |
+| jacobsee | 3 | 7.7% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| kubeservice-stack | 2 | 5.1% | kubeservice-stack/echo(2) | PR, Push |
+| prometheus | 2 | 5.1% | prometheus/prometheus(2) | PR, Push |
+| tmohanvamsi | 2 | 5.1% | tmohanvamsi/kagent(2) | Push |
+| dongjiang1989 | 2 | 5.1% | dongjiang1989/dongjiang1989(2) | Push |
+| erauner12 | 2 | 5.1% | erauner12/kagent-detached(2) | Push |
+| grafana | 2 | 5.1% | grafana/grafana(1), grafana/mimir-prometheus(1) | Issue, Push |
 | apache | 1 | 2.6% | apache/apisix(1) | PR |
 | kubernetes | 1 | 2.6% | kubernetes/org(1) | Issue |
 | rhobs | 1 | 2.6% | rhobs/obo-prometheus(1) | Push |
 | rajendra-k10200 | 1 | 2.6% | rajendra-k10200/prometheus(1) | Push |
+| aperturerobotics | 1 | 2.6% | aperturerobotics/prometheus-lite(1) | Push |
 | demogxp-mig | 1 | 2.6% | demogxp-mig/prometheus(1) | Push |
 | elouafi-abderrahmane-2002 | 1 | 2.6% | elouafi-abderrahmane-2002/prometheus(1) | Push |
 | Sanjaykumar2-creator | 1 | 2.6% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
@@ -244,6 +246,7 @@ prometheus-operator            █                    3%
 | rhobs/obo-prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
 | rajendra-k10200/prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
 | grafana/mimir-prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
+| aperturerobotics/prometheus-lite | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
 | demogxp-mig/prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
 | elouafi-abderrahmane-2002/prometheus | 1 | 2025-12-05 | Update golangci-lint and add modernize check (#176 |
 | kubernetes-sigs/metrics-server | 1 | 2025-11-25 | update golangci lint version |
@@ -260,7 +263,7 @@ prometheus-operator            █                    3%
 
 | 仓库 | 时间 | 说明 |
 |------|------|------|
-| [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) | 2025-12-01 | LeaderWorkerSet: An API for deploying a group of pods as a u |
+| [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) | 2025-12-01 | LeaderWorkerSet & DisaggregatedSet: Kubernetes APIs for Dist |
 | [grafana/embedmd](https://github.com/grafana/embedmd) | 2025-11-24 | embedmd: embed code into markdown and keep everything in syn |
 
 ---
@@ -271,4 +274,4 @@ prometheus-operator            █                    3%
 
 ---
 
-*报告生成时间：2026-10-19 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
