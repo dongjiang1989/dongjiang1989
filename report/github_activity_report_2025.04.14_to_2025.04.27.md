@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -92,16 +92,16 @@ kev1N916                       █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-04-14（一） | 2 | ██░░░ | PR #2833 (apache/dubbo-go); PR #2831 (apache/dubbo-go) |
-| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/custom-limit-range), kubeservice-stack/node-metrics), NVIDIA/k8s-device-plugin)） |
-| **2025-04-16（三）** | **8** | ████████ | 8 项活动（karmada-io/karmada), kubegems/modelx), kubeservice-stack/custom-limit-range） |
-| **2025-04-17（四）** | **16** | ████████████████ | 16 项活动（helm/helm, ACRT-EVAL/helm-431-cr10, Apexmail/helm） |
-| **2025-04-18（五）** | **23** | ████████████████████ | 23 项活动（handan-yxh/volcano-old-test, yankeguo-deprecated/helm-enhanced, ACRT-EVAL/helm-431-cr5） |
+| **2025-04-15（二）** | **5** | █████ | 5 项活动（kubeservice-stack/node-metrics), NVIDIA/k8s-device-plugin), kubeservice-stack/node-metrics） |
+| **2025-04-16（三）** | **8** | ████████ | 8 项活动（kubeservice-stack/kubservice-charts, kubeservice-stack/kubservice-charts), kubeservice-stack/custom-limit-range） |
+| **2025-04-17（四）** | **16** | ████████████████ | 16 项活动（hoppipolla-dev/helm, kubeservice-stack/common, ACRT-EVAL/helm-431-cr10） |
+| **2025-04-18（五）** | **23** | ████████████████████ | 23 项活动（handan-yxh/volcano-old-test, hoppipolla-dev/helm, iv57yf034b/helm__helm.bec5b06e） |
 | 2025-04-19（六） | 0 | ░░░░░ | — |
 | 2025-04-20（日） | 0 | ░░░░░ | — |
-| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
+| **2025-04-21（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), kubeservice-stack/kubservice-charts） |
 | 2025-04-22（二） | 1 | █░░░░ | PR #7478 (prometheus-operator/prometheus-operator) |
 | 2025-04-23（三） | 1 | █░░░░ | PR #7480 (prometheus-operator/prometheus-operator) |
-| **2025-04-24（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), oliver006/redis_exporter), dongjiang1989/api-server） |
+| **2025-04-24（四）** | **7** | ███████ | 7 项活动（oliver006/redis_exporter), prometheus-operator/prometheus-operator, dongjiang1989/api-server） |
 | 2025-04-25（五） | 0 | ░░░░░ | — |
 | 2025-04-26（六） | 0 | ░░░░░ | — |
 | 2025-04-27（日） | 0 | ░░░░░ | — |
@@ -304,4 +304,4 @@ kev1N916                       █                    1%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

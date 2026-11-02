@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **18** 个 |
 | 涉及仓库数 | **23** 个 |
-| Pull Request 数 | **26** 个（已合并 23，开放 3） |
+| Pull Request 数 | **26** 个（已合并 24，开放 2） |
 | Issue 数 | **0** 个 |
 | Commit 数 | **38** 次 |
 | 总活动量 | **64** |
@@ -48,8 +48,8 @@ johan-sellstrom                █                    2%
 ### 💡 核心总结
 
 1. **kubernetes-sigs** 是最大贡献方向（20%），涉及 4 个仓库，共 13 次活动。
-2. 共 **23** 个 PR 已合并，覆盖 11 个仓库。
-3. **3** 个 PR 仍在开放/Review 中。
+2. 共 **24** 个 PR 已合并，覆盖 11 个仓库。
+3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-08-25**（12 次活动），展现了高强度的工作节奏。
 5. 在 21 个仓库提交了 **38** 次代码。
 
@@ -65,7 +65,7 @@ johan-sellstrom                █                    2%
 | Commit | 56 | 38 | -32% | 📉 -18 |
 
 - 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.6`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
-- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `riusricardo/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
+- ❌ **不再活跃的仓库**：`HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `arbutuslabs/goose-dyslexia`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubernetes-sigs**
 
 ---
@@ -75,7 +75,7 @@ johan-sellstrom                █                    2%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **64** | PR + Issue + Commit |
-| 📝 **Pull Request** | 26 | 已合并 23，开放 3 |
+| 📝 **Pull Request** | 26 | 已合并 24，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
 | 💻 **Commit** | 38 | 代码提交 |
 
@@ -85,18 +85,18 @@ johan-sellstrom                █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-17（一）** | **5** | █████ | 5 项活动（iflytek/website), iflytek/website, agentgateway/agentgateway)） |
-| 2026-08-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go） |
+| **2026-08-17（一）** | **5** | █████ | 5 项活动（agentgateway/agentgateway), iflytek/website), iflytek/website） |
+| 2026-08-18（二） | 4 | ████░ | 4 项活动（a2aproject/a2a-go, prometheus-operator/prometheus-operator)） |
 | 2026-08-19（三） | 2 | ██░░░ | PR #8762 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-08-20（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, XHToken/community, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-08-20（四）** | **6** | ██████ | 6 项活动（XHToken/community, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox） |
 | 2026-08-21（五） | 0 | ░░░░░ | — |
 | 2026-08-22（六） | 0 | ░░░░░ | — |
 | 2026-08-23（日） | 0 | ░░░░░ | — |
-| **2026-08-24（一）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), iflytek/website, XHToken/Spark-X2.6） |
-| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（agentgateway/agentgateway), kubernetes-sigs/controller-tools), kubernetes-sigs/kubebuilder)） |
-| **2026-08-26（三）** | **6** | ██████ | 6 项活动（modelcontextprotocol/modelcontextprotocol, modelcontextprotocol/modelcontextprotocol), enclawed/omcp） |
-| **2026-08-27（四）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools） |
-| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（chromium-full-mirror/external_github.com_prometheus_procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, XHToken/Spark-plugin)） |
+| **2026-08-24（一）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), iflytek/website, prometheus-operator/prometheus-operator） |
+| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/kubebuilder), Project-HAMi/HAMi, kubernetes-sigs/controller-tools)） |
+| **2026-08-26（三）** | **6** | ██████ | 6 项活动（modelcontextprotocol/modelcontextprotocol, iflytek/website, modelcontextprotocol/modelcontextprotocol)） |
+| **2026-08-27（四）** | **8** | ████████ | 8 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/controller-tools), XHToken/community） |
+| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（prometheus/procfs, XHToken/community, chromium-full-mirror/external_github.com_prometheus_procfs） |
 | 2026-08-29（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-08-30（日） | 0 | ░░░░░ | — |
 
@@ -172,17 +172,17 @@ johan-sellstrom                █                    2%
 | 18 | prometheus-operator/prometheus-operator | [#8770](https://github.com/prometheus-operator/prometheus-operator/pull/8770) | chore: Update golangci-linter version to v2.13.1 | ✅ 已合并 |
 | 19 | Project-HAMi/HAMi | [#2794](https://github.com/Project-HAMi/HAMi/pull/2794) | chore: add new linters to golangci-lint config | ✅ 已合并 |
 | 20 | prometheus-operator/prometheus-operator | [#8762](https://github.com/prometheus-operator/prometheus-operator/pull/8762) | chore: update prometheus version to v3.14.0 | ✅ 已合并 |
-| 21 | prometheus-operator/prometheus-operator | [#8759](https://github.com/prometheus-operator/prometheus-operator/pull/8759) | fix(am): Update Alertmanager support external ID version handling | ✅ 已合并 |
-| 22 | iflytek/website | [#90](https://github.com/iflytek/website/pull/90) | fix(ci): resolve lychee root-relative link errors | ✅ 已合并 |
-| 23 | iflytek/website | [#89](https://github.com/iflytek/website/pull/89) | fix(deps): resolve extract-zip path traversal vulnerability (CVE-2026- | ✅ 已合并 |
+| 21 | prometheus-operator/prometheus-operator | [#8761](https://github.com/prometheus-operator/prometheus-operator/pull/8761) | feat: support labels field in AlertmanagerConfig Route | ✅ 已合并 |
+| 22 | prometheus-operator/prometheus-operator | [#8759](https://github.com/prometheus-operator/prometheus-operator/pull/8759) | fix(am): Update Alertmanager support external ID version handling | ✅ 已合并 |
+| 23 | iflytek/website | [#90](https://github.com/iflytek/website/pull/90) | fix(ci): resolve lychee root-relative link errors | ✅ 已合并 |
+| 24 | iflytek/website | [#89](https://github.com/iflytek/website/pull/89) | fix(deps): resolve extract-zip path traversal vulnerability (CVE-2026- | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | prometheus-operator/prometheus-operator | [#8761](https://github.com/prometheus-operator/prometheus-operator/pull/8761) | feat: support labels field in AlertmanagerConfig Route | 🔄 开放 |
-| 2 | prometheus-operator/prometheus-operator | [#8758](https://github.com/prometheus-operator/prometheus-operator/pull/8758) | change: Update alertmanager version to v0.34.0 and change GoDuration t | 🔄 开放 |
-| 3 | agentgateway/agentgateway | [#3064](https://github.com/agentgateway/agentgateway/pull/3064) | feat(auth): add RFC 7662 Token Introspection support for opaque tokens | 🔄 开放 |
+| 1 | prometheus-operator/prometheus-operator | [#8758](https://github.com/prometheus-operator/prometheus-operator/pull/8758) | change: Update alertmanager version to v0.34.0 and change GoDuration t | 🔄 开放 |
+| 2 | agentgateway/agentgateway | [#3064](https://github.com/agentgateway/agentgateway/pull/3064) | feat(auth): add RFC 7662 Token Introspection support for opaque tokens | 🔄 开放 |
 
 ---
 
@@ -291,4 +291,4 @@ johan-sellstrom                █                    2%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

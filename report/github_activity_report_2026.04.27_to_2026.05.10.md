@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -16,11 +16,11 @@
 | 维度 | 数值 |
 |------|------|
 | 涉及组织数 | **21** 个 |
-| 涉及仓库数 | **26** 个 |
+| 涉及仓库数 | **27** 个 |
 | Pull Request 数 | **24** 个（已合并 21，开放 3） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **38** 次 |
-| 总活动量 | **65** |
+| Commit 数 | **39** 次 |
+| 总活动量 | **66** |
 
 ### 🎯 工作重心分布
 
@@ -32,12 +32,12 @@ kagent-dev                     ██                   12%
 iflytek                        █                    6%
 erauner12                      █                    5%
 prometheus                     █                    5%
+brandonfang06                  █                    3%
 volcano-sh                     █                    2%
 yyyyhhhh                       █                    2%
 tellbom                        █                    2%
 jacobsee                       █                    2%
 guanglechen                    █                    2%
-brandonfang06                  █                    2%
 zhangjun123400                 █                    2%
 yun-zhi-ztl                    █                    2%
 Wionerlol                      █                    2%
@@ -53,9 +53,9 @@ kubeservice-stack              █                    2%
 1. **prometheus-operator** 是最大贡献方向（18%），涉及 1 个仓库，共 12 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 9 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-05-07**（27 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-05-07**（28 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 20 个仓库提交了 **38** 次代码。
+6. 在 21 个仓库提交了 **39** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -63,12 +63,12 @@ kubeservice-stack              █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 90 | **65** | -28% | 📉 -25 |
+| **总活动量** | 90 | **66** | -27% | 📉 -24 |
 | Pull Request | 21 | 24 | +14% | 📈 +3 |
 | Issue | 2 | 3 | +50% | 📈 +1 |
-| Commit | 67 | 38 | -43% | 📉 -29 |
+| Commit | 67 | 39 | -42% | 📉 -28 |
 
-- 🆕 **新增活跃仓库**：`Wionerlol/SkillHub`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `erauner12/kagent-detached`, `guanglechen/agenthub-enterprise`, `hnxtcloud/astronhub`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `tellbom/skillhub`, `volcano-sh/volcano`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
+- 🆕 **新增活跃仓库**：`Wionerlol/SkillHub`, `bohe1026/skillhub`, `brandonfang06/skillhub`, `brandonfang06/skillhub-security`, `erauner12/kagent-detached`, `guanglechen/agenthub-enterprise`, `hnxtcloud/astronhub`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `prometheus/alertmanager`, `prometheus/node_exporter`, `prometheus/procfs`, `tellbom/skillhub`, `volcano-sh/volcano`, `wei-shon/skillhub_delete`, `xiaoyaosanshi/skillhub`, `yun-zhi-ztl/yunzhi-skillhub`, `yyyyhhhh/tianma-skillhub`, `zhangjun123400/skillhub`
 - ❌ **不再活跃的仓库**：`Twigpine/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `iflytek/astron-agent`, `luxi233/astron-agent`, `shrutiyam-glitch/agent-sandbox-trial`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
@@ -78,10 +78,10 @@ kubeservice-stack              █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **65** | PR + Issue + Commit |
+| 📊 **总活动** | **66** | PR + Issue + Commit |
 | 📝 **Pull Request** | 24 | 已合并 21，开放 3 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 38 | 代码提交 |
+| 💻 **Commit** | 39 | 代码提交 |
 
 ---
 
@@ -91,20 +91,20 @@ kubeservice-stack              █                    2%
 |------|--------|--------|----------|
 | 2026-04-27（一） | 2 | ██░░░ | PR #810 (prometheus/procfs); PR #1759 (kagent-dev/kagent) |
 | 2026-04-28（二） | 3 | ███░░ | PR #706 (kubernetes-sigs/agent-sandbox); PR #705 (kubernetes-sigs/agent-sandbox); PR #704 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-29（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/echo, dongjiang1989/opensearch-api） |
+| **2026-04-29（三）** | **5** | █████ | 5 项活动（dongjiang1989/opensearch-api, kubeservice-stack/echo, prometheus-operator/prometheus-operator） |
 | 2026-04-30（四） | 0 | ░░░░░ | — |
 | 2026-05-01（五） | 0 | ░░░░░ | — |
 | 2026-05-02（六） | 0 | ░░░░░ | — |
 | 2026-05-03（日） | 0 | ░░░░░ | — |
 | 2026-05-04（一） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: add |
 | 2026-05-05（二） | 2 | ██░░░ | PR #8553 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update go |
-| **2026-05-06（三）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), kubernetes-sigs/controller-runtime） |
-| **2026-05-07（四）** | **27** | ████████████████████ | 27 项活动（prometheus-operator/prometheus-operator), bohe1026/skillhub, iflytek/skillhub） |
-| **2026-05-08（五）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), kagent-dev/kagent, erauner12/kagent-detached） |
-| **2026-05-09（六）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, kagent-dev/kagent） |
+| **2026-05-06（三）** | **9** | █████████ | 9 项活动（kubernetes-sigs/kubebuilder), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools)） |
+| **2026-05-07（四）** | **28** | ████████████████████ | 28 项活动（zhangjun123400/skillhub, wei-shon/skillhub_delete, brandonfang06/skillhub） |
+| **2026-05-08（五）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), erauner12/kagent-detached, kagent-dev/kagent） |
+| **2026-05-09（六）** | **7** | ███████ | 7 项活动（volcano-sh/volcano), prometheus-operator/prometheus-operator, erauner12/kagent-detached） |
 | 2026-05-10（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-05-07（27 次活动）为最高峰。
+> **活跃高峰**：2026-05-07（28 次活动）为最高峰。
 
 ---
 
@@ -114,19 +114,19 @@ kubeservice-stack              █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| prometheus-operator | 12 | 18.5% | prometheus-operator/prometheus-operator(12) | PR, Push |
-| dongjiang1989 | 12 | 18.5% | dongjiang1989/opensearch-api(12) | Issue, Push |
-| kubernetes-sigs | 9 | 13.8% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| kagent-dev | 8 | 12.3% | kagent-dev/kagent(8) | PR, Push |
-| iflytek | 4 | 6.2% | iflytek/skillhub(4) | Issue, PR, Push |
-| erauner12 | 3 | 4.6% | erauner12/kagent-detached(3) | Push |
-| prometheus | 3 | 4.6% | prometheus/node_exporter(1), prometheus/alertmanager(1), prometheus/procfs(1) | PR |
+| prometheus-operator | 12 | 18.2% | prometheus-operator/prometheus-operator(12) | PR, Push |
+| dongjiang1989 | 12 | 18.2% | dongjiang1989/opensearch-api(12) | Issue, Push |
+| kubernetes-sigs | 9 | 13.6% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-tools(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| kagent-dev | 8 | 12.1% | kagent-dev/kagent(8) | PR, Push |
+| iflytek | 4 | 6.1% | iflytek/skillhub(4) | Issue, PR, Push |
+| erauner12 | 3 | 4.5% | erauner12/kagent-detached(3) | Push |
+| prometheus | 3 | 4.5% | prometheus/node_exporter(1), prometheus/alertmanager(1), prometheus/procfs(1) | PR |
+| brandonfang06 | 2 | 3.0% | brandonfang06/skillhub(1), brandonfang06/skillhub-security(1) | Push |
 | volcano-sh | 1 | 1.5% | volcano-sh/volcano(1) | PR |
 | yyyyhhhh | 1 | 1.5% | yyyyhhhh/tianma-skillhub(1) | Push |
 | tellbom | 1 | 1.5% | tellbom/skillhub(1) | Push |
 | jacobsee | 1 | 1.5% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
 | guanglechen | 1 | 1.5% | guanglechen/agenthub-enterprise(1) | Push |
-| brandonfang06 | 1 | 1.5% | brandonfang06/skillhub(1) | Push |
 | zhangjun123400 | 1 | 1.5% | zhangjun123400/skillhub(1) | Push |
 | yun-zhi-ztl | 1 | 1.5% | yun-zhi-ztl/yunzhi-skillhub(1) | Push |
 | Wionerlol | 1 | 1.5% | Wionerlol/SkillHub(1) | Push |
@@ -279,6 +279,7 @@ kubeservice-stack              █                    2%
 | yun-zhi-ztl/yunzhi-skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | Wionerlol/SkillHub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | wei-shon/skillhub_delete | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
+| brandonfang06/skillhub-security | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | bohe1026/skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | xiaoyaosanshi/skillhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
 | hnxtcloud/astronhub | 1 | 2026-05-07 | Merge pull request #391 from dongjiang1989/add-gem |
@@ -298,4 +299,4 @@ kubeservice-stack              █                    2%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

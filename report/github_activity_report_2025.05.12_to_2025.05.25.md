@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -98,19 +98,19 @@ cnloxiaoteng-ship-it           █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-05-12（一）** | **9** | █████████ | 9 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, prometheus-community/helm-charts, thanos-io/thanos)） |
-| **2025-05-13（二）** | **7** | ███████ | 7 项活动（thanos-io/thanos, kubeservice-stack/echo, ChristianTryti/thanos-fork-of-fork） |
+| **2025-05-12（一）** | **9** | █████████ | 9 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, cnloxiaoteng-ship-it/helm-charts, prometheus/prometheus)） |
+| **2025-05-13（二）** | **7** | ███████ | 7 项活动（wangw111/thanos, ChristianTryti/thanos-fork-of-fork, kubeservice-stack/echo） |
 | 2025-05-14（三） | 1 | █░░░░ | Issue #81 |
-| **2025-05-15（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), prometheus-operator/prometheus-operator） |
+| **2025-05-15（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
 | 2025-05-16（五） | 2 | ██░░░ | PR #7526 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: ignore is |
 | 2025-05-17（六） | 0 | ░░░░░ | — |
 | 2025-05-18（日） | 0 | ░░░░░ | — |
-| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus/prometheus), dongjiang1989/dongjiang1989, prometheus-operator/prometheus-operator)） |
+| **2025-05-19（一）** | **7** | ███████ | 7 项活动（dongjiang1989/dongjiang1989, prometheus/prometheus), prometheus-operator/prometheus-operator)） |
 | 2025-05-20（二） | 3 | ███░░ | PR #7547 (prometheus-operator/prometheus-operator); PR #7543 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add conve |
 | 2025-05-21（三） | 0 | ░░░░░ | — |
 | 2025-05-22（四） | 1 | █░░░░ | PR #16625 (prometheus/prometheus) |
 | 2025-05-23（五） | 0 | ░░░░░ | — |
-| **2025-05-24（六）** | **18** | ██████████████████ | 18 项活动（demogxp-mig2/prometheus, aimultiple-benchmark/prometheus-bench-cr-2, demogxp-mig/prometheus） |
+| **2025-05-24（六）** | **18** | ██████████████████ | 18 项活动（aimultiple-benchmark/prometheus-bench-cp-2, demogxp-mig2/prometheus, pvlltvk/proxeus-prometheus） |
 | 2025-05-25（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-05-24（18 次活动）为最高峰。
@@ -314,4 +314,4 @@ cnloxiaoteng-ship-it           █                    2%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

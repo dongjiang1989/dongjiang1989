@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -80,16 +80,16 @@ shrutiyam-glitch               █                    3%
 |------|--------|--------|----------|
 | 2026-03-16（一） | 1 | █░░░░ | PR #421 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-17（二） | 0 | ░░░░░ | — |
-| **2026-03-18（三）** | **13** | █████████████ | 13 项活动（prometheus-operator/prometheus-operator), Arry8/openclaw-edge, kubernetes-sigs/controller-tools)） |
-| **2026-03-19（四）** | **6** | ██████ | 6 项活动（kubernetes/test-infra, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, shrutiyam-glitch/agent-sandbox-trial） |
+| **2026-03-18（三）** | **13** | █████████████ | 13 项活动（anomalyco/opencode), prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools)） |
+| **2026-03-19（四）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox, shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox)） |
 | 2026-03-20（五） | 0 | ░░░░░ | — |
 | 2026-03-21（六） | 3 | ███░░ | PR #458 (kubernetes-sigs/agent-sandbox); PR #457 (kubernetes-sigs/agent-sandbox); PR #456 (kubernetes-sigs/agent-sandbox) |
 | 2026-03-22（日） | 0 | ░░░░░ | — |
 | 2026-03-23（一） | 0 | ░░░░░ | — |
 | 2026-03-24（二） | 0 | ░░░░░ | — |
 | 2026-03-25（三） | 1 | █░░░░ | PR #1370 (kubernetes-sigs/controller-tools) |
-| 2026-03-26（四） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), anomalyco/opencode), prometheus-operator/prometheus-operator） |
-| 2026-03-27（五） | 4 | ████░ | 4 项活动（kubegems/modelx), kubeservice-stack/modelx), dongjiang1989/api-server） |
+| 2026-03-26（四） | 4 | ████░ | 4 项活动（anomalyco/opencode), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| 2026-03-27（五） | 4 | ████░ | 4 项活动（dongjiang1989/api-server, kubegems/modelx), kubeservice-stack/modelx)） |
 | 2026-03-28（六） | 0 | ░░░░░ | — |
 | 2026-03-29（日） | 1 | █░░░░ | PR #486 (kubernetes-sigs/agent-sandbox) |
 
@@ -255,4 +255,4 @@ shrutiyam-glitch               █                    3%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

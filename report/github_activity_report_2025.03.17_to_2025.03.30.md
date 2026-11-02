@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -92,16 +92,16 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-17（一）** | **13** | █████████████ | 13 项活动（helm/helm, ACRT-EVAL/helm-431-cr10, Apexmail/helm） |
-| **2025-03-18（二）** | **32** | ████████████████████ | 32 项活动（handan-yxh/volcano-old-test, ACRT-EVAL/helm-431-cr5, ckyuto/volcano-upstream） |
-| **2025-03-19（三）** | **13** | █████████████ | 13 项活动（helm/helm, ACRT-EVAL/helm-431-cr10, Apexmail/helm） |
-| **2025-03-20（四）** | **10** | ██████████ | 10 项活动（handan-yxh/volcano-old-test, karmada-io/karmada), karmada-io/karmada） |
-| **2025-03-21（五）** | **18** | ██████████████████ | 18 项活动（handan-yxh/volcano-old-test, volcano-sh/volcano, volcano-sh/volcano)） |
+| **2025-03-17（一）** | **13** | █████████████ | 13 项活动（hoppipolla-dev/helm, ACRT-EVAL/helm-431-cr10, ACRT-EVAL/helm-431-cr11） |
+| **2025-03-18（二）** | **32** | ████████████████████ | 32 项活动（handan-yxh/volcano-old-test, hoppipolla-dev/helm, iv57yf034b/helm__helm.bec5b06e） |
+| **2025-03-19（三）** | **13** | █████████████ | 13 项活动（hoppipolla-dev/helm, volcano-sh/volcano), ACRT-EVAL/helm-431-cr10） |
+| **2025-03-20（四）** | **10** | ██████████ | 10 项活动（handan-yxh/volcano-old-test, volcano-sh/volcano), karmada-io/karmada） |
+| **2025-03-21（五）** | **18** | ██████████████████ | 18 项活动（handan-yxh/volcano-old-test, volcano-sh/volcano), bhcoder23/volcano） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor, kubeservice-stack/docker-image） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/network-doctor, kubeservice-stack/docker-image, prometheus-operator/prometheus-operator)） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **23** | ████████████████████ | 23 项活动（prometheus-operator/prometheus-operator), psharma0905/Prometheus-and-Grafana-helm-charts, ACRT-EVAL/helm-431-cr5） |
+| **2025-03-26（三）** | **23** | ████████████████████ | 23 项活动（hoppipolla-dev/helm, kubeservice-stack/echo, iv57yf034b/helm__helm.bec5b06e） |
 | **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
@@ -308,4 +308,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

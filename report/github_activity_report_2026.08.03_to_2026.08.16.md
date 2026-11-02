@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -43,9 +43,9 @@ a2aproject                     █                    1%
 opensecuritycompliance         █                    1%
 HanMarry                       █                    1%
 blissito                       █                    1%
-riusricardo                    █                    1%
 aaif-goose                     █                    1%
 colinpthomson1                 █                    1%
+arbutuslabs                    █                    1%
 taostat                        █                    1%
 gachon-star-want               █                    1%
 kineticquant                   █                    1%
@@ -74,7 +74,7 @@ yatfa-ai                       █                    1%
 | Issue | 5 | 8 | +60% | 📈 +3 |
 | Commit | 60 | 56 | -7% | 📉 -4 |
 
-- 🆕 **新增活跃仓库**：`HanMarry/modelforge`, `aaif-goose/goose`, `agentgateway/community`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `prometheus/procfs`, `riusricardo/goose`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
+- 🆕 **新增活跃仓库**：`HanMarry/modelforge`, `aaif-goose/goose`, `agentgateway/community`, `arbutuslabs/goose-dyslexia`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `opensecuritycompliance/goose`, `prometheus/procfs`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
 - ❌ **不再活跃的仓库**：`Sanjaykumar2-creator/aispm-test-33`, `a2aproject/a2a-go`, `avelino/awesome-go`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `e2b-dev/awesome-mcp-gateways`, `e2b-dev/runtime`, `grafana/mimir-prometheus`, `iflytek/astron-agent`, `iflytek/memflywheel`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `langfuse/langfuse`, `luxi233/astron-agent`, `modelcontextprotocol/go-sdk`, `modelcontextprotocol/python-sdk`, `prometheus/alertmanager`, `prometheus/governance`, `prometheus/node_exporter`, `prometheus/prometheus`, `ramitsurana/awesome-kubernetes`, `skirubak/agentgateway`, `ynyyzyrf/astron`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **iflytek**
 
@@ -95,18 +95,18 @@ yatfa-ai                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-08-03（一）** | **20** | ████████████████████ | 20 项活动（prometheus-operator/prometheus-operator), sara-dev12/goose, riusricardo/goose） |
+| **2026-08-03（一）** | **20** | ████████████████████ | 20 项活动（sara-dev12/goose, kubernetes-sigs/controller-runtime), kineticquant/achilles-harness） |
 | 2026-08-04（二） | 3 | ███░░ | PR #119319 (openclaw/openclaw); Issue #119294; prometheus-operator/prometheus-operator: lint go h |
-| **2026-08-05（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/controller-tools), yumaitau/magpie-gateway） |
+| **2026-08-05（三）** | **6** | ██████ | 6 项活动（johan-sellstrom/agentgateway, kubernetes-sigs/controller-tools), agentgateway/agentgateway） |
 | 2026-08-06（四） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: lint: add goheader  |
-| **2026-08-07（五）** | **12** | ████████████ | 12 项活动（iflytek/.github, iflytek/dolphin-mcp-pilot, e2bgateway/e2bgateway)） |
+| **2026-08-07（五）** | **12** | ████████████ | 12 项活动（iflytek/dolphin-mcp-pilot, iflytek/dolphin-mcp-pilot), iflytek/.github） |
 | 2026-08-08（六） | 0 | ░░░░░ | — |
 | 2026-08-09（日） | 0 | ░░░░░ | — |
-| **2026-08-10（一）** | **12** | ████████████ | 12 项活动（iflytek/website), iflytek/website, iflytek/dolphin-mcp-pilot） |
-| **2026-08-11（二）** | **7** | ███████ | 7 项活动（agentgateway/website), NousResearch/hermes-agent), iflytek/website） |
-| **2026-08-12（三）** | **5** | █████ | 5 项活动（a2aproject/A2A, agentgateway/agentgateway), sara-dev12/A2A） |
-| **2026-08-13（四）** | **17** | █████████████████ | 17 项活动（agentgateway/community), agentgateway/community, e2bgateway/e2bgateway） |
-| **2026-08-14（五）** | **9** | █████████ | 9 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox)） |
+| **2026-08-10（一）** | **12** | ████████████ | 12 项活动（iflytek/website, iflytek/dolphin-mcp-pilot, iflytek/website)） |
+| **2026-08-11（二）** | **7** | ███████ | 7 项活动（iflytek/website, agentgateway/website, iflytek/website)） |
+| **2026-08-12（三）** | **5** | █████ | 5 项活动（a2aproject/A2A, sara-dev12/A2A, agentgateway/website） |
+| **2026-08-13（四）** | **17** | █████████████████ | 17 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox), agentgateway/community） |
+| **2026-08-14（五）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox, johan-sellstrom/agentgateway, kubernetes-sigs/agent-sandbox)） |
 | 2026-08-15（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: examples(pi-code-ag |
 | 2026-08-16（日） | 0 | ░░░░░ | — |
 
@@ -138,9 +138,9 @@ yatfa-ai                       █                    1%
 | opensecuritycompliance | 1 | 1.1% | opensecuritycompliance/goose(1) | Push |
 | HanMarry | 1 | 1.1% | HanMarry/modelforge(1) | Push |
 | blissito | 1 | 1.1% | blissito/ghosty-lite(1) | Push |
-| riusricardo | 1 | 1.1% | riusricardo/goose(1) | Push |
 | aaif-goose | 1 | 1.1% | aaif-goose/goose(1) | Push |
 | colinpthomson1 | 1 | 1.1% | colinpthomson1/Obelus(1) | Push |
+| arbutuslabs | 1 | 1.1% | arbutuslabs/goose-dyslexia(1) | Push |
 | taostat | 1 | 1.1% | taostat/saygm-desktop(1) | Push |
 | gachon-star-want | 1 | 1.1% | gachon-star-want/pleumcode(1) | Push |
 | kineticquant | 1 | 1.1% | kineticquant/achilles-harness(1) | Push |
@@ -303,10 +303,10 @@ yatfa-ai                       █                    1%
 | HanMarry/modelforge | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | blissito/ghosty-lite | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | sara-dev12/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
-| riusricardo/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | iflytek/.github | 1 | 2026-08-07 | Update README.md |
 | aaif-goose/goose | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | colinpthomson1/Obelus | 1 | 2026-08-03 | fall back to static model list only for non-models |
+| arbutuslabs/goose-dyslexia | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | taostat/saygm-desktop | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | gachon-star-want/pleumcode | 1 | 2026-08-03 | fall back to static model list only for non-models |
 | kineticquant/achilles-harness | 1 | 2026-08-03 | fall back to static model list only for non-models |
@@ -335,4 +335,4 @@ yatfa-ai                       █                    1%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

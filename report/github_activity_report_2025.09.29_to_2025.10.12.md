@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -42,12 +42,12 @@ kubernetes-sigs                ████                 20%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 33 | **5** | -85% | 📉 -28 |
+| **总活动量** | 34 | **5** | -85% | 📉 -29 |
 | Pull Request | 12 | 2 | -83% | 📉 -10 |
 | Issue | 1 | 0 | -100% | 📉 -1 |
-| Commit | 20 | 3 | -85% | 📉 -17 |
+| Commit | 21 | 3 | -86% | 📉 -18 |
 
-- ❌ **不再活跃的仓库**：`Prasanth595/etcd`, `SoujanyaPonnapalli/Metronome`, `alihassam-01/etcd`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `chromium-full-mirror/external_github.com_coreos_etcd`, `etcd-io/etcd`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
+- ❌ **不再活跃的仓库**：`Prasanth595/etcd`, `SoujanyaPonnapalli/Metronome`, `alihassam-01/etcd`, `ambaxter/etcd`, `apecloud/kubeblocks-addons`, `chromium-full-mirror/external_github.com_coreos_etcd`, `etcd-io/etcd`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lxcfs-webhook`, `prabhawti/etcd`, `sg-evals/etcd--d89978e8`, `sunyaojing/etcd`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
 ---
@@ -167,4 +167,4 @@ kubernetes-sigs                ████                 20%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

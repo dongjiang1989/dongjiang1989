@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **8** 个 |
 | 涉及仓库数 | **11** 个 |
-| Pull Request 数 | **19** 个（已合并 15，开放 4） |
+| Pull Request 数 | **19** 个（已合并 16，开放 3） |
 | Issue 数 | **2** 个 |
 | Commit 数 | **17** 次 |
 | 总活动量 | **38** |
@@ -38,8 +38,8 @@ TejasweeSulekh                 █                    3%
 ### 💡 核心总结
 
 1. **e2bgateway** 是最大贡献方向（29%），涉及 1 个仓库，共 11 次活动。
-2. 共 **15** 个 PR 已合并，覆盖 7 个仓库。
-3. **4** 个 PR 仍在开放/Review 中。
+2. 共 **16** 个 PR 已合并，覆盖 8 个仓库。
+3. **3** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-10-10**（21 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 9 个仓库提交了 **17** 次代码。
@@ -66,7 +66,7 @@ TejasweeSulekh                 █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **38** | PR + Issue + Commit |
-| 📝 **Pull Request** | 19 | 已合并 15，开放 4 |
+| 📝 **Pull Request** | 19 | 已合并 16，开放 3 |
 | 📋 **Issue** | 2 | 创建 Issue |
 | 💻 **Commit** | 17 | 代码提交 |
 
@@ -85,10 +85,10 @@ TejasweeSulekh                 █                    3%
 | 2026-10-04（日） | 0 | ░░░░░ | — |
 | 2026-10-05（一） | 0 | ░░░░░ | — |
 | 2026-10-06（二） | 0 | ░░░░░ | — |
-| 2026-10-07（三） | 4 | ████░ | 4 项活动（iflytek/website), iflytek/website, pytorch/executorch)） |
+| 2026-10-07（三） | 4 | ████░ | 4 项活动（pytorch/executorch), iflytek/website), iflytek/website） |
 | 2026-10-08（四） | 2 | ██░░░ | PR #8871 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-10-09（五）** | **8** | ████████ | 8 项活动（prometheus-operator/prometheus-operator), agentgateway/agentgateway), e2bgateway/e2bgateway） |
-| **2026-10-10（六）** | **21** | ████████████████████ | 21 项活动（agentgateway/website), kubernetes-sigs/controller-runtime, e2bgateway/e2bgateway） |
+| **2026-10-09（五）** | **8** | ████████ | 8 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
+| **2026-10-10（六）** | **21** | ████████████████████ | 21 项活动（kubernetes-sigs/agent-sandbox, kubeai-project/kubeai), agentgateway/website） |
 | 2026-10-11（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2026-10-10（21 次活动）为最高峰。
@@ -148,6 +148,7 @@ TejasweeSulekh                 █                    3%
 | 13 | prometheus-operator/prometheus-operator | [#8873](https://github.com/prometheus-operator/prometheus-operator/pull/8873) | chore: Update golangci-linter version to v2.14.0 | ✅ 已合并 |
 | 14 | prometheus-operator/prometheus-operator | [#8871](https://github.com/prometheus-operator/prometheus-operator/pull/8871) | chore: Update prometheus lts version to v3.13.4 | ✅ 已合并 |
 | 15 | iflytek/website | [#124](https://github.com/iflytek/website/pull/124) | fix(deps): resolve 31 Dependabot security vulnerabilities | ✅ 已合并 |
+| 16 | kubernetes-sigs/agent-sandbox | [#1767](https://github.com/kubernetes-sigs/agent-sandbox/pull/1767) | feat(sandboxd): add FileWatcherService for real-time filesystem event  | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -156,7 +157,6 @@ TejasweeSulekh                 █                    3%
 | 1 | kubernetes-sigs/agent-sandbox | [#1885](https://github.com/kubernetes-sigs/agent-sandbox/pull/1885) | feat: upgrade controller-runtime to v0.25.2 and add OpenMetrics option | 🔄 开放 |
 | 2 | pytorch/executorch | [#23525](https://github.com/pytorch/executorch/pull/23525) | Add CI integration for Spark-X2.5 models | 🔄 开放 |
 | 3 | pytorch/executorch | [#23523](https://github.com/pytorch/executorch/pull/23523) | Enable Spark-X2.5 export and runner support for MLX | 🔄 开放 |
-| 4 | kubernetes-sigs/agent-sandbox | [#1767](https://github.com/kubernetes-sigs/agent-sandbox/pull/1767) | feat(sandboxd): add FileWatcherService for real-time filesystem event  | 🔄 开放 |
 
 ---
 
@@ -258,4 +258,4 @@ TejasweeSulekh                 █                    3%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

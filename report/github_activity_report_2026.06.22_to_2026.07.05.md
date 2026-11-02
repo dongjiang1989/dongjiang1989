@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -65,7 +65,7 @@ prometheus-operator            █                    1%
 | Issue | 15 | 15 | 0% | ➡️ 持平 |
 | Commit | 64 | 56 | -12% | 📉 -8 |
 
-- 🆕 **新增活跃仓库**：`NousResearch/hermes-agent`, `aaif-goose/goose`, `agentgateway/agentgateway`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `iflytek/.github`, `iflytek/astronclaw-tutorial`, `johan-sellstrom/agentgateway`, `kgateway-dev/kgateway`, `kubernetes-sigs/agent-sandbox`, `kubeservice-stack/echo`, `luxi233/astron-agent`, `skirubak/agentgateway`, `ynyyzyrf/astron`, `yumaitau/magpie-gateway`
+- 🆕 **新增活跃仓库**：`NousResearch/hermes-agent`, `aaif-goose/goose`, `agentgateway/agentgateway`, `dongjiang1989/agentgateway`, `dongjiang1989/dongjiang1989`, `dongjiang1989/kgateway`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `iflytek/.github`, `iflytek/astron-harness-tutorial`, `johan-sellstrom/agentgateway`, `kgateway-dev/kgateway`, `kubernetes-sigs/agent-sandbox`, `kubeservice-stack/echo`, `luxi233/astron-agent`, `skirubak/agentgateway`, `ynyyzyrf/astron`, `yumaitau/magpie-gateway`
 - ❌ **不再活跃的仓库**：`anil7000/external-dns`, `dongjiang1989/opensearch-api`, `iflytek/astron-rpa`, `iflytek/skillhub`, `kagent-dev/kagent`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/prow`, `kubeservice-stack/modelx`
 - ✅ **工作重心稳定**：继续聚焦 **iflytek**
 
@@ -86,18 +86,18 @@ prometheus-operator            █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/iFly-Skills), NousResearch/hermes-agent), iflytek/.github） |
+| **2026-06-22（一）** | **14** | ██████████████ | 14 项活动（iflytek/iFly-Skills, iflytek/.github), iflytek/community)） |
 | 2026-06-23（二） | 3 | ███░░ | PR #51244 (NousResearch/hermes-agent); PR #51178 (NousResearch/hermes-agent); Issue #51236 |
-| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills), iflytek/website, iflytek/iFly-Skills） |
-| **2026-06-25（四）** | **7** | ███████ | 7 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, prometheus-operator/prometheus-operator, kubernetes-sigs/controller-tools） |
-| 2026-06-26（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox), NousResearch/hermes-agent), dongjiang1989/dongjiang1989） |
-| **2026-06-27（六）** | **5** | █████ | 5 项活动（chromium-full-mirror/external_github.com_prometheus_procfs, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs, iflytek/memflywheel)） |
+| **2026-06-24（三）** | **8** | ████████ | 8 项活动（iflytek/iFly-Skills, iflytek/website, iflytek/iFly-Skills)） |
+| **2026-06-25（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator） |
+| 2026-06-26（五） | 4 | ████░ | 4 项活动（dongjiang1989/dongjiang1989, NousResearch/hermes-agent), kubernetes-sigs/agent-sandbox)） |
+| **2026-06-27（六）** | **5** | █████ | 5 项活动（iflytek/memflywheel), prometheus/procfs, chromium-full-mirror/external_github.com_prometheus_procfs） |
 | 2026-06-28（日） | 0 | ░░░░░ | — |
-| **2026-06-29（一）** | **30** | ████████████████████ | 30 项活动（iflytek/astronclaw-tutorial, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, ynyyzyrf/astron） |
-| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（agentgateway/agentgateway), iflytek/domux), iflytek/website） |
+| **2026-06-29（一）** | **30** | ████████████████████ | 30 项活动（iflytek/astron-harness-tutorial, kubernetes-sigs/agent-sandbox, iflytek/memflywheel)） |
+| **2026-06-30（二）** | **11** | ███████████ | 11 项活动（iflytek/domux, kubernetes-sigs/agent-sandbox), iflytek/website） |
 | 2026-07-01（三） | 3 | ███░░ | PR #24 (iflytek/memflywheel); PR #10153 (aaif-goose/goose); Issue #23 |
-| **2026-07-02（四）** | **15** | ███████████████ | 15 项活动（agentgateway/agentgateway), iflytek/website, iflytek/memflywheel)） |
-| 2026-07-03（五） | 4 | ████░ | 4 项活动（iflytek/website), kgateway-dev/kgateway), iflytek/website） |
+| **2026-07-02（四）** | **15** | ███████████████ | 15 项活动（johan-sellstrom/agentgateway, iflytek/memflywheel), iflytek/website） |
+| 2026-07-03（五） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), agentgateway/agentgateway), iflytek/website)） |
 | 2026-07-04（六） | 0 | ░░░░░ | — |
 | 2026-07-05（日） | 4 | ████░ | 4 项活动（kgateway-dev/kgateway), agentgateway/agentgateway), dongjiang1989/kgateway)） |
 
@@ -312,7 +312,7 @@ prometheus-operator            █                    1%
 | prometheus-operator/prometheus-operator | 1 | 2026-06-25 | feat: Add useAWSHTTPClient field to SNS receiver c |
 | iflytek/community | 1 | 2026-06-22 | docs: add security vulnerability reporting email t |
 | kubeservice-stack/echo | 1 | 2026-06-29 | fix: use field access for `Errno.Status` and `Errn |
-| iflytek/astronclaw-tutorial | 1 | 2026-06-29 | Merge pull request #60 from iflytek/docs/personal- |
+| iflytek/astron-harness-tutorial | 1 | 2026-06-29 | Merge pull request #60 from iflytek/docs/personal- |
 
 ---
 
@@ -333,4 +333,4 @@ prometheus-operator            █                    1%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

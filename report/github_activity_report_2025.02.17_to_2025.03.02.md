@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **16** 个 |
-| 涉及仓库数 | **19** 个 |
+| 涉及组织数 | **15** 个 |
+| 涉及仓库数 | **18** 个 |
 | Pull Request 数 | **13** 个（已合并 13，开放 0） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **26** 次 |
-| 总活动量 | **42** |
+| Commit 数 | **25** 次 |
+| 总活动量 | **41** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████                 21%
-kubeservice-stack              ███                  19%
+prometheus-operator            ████                 22%
+kubeservice-stack              ███                  20%
 kubernetes-sigs                ███                  17%
 jacobsee                       █                    7%
 kubernetes                     █                    5%
@@ -34,7 +34,6 @@ prometheus                     █                    5%
 dongjiang1989                  █                    5%
 cloudflare                     █                    2%
 chromium-full-mirror           █                    2%
-ai-integr8tor                  █                    2%
 barajeel                       █                    2%
 Unity-Billal-mesloub           █                    2%
 t9xm7plpy2                     █                    2%
@@ -45,11 +44,11 @@ n2h9                           █                    2%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（21%），涉及 1 个仓库，共 9 次活动。
+1. **prometheus-operator** 是最大贡献方向（22%），涉及 1 个仓库，共 9 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 8 个仓库。
 3. 活跃高峰出现在 **2025-02-28**（16 次活动），展现了高强度的工作节奏。
 4. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 17 个仓库提交了 **26** 次代码。
+5. 在 16 个仓库提交了 **25** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -57,12 +56,12 @@ n2h9                           █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 19 | **42** | +121% | 📈 +23 |
+| **总活动量** | 19 | **41** | +116% | 📈 +22 |
 | Pull Request | 11 | 13 | +18% | 📈 +2 |
 | Issue | 1 | 3 | +200% | 📈 +2 |
-| Commit | 7 | 26 | +271% | 📈 +19 |
+| Commit | 7 | 25 | +257% | 📈 +18 |
 
-- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `ai-integr8tor/prometheus-client_golang`, `barajeel/golang`, `chromium-full-mirror/external_github.com_prometheus_client_golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/repos-mirror-action`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`, `t9xm7plpy2/prometheus__client_golang.d6087ee4`
+- 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_client_golang`, `Unity-Billal-mesloub/test-infra`, `barajeel/golang`, `chromium-full-mirror/external_github.com_prometheus_client_golang`, `cloudflare/ebpf_exporter`, `dongjiang1989/mirror-action`, `kubernetes-sigs/kubebuilder`, `kubernetes/test-infra`, `kubeservice-stack/repos-mirror-action`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `prometheus/client_golang`, `rmathena79/lsp-eval-prometheus`, `t9xm7plpy2/prometheus__client_golang.d6087ee4`
 - ❌ **不再活跃的仓库**：`karmada-io/community`, `kubernetes-sigs/controller-runtime`, `kubeservice-stack/echo`, `loggie-io/loggie`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **prometheus-operator**
 
@@ -72,10 +71,10 @@ n2h9                           █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **42** | PR + Issue + Commit |
+| 📊 **总活动** | **41** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 13，开放 0 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 26 | 代码提交 |
+| 💻 **Commit** | 25 | 代码提交 |
 
 ---
 
@@ -83,9 +82,9 @@ n2h9                           █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| 2025-02-17（一） | 4 | ████░ | 4 项活动（prometheus/client_golang), prometheus-operator/prometheus-operator), kubeservice-stack/common） |
-| 2025-02-18（二） | 4 | ████░ | 4 项活动（cloudflare/ebpf_exporter), prometheus-operator/prometheus-operator） |
-| **2025-02-19（三）** | **9** | █████████ | 9 项活动（prometheus-operator/prometheus-operator), t9xm7plpy2/prometheus__client_golang.d6087ee4, barajeel/golang） |
+| 2025-02-17（一） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/common), kubeservice-stack/common） |
+| 2025-02-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, cloudflare/ebpf_exporter)） |
+| **2025-02-19（三）** | **8** | ████████ | 8 项活动（rmathena79/lsp-eval-prometheus, prometheus/client_golang, t9xm7plpy2/prometheus__client_golang.d6087ee4） |
 | 2025-02-20（四） | 0 | ░░░░░ | — |
 | 2025-02-21（五） | 0 | ░░░░░ | — |
 | 2025-02-22（六） | 0 | ░░░░░ | — |
@@ -94,7 +93,7 @@ n2h9                           █                    2%
 | 2025-02-25（二） | 3 | ███░░ | PR #58 (kubeservice-stack/modelx); dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-26（三） | 2 | ██░░░ | dongjiang1989/mirror-action: Update README.md; kubeservice-stack/repos-mirror-action: Update READ |
 | 2025-02-27（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: feat: Add |
-| **2025-02-28（五）** | **16** | ████████████████ | 16 项活动（prometheus-operator/prometheus-operator), kubernetes/test-infra, kubernetes-sigs/controller-tools)） |
+| **2025-02-28（五）** | **16** | ████████████████ | 16 项活动（kubernetes-sigs/kubebuilder), Unity-Billal-mesloub/test-infra, kubernetes-sigs/controller-tools)） |
 | 2025-03-01（六） | 0 | ░░░░░ | — |
 | 2025-03-02（日） | 2 | ██░░░ | kubernetes-sigs/controller-tools: update v1.33.0-a; jacobsee/usr-kubernetes-sigs-controller-tools: upd |
 
@@ -108,16 +107,15 @@ n2h9                           █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 9 | 21.4% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| kubeservice-stack | 8 | 19.0% | kubeservice-stack/modelx(4), kubeservice-stack/common(2), kubeservice-stack/repos-mirror-action(2) | Issue, PR, Push |
-| kubernetes-sigs | 7 | 16.7% | kubernetes-sigs/controller-tools(5), kubernetes-sigs/kubebuilder(2) | PR, Push |
-| jacobsee | 3 | 7.1% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
-| kubernetes | 2 | 4.8% | kubernetes/test-infra(2) | PR, Push |
-| prometheus | 2 | 4.8% | prometheus/client_golang(2) | PR, Push |
-| dongjiang1989 | 2 | 4.8% | dongjiang1989/mirror-action(2) | Push |
+| **prometheus-operator** | 9 | 22.0% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| kubeservice-stack | 8 | 19.5% | kubeservice-stack/modelx(4), kubeservice-stack/common(2), kubeservice-stack/repos-mirror-action(2) | Issue, PR, Push |
+| kubernetes-sigs | 7 | 17.1% | kubernetes-sigs/controller-tools(5), kubernetes-sigs/kubebuilder(2) | PR, Push |
+| jacobsee | 3 | 7.3% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| kubernetes | 2 | 4.9% | kubernetes/test-infra(2) | PR, Push |
+| prometheus | 2 | 4.9% | prometheus/client_golang(2) | PR, Push |
+| dongjiang1989 | 2 | 4.9% | dongjiang1989/mirror-action(2) | Push |
 | cloudflare | 1 | 2.4% | cloudflare/ebpf_exporter(1) | PR |
 | chromium-full-mirror | 1 | 2.4% | chromium-full-mirror/external_github.com_prometheus_client_golang(1) | Push |
-| ai-integr8tor | 1 | 2.4% | ai-integr8tor/prometheus-client_golang(1) | Push |
 | barajeel | 1 | 2.4% | barajeel/golang(1) | Push |
 | Unity-Billal-mesloub | 1 | 2.4% | Unity-Billal-mesloub/test-infra(1) | Push |
 | t9xm7plpy2 | 1 | 2.4% | t9xm7plpy2/prometheus__client_golang.d6087ee4(1) | Push |
@@ -241,7 +239,6 @@ n2h9                           █                    2%
 | dongjiang1989/mirror-action | 2 | 2025-02-26 | Update README.md; Update README.md |
 | kubeservice-stack/repos-mirror-action | 2 | 2025-02-26 | Update README.md; Update README.md |
 | chromium-full-mirror/external_github.com_prometheus_client_golang | 1 | 2025-02-19 | Upgrade Golang version v1.24 (#1738) |
-| ai-integr8tor/prometheus-client_golang | 1 | 2025-02-19 | Upgrade Golang version v1.24 (#1738) |
 | barajeel/golang | 1 | 2025-02-19 | Upgrade Golang version v1.24 (#1738) |
 | kubernetes-sigs/kubebuilder | 1 | 2025-02-28 | update golang version to v1.2.4.0 |
 | Unity-Billal-mesloub/test-infra | 1 | 2025-02-28 | update golang version to 1.24 |
@@ -270,4 +267,4 @@ n2h9                           █                    2%
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*

@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：262 | **Followers**：100 | **Following**：52
+> **公开仓库数**：263 | **Followers**：100 | **Following**：42
 
 ---
 
@@ -17,10 +17,10 @@
 |------|------|
 | 涉及组织数 | **9** 个 |
 | 涉及仓库数 | **12** 个 |
-| Pull Request 数 | **12** 个（已合并 9，开放 3） |
+| Pull Request 数 | **12** 个（已合并 10，开放 2） |
 | Issue 数 | **3** 个 |
 | Commit 数 | **16** 次 |
-| 活动事件数 | **99** 次 |
+| 活动事件数 | **27** 次 |
 | 总活动量 | **31** |
 
 ### 🎯 工作重心分布
@@ -40,8 +40,8 @@ kubeai-project                 █                    3%
 ### 💡 核心总结
 
 1. **kubernetes-sigs** 是最大贡献方向（35%），涉及 2 个仓库，共 11 次活动。
-2. 共 **9** 个 PR 已合并，覆盖 6 个仓库。
-3. **3** 个 PR 仍在开放/Review 中。
+2. 共 **10** 个 PR 已合并，覆盖 7 个仓库。
+3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-10-23**（6 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 12 个仓库提交了 **16** 次代码。
@@ -68,18 +68,16 @@ kubeai-project                 █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **31** | PR + Issue + Commit |
-| 📝 **Pull Request** | 12 | 已合并 9，开放 3 |
+| 📝 **Pull Request** | 12 | 已合并 10，开放 2 |
 | 📋 **Issue** | 3 | 创建 Issue |
 | 💻 **Commit** | 16 | 代码提交 |
-| 👀 **PullRequestReviewEvent** | 26 | PR Review |
-| 💭 **PullRequestReviewCommentEvent** | 26 | PR Review 评论 |
-| 📝 **PushEvent** | 19 | 代码推送 |
-| 💬 **IssueCommentEvent** | 11 | Issue 评论 |
-| 🗑️ **DeleteEvent** | 5 | 删除分支 |
-| 🔀 **PullRequestEvent** | 5 | PR 操作 |
-| 🌿 **CreateEvent** | 4 | 创建分支/标签 |
+| 📝 **PushEvent** | 8 | 代码推送 |
+| 👀 **PullRequestReviewEvent** | 5 | PR Review |
+| 💬 **IssueCommentEvent** | 4 | Issue 评论 |
+| 💭 **PullRequestReviewCommentEvent** | 4 | PR Review 评论 |
+| 🗑️ **DeleteEvent** | 3 | 删除分支 |
 | 📋 **IssuesEvent** | 2 | Issue 操作 |
-| 🍴 **ForkEvent** | 1 | Fork |
+| 🔀 **PullRequestEvent** | 1 | PR 操作 |
 
 ---
 
@@ -95,12 +93,12 @@ kubeai-project                 █                    3%
 | 2026-10-17（六） | 3 | ███░░ | agentgateway/website: Fix PR review comments for b; vllm-project/aibrix: [Bug] Always download small r; XHToken/dsh-intelligent-router: feat: initial rele |
 | 2026-10-18（日） | 0 | ░░░░░ | — |
 | 2026-10-19（一） | 3 | ███░░ | PR #16771 (ai-dynamo/dynamo); Issue #16770; dongjiang1989/dongjiang1989: docs: add GOPS 2026 S |
-| **2026-10-20（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, meta-pytorch/tokenizers） |
+| **2026-10-20（二）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989） |
 | 2026-10-21（三） | 3 | ███░░ | XHToken/Spark-X2.6: Release Spark X2.6
 
 Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-10-22（四） | 0 | ░░░░░ | — |
-| **2026-10-23（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), agentgateway/agentgateway), ai-dynamo/dynamo)） |
+| **2026-10-23（五）** | **6** | ██████ | 6 项活动（ai-dynamo/dynamo), agentgateway/agentgateway), kubernetes-sigs/agent-sandbox)） |
 | 2026-10-24（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: examples: add deer- |
 | 2026-10-25（日） | 0 | ░░░░░ | — |
 
@@ -147,23 +145,23 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kubernetes-sigs/agent-sandbox | [#2039](https://github.com/kubernetes-sigs/agent-sandbox/pull/2039) | examples: add deer-flow-sandbox running DeerFlow tools in Sandbox pods | ✅ 已合并 |
-| 2 | prometheus-operator/prometheus-operator | [#8905](https://github.com/prometheus-operator/prometheus-operator/pull/8905) | chore: Update golangci-linter version to v2.15.0 | ✅ 已合并 |
-| 3 | kubernetes-sigs/agent-sandbox | [#2001](https://github.com/kubernetes-sigs/agent-sandbox/pull/2001) | Bump: Update golangci-linter version to v2.15.0 | ✅ 已合并 |
-| 4 | kubernetes-sigs/agent-sandbox | [#1999](https://github.com/kubernetes-sigs/agent-sandbox/pull/1999) | examples: add claude-code-sandbox with headless SDK-driven workflow | ✅ 已合并 |
-| 5 | ai-dynamo/dynamo | [#16771](https://github.com/ai-dynamo/dynamo/pull/16771) | build(operator): enable the modernize golangci-lint linter | ✅ 已合并 |
-| 6 | vllm-project/aibrix | [#3119](https://github.com/vllm-project/aibrix/pull/3119) | [Bug] Always download small runtime-critical files regardless of DOWNL | ✅ 已合并 |
-| 7 | meta-pytorch/tokenizers | [#225](https://github.com/meta-pytorch/tokenizers/pull/225) | Fix loading HF tokenizers with no-op normalizer and non-tiling Split r | ✅ 已合并 |
-| 8 | kubernetes-sigs/controller-tools | [#1488](https://github.com/kubernetes-sigs/controller-tools/pull/1488) | 🌱 Upgrade golangci-lint to v2.14.0 and enable promlinter, reassign lin | ✅ 已合并 |
-| 9 | kubernetes-sigs/agent-sandbox | [#1912](https://github.com/kubernetes-sigs/agent-sandbox/pull/1912) | chore: Bump golangci-linter to v2.14.0 and add reassign linter | ✅ 已合并 |
+| 1 | agentgateway/agentgateway | [#4123](https://github.com/agentgateway/agentgateway/pull/4123) | build: update golangci-lint to v2.15.0 and kube-api-linter | ✅ 已合并 |
+| 2 | kubernetes-sigs/agent-sandbox | [#2039](https://github.com/kubernetes-sigs/agent-sandbox/pull/2039) | examples: add deer-flow-sandbox running DeerFlow tools in Sandbox pods | ✅ 已合并 |
+| 3 | prometheus-operator/prometheus-operator | [#8905](https://github.com/prometheus-operator/prometheus-operator/pull/8905) | chore: Update golangci-linter version to v2.15.0 | ✅ 已合并 |
+| 4 | kubernetes-sigs/agent-sandbox | [#2001](https://github.com/kubernetes-sigs/agent-sandbox/pull/2001) | Bump: Update golangci-linter version to v2.15.0 | ✅ 已合并 |
+| 5 | kubernetes-sigs/agent-sandbox | [#1999](https://github.com/kubernetes-sigs/agent-sandbox/pull/1999) | examples: add claude-code-sandbox with headless SDK-driven workflow | ✅ 已合并 |
+| 6 | ai-dynamo/dynamo | [#16771](https://github.com/ai-dynamo/dynamo/pull/16771) | build(operator): enable the modernize golangci-lint linter | ✅ 已合并 |
+| 7 | vllm-project/aibrix | [#3119](https://github.com/vllm-project/aibrix/pull/3119) | [Bug] Always download small runtime-critical files regardless of DOWNL | ✅ 已合并 |
+| 8 | meta-pytorch/tokenizers | [#225](https://github.com/meta-pytorch/tokenizers/pull/225) | Fix loading HF tokenizers with no-op normalizer and non-tiling Split r | ✅ 已合并 |
+| 9 | kubernetes-sigs/controller-tools | [#1488](https://github.com/kubernetes-sigs/controller-tools/pull/1488) | 🌱 Upgrade golangci-lint to v2.14.0 and enable promlinter, reassign lin | ✅ 已合并 |
+| 10 | kubernetes-sigs/agent-sandbox | [#1912](https://github.com/kubernetes-sigs/agent-sandbox/pull/1912) | chore: Bump golangci-linter to v2.14.0 and add reassign linter | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | ai-dynamo/dynamo | [#17190](https://github.com/ai-dynamo/dynamo/pull/17190) | build(operator): add kube-api-linter for CRD API conventions | 🔄 开放 |
-| 2 | agentgateway/agentgateway | [#4123](https://github.com/agentgateway/agentgateway/pull/4123) | build: update golangci-lint to v2.15.0 and kube-api-linter | 🔄 开放 |
-| 3 | kubernetes-sigs/agent-sandbox | [#1902](https://github.com/kubernetes-sigs/agent-sandbox/pull/1902) | Change: Fix promlinter violations for rename latency metrics from `_ms | 🔄 开放 |
+| 2 | kubernetes-sigs/agent-sandbox | [#1902](https://github.com/kubernetes-sigs/agent-sandbox/pull/1902) | Change: Fix promlinter violations for rename latency metrics from `_ms | 🔄 开放 |
 
 ---
 
@@ -233,7 +231,7 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| kubernetes-sigs/agent-sandbox | 4 | 2026-10-14 | Bump golangci-linter to v2.14.0 and add reassign l; examples: add claude-code-sandbox with headless SD; Bump: Update golangci-linter version to v2.15.0 (# |
+| kubernetes-sigs/agent-sandbox | 4 | 2026-10-24 | examples: add deer-flow-sandbox running DeerFlow t; Bump golangci-linter to v2.14.0 and add reassign l; examples: add claude-code-sandbox with headless SD |
 | dongjiang1989/dongjiang1989 | 2 | 2026-10-19 | docs: add GOPS 2026 Shanghai conference presentati; Update README.md |
 | kubernetes-sigs/controller-tools | 1 | 2026-10-14 | Upgrade golangci-lint to v2.14.0 and add promlinte |
 | kubeai-project/kubeai | 1 | 2026-10-12 | feat(models): add Spark-X2.5-4B model configs for  |
@@ -263,4 +261,4 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 
 ---
 
-*报告生成时间：2026-10-26 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
