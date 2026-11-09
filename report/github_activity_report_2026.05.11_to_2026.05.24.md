@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -89,18 +89,18 @@ ynyyzyrf                       █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-05-11（一）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator, erauner12/kagent-detached） |
-| **2026-05-12（二）** | **19** | ███████████████████ | 19 项活动（luxi233/astron-agent, iflytek/astron-agent, brandonfang06/skillhub-security） |
+| **2026-05-11（一）** | **6** | ██████ | 6 项活动（kubernetes-sigs/agent-sandbox), kagent-dev/kagent, erauner12/kagent-detached） |
+| **2026-05-12（二）** | **19** | ███████████████████ | 19 项活动（tellbom/skillhub, luxi233/astron-agent, ynyyzyrf/astron） |
 | 2026-05-13（三） | 1 | █░░░░ | PR #8569 (prometheus-operator/prometheus-operator) |
 | 2026-05-14（四） | 1 | █░░░░ | PR #1322 (iflytek/astron-agent) |
 | 2026-05-15（五） | 0 | ░░░░░ | — |
 | 2026-05-16（六） | 0 | ░░░░░ | — |
 | 2026-05-17（日） | 0 | ░░░░░ | — |
-| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/node-metrics), kubeservice-stack/common, kubeservice-stack/echo） |
+| **2026-05-18（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/common), kubeservice-stack/echo, kubeservice-stack/node-metrics） |
 | 2026-05-19（二） | 2 | ██░░░ | PR #1893 (kagent-dev/kagent); prometheus-operator/prometheus-operator: Merge pul |
-| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, Project-HAMi/HAMi), prometheus-operator/prometheus-operator)） |
-| **2026-05-21（四）** | **12** | ████████████ | 12 项活动（dongjiang1989/opensearch-api), aniketpati1121/HAMi, Project-HAMi/HAMi） |
-| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common, kubernetes-sigs/controller-runtime), kubeservice-stack/common)） |
+| **2026-05-20（三）** | **6** | ██████ | 6 项活动（dongjiang1989/opensearch-api, iflytek/community), Project-HAMi/HAMi)） |
+| **2026-05-21（四）** | **12** | ████████████ | 12 项活动（dongjiang1989/opensearch-api, Annie-Summer/HAMi-test, aniketpati1121/HAMi） |
+| **2026-05-22（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime） |
 | 2026-05-23（六） | 0 | ░░░░░ | — |
 | 2026-05-24（日） | 0 | ░░░░░ | — |
 
@@ -304,4 +304,4 @@ ynyyzyrf                       █                    2%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

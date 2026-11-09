@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -76,7 +76,7 @@ Project-HAMi                   █                    5%
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
 | **2026-02-05（四）** | **12** | ████████████ | 12 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime), kubernetes-sigs/external-dns)） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -224,4 +224,4 @@ Project-HAMi                   █                    5%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

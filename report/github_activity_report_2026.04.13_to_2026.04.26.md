@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -15,35 +15,36 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **15** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **16** 个 |
 | Pull Request 数 | **21** 个（已合并 21，开放 0） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **67** 次 |
-| 总活动量 | **90** |
+| Commit 数 | **75** 次 |
+| 总活动量 | **98** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ████                 22%
-iflytek                        ███                  18%
-dongjiang1989                  ██                   14%
-luxi233                        ██                   10%
-ynyyzyrf                       ██                   10%
-e7t1s2n9yo                     █                    9%
-shrutiyam-glitch               █                    9%
-prometheus-operator            █                    6%
+kubernetes-sigs                ████                 20%
+iflytek                        ███                  16%
+dongjiang1989                  ██                   13%
+luxi233                        █                    9%
+ynyyzyrf                       █                    9%
+e7t1s2n9yo                     █                    8%
+Peano-Lab-Data-Collab          █                    8%
+shrutiyam-glitch               █                    8%
+prometheus-operator            █                    5%
 Twigpine                       █                    1%
 jacobsee                       █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（22%），涉及 3 个仓库，共 20 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（20%），涉及 3 个仓库，共 20 次活动。
 2. 共 **21** 个 PR 已合并，覆盖 7 个仓库。
 3. 活跃高峰出现在 **2026-04-13**（31 次活动），展现了高强度的工作节奏。
 4. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 14 个仓库提交了 **67** 次代码。
+5. 在 15 个仓库提交了 **75** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -51,10 +52,10 @@ jacobsee                       █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 36 | **90** | +150% | 📈 +54 |
+| **总活动量** | 42 | **98** | +133% | 📈 +56 |
 | Pull Request | 9 | 21 | +133% | 📈 +12 |
 | Issue | 0 | 2 | 🆕 新增 | 📈 +2 |
-| Commit | 27 | 67 | +148% | 📈 +40 |
+| Commit | 33 | 75 | +127% | 📈 +42 |
 
 - 🆕 **新增活跃仓库**：`Twigpine/openclaude`, `dongjiang1989/dongjiang1989`, `dongjiang1989/myclawbot`, `dongjiang1989/scumbag`, `iflytek/astron-agent`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `luxi233/astron-agent`, `ynyyzyrf/astron`
 - ❌ **不再活跃的仓库**：`dongjiang1989/api-server`, `prometheus/alertmanager`
@@ -66,10 +67,10 @@ jacobsee                       █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **90** | PR + Issue + Commit |
+| 📊 **总活动** | **98** | PR + Issue + Commit |
 | 📝 **Pull Request** | 21 | 已合并 21，开放 0 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 67 | 代码提交 |
+| 💻 **Commit** | 75 | 代码提交 |
 
 ---
 
@@ -77,20 +78,20 @@ jacobsee                       █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（luxi233/astron-agent, dongjiang1989/opensearch-api), kubernetes-sigs/agent-sandbox)） |
-| **2026-04-14（二）** | **7** | ███████ | 7 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
-| **2026-04-15（三）** | **20** | ████████████████████ | 20 项活动（kubernetes-sigs/agent-sandbox, luxi233/astron-agent, kubernetes-sigs/agent-sandbox)） |
+| **2026-04-13（一）** | **31** | ████████████████████ | 31 项活动（dongjiang1989/opensearch-api, kubernetes-sigs/agent-sandbox), luxi233/astron-agent） |
+| **2026-04-14（二）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, Peano-Lab-Data-Collab/agent-sandbox） |
+| **2026-04-15（三）** | **21** | ████████████████████ | 21 项活动（kubernetes-sigs/agent-sandbox), luxi233/astron-agent, ynyyzyrf/astron） |
 | 2026-04-16（四） | 1 | █░░░░ | PR #603 (kubernetes-sigs/agent-sandbox) |
-| **2026-04-17（五）** | **7** | ███████ | 7 项活动（kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, shrutiyam-glitch/agent-sandbox-trial） |
-| 2026-04-18（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: update make toc-upd; shrutiyam-glitch/agent-sandbox-trial: update make  |
+| **2026-04-17（五）** | **9** | █████████ | 9 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| 2026-04-18（六） | 4 | ████░ | 4 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
 | 2026-04-19（日） | 3 | ███░░ | kubernetes-sigs/controller-tools: update IntOrStri; jacobsee/usr-kubernetes-sigs-controller-tools: upd; dongjiang1989/myclawbot: Merge pull request #1 fro |
 | 2026-04-20（一） | 3 | ███░░ | PR #621 (kubernetes-sigs/agent-sandbox); dongjiang1989/scumbag: add scumbag skill
 
 Signed-o; dongjiang1989/dongjiang1989: Update README.md |
-| 2026-04-21（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, shrutiyam-glitch/agent-sandbox-trial） |
-| **2026-04-22（三）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder), prometheus-operator/prometheus-operator, kubernetes-sigs/kubebuilder） |
+| **2026-04-21（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox, Peano-Lab-Data-Collab/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-04-22（三）** | **6** | ██████ | 6 项活动（Twigpine/openclaude), kubernetes-sigs/kubebuilder), kubernetes-sigs/kubebuilder） |
 | 2026-04-23（四） | 1 | █░░░░ | PR #674 (kubernetes-sigs/agent-sandbox) |
-| 2026-04-24（五） | 4 | ████░ | 4 项活动（shrutiyam-glitch/agent-sandbox-trial, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-04-24（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, Peano-Lab-Data-Collab/agent-sandbox） |
 | 2026-04-25（六） | 0 | ░░░░░ | — |
 | 2026-04-26（日） | 0 | ░░░░░ | — |
 
@@ -104,16 +105,17 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 20 | 22.2% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
-| iflytek | 16 | 17.8% | iflytek/astron-agent(16) | Issue, PR, Push |
-| dongjiang1989 | 13 | 14.4% | dongjiang1989/opensearch-api(10), dongjiang1989/myclawbot(1), dongjiang1989/scumbag(1) | PR, Push |
-| luxi233 | 9 | 10.0% | luxi233/astron-agent(9) | Push |
-| ynyyzyrf | 9 | 10.0% | ynyyzyrf/astron(9) | Push |
-| e7t1s2n9yo | 8 | 8.9% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(8) | Push |
-| shrutiyam-glitch | 8 | 8.9% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
-| prometheus-operator | 5 | 5.6% | prometheus-operator/prometheus-operator(5) | PR, Push |
-| Twigpine | 1 | 1.1% | Twigpine/openclaude(1) | PR |
-| jacobsee | 1 | 1.1% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
+| **kubernetes-sigs** | 20 | 20.4% | kubernetes-sigs/agent-sandbox(16), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-tools(2) | Issue, PR, Push |
+| iflytek | 16 | 16.3% | iflytek/astron-agent(16) | Issue, PR, Push |
+| dongjiang1989 | 13 | 13.3% | dongjiang1989/opensearch-api(10), dongjiang1989/myclawbot(1), dongjiang1989/scumbag(1) | PR, Push |
+| luxi233 | 9 | 9.2% | luxi233/astron-agent(9) | Push |
+| ynyyzyrf | 9 | 9.2% | ynyyzyrf/astron(9) | Push |
+| e7t1s2n9yo | 8 | 8.2% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(8) | Push |
+| Peano-Lab-Data-Collab | 8 | 8.2% | Peano-Lab-Data-Collab/agent-sandbox(8) | Push |
+| shrutiyam-glitch | 8 | 8.2% | shrutiyam-glitch/agent-sandbox-trial(8) | Push |
+| prometheus-operator | 5 | 5.1% | prometheus-operator/prometheus-operator(5) | PR, Push |
+| Twigpine | 1 | 1.0% | Twigpine/openclaude(1) | PR |
+| jacobsee | 1 | 1.0% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -125,10 +127,10 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | 4 | **luxi233/astron-agent** | 9 | 0 | 0 | 9 | Commit: fix: resolve Python CI formatting failures; Commit: fix(core-link): mock `create_engine` in da; Commit: refactor(console-backend): improve code qu |
 | 5 | **ynyyzyrf/astron** | 9 | 0 | 0 | 9 | Commit: fix: resolve Python CI formatting failures; Commit: fix(core-link): mock `create_engine` in da; Commit: refactor(console-backend): improve code qu |
 | 6 | **e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef** | 8 | 0 | 0 | 8 | Commit: add agent-sandbox verison and  metrics (#6; Commit: add dependabot.yml (#621); Commit: update make toc-update checker (#603) |
-| 7 | **shrutiyam-glitch/agent-sandbox-trial** | 8 | 0 | 0 | 8 | Commit: add agent-sandbox verison and  metrics (#6; Commit: add dependabot.yml (#621); Commit: update make toc-update checker (#603) |
-| 8 | **prometheus-operator/prometheus-operator** | 5 | 3 | 0 | 2 | PR #8529: feat: add healthFilter field to ConsulSD; PR #8528: chore: update prometheus version to v3.1; PR #8510: chore: update golangci-linter version to |
-| 9 | **kubernetes-sigs/kubebuilder** | 2 | 1 | 0 | 1 | PR #5653: ✨ (go/v4): upgrade golangci-lint to v2.1; Commit: ✨ (go/v4): upgrade golangci-lint to v2.11. |
-| 10 | **kubernetes-sigs/controller-tools** | 2 | 1 | 0 | 1 | PR #1385: 🌱 Add tests to improve coverage for IntO; Commit: update IntOrString generated (#1370) |
+| 7 | **Peano-Lab-Data-Collab/agent-sandbox** | 8 | 0 | 0 | 8 | Commit: add agent-sandbox verison and  metrics (#6; Commit: add dependabot.yml (#621); Commit: update make toc-update checker (#603) |
+| 8 | **shrutiyam-glitch/agent-sandbox-trial** | 8 | 0 | 0 | 8 | Commit: add agent-sandbox verison and  metrics (#6; Commit: add dependabot.yml (#621); Commit: update make toc-update checker (#603) |
+| 9 | **prometheus-operator/prometheus-operator** | 5 | 3 | 0 | 2 | PR #8529: feat: add healthFilter field to ConsulSD; PR #8528: chore: update prometheus version to v3.1; PR #8510: chore: update golangci-linter version to |
+| 10 | **kubernetes-sigs/kubebuilder** | 2 | 1 | 0 | 1 | PR #5653: ✨ (go/v4): upgrade golangci-lint to v2.1; Commit: ✨ (go/v4): upgrade golangci-lint to v2.11. |
 
 ---
 
@@ -245,6 +247,7 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
 | dongjiang1989/opensearch-api | 8 | 2026-04-13 | Update ci.yml; Update README.md; Merge pull request #2 from dongjiang1989/vk/5b9d-s |
 | kubernetes-sigs/agent-sandbox | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
+| Peano-Lab-Data-Collab/agent-sandbox | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
 | shrutiyam-glitch/agent-sandbox-trial | 8 | 2026-04-24 | add agent-sandbox verison and  metrics (#674); add dependabot.yml (#621); update make toc-update checker (#603) |
 | prometheus-operator/prometheus-operator | 2 | 2026-04-22 | update prometheus version; update golangci linter version (#8510) |
 | kubernetes-sigs/controller-tools | 1 | 2026-04-19 | update IntOrString generated (#1370) |
@@ -275,4 +278,4 @@ Signed-o; dongjiang1989/dongjiang1989: Update README.md |
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

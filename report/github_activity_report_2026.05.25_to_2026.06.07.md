@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -76,9 +76,9 @@ jacobsee                       █                    1%
 |------|--------|--------|----------|
 | 2026-05-25（一） | 3 | ███░░ | PR #1418 (kubernetes-sigs/controller-tools); kubernetes-sigs/controller-tools: update k8s libs ; jacobsee/usr-kubernetes-sigs-controller-tools: upd |
 | 2026-05-26（二） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator） |
-| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubeservice-stack/repos-mirror-action, iflytek/community), prometheus-operator/prometheus-operator） |
-| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, iflytek/community), iflytek/community） |
-| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（kubeservice-stack/repos-mirror-action, kubeservice-stack/hf-sync-action), kubeservice-stack/hf-sync-action） |
+| **2026-05-27（三）** | **10** | ██████████ | 10 项活动（kubernetes-sigs/prow, dongjiang1989/mirror-action, kubeservice-stack/repos-mirror-action） |
+| **2026-05-28（四）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator), iflytek/community, prometheus-operator/prometheus-operator） |
+| **2026-05-29（五）** | **46** | ████████████████████ | 46 项活动（dongjiang1989/mirror-action, kubeservice-stack/repos-mirror-action, kubeservice-stack/hf-sync-action)） |
 | 2026-05-30（六） | 0 | ░░░░░ | — |
 | 2026-05-31（日） | 0 | ░░░░░ | — |
 | 2026-06-01（一） | 0 | ░░░░░ | — |
@@ -260,4 +260,4 @@ jacobsee                       █                    1%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

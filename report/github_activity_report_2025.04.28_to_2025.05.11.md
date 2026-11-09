@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -94,17 +94,17 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **15** | ███████████████ | 15 项活动（Project-HAMi/HAMi-core), web38444/descheduler, kubernetes-sigs/descheduler） |
+| **2025-04-28（一）** | **15** | ███████████████ | 15 项活动（punith1006/LaaS-Hami, jacobsee/usr-kubernetes-sigs-controller-tools, raihanakbr/descheduler-custom） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（web38444/descheduler, kubernetes-sigs/descheduler, prometheus-operator/prometheus-operator） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), raihanakbr/descheduler-custom, web38444/descheduler） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **28** | ████████████████████ | 28 项活动（kubeservice-stack/echo, rajendra-k10200/prometheus, 0xkato/prometheus-fork） |
-| 2025-05-07（三） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator, bwplotka/mdox)） |
-| **2025-05-08（四）** | **5** | █████ | 5 项活动（kubeservice-stack/common, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
+| **2025-05-06（二）** | **28** | ████████████████████ | 28 项活动（kubeservice-stack/echo, grafana/mimir-prometheus, prometheus/prometheus） |
+| 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
+| **2025-05-08（四）** | **5** | █████ | 5 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
 | **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/common, kubeservice-stack/echo） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
@@ -306,4 +306,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -15,47 +15,50 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **21** 个 |
-| 涉及仓库数 | **27** 个 |
+| 涉及组织数 | **23** 个 |
+| 涉及仓库数 | **29** 个 |
 | Pull Request 数 | **29** 个（已合并 18，开放 11） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **24** 次 |
-| 总活动量 | **56** |
+| Commit 数 | **27** 次 |
+| 活动事件数 | **1** 次 |
+| 总活动量 | **59** |
 
 ### 🎯 工作重心分布
 
 ```
-iflytek                        ███                  16%
+iflytek                        ███                  15%
 prometheus-operator            ██                   14%
-kubernetes-sigs                ██                   11%
+kubernetes-sigs                ██                   10%
 istio                          █                    5%
 theagentrouter                 █                    5%
 XHToken                        █                    5%
 prometheus                     █                    5%
 a2aproject                     █                    5%
-agentgateway                   █                    4%
-todogroup                      █                    4%
-e2bgateway                     █                    4%
-e7t1s2n9yo                     █                    4%
-dongjiang1989                  █                    4%
+agentgateway                   █                    3%
+todogroup                      █                    3%
+e2bgateway                     █                    3%
+e7t1s2n9yo                     █                    3%
+Peano-Lab-Data-Collab          █                    3%
+dongjiang1989                  █                    3%
 SlinkyProject                  █                    2%
 NVIDIA                         █                    2%
 a-ghorbani                     █                    2%
 pytorch                        █                    2%
 anomalyco                      █                    2%
 grafana                        █                    2%
+openshift-service-mesh         █                    2%
 Aikido-pentest-benchmarks      █                    2%
 prabhawti                      █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **iflytek** 是最大贡献方向（16%），涉及 2 个仓库，共 9 次活动。
+1. **iflytek** 是最大贡献方向（15%），涉及 2 个仓库，共 9 次活动。
 2. 共 **18** 个 PR 已合并，覆盖 13 个仓库。
 3. **11** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-09-18**（11 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-09-18**（12 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 16 个仓库提交了 **24** 次代码。
+6. 在 18 个仓库提交了 **27** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -63,13 +66,13 @@ prabhawti                      █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 111 | **56** | -50% | 📉 -55 |
+| **总活动量** | 118 | **59** | -50% | 📉 -59 |
 | Pull Request | 34 | 29 | -15% | 📉 -5 |
 | Issue | 19 | 3 | -84% | 📉 -16 |
-| Commit | 58 | 24 | -59% | 📉 -34 |
+| Commit | 65 | 27 | -58% | 📉 -38 |
 
-- 🆕 **新增活跃仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/ospolandscape`, `iflytek/.github`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `pytorch/executorch`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
-- ❌ **不再活跃的仓库**：`BallParkBanter/pocketpal-bray`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `XHToken/Spark-plugin`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `johan-sellstrom/agentgateway`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `niewan2012-eng/pocketpal-ai-mod`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `skullrex0987-ctrl/pocketpal-ai-mali`, `vllm-project/aibrix`, `yumaitau/magpie-gateway`
+- 🆕 **新增活跃仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/ospolandscape`, `iflytek/.github`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `openshift-service-mesh/istio`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `pytorch/executorch`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
+- ❌ **不再活跃的仓库**：`BRIDGE-ALLAH/MW-GATEWAY`, `BallParkBanter/pocketpal-bray`, `CodeLinaro-mirror/yocto-mirrors_github_prometheus_common`, `XHToken/Spark-plugin`, `a-ghorbani/pocketpal-ai`, `chromium-full-mirror/external_github.com_prometheus_common`, `danylomaiberov-max/pocket-pal-fork`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `johan-sellstrom/agentgateway`, `joshuajimenezw-spec/UCVAG`, `joshuajimenezw-spec/UCVAG-IA`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `linarezwilyer2-boop/UCVAG-1.1`, `mybigday/llama.rn`, `niewan2012-eng/pocketpal-ai-mod`, `ollama/ollama`, `prometheus-operator/community`, `prometheus/alertmanager`, `prometheus/common`, `prometheus/node_exporter`, `prometheus/sigv4`, `rdatguacharo-hue/UCVAG`, `sciancimedia/mi-ia-voz`, `skullrex0987-ctrl/pocketpal-ai-mali`, `srecloud20/nodeexporter`, `vllm-project/aibrix`, `yumaitau/magpie-gateway`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **iflytek**
 
 ---
@@ -78,10 +81,11 @@ prabhawti                      █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **56** | PR + Issue + Commit |
+| 📊 **总活动** | **59** | PR + Issue + Commit |
 | 📝 **Pull Request** | 29 | 已合并 18，开放 11 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 24 | 代码提交 |
+| 💻 **Commit** | 27 | 代码提交 |
+| 🔀 **PullRequestEvent** | 1 | PR 操作 |
 
 ---
 
@@ -89,22 +93,22 @@ prabhawti                      █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-09-14（一）** | **7** | ███████ | 7 项活动（anomalyco/models.dev), todogroup/ospolandscape), iflytek/website） |
+| **2026-09-14（一）** | **7** | ███████ | 7 项活动（iflytek/.github, dongjiang1989/ospolandscape), todogroup/ospolandscape)） |
 | 2026-09-15（二） | 4 | ████░ | 4 项活动（iflytek/website), iflytek/website） |
 | 2026-09-16（三） | 3 | ███░░ | PR #1661 (kubernetes-sigs/agent-sandbox); PR #22865 (pytorch/executorch); XHToken/Spark-X2.6: Add release notes for Spark-X2 |
 | 2026-09-17（四） | 2 | ██░░░ | PR #262 (kubernetes-sigs/kube-api-linter); Issue #261 |
-| **2026-09-18（五）** | **11** | ███████████ | 11 项活动（prometheus-operator/website), prometheus-operator/website, kubernetes-sigs/agent-sandbox） |
-| 2026-09-19（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: fix(go-sdk): remove |
-| **2026-09-20（日）** | **5** | █████ | 5 项活动（theagentrouter/agent-router), a2aproject/a2a-go), prometheus-operator/prometheus-operator)） |
+| **2026-09-18（五）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/agent-sandbox), kubernetes-sigs/agent-sandbox, prometheus-operator/website） |
+| 2026-09-19（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: fix(go-sdk): remove; Peano-Lab-Data-Collab/agent-sandbox: fix(go-sdk):  |
+| **2026-09-20（日）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go), XHToken/Spark-X2.6） |
 | 2026-09-21（一） | 0 | ░░░░░ | — |
 | 2026-09-22（二） | 3 | ███░░ | PR #7 (a-ghorbani/pocketpal-device-rules); Issue #54; e2bgateway/e2bgateway: feat: envd data plane refac |
-| **2026-09-23（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, dongjiang1989/dongjiang1989, a2aproject/a2a-go） |
-| **2026-09-24（四）** | **7** | ███████ | 7 项活动（todogroup/ospolandscape, iflytek/website, Aikido-pentest-benchmarks/istio） |
+| **2026-09-23（三）** | **5** | █████ | 5 项活动（dongjiang1989/dongjiang1989, istio/istio), prometheus-operator/prometheus-operator） |
+| **2026-09-24（四）** | **8** | ████████ | 8 项活动（istio/istio, todogroup/ospolandscape, Aikido-pentest-benchmarks/istio） |
 | 2026-09-25（五） | 0 | ░░░░░ | — |
 | 2026-09-26（六） | 0 | ░░░░░ | — |
-| **2026-09-27（日）** | **7** | ███████ | 7 项活动（prometheus/exporter-toolkit), SlinkyProject/slurm-operator), prometheus/prometheus)） |
+| **2026-09-27（日）** | **7** | ███████ | 7 项活动（SlinkyProject/slurm-operator), prometheus/exporter-toolkit), prometheus/prometheus)） |
 
-> **活跃高峰**：2026-09-18（11 次活动）为最高峰。
+> **活跃高峰**：2026-09-18（12 次活动）为最高峰。
 
 ---
 
@@ -114,27 +118,29 @@ prabhawti                      █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| iflytek | 9 | 16.1% | iflytek/website(8), iflytek/.github(1) | PR, Push |
-| prometheus-operator | 8 | 14.3% | prometheus-operator/prometheus-operator(6), prometheus-operator/website(2) | PR, Push |
-| kubernetes-sigs | 6 | 10.7% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/kube-api-linter(2) | Issue, PR, Push |
-| istio | 3 | 5.4% | istio/istio(3) | PR, Push |
-| theagentrouter | 3 | 5.4% | theagentrouter/agent-router(3) | PR |
-| XHToken | 3 | 5.4% | XHToken/Spark-X2.6(3) | Push |
-| prometheus | 3 | 5.4% | prometheus/prometheus(2), prometheus/exporter-toolkit(1) | PR, Push |
-| a2aproject | 3 | 5.4% | a2aproject/a2a-go(2), a2aproject/A2A(1) | Issue, PR, Push |
-| agentgateway | 2 | 3.6% | agentgateway/agentgateway(2) | PR |
-| todogroup | 2 | 3.6% | todogroup/ospolandscape(2) | PR, Push |
-| e2bgateway | 2 | 3.6% | e2bgateway/e2bgateway(2) | Issue, Push |
-| e7t1s2n9yo | 2 | 3.6% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(2) | Push |
-| dongjiang1989 | 2 | 3.6% | dongjiang1989/ospolandscape(1), dongjiang1989/dongjiang1989(1) | PR, Push |
-| SlinkyProject | 1 | 1.8% | SlinkyProject/slurm-operator(1) | PR |
-| NVIDIA | 1 | 1.8% | NVIDIA/pyxis(1) | PR |
-| a-ghorbani | 1 | 1.8% | a-ghorbani/pocketpal-device-rules(1) | PR |
-| pytorch | 1 | 1.8% | pytorch/executorch(1) | PR |
-| anomalyco | 1 | 1.8% | anomalyco/models.dev(1) | PR |
-| grafana | 1 | 1.8% | grafana/mimir-prometheus(1) | Push |
-| Aikido-pentest-benchmarks | 1 | 1.8% | Aikido-pentest-benchmarks/istio(1) | Push |
-| prabhawti | 1 | 1.8% | prabhawti/istio(1) | Push |
+| iflytek | 9 | 15.3% | iflytek/website(8), iflytek/.github(1) | PR, Push |
+| prometheus-operator | 8 | 13.6% | prometheus-operator/prometheus-operator(6), prometheus-operator/website(2) | PR, Push |
+| kubernetes-sigs | 6 | 10.2% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/kube-api-linter(2) | Issue, PR, Push |
+| istio | 3 | 5.1% | istio/istio(3) | PR, Push |
+| theagentrouter | 3 | 5.1% | theagentrouter/agent-router(3) | PR |
+| XHToken | 3 | 5.1% | XHToken/Spark-X2.6(3) | Push |
+| prometheus | 3 | 5.1% | prometheus/prometheus(2), prometheus/exporter-toolkit(1) | PR, Push |
+| a2aproject | 3 | 5.1% | a2aproject/a2a-go(2), a2aproject/A2A(1) | Issue, PR, Push |
+| agentgateway | 2 | 3.4% | agentgateway/agentgateway(2) | PR |
+| todogroup | 2 | 3.4% | todogroup/ospolandscape(2) | PR, Push |
+| e2bgateway | 2 | 3.4% | e2bgateway/e2bgateway(2) | Issue, Push |
+| e7t1s2n9yo | 2 | 3.4% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(2) | Push |
+| Peano-Lab-Data-Collab | 2 | 3.4% | Peano-Lab-Data-Collab/agent-sandbox(2) | Push |
+| dongjiang1989 | 2 | 3.4% | dongjiang1989/ospolandscape(1), dongjiang1989/dongjiang1989(1) | PR, Push |
+| SlinkyProject | 1 | 1.7% | SlinkyProject/slurm-operator(1) | PR |
+| NVIDIA | 1 | 1.7% | NVIDIA/pyxis(1) | PR |
+| a-ghorbani | 1 | 1.7% | a-ghorbani/pocketpal-device-rules(1) | PR |
+| pytorch | 1 | 1.7% | pytorch/executorch(1) | PR |
+| anomalyco | 1 | 1.7% | anomalyco/models.dev(1) | PR |
+| grafana | 1 | 1.7% | grafana/mimir-prometheus(1) | Push |
+| openshift-service-mesh | 1 | 1.7% | openshift-service-mesh/istio(1) | Push |
+| Aikido-pentest-benchmarks | 1 | 1.7% | Aikido-pentest-benchmarks/istio(1) | Push |
+| prabhawti | 1 | 1.7% | prabhawti/istio(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -268,10 +274,12 @@ prabhawti                      █                    2%
 | XHToken/Spark-X2.6 | 3 | 2026-09-20 | docs: add Unsloth section; docs: simplify Ollama and LM Studio sections; Add release notes for Spark-X2.5 model support |
 | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 2 | 2026-09-19 | fix(go-sdk): remove unnecessary else block in file; chore: bump golangci-lint to v2.13.2 (#1661) |
 | kubernetes-sigs/agent-sandbox | 2 | 2026-09-19 | fix(go-sdk): remove unnecessary else block in file; chore: bump golangci-lint to v2.13.2 (#1661) |
+| Peano-Lab-Data-Collab/agent-sandbox | 2 | 2026-09-19 | fix(go-sdk): remove unnecessary else block in file; chore: bump golangci-lint to v2.13.2 (#1661) |
 | prometheus-operator/prometheus-operator | 2 | 2026-09-18 | add unused and whitespace linters (#8827); update promthues lts version v3.13.3 |
 | istio/istio | 1 | 2026-09-24 | Use apiequality.Semantic.DeepEqual selectively acr |
 | grafana/mimir-prometheus | 1 | 2026-09-27 | web: upgrade exporter-toolkit to v0.20.0 to fix HT |
 | todogroup/ospolandscape | 1 | 2026-09-24 | Add iFlytek as a adopter (#252) |
+| openshift-service-mesh/istio | 1 | 2026-09-24 | Use apiequality.Semantic.DeepEqual selectively acr |
 | iflytek/.github | 1 | 2026-09-14 | Update links in README.md for Astron project |
 | prometheus-operator/website | 1 | 2026-09-18 | Update prometheusOperator version to v0.94.0 |
 | a2aproject/a2a-go | 1 | 2026-09-23 | chore(lint): fix all golangci-lint issues (#440) |
@@ -304,4 +312,4 @@ prabhawti                      █                    2%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*

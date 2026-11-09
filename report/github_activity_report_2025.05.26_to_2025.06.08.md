@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：263 | **Followers**：100 | **Following**：42
+> **公开仓库数**：267 | **Followers**：106 | **Following**：43
 
 ---
 
@@ -84,7 +84,7 @@ vpuhoff                        ██                   12%
 | 2025-06-04（三） | 0 | ░░░░░ | — |
 | 2025-06-05（四） | 0 | ░░░░░ | — |
 | 2025-06-06（五） | 0 | ░░░░░ | — |
-| **2025-06-07（六）** | **6** | ██████ | 6 项活动（vpuhoff/redis-exporter, oliver006/redis_exporter, prometheus-operator/prometheus-operator)） |
+| **2025-06-07（六）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator), vpuhoff/redis-exporter, oliver006/redis_exporter） |
 | 2025-06-08（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2025-06-07（6 次活动）为最高峰。
@@ -199,4 +199,4 @@ vpuhoff                        ██                   12%
 
 ---
 
-*报告生成时间：2026-11-02 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
