@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -15,35 +15,34 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **9** 个 |
-| 涉及仓库数 | **12** 个 |
+| 涉及组织数 | **8** 个 |
+| 涉及仓库数 | **11** 个 |
 | Pull Request 数 | **19** 个（已合并 16，开放 3） |
 | Issue 数 | **2** 个 |
-| Commit 数 | **19** 次 |
-| 总活动量 | **40** |
+| Commit 数 | **17** 次 |
+| 总活动量 | **38** |
 
 ### 🎯 工作重心分布
 
 ```
-e2bgateway                     █████                28%
+e2bgateway                     █████                29%
 iflytek                        ███                  18%
-kubernetes-sigs                ███                  15%
-agentgateway                   ██                   12%
-prometheus-operator            ██                   10%
+kubernetes-sigs                ███                  16%
+agentgateway                   ██                   13%
+prometheus-operator            ██                   11%
 pytorch                        █                    8%
-Peano-Lab-Data-Collab          █                    5%
-kubeai-project                 █                    2%
-TejasweeSulekh                 █                    2%
+kubeai-project                 █                    3%
+TejasweeSulekh                 █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **e2bgateway** 是最大贡献方向（28%），涉及 1 个仓库，共 11 次活动。
+1. **e2bgateway** 是最大贡献方向（29%），涉及 1 个仓库，共 11 次活动。
 2. 共 **16** 个 PR 已合并，覆盖 8 个仓库。
 3. **3** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-10-10**（22 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-10-10**（21 次活动），展现了高强度的工作节奏。
 5. 创建了 **2** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 10 个仓库提交了 **19** 次代码。
+6. 在 9 个仓库提交了 **17** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -51,13 +50,13 @@ TejasweeSulekh                 █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 59 | **40** | -32% | 📉 -19 |
+| **总活动量** | 58 | **38** | -34% | 📉 -20 |
 | Pull Request | 29 | 19 | -34% | 📉 -10 |
 | Issue | 3 | 2 | -33% | 📉 -1 |
-| Commit | 27 | 19 | -30% | 📉 -8 |
+| Commit | 26 | 17 | -35% | 📉 -9 |
 
 - 🆕 **新增活跃仓库**：`TejasweeSulekh/executorch-dev`, `agentgateway/website`, `kubeai-project/kubeai`, `kubernetes-sigs/controller-runtime`
-- ❌ **不再活跃的仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `XHToken/Spark-X2.6`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/dongjiang1989`, `dongjiang1989/ospolandscape`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `grafana/mimir-prometheus`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `openshift-service-mesh/istio`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `prometheus/prometheus`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
+- ❌ **不再活跃的仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `XHToken/Spark-X2.6`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/dongjiang1989`, `dongjiang1989/ospolandscape`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `grafana/mimir-prometheus`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `openshift-service-mesh/istio`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `prometheus/prometheus`, `shawnlinator/beryl-seal`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **e2bgateway**
 
 ---
@@ -66,10 +65,10 @@ TejasweeSulekh                 █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **40** | PR + Issue + Commit |
+| 📊 **总活动** | **38** | PR + Issue + Commit |
 | 📝 **Pull Request** | 19 | 已合并 16，开放 3 |
 | 📋 **Issue** | 2 | 创建 Issue |
-| 💻 **Commit** | 19 | 代码提交 |
+| 💻 **Commit** | 17 | 代码提交 |
 
 ---
 
@@ -86,13 +85,13 @@ TejasweeSulekh                 █                    2%
 | 2026-10-04（日） | 0 | ░░░░░ | — |
 | 2026-10-05（一） | 0 | ░░░░░ | — |
 | 2026-10-06（二） | 0 | ░░░░░ | — |
-| 2026-10-07（三） | 4 | ████░ | 4 项活动（iflytek/website), pytorch/executorch), iflytek/website） |
+| 2026-10-07（三） | 4 | ████░ | 4 项活动（pytorch/executorch), iflytek/website), iflytek/website） |
 | 2026-10-08（四） | 2 | ██░░░ | PR #8871 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-10-09（五）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), e2bgateway/e2bgateway, kubernetes-sigs/agent-sandbox） |
-| **2026-10-10（六）** | **22** | ████████████████████ | 22 项活动（iflytek/.github, kubernetes-sigs/controller-runtime), kubeai-project/kubeai)） |
+| **2026-10-09（五）** | **8** | ████████ | 8 项活动（agentgateway/agentgateway), e2bgateway/e2bgateway, prometheus-operator/prometheus-operator） |
+| **2026-10-10（六）** | **21** | ████████████████████ | 21 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime), e2bgateway/e2bgateway） |
 | 2026-10-11（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-10-10（22 次活动）为最高峰。
+> **活跃高峰**：2026-10-10（21 次活动）为最高峰。
 
 ---
 
@@ -102,15 +101,14 @@ TejasweeSulekh                 █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **e2bgateway** | 11 | 27.5% | e2bgateway/e2bgateway(11) | Issue, PR, Push |
-| iflytek | 7 | 17.5% | iflytek/website(6), iflytek/.github(1) | PR, Push |
-| kubernetes-sigs | 6 | 15.0% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| agentgateway | 5 | 12.5% | agentgateway/website(3), agentgateway/agentgateway(2) | Issue, PR, Push |
-| prometheus-operator | 4 | 10.0% | prometheus-operator/prometheus-operator(4) | PR, Push |
-| pytorch | 3 | 7.5% | pytorch/executorch(3) | PR, Push |
-| Peano-Lab-Data-Collab | 2 | 5.0% | Peano-Lab-Data-Collab/agent-sandbox(2) | Push |
-| kubeai-project | 1 | 2.5% | kubeai-project/kubeai(1) | PR |
-| TejasweeSulekh | 1 | 2.5% | TejasweeSulekh/executorch-dev(1) | Push |
+| **e2bgateway** | 11 | 28.9% | e2bgateway/e2bgateway(11) | Issue, PR, Push |
+| iflytek | 7 | 18.4% | iflytek/website(6), iflytek/.github(1) | PR, Push |
+| kubernetes-sigs | 6 | 15.8% | kubernetes-sigs/agent-sandbox(4), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| agentgateway | 5 | 13.2% | agentgateway/website(3), agentgateway/agentgateway(2) | Issue, PR, Push |
+| prometheus-operator | 4 | 10.5% | prometheus-operator/prometheus-operator(4) | PR, Push |
+| pytorch | 3 | 7.9% | pytorch/executorch(3) | PR, Push |
+| kubeai-project | 1 | 2.6% | kubeai-project/kubeai(1) | PR |
+| TejasweeSulekh | 1 | 2.6% | TejasweeSulekh/executorch-dev(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -124,8 +122,8 @@ TejasweeSulekh                 █                    2%
 | 6 | **pytorch/executorch** | 3 | 2 | 0 | 1 | PR #23525: Add CI integration for Spark-X2.5 model; PR #23523: Enable Spark-X2.5 export and runner sup; Commit: feat(example): Add Spark-X2.5 model exampl |
 | 7 | **kubernetes-sigs/controller-runtime** | 2 | 1 | 0 | 1 | PR #3619: :seedling: Upgrade golangci-lint to v2.1; Commit: Upgrade golangci-lint to v2.14.0 |
 | 8 | **agentgateway/agentgateway** | 2 | 2 | 0 | 0 | PR #3879: perf(caclient): cache TLS configs to avo; PR #3874: refactor(http): extract shared strip_pat |
-| 9 | **Peano-Lab-Data-Collab/agent-sandbox** | 2 | 0 | 0 | 2 | Commit: feat(sandbox-router): add byte transfer an; Commit: feat: add --enable-rest-client-metrics fla |
-| 10 | **kubeai-project/kubeai** | 1 | 1 | 0 | 0 | PR #755: feat(models): add Spark-X2.5-4B model con |
+| 9 | **kubeai-project/kubeai** | 1 | 1 | 0 | 0 | PR #755: feat(models): add Spark-X2.5-4B model con |
+| 10 | **TejasweeSulekh/executorch-dev** | 1 | 0 | 0 | 1 | Commit: feat(example): Add Spark-X2.5 model exampl |
 
 ---
 
@@ -194,7 +192,7 @@ TejasweeSulekh                 █                    2%
   - PR #126: feat: add iFLYTEK OSPO Landscape blog post
   - PR #124: fix(deps): resolve 31 Dependabot security vulnerabilities
   - Commit: fix(deps): resolve 31 Dependabot security vulnerabilities (#
-  - Commit: docs: add bilingual blog post on iFLYTEK's agentgateway jour
+  - Commit: feat: add iFLYTEK OSPO Landscape blog post (#126)
 
 ### kubernetes-sigs/agent-sandbox（4 次活动）
 
@@ -234,9 +232,8 @@ TejasweeSulekh                 █                    2%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | e2bgateway/e2bgateway | 5 | 2026-10-10 | chore: align golangci-lint config with controller-; chore: add help target and overhaul lint configura; fix: address code review findings and clean up dea |
-| iflytek/website | 3 | 2026-10-07 | fix(deps): resolve 31 Dependabot security vulnerab; docs: add bilingual blog post on iFLYTEK's agentga; feat: add iFLYTEK OSPO Landscape blog post (#126) |
+| iflytek/website | 3 | 2026-10-07 | fix(deps): resolve 31 Dependabot security vulnerab; feat: add iFLYTEK OSPO Landscape blog post (#126); docs: add bilingual blog post on iFLYTEK's agentga |
 | kubernetes-sigs/agent-sandbox | 2 | 2026-10-09 | feat: add --enable-rest-client-metrics flag and st; feat(sandbox-router): add byte transfer and size d |
-| Peano-Lab-Data-Collab/agent-sandbox | 2 | 2026-10-10 | feat(sandbox-router): add byte transfer and size d; feat: add --enable-rest-client-metrics flag and st |
 | prometheus-operator/prometheus-operator | 2 | 2026-10-09 | update golangci linter to v2.14.0; update prometheus lts version to v3.13.4 |
 | TejasweeSulekh/executorch-dev | 1 | 2026-09-28 | feat(example): Add Spark-X2.5 model example with h |
 | agentgateway/website | 1 | 2026-10-10 | Add social share buttons to blog posts |
@@ -261,4 +258,4 @@ TejasweeSulekh                 █                    2%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

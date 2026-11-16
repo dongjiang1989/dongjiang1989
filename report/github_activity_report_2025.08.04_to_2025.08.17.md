@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **11** 个 |
 | 涉及仓库数 | **11** 个 |
-| Pull Request 数 | **6** 个（已合并 3，开放 3） |
+| Pull Request 数 | **6** 个（已合并 4，开放 2） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **9** 次 |
 | 总活动量 | **16** |
@@ -41,8 +41,8 @@ cnloxiaoteng-ship-it           █                    6%
 ### 💡 核心总结
 
 1. **prometheus-operator** 是最大贡献方向（25%），涉及 1 个仓库，共 4 次活动。
-2. 共 **3** 个 PR 已合并，覆盖 3 个仓库。
-3. **3** 个 PR 仍在开放/Review 中。
+2. 共 **4** 个 PR 已合并，覆盖 3 个仓库。
+3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2025-08-05**（4 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
 6. 在 9 个仓库提交了 **9** 次代码。
@@ -53,13 +53,13 @@ cnloxiaoteng-ship-it           █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 48 | **16** | -67% | 📉 -32 |
+| **总活动量** | 50 | **16** | -68% | 📉 -34 |
 | Pull Request | 16 | 6 | -62% | 📉 -10 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 32 | 9 | -72% | 📉 -23 |
+| Commit | 34 | 9 | -74% | 📉 -25 |
 
 - 🆕 **新增活跃仓库**：`anil7000/external-dns`, `cnloxiaoteng-ship-it/helm-charts`, `grafana/grafana`, `kubeservice-stack/echo`, `kumorion/external-dns`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `thanos-io/thanos`, `yunshenliu92/prometheus`
-- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi-core`, `chrischdi/openshift-cluster-api`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `dongjiang1989/dongjiang1989`, `erauner12/kagent-detached`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `jimmidyson/kcp-cluster-api`, `kagent-dev/kagent`, `kubernetes-sigs/cluster-api`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `prometheus/procfs`, `pukacho/kagent`, `punith1006/LaaS-Hami`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **prometheus-operator**
 
 ---
@@ -69,7 +69,7 @@ cnloxiaoteng-ship-it           █                    6%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **16** | PR + Issue + Commit |
-| 📝 **Pull Request** | 6 | 已合并 3，开放 3 |
+| 📝 **Pull Request** | 6 | 已合并 4，开放 2 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 9 | 代码提交 |
 
@@ -80,13 +80,13 @@ cnloxiaoteng-ship-it           █                    6%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | 2025-08-04（一） | 1 | █░░░░ | PR #5998 (prometheus-community/helm-charts) |
-| 2025-08-05（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/echo), kubeservice-stack/echo） |
+| 2025-08-05（二） | 4 | ████░ | 4 项活动（kubeservice-stack/echo, prometheus-operator/prometheus-operator), kubeservice-stack/echo)） |
 | 2025-08-06（三） | 2 | ██░░░ | PR #7784 (prometheus-operator/prometheus-operator); PR #8412 (thanos-io/thanos) |
 | 2025-08-07（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-08-08（五） | 3 | ███░░ | kumorion/external-dns: chore(deps): update golangc; kubernetes-sigs/external-dns: chore(deps): update ; anil7000/external-dns: chore(deps): update golangc |
 | 2025-08-09（六） | 0 | ░░░░░ | — |
 | 2025-08-10（日） | 0 | ░░░░░ | — |
-| 2025-08-11（一） | 4 | ████░ | 4 项活动（psharma0905/Prometheus-and-Grafana-helm-charts, cnloxiaoteng-ship-it/helm-charts, yunshenliu92/prometheus） |
+| 2025-08-11（一） | 4 | ████░ | 4 项活动（prometheus-community/helm-charts, cnloxiaoteng-ship-it/helm-charts, yunshenliu92/prometheus） |
 | 2025-08-12（二） | 0 | ░░░░░ | — |
 | 2025-08-13（三） | 0 | ░░░░░ | — |
 | 2025-08-14（四） | 0 | ░░░░░ | — |
@@ -140,8 +140,9 @@ cnloxiaoteng-ship-it           █                    6%
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
 | 1 | prometheus-operator/prometheus-operator | [#7784](https://github.com/prometheus-operator/prometheus-operator/pull/7784) | chore: Update api doc for always_scrape_classic_histograms | ✅ 已合并 |
-| 2 | kubeservice-stack/echo | [#71](https://github.com/kubeservice-stack/echo/pull/71) | CI: Configure Gemini | ✅ 已合并 |
-| 3 | prometheus-community/helm-charts | [#5998](https://github.com/prometheus-community/helm-charts/pull/5998) | [alertmanager] add user namespaces for alertmanager | ✅ 已合并 |
+| 2 | prometheus-operator/prometheus-operator | [#7773](https://github.com/prometheus-operator/prometheus-operator/pull/7773) | CI: Add gemini configure for PR review | 🔒 已关闭 |
+| 3 | kubeservice-stack/echo | [#71](https://github.com/kubeservice-stack/echo/pull/71) | CI: Configure Gemini | ✅ 已合并 |
+| 4 | prometheus-community/helm-charts | [#5998](https://github.com/prometheus-community/helm-charts/pull/5998) | [alertmanager] add user namespaces for alertmanager | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -149,7 +150,6 @@ cnloxiaoteng-ship-it           █                    6%
 |---|------|----|------|------|
 | 1 | prometheus-operator/prometheus-operator | [#7811](https://github.com/prometheus-operator/prometheus-operator/pull/7811) | feat: Add support for attaching namespace metadata to Kubernetes SD | 🔄 开放 |
 | 2 | thanos-io/thanos | [#8412](https://github.com/thanos-io/thanos/pull/8412) | feat:  ignore DeletionMarks filter by `ignoreDeletionMarksDelay` optio | 🔄 开放 |
-| 3 | prometheus-operator/prometheus-operator | [#7773](https://github.com/prometheus-operator/prometheus-operator/pull/7773) | CI: Add gemini configure for PR review | 🔄 开放 |
 
 ---
 
@@ -232,4 +232,4 @@ cnloxiaoteng-ship-it           █                    6%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

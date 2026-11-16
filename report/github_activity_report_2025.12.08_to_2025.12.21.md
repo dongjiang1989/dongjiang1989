@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **8** 个 |
 | 涉及仓库数 | **15** 个 |
-| Pull Request 数 | **15** 个（已合并 14，开放 1） |
+| Pull Request 数 | **15** 个（已合并 15，开放 0） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **23** 次 |
 | 总活动量 | **39** |
@@ -38,11 +38,10 @@ anil7000                       █                    3%
 ### 💡 核心总结
 
 1. **kubeservice-stack** 是最大贡献方向（38%），涉及 4 个仓库，共 15 次活动。
-2. 共 **14** 个 PR 已合并，覆盖 9 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-12-15**（12 次活动），展现了高强度的工作节奏。
-5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 13 个仓库提交了 **23** 次代码。
+2. 共 **15** 个 PR 已合并，覆盖 9 个仓库。
+3. 活跃高峰出现在 **2025-12-15**（12 次活动），展现了高强度的工作节奏。
+4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 13 个仓库提交了 **23** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -50,13 +49,13 @@ anil7000                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 39 | **39** | 0% | ➡️ 持平 |
+| **总活动量** | 45 | **39** | -13% | 📉 -6 |
 | Pull Request | 7 | 15 | +114% | 📈 +8 |
 | Issue | 5 | 1 | -80% | 📉 -4 |
-| Commit | 27 | 23 | -15% | 📉 -4 |
+| Commit | 33 | 23 | -30% | 📉 -10 |
 
 - 🆕 **新增活跃仓库**：`anil7000/external-dns`, `dongjiang1989/zookeeper-registry`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lua-resty-zookeeper`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
-- ❌ **不再活跃的仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `aperturerobotics/prometheus-lite`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `kagent-dev/kagent`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `prometheus/prometheus`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `aperturerobotics/prometheus-lite`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting`, `kagent-dev/kagent`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `niksingla/finding-dory-prometheus-typed-label-sorting`, `priyapaanchoco-boop/vcode-prometheus-typed-label-sorting`, `prometheus/prometheus`, `pukacho/kagent`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `shawnlinator/beryl-seal`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **kubeservice-stack**
 
 ---
@@ -66,7 +65,7 @@ anil7000                       █                    3%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **39** | PR + Issue + Commit |
-| 📝 **Pull Request** | 15 | 已合并 14，开放 1 |
+| 📝 **Pull Request** | 15 | 已合并 15，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 23 | 代码提交 |
 
@@ -86,12 +85,12 @@ Signed-of; kubernetes-sigs/external-dns: fix typo (#6011)
 Si; anil7000/external-dns: fix typo (#6011)
 
 Signed-of |
-| 2025-12-12（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), kubernetes-sigs/kueue), kubeservice-stack/kubservice-charts） |
+| 2025-12-12（五） | 4 | ████░ | 4 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
 | 2025-12-13（六） | 0 | ░░░░░ | — |
 | 2025-12-14（日） | 0 | ░░░░░ | — |
-| **2025-12-15（一）** | **12** | ████████████ | 12 项活动（kubeservice-stack/lua-resty-zookeeper, kubernetes-sigs/controller-runtime), jacobsee/usr-kubernetes-sigs-controller-tools） |
+| **2025-12-15（一）** | **12** | ████████████ | 12 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools)） |
 | 2025-12-16（二） | 3 | ███░░ | PR #8182 (prometheus-operator/prometheus-operator); PR #8181 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update ki |
-| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/lua-resty-zookeeper, dongjiang1989/zookeeper-registry） |
+| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/zookeeper-registry） |
 | 2025-12-18（四） | 1 | █░░░░ | PR #8192 (prometheus-operator/prometheus-operator) |
 | 2025-12-19（五） | 3 | ███░░ | PR #1 (kubeservice-stack/lua-resty-zookeeper); kubeservice-stack/lua-resty-zookeeper: Merge pull ; kubeservice-stack/lua-resty-zookeeper: add lua lin |
 | 2025-12-20（六） | 0 | ░░░░░ | — |
@@ -143,22 +142,21 @@ Signed-of |
 | 2 | prometheus-operator/prometheus-operator | [#8192](https://github.com/prometheus-operator/prometheus-operator/pull/8192) | chore: Refactor tracingConfig for alertmanager | ✅ 已合并 |
 | 3 | prometheus-operator/prometheus-operator | [#8186](https://github.com/prometheus-operator/prometheus-operator/pull/8186) | chore: Update prometheus version to v3.8.1 | ✅ 已合并 |
 | 4 | prometheus-operator/prometheus-operator | [#8182](https://github.com/prometheus-operator/prometheus-operator/pull/8182) | chore: Update kindest node to v1.34.2 | ✅ 已合并 |
-| 5 | kubernetes-sigs/controller-tools | [#1317](https://github.com/kubernetes-sigs/controller-tools/pull/1317) | ✨Release envtest v1.35.0 | ✅ 已合并 |
-| 6 | kubernetes-sigs/controller-runtime | [#3399](https://github.com/kubernetes-sigs/controller-runtime/pull/3399) | 🌱Chore: Update golangci-lint version to v2.7.2 | ✅ 已合并 |
-| 7 | kubeservice-stack/lxcfs-webhook | [#57](https://github.com/kubeservice-stack/lxcfs-webhook/pull/57) | fix typo | ✅ 已合并 |
-| 8 | kubeservice-stack/lxcfs-webhook | [#56](https://github.com/kubeservice-stack/lxcfs-webhook/pull/56) | Chore: change k8s.io/kubernetes/pkg/apis/core/v1 to k8s.io/api/apps/v1 | ✅ 已合并 |
-| 9 | prometheus-operator/prometheus-operator | [#8172](https://github.com/prometheus-operator/prometheus-operator/pull/8172) | chore: Update golangci-lint version and fix warning | ✅ 已合并 |
-| 10 | kubernetes-sigs/kueue | [#8210](https://github.com/kubernetes-sigs/kueue/pull/8210) | feat(env): auto set GOMAXPROCS by go.uber.org/automaxprocs | 🔒 已关闭 |
-| 11 | kubernetes-sigs/external-dns | [#6011](https://github.com/kubernetes-sigs/external-dns/pull/6011) | test: fix typos in code & comment | ✅ 已合并 |
-| 12 | kubernetes-sigs/kubebuilder | [#5265](https://github.com/kubernetes-sigs/kubebuilder/pull/5265) | 🌱  Change `sort` to `slices` package | ✅ 已合并 |
-| 13 | kubernetes-sigs/kubebuilder | [#5258](https://github.com/kubernetes-sigs/kubebuilder/pull/5258) | ✨ (go/v4): Upgrade golangci-lint to v2.7.2 and add modernize check | ✅ 已合并 |
-| 14 | kubeservice-stack/echo | [#96](https://github.com/kubeservice-stack/echo/pull/96) | Bump add addlicense check in Makefile | ✅ 已合并 |
+| 5 | prometheus-operator/prometheus-operator | [#8181](https://github.com/prometheus-operator/prometheus-operator/pull/8181) | feat: Support add distributed tracing for alertmanager | 🔒 已关闭 |
+| 6 | kubernetes-sigs/controller-tools | [#1317](https://github.com/kubernetes-sigs/controller-tools/pull/1317) | ✨Release envtest v1.35.0 | ✅ 已合并 |
+| 7 | kubernetes-sigs/controller-runtime | [#3399](https://github.com/kubernetes-sigs/controller-runtime/pull/3399) | 🌱Chore: Update golangci-lint version to v2.7.2 | ✅ 已合并 |
+| 8 | kubeservice-stack/lxcfs-webhook | [#57](https://github.com/kubeservice-stack/lxcfs-webhook/pull/57) | fix typo | ✅ 已合并 |
+| 9 | kubeservice-stack/lxcfs-webhook | [#56](https://github.com/kubeservice-stack/lxcfs-webhook/pull/56) | Chore: change k8s.io/kubernetes/pkg/apis/core/v1 to k8s.io/api/apps/v1 | ✅ 已合并 |
+| 10 | prometheus-operator/prometheus-operator | [#8172](https://github.com/prometheus-operator/prometheus-operator/pull/8172) | chore: Update golangci-lint version and fix warning | ✅ 已合并 |
+| 11 | kubernetes-sigs/kueue | [#8210](https://github.com/kubernetes-sigs/kueue/pull/8210) | feat(env): auto set GOMAXPROCS by go.uber.org/automaxprocs | 🔒 已关闭 |
+| 12 | kubernetes-sigs/external-dns | [#6011](https://github.com/kubernetes-sigs/external-dns/pull/6011) | test: fix typos in code & comment | ✅ 已合并 |
+| 13 | kubernetes-sigs/kubebuilder | [#5265](https://github.com/kubernetes-sigs/kubebuilder/pull/5265) | 🌱  Change `sort` to `slices` package | ✅ 已合并 |
+| 14 | kubernetes-sigs/kubebuilder | [#5258](https://github.com/kubernetes-sigs/kubebuilder/pull/5258) | ✨ (go/v4): Upgrade golangci-lint to v2.7.2 and add modernize check | ✅ 已合并 |
+| 15 | kubeservice-stack/echo | [#96](https://github.com/kubeservice-stack/echo/pull/96) | Bump add addlicense check in Makefile | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | prometheus-operator/prometheus-operator | [#8181](https://github.com/prometheus-operator/prometheus-operator/pull/8181) | feat: Support add distributed tracing for alertmanager | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -261,4 +259,4 @@ Signed-of |
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

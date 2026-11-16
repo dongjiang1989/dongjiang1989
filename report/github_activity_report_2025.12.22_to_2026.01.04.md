@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -17,7 +17,7 @@
 |------|------|
 | 涉及组织数 | **6** 个 |
 | 涉及仓库数 | **6** 个 |
-| Pull Request 数 | **5** 个（已合并 3，开放 2） |
+| Pull Request 数 | **5** 个（已合并 5，开放 0） |
 | Issue 数 | **1** 个 |
 | Commit 数 | **11** 次 |
 | 总活动量 | **17** |
@@ -36,11 +36,10 @@ grafana                        █                    6%
 ### 💡 核心总结
 
 1. **kubeservice-stack** 是最大贡献方向（29%），涉及 1 个仓库，共 5 次活动。
-2. 共 **3** 个 PR 已合并，覆盖 3 个仓库。
-3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-12-25**（8 次活动），展现了高强度的工作节奏。
-5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 5 个仓库提交了 **11** 次代码。
+2. 共 **5** 个 PR 已合并，覆盖 4 个仓库。
+3. 活跃高峰出现在 **2025-12-25**（8 次活动），展现了高强度的工作节奏。
+4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 5 个仓库提交了 **11** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -64,7 +63,7 @@ grafana                        █                    6%
 | 指标 | 数量 | 说明 |
 |------|------|------|
 | 📊 **总活动** | **17** | PR + Issue + Commit |
-| 📝 **Pull Request** | 5 | 已合并 3，开放 2 |
+| 📝 **Pull Request** | 5 | 已合并 5，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
 | 💻 **Commit** | 11 | 代码提交 |
 
@@ -74,10 +73,10 @@ grafana                        █                    6%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime), prometheus-operator/prometheus-operator） |
+| **2025-12-22（一）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, prometheus-operator/prometheus-operator） |
 | 2025-12-23（二） | 3 | ███░░ | PR #8203 (prometheus-operator/prometheus-operator); dongjiang1989/dongjiang1989: Update README.md; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-12-24（三） | 1 | █░░░░ | PR #2345 (apecloud/kubeblocks-addons) |
-| **2025-12-25（四）** | **8** | ████████ | 8 项活动（apecloud/kubeblocks-addons, kubeservice-stack/lua-resty-zookeeper, dongjiang1989/dongjiang1989） |
+| **2025-12-25（四）** | **8** | ████████ | 8 项活动（apecloud/kubeblocks-addons, kubeservice-stack/lua-resty-zookeeper), kubeservice-stack/lua-resty-zookeeper） |
 | 2025-12-26（五） | 0 | ░░░░░ | — |
 | 2025-12-27（六） | 0 | ░░░░░ | — |
 | 2025-12-28（日） | 0 | ░░░░░ | — |
@@ -125,16 +124,15 @@ grafana                        █                    6%
 
 | # | 仓库 | PR | 标题 | 状态 |
 |---|------|----|------|------|
-| 1 | kubeservice-stack/lua-resty-zookeeper | [#2](https://github.com/kubeservice-stack/lua-resty-zookeeper/pull/2) | feat: Add delete/watch function for lua-resty-zookeeper  | ✅ 已合并 |
-| 2 | apecloud/kubeblocks-addons | [#2345](https://github.com/apecloud/kubeblocks-addons/pull/2345) | feat: Change redis metrics to redis-exporter | ✅ 已合并 |
-| 3 | kubernetes-sigs/controller-runtime | [#3405](https://github.com/kubernetes-sigs/controller-runtime/pull/3405) | 🌱chore: Update controller-tools to 0.20.0 and fix lint | ✅ 已合并 |
+| 1 | prometheus-operator/prometheus-operator | [#8212](https://github.com/prometheus-operator/prometheus-operator/pull/8212) | chore: Update k8s.io/* deps to v0.35.0 and controller-tools to v0.20.0 | 🔒 已关闭 |
+| 2 | kubeservice-stack/lua-resty-zookeeper | [#2](https://github.com/kubeservice-stack/lua-resty-zookeeper/pull/2) | feat: Add delete/watch function for lua-resty-zookeeper  | ✅ 已合并 |
+| 3 | apecloud/kubeblocks-addons | [#2345](https://github.com/apecloud/kubeblocks-addons/pull/2345) | feat: Change redis metrics to redis-exporter | ✅ 已合并 |
+| 4 | prometheus-operator/prometheus-operator | [#8203](https://github.com/prometheus-operator/prometheus-operator/pull/8203) | feat: Support tracingConfig for AlertManager | 🔒 已关闭 |
+| 5 | kubernetes-sigs/controller-runtime | [#3405](https://github.com/kubernetes-sigs/controller-runtime/pull/3405) | 🌱chore: Update controller-tools to 0.20.0 and fix lint | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | prometheus-operator/prometheus-operator | [#8212](https://github.com/prometheus-operator/prometheus-operator/pull/8212) | chore: Update k8s.io/* deps to v0.35.0 and controller-tools to v0.20.0 | 🔄 开放 |
-| 2 | prometheus-operator/prometheus-operator | [#8203](https://github.com/prometheus-operator/prometheus-operator/pull/8203) | feat: Support tracingConfig for AlertManager | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -222,4 +220,4 @@ grafana                        █                    6%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

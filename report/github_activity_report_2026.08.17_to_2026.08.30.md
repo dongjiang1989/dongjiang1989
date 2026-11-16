@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -15,45 +15,44 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **20** 个 |
-| 涉及仓库数 | **25** 个 |
+| 涉及组织数 | **19** 个 |
+| 涉及仓库数 | **24** 个 |
 | Pull Request 数 | **26** 个（已合并 24，开放 2） |
 | Issue 数 | **0** 个 |
-| Commit 数 | **41** 次 |
-| 总活动量 | **67** |
+| Commit 数 | **39** 次 |
+| 总活动量 | **65** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███                  19%
+kubernetes-sigs                ████                 20%
 XHToken                        ███                  18%
-iflytek                        ██                   15%
-prometheus-operator            ██                   10%
+iflytek                        ███                  15%
+prometheus-operator            ██                   11%
 agentgateway                   █                    6%
-jacobsee                       █                    4%
+jacobsee                       █                    5%
 modelcontextprotocol           █                    3%
 Project-HAMi                   █                    3%
 e7t1s2n9yo                     █                    3%
-Peano-Lab-Data-Collab          █                    3%
-vllm-project                   █                    1%
-prometheus                     █                    1%
-CodeLinaro-mirror              █                    1%
-BRIDGE-ALLAH                   █                    1%
-chromium-full-mirror           █                    1%
-zhcndoc                        █                    1%
-a2aproject                     █                    1%
-enclawed                       █                    1%
-yumaitau                       █                    1%
-johan-sellstrom                █                    1%
+vllm-project                   █                    2%
+prometheus                     █                    2%
+CodeLinaro-mirror              █                    2%
+BRIDGE-ALLAH                   █                    2%
+chromium-full-mirror           █                    2%
+zhcndoc                        █                    2%
+a2aproject                     █                    2%
+enclawed                       █                    2%
+yumaitau                       █                    2%
+johan-sellstrom                █                    2%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（19%），涉及 4 个仓库，共 13 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（20%），涉及 4 个仓库，共 13 次活动。
 2. 共 **24** 个 PR 已合并，覆盖 11 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-08-25**（12 次活动），展现了高强度的工作节奏。
-5. 在 23 个仓库提交了 **41** 次代码。
+5. 在 22 个仓库提交了 **39** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -61,13 +60,13 @@ johan-sellstrom                █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 105 | **67** | -36% | 📉 -38 |
+| **总活动量** | 99 | **65** | -34% | 📉 -34 |
 | Pull Request | 31 | 26 | -16% | 📉 -5 |
 | Issue | 8 | 0 | -100% | 📉 -8 |
-| Commit | 66 | 41 | -38% | 📉 -25 |
+| Commit | 60 | 39 | -35% | 📉 -21 |
 
 - 🆕 **新增活跃仓库**：`CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs`, `Project-HAMi/HAMi`, `XHToken/Spark-X2.6`, `XHToken/Spark-plugin`, `XHToken/community`, `a2aproject/a2a-go`, `chromium-full-mirror/external_github.com_prometheus_procfs`, `enclawed/omcp`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/kubebuilder`, `modelcontextprotocol/modelcontextprotocol`, `vllm-project/aibrix`, `zhcndoc/mcp`
-- ❌ **不再活跃的仓库**：`CN-ComplianceCow/goose`, `HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `arbutuslabs/goose-dyslexia`, `ashleemikeyoung/elroi`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
+- ❌ **不再活跃的仓库**：`CN-ComplianceCow/goose`, `HanMarry/modelforge`, `NousResearch/hermes-agent`, `a2aproject/A2A`, `aaif-goose/goose`, `agentgateway/community`, `agentgateway/website`, `arbutuslabs/goose-dyslexia`, `ashleemikeyoung/elroi`, `blissito/ghosty-lite`, `codyno-dev-org/Codyno-Desktop`, `colinpthomson1/Obelus`, `dongjiang1989/community-agentgateway`, `e2bgateway/e2bgateway`, `farijarifriyanto-debug/BotConnector-Core`, `gachon-star-want/pleumcode`, `iflytek/.github`, `iflytek/community`, `iflytek/dolphin-mcp-pilot`, `kineticquant/achilles-harness`, `openclaw/openclaw`, `ruykin/dogwatch`, `sara-dev12/A2A`, `sara-dev12/goose`, `shicancan/goose`, `taostat/saygm-desktop`, `yatfa-ai/goose`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **kubernetes-sigs**
 
 ---
@@ -76,10 +75,10 @@ johan-sellstrom                █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **67** | PR + Issue + Commit |
+| 📊 **总活动** | **65** | PR + Issue + Commit |
 | 📝 **Pull Request** | 26 | 已合并 24，开放 2 |
 | 📋 **Issue** | 0 | 创建 Issue |
-| 💻 **Commit** | 41 | 代码提交 |
+| 💻 **Commit** | 39 | 代码提交 |
 
 ---
 
@@ -88,18 +87,18 @@ johan-sellstrom                █                    1%
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
 | **2026-08-17（一）** | **5** | █████ | 5 项活动（iflytek/website), iflytek/website, agentgateway/agentgateway)） |
-| 2026-08-18（二） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), a2aproject/a2a-go） |
+| 2026-08-18（二） | 4 | ████░ | 4 项活动（a2aproject/a2a-go, prometheus-operator/prometheus-operator)） |
 | 2026-08-19（三） | 2 | ██░░░ | PR #8762 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-08-20（四）** | **7** | ███████ | 7 项活动（XHToken/community, kubernetes-sigs/agent-sandbox, e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef） |
+| **2026-08-20（四）** | **6** | ██████ | 6 项活动（e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef, kubernetes-sigs/agent-sandbox, XHToken/community） |
 | 2026-08-21（五） | 0 | ░░░░░ | — |
 | 2026-08-22（六） | 0 | ░░░░░ | — |
 | 2026-08-23（日） | 0 | ░░░░░ | — |
-| **2026-08-24（一）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox), iflytek/website), iflytek/website） |
-| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-runtime), jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
-| **2026-08-26（三）** | **6** | ██████ | 6 项活动（zhcndoc/mcp, enclawed/omcp, modelcontextprotocol/modelcontextprotocol） |
-| **2026-08-27（四）** | **9** | █████████ | 9 项活动（agentgateway/agentgateway, BRIDGE-ALLAH/MW-GATEWAY, jacobsee/usr-kubernetes-sigs-controller-tools） |
-| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（XHToken/Spark-plugin, XHToken/community, CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs） |
-| 2026-08-29（六） | 3 | ███░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Bump: Update golang; Peano-Lab-Data-Collab/agent-sandbox: Bump: Update  |
+| **2026-08-24（一）** | **9** | █████████ | 9 项活动（iflytek/website, prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox)） |
+| **2026-08-25（二）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, Project-HAMi/HAMi） |
+| **2026-08-26（三）** | **6** | ██████ | 6 项活动（zhcndoc/mcp, modelcontextprotocol/modelcontextprotocol, enclawed/omcp） |
+| **2026-08-27（四）** | **9** | █████████ | 9 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
+| **2026-08-28（五）** | **10** | ██████████ | 10 项活动（chromium-full-mirror/external_github.com_prometheus_procfs, XHToken/Spark-plugin), vllm-project/aibrix)） |
+| 2026-08-29（六） | 2 | ██░░░ | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-08-30（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2026-08-25（12 次活动）为最高峰。
@@ -112,16 +111,15 @@ johan-sellstrom                █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubernetes-sigs | 13 | 19.4% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(3), kubernetes-sigs/agent-sandbox(3) | PR, Push |
-| XHToken | 12 | 17.9% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.6(1) | PR, Push |
-| iflytek | 10 | 14.9% | iflytek/website(10) | PR, Push |
-| prometheus-operator | 7 | 10.4% | prometheus-operator/prometheus-operator(7) | PR, Push |
-| agentgateway | 4 | 6.0% | agentgateway/agentgateway(4) | PR, Push |
-| jacobsee | 3 | 4.5% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
-| modelcontextprotocol | 2 | 3.0% | modelcontextprotocol/modelcontextprotocol(2) | PR, Push |
-| Project-HAMi | 2 | 3.0% | Project-HAMi/HAMi(2) | PR, Push |
-| e7t1s2n9yo | 2 | 3.0% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(2) | Push |
-| Peano-Lab-Data-Collab | 2 | 3.0% | Peano-Lab-Data-Collab/agent-sandbox(2) | Push |
+| kubernetes-sigs | 13 | 20.0% | kubernetes-sigs/controller-tools(6), kubernetes-sigs/controller-runtime(3), kubernetes-sigs/agent-sandbox(3) | PR, Push |
+| XHToken | 12 | 18.5% | XHToken/community(6), XHToken/Spark-plugin(5), XHToken/Spark-X2.6(1) | PR, Push |
+| iflytek | 10 | 15.4% | iflytek/website(10) | PR, Push |
+| prometheus-operator | 7 | 10.8% | prometheus-operator/prometheus-operator(7) | PR, Push |
+| agentgateway | 4 | 6.2% | agentgateway/agentgateway(4) | PR, Push |
+| jacobsee | 3 | 4.6% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| modelcontextprotocol | 2 | 3.1% | modelcontextprotocol/modelcontextprotocol(2) | PR, Push |
+| Project-HAMi | 2 | 3.1% | Project-HAMi/HAMi(2) | PR, Push |
+| e7t1s2n9yo | 2 | 3.1% | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef(2) | Push |
 | vllm-project | 1 | 1.5% | vllm-project/aibrix(1) | PR |
 | prometheus | 1 | 1.5% | prometheus/procfs(1) | Push |
 | CodeLinaro-mirror | 1 | 1.5% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_procfs(1) | Push |
@@ -260,12 +258,11 @@ johan-sellstrom                █                    1%
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
 | XHToken/community | 6 | 2026-08-28 | Update README.md; Add social media links and WeChat QR code to READM; Merge pull request #3 from XHToken/docs/add-more-s |
-| iflytek/website | 5 | 2026-08-17 | fix(ci): resolve lychee root-relative link errors ; fix(deps): resolve extract-zip path traversal vuln; release: v0.6.0 (#98) |
+| iflytek/website | 5 | 2026-08-17 | fix(ci): resolve lychee root-relative link errors ; fix(deps): resolve extract-zip path traversal vuln; docs: update README and fix event type (#97) |
 | kubernetes-sigs/controller-tools | 3 | 2026-08-27 | Bump k8s.io/* to v0.37.0; ✨ Release envtest v1.37.0; 🌱chore: Bump golangci-lint to v2.13.1 |
 | jacobsee/usr-kubernetes-sigs-controller-tools | 3 | 2026-08-27 | Bump k8s.io/* to v0.37.0; 🌱chore: Bump golangci-lint to v2.13.1; ✨ Release envtest v1.37.0 |
 | e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef | 2 | 2026-08-29 | Bump: Update golangci-linter version to v2.13.1 (#; refactor(api): move enum validation markers from f |
 | kubernetes-sigs/agent-sandbox | 2 | 2026-08-20 | refactor(api): move enum validation markers from f; Bump: Update golangci-linter version to v2.13.1 (# |
-| Peano-Lab-Data-Collab/agent-sandbox | 2 | 2026-08-29 | Bump: Update golangci-linter version to v2.13.1 (#; refactor(api): move enum validation markers from f |
 | XHToken/Spark-plugin | 2 | 2026-08-28 | chore: add project governance and GitHub templates; chore: add CHANGELOG.md and PyPI publish workflow  |
 | prometheus-operator/prometheus-operator | 2 | 2026-08-19 | update prometheus version; update golangci-linter version to v2.13.1 |
 | prometheus/procfs | 1 | 2026-08-28 | sysfs: add support for ACPI 4.0 power meters (#860 |
@@ -297,4 +294,4 @@ johan-sellstrom                █                    1%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

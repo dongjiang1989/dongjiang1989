@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -15,24 +15,25 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **12** 个 |
-| 涉及仓库数 | **16** 个 |
-| Pull Request 数 | **10** 个（已合并 9，开放 1） |
+| 涉及组织数 | **13** 个 |
+| 涉及仓库数 | **17** 个 |
+| Pull Request 数 | **10** 个（已合并 10，开放 0） |
 | Issue 数 | **4** 个 |
-| Commit 数 | **18** 次 |
-| 总活动量 | **32** |
+| Commit 数 | **19** 次 |
+| 总活动量 | **33** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            █████                25%
-iflytek                        ███                  19%
-kubernetes-sigs                ███                  16%
-kubeservice-stack              ███                  16%
+prometheus-operator            ████                 24%
+iflytek                        ███                  18%
+kubernetes-sigs                ███                  15%
+kubeservice-stack              ███                  15%
 prometheus                     █                    3%
 jicki                          █                    3%
 srecloud20                     █                    3%
 asama-ai                       █                    3%
+shawnlinator                   █                    3%
 luxi233                        █                    3%
 dongjiang1989                  █                    3%
 QQGoblin                       █                    3%
@@ -41,12 +42,11 @@ ynyyzyrf                       █                    3%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（25%），涉及 1 个仓库，共 8 次活动。
-2. 共 **9** 个 PR 已合并，覆盖 6 个仓库。
-3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-11-12**（11 次活动），展现了高强度的工作节奏。
-5. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 15 个仓库提交了 **18** 次代码。
+1. **prometheus-operator** 是最大贡献方向（24%），涉及 1 个仓库，共 8 次活动。
+2. 共 **10** 个 PR 已合并，覆盖 6 个仓库。
+3. 活跃高峰出现在 **2025-11-12**（12 次活动），展现了高强度的工作节奏。
+4. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
+5. 在 16 个仓库提交了 **19** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -54,12 +54,12 @@ ynyyzyrf                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 19 | **32** | +68% | 📈 +13 |
+| **总活动量** | 19 | **33** | +74% | 📈 +14 |
 | Pull Request | 8 | 10 | +25% | 📈 +2 |
 | Issue | 0 | 4 | 🆕 新增 | 📈 +4 |
-| Commit | 11 | 18 | +64% | 📈 +7 |
+| Commit | 11 | 19 | +73% | 📈 +8 |
 
-- 🆕 **新增活跃仓库**：`QQGoblin/node_exporter`, `asama-ai/node_exporter`, `dongjiang1989/dongjiang1989`, `iflytek/astron-agent`, `jicki/node_exporter`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/kspack-go`, `luxi233/astron-agent`, `prometheus/node_exporter`, `srecloud20/nodeexporter`, `ynyyzyrf/astron`
+- 🆕 **新增活跃仓库**：`QQGoblin/node_exporter`, `asama-ai/node_exporter`, `dongjiang1989/dongjiang1989`, `iflytek/astron-agent`, `jicki/node_exporter`, `kubernetes-sigs/karpenter`, `kubernetes-sigs/kueue`, `kubeservice-stack/common`, `kubeservice-stack/echo`, `kubeservice-stack/kspack-go`, `luxi233/astron-agent`, `prometheus/node_exporter`, `shawnlinator/indigo-zebu`, `srecloud20/nodeexporter`, `ynyyzyrf/astron`
 - ❌ **不再活跃的仓库**：`ahmetb/gen-crd-api-reference-docs`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `loggie-io/loggie`
 - ✅ **工作重心稳定**：继续聚焦 **prometheus-operator**
 
@@ -69,10 +69,10 @@ ynyyzyrf                       █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **32** | PR + Issue + Commit |
-| 📝 **Pull Request** | 10 | 已合并 9，开放 1 |
+| 📊 **总活动** | **33** | PR + Issue + Commit |
+| 📝 **Pull Request** | 10 | 已合并 10，开放 0 |
 | 📋 **Issue** | 4 | 创建 Issue |
-| 💻 **Commit** | 18 | 代码提交 |
+| 💻 **Commit** | 19 | 代码提交 |
 
 ---
 
@@ -82,14 +82,14 @@ ynyyzyrf                       █                    3%
 |------|--------|--------|----------|
 | 2025-11-10（一） | 0 | ░░░░░ | — |
 | 2025-11-11（二） | 1 | █░░░░ | PR #8089 (prometheus-operator/prometheus-operator) |
-| **2025-11-12（三）** | **11** | ███████████ | 11 项活动（dongjiang1989/dongjiang1989, kubernetes-sigs/controller-runtime), jicki/node_exporter） |
+| **2025-11-12（三）** | **12** | ████████████ | 12 项活动（jicki/node_exporter, kubernetes-sigs/controller-runtime, asama-ai/node_exporter） |
 | 2025-11-13（四） | 2 | ██░░░ | prometheus-operator/prometheus-operator: chore: up; prometheus-operator/prometheus-operator: chore: ad |
 | 2025-11-14（五） | 0 | ░░░░░ | — |
 | 2025-11-15（六） | 2 | ██░░░ | PR #88 (kubeservice-stack/echo); kubeservice-stack/echo: add slices pkg (#88)
 
 Sign |
 | 2025-11-16（日） | 0 | ░░░░░ | — |
-| **2025-11-17（一）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/common, kubeservice-stack/kspack-go） |
+| **2025-11-17（一）** | **5** | █████ | 5 项活动（kubeservice-stack/common, prometheus-operator/prometheus-operator), kubeservice-stack/kspack-go） |
 | 2025-11-18（二） | 1 | █░░░░ | kubernetes-sigs/kueue: add modernize check (#7704) |
 | 2025-11-19（三） | 0 | ░░░░░ | — |
 | 2025-11-20（四） | 0 | ░░░░░ | — |
@@ -97,7 +97,7 @@ Sign |
 | **2025-11-22（六）** | **5** | █████ | 5 项活动（iflytek/astron-agent)） |
 | 2025-11-23（日） | 1 | █░░░░ | PR #8114 (prometheus-operator/prometheus-operator) |
 
-> **活跃高峰**：2025-11-12（11 次活动）为最高峰。
+> **活跃高峰**：2025-11-12（12 次活动）为最高峰。
 
 ---
 
@@ -107,18 +107,19 @@ Sign |
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 8 | 25.0% | prometheus-operator/prometheus-operator(8) | PR, Push |
-| iflytek | 6 | 18.8% | iflytek/astron-agent(6) | Issue, PR, Push |
-| kubernetes-sigs | 5 | 15.6% | kubernetes-sigs/kueue(2), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/karpenter(1) | PR, Push |
-| kubeservice-stack | 5 | 15.6% | kubeservice-stack/echo(2), kubeservice-stack/common(2), kubeservice-stack/kspack-go(1) | PR, Push |
-| prometheus | 1 | 3.1% | prometheus/node_exporter(1) | Push |
-| jicki | 1 | 3.1% | jicki/node_exporter(1) | Push |
-| srecloud20 | 1 | 3.1% | srecloud20/nodeexporter(1) | Push |
-| asama-ai | 1 | 3.1% | asama-ai/node_exporter(1) | Push |
-| luxi233 | 1 | 3.1% | luxi233/astron-agent(1) | Push |
-| dongjiang1989 | 1 | 3.1% | dongjiang1989/dongjiang1989(1) | Push |
-| QQGoblin | 1 | 3.1% | QQGoblin/node_exporter(1) | Push |
-| ynyyzyrf | 1 | 3.1% | ynyyzyrf/astron(1) | Push |
+| **prometheus-operator** | 8 | 24.2% | prometheus-operator/prometheus-operator(8) | PR, Push |
+| iflytek | 6 | 18.2% | iflytek/astron-agent(6) | Issue, PR, Push |
+| kubernetes-sigs | 5 | 15.2% | kubernetes-sigs/kueue(2), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/karpenter(1) | PR, Push |
+| kubeservice-stack | 5 | 15.2% | kubeservice-stack/echo(2), kubeservice-stack/common(2), kubeservice-stack/kspack-go(1) | PR, Push |
+| prometheus | 1 | 3.0% | prometheus/node_exporter(1) | Push |
+| jicki | 1 | 3.0% | jicki/node_exporter(1) | Push |
+| srecloud20 | 1 | 3.0% | srecloud20/nodeexporter(1) | Push |
+| asama-ai | 1 | 3.0% | asama-ai/node_exporter(1) | Push |
+| shawnlinator | 1 | 3.0% | shawnlinator/indigo-zebu(1) | Push |
+| luxi233 | 1 | 3.0% | luxi233/astron-agent(1) | Push |
+| dongjiang1989 | 1 | 3.0% | dongjiang1989/dongjiang1989(1) | Push |
+| QQGoblin | 1 | 3.0% | QQGoblin/node_exporter(1) | Push |
+| ynyyzyrf | 1 | 3.0% | ynyyzyrf/astron(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -147,17 +148,16 @@ Sign |
 | 2 | iflytek/astron-agent | [#623](https://github.com/iflytek/astron-agent/pull/623) | chore(CI): Add code assist for PR | ✅ 已合并 |
 | 3 | kubernetes-sigs/karpenter | [#2653](https://github.com/kubernetes-sigs/karpenter/pull/2653) | chore:  change sort to slices package | 🔒 已关闭 |
 | 4 | kubernetes-sigs/kueue | [#7704](https://github.com/kubernetes-sigs/kueue/pull/7704) | Add modernize check | ✅ 已合并 |
-| 5 | kubeservice-stack/echo | [#88](https://github.com/kubeservice-stack/echo/pull/88) | feat: change sort with slices pkg and add modernize type | ✅ 已合并 |
-| 6 | prometheus-operator/prometheus-operator | [#8094](https://github.com/prometheus-operator/prometheus-operator/pull/8094) | chore: add modernize lint | ✅ 已合并 |
-| 7 | prometheus-operator/prometheus-operator | [#8093](https://github.com/prometheus-operator/prometheus-operator/pull/8093) | chore: update golangci-lint version to v2.6.1 | ✅ 已合并 |
-| 8 | kubernetes-sigs/controller-runtime | [#3384](https://github.com/kubernetes-sigs/controller-runtime/pull/3384) | ✨Update golangci-lint version and modernize lint  | ✅ 已合并 |
-| 9 | prometheus-operator/prometheus-operator | [#8089](https://github.com/prometheus-operator/prometheus-operator/pull/8089) | Fix:  fix operator is not applying (CA) certificates for HTTP configur | ✅ 已合并 |
+| 5 | prometheus-operator/prometheus-operator | [#8100](https://github.com/prometheus-operator/prometheus-operator/pull/8100) | chore: add docker ecosystems in dependabot | 🔒 已关闭 |
+| 6 | kubeservice-stack/echo | [#88](https://github.com/kubeservice-stack/echo/pull/88) | feat: change sort with slices pkg and add modernize type | ✅ 已合并 |
+| 7 | prometheus-operator/prometheus-operator | [#8094](https://github.com/prometheus-operator/prometheus-operator/pull/8094) | chore: add modernize lint | ✅ 已合并 |
+| 8 | prometheus-operator/prometheus-operator | [#8093](https://github.com/prometheus-operator/prometheus-operator/pull/8093) | chore: update golangci-lint version to v2.6.1 | ✅ 已合并 |
+| 9 | kubernetes-sigs/controller-runtime | [#3384](https://github.com/kubernetes-sigs/controller-runtime/pull/3384) | ✨Update golangci-lint version and modernize lint  | ✅ 已合并 |
+| 10 | prometheus-operator/prometheus-operator | [#8089](https://github.com/prometheus-operator/prometheus-operator/pull/8089) | Fix:  fix operator is not applying (CA) certificates for HTTP configur | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
-| # | 仓库 | PR | 标题 | 状态 |
-|---|------|----|------|------|
-| 1 | prometheus-operator/prometheus-operator | [#8100](https://github.com/prometheus-operator/prometheus-operator/pull/8100) | chore: add docker ecosystems in dependabot | 🔄 开放 |
+> 本周期无开放的 PR。
 
 ---
 
@@ -237,6 +237,7 @@ Sign |
 | srecloud20/nodeexporter | 1 | 2025-11-12 | Add hw_counters  metrics for infiniband device. (# |
 | asama-ai/node_exporter | 1 | 2025-11-12 | Add hw_counters  metrics for infiniband device. (# |
 | iflytek/astron-agent | 1 | 2025-11-24 | add code assist for PR (#623) |
+| shawnlinator/indigo-zebu | 1 | 2025-11-12 | Add hw_counters  metrics for infiniband device. (# |
 | kubeservice-stack/kspack-go | 1 | 2025-11-17 | Update codacy-coverage-reporter.yaml |
 | luxi233/astron-agent | 1 | 2025-11-24 | add code assist for PR (#623) |
 | dongjiang1989/dongjiang1989 | 1 | 2025-11-12 | Update README.md |
@@ -258,4 +259,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

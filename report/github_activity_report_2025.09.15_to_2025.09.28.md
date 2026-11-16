@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -85,13 +85,13 @@ sunyaojing                     █                    3%
 | 2025-09-15（一） | 1 | █░░░░ | PR #2024 (apecloud/kubeblocks-addons) |
 | 2025-09-16（二） | 0 | ░░░░░ | — |
 | 2025-09-17（三） | 1 | █░░░░ | apecloud/kubeblocks-addons: feat: Add support etcd |
-| **2025-09-18（四）** | **14** | ██████████████ | 14 项活动（chromium-full-mirror/external_github.com_coreos_etcd, etcd-io/etcd, sg-evals/etcd--d89978e8） |
+| **2025-09-18（四）** | **14** | ██████████████ | 14 项活动（sg-evals/etcd--d89978e8, chromium-full-mirror/external_github.com_coreos_etcd, Prasanth595/etcd） |
 | 2025-09-19（五） | 0 | ░░░░░ | — |
 | 2025-09-20（六） | 0 | ░░░░░ | — |
 | 2025-09-21（日） | 0 | ░░░░░ | — |
 | 2025-09-22（一） | 0 | ░░░░░ | — |
-| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（kubeservice-stack/lxcfs-webhook), prometheus-operator/prometheus-operator, kubeservice-stack/lxcfs-webhook） |
-| **2025-09-24（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-runtime), jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
+| **2025-09-23（二）** | **10** | ██████████ | 10 项活动（kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
+| **2025-09-24（三）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
 | 2025-09-25（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: Up |
 | 2025-09-26（五） | 1 | █░░░░ | prometheus-operator/prometheus-operator: chore: ch |
 | 2025-09-27（六） | 0 | ░░░░░ | — |
@@ -265,4 +265,4 @@ sunyaojing                     █                    3%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

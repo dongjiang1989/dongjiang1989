@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -15,52 +15,57 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **26** 个 |
-| 涉及仓库数 | **31** 个 |
+| 涉及组织数 | **31** 个 |
+| 涉及仓库数 | **36** 个 |
 | Pull Request 数 | **16** 个（已合并 15，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **49** 次 |
-| 总活动量 | **66** |
+| Commit 数 | **54** 次 |
+| 总活动量 | **71** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ███                  17%
-kubeservice-stack              ███                  17%
-prometheus-operator            ██                   14%
+kubernetes-sigs                ███                  15%
+kubeservice-stack              ███                  15%
+prometheus-operator            ██                   13%
 aimultiple-benchmark           █                    6%
-Project-HAMi                   █                    5%
-web38444                       █                    5%
-jacobsee                       █                    5%
-raihanakbr                     █                    5%
+Project-HAMi                   █                    4%
+web38444                       █                    4%
+jacobsee                       █                    4%
+raihanakbr                     █                    4%
 prometheus                     █                    3%
-bwplotka                       █                    2%
-prometheus-community           █                    2%
-thanos-io                      █                    2%
-rhobs                          █                    2%
-rajendra-k10200                █                    2%
-grafana                        █                    2%
-0xkato                         █                    2%
-mayhemheroes                   █                    2%
-aperturerobotics               █                    2%
-demogxp-mig                    █                    2%
-elouafi-abderrahmane-2002      █                    2%
-Sanjaykumar2-creator           █                    2%
-demogxp-mig2                   █                    2%
-mlops143681                    █                    2%
-SINDEKARHAS                    █                    2%
-pvlltvk                        █                    2%
-punith1006                     █                    2%
+bwplotka                       █                    1%
+prometheus-community           █                    1%
+thanos-io                      █                    1%
+rhobs                          █                    1%
+priyapaanchoco-boop            █                    1%
+rajendra-k10200                █                    1%
+grafana                        █                    1%
+0xkato                         █                    1%
+mayhemheroes                   █                    1%
+niksingla                      █                    1%
+aperturerobotics               █                    1%
+sg-scale                       █                    1%
+demogxp-mig                    █                    1%
+elouafi-abderrahmane-2002      █                    1%
+shawnlinator                   █                    1%
+Sanjaykumar2-creator           █                    1%
+demogxp-mig2                   █                    1%
+mlops143681                    █                    1%
+SINDEKARHAS                    █                    1%
+pvlltvk                        █                    1%
+punith1006                     █                    1%
+guilhermerossoni7-commits      █                    1%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（17%），涉及 2 个仓库，共 11 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（15%），涉及 2 个仓库，共 11 次活动。
 2. 共 **15** 个 PR 已合并，覆盖 8 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-05-06**（28 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-05-06**（33 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 28 个仓库提交了 **49** 次代码。
+6. 在 33 个仓库提交了 **54** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -68,13 +73,13 @@ punith1006                     █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 68 | **66** | -3% | 📉 -2 |
+| **总活动量** | 70 | **71** | +1% | 📈 +1 |
 | Pull Request | 23 | 16 | -30% | 📉 -7 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 45 | 49 | +9% | 📈 +4 |
+| Commit | 47 | 54 | +15% | 📈 +7 |
 
-- 🆕 **新增活跃仓库**：`0xkato/prometheus-fork`, `Project-HAMi/HAMi-core`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `aperturerobotics/prometheus-lite`, `bwplotka/mdox`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `punith1006/LaaS-Hami`, `pvlltvk/proxeus-prometheus`, `raihanakbr/descheduler-custom`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `web38444/descheduler`
-- ❌ **不再活跃的仓库**：`ACRT-EVAL/helm-431-cr1`, `ACRT-EVAL/helm-431-cr10`, `ACRT-EVAL/helm-431-cr11`, `ACRT-EVAL/helm-431-cr5`, `ACRT-EVAL/helm-431-cr7`, `ACRT-EVAL/helm-431-cr9`, `AhmaadKaleeem/volcano`, `Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `bhcoder23/volcano`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `iv57yf034b/helm__helm.bec5b06e`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `volcano-sh/volcano`, `yankeguo-deprecated/helm-enhanced`
+- 🆕 **新增活跃仓库**：`0xkato/prometheus-fork`, `Project-HAMi/HAMi-core`, `SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `aimultiple-benchmark/prometheus-bench-cp-2`, `aimultiple-benchmark/prometheus-bench-cr-2`, `aimultiple-benchmark/prometheus-bench-cur-2`, `aimultiple-benchmark/prometheus-bench-gre-2`, `aperturerobotics/prometheus-lite`, `bwplotka/mdox`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `elouafi-abderrahmane-2002/prometheus`, `grafana/mimir-prometheus`, `guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `kubeservice-stack/echo`, `mayhemheroes/prometheus`, `mlops143681/prometheus`, `niksingla/finding-dory-prometheus-typed-label-sorting`, `priyapaanchoco-boop/vcode-prometheus-typed-label-sorting`, `prometheus-community/helm-charts`, `prometheus/prometheus`, `punith1006/LaaS-Hami`, `pvlltvk/proxeus-prometheus`, `raihanakbr/descheduler-custom`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `sg-scale/prometheus--v3.8.1`, `shawnlinator/beryl-seal`, `web38444/descheduler`
+- ❌ **不再活跃的仓库**：`ACRT-EVAL/helm-431-cr1`, `ACRT-EVAL/helm-431-cr10`, `ACRT-EVAL/helm-431-cr11`, `ACRT-EVAL/helm-431-cr5`, `ACRT-EVAL/helm-431-cr7`, `ACRT-EVAL/helm-431-cr9`, `AhmaadKaleeem/volcano`, `Apexmail/helm`, `Govardhan988/helm-repo`, `GsonZhao/volcano`, `NVIDIA/k8s-device-plugin`, `Sanjaykumar2-creator/aispm-test-28`, `apache/dubbo-go`, `bhcoder23/volcano`, `ckyuto/volcano-upstream`, `dongjiang1989/api-server`, `handan-yxh/volcano-old-test`, `helm/helm`, `hoppipolla-dev/helm`, `iv57yf034b/helm__helm.bec5b06e`, `karmada-io/karmada`, `kev1N916/volcano`, `kubegems/modelx`, `kubeservice-stack/custom-limit-range`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/modelx`, `kubeservice-stack/node-metrics`, `oliver006/redis_exporter`, `sg-scale/helm--v4.0.4`, `volcano-sh/volcano`, `yankeguo-deprecated/helm-enhanced`
 - 🔄 **工作重心转移**：从 **kubeservice-stack** 转向 **kubernetes-sigs**
 
 ---
@@ -83,10 +88,10 @@ punith1006                     █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **66** | PR + Issue + Commit |
+| 📊 **总活动** | **71** | PR + Issue + Commit |
 | 📝 **Pull Request** | 16 | 已合并 15，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 49 | 代码提交 |
+| 💻 **Commit** | 54 | 代码提交 |
 
 ---
 
@@ -94,22 +99,22 @@ punith1006                     █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-04-28（一）** | **15** | ███████████████ | 15 项活动（punith1006/LaaS-Hami, jacobsee/usr-kubernetes-sigs-controller-tools, raihanakbr/descheduler-custom） |
+| **2025-04-28（一）** | **15** | ███████████████ | 15 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, jacobsee/usr-kubernetes-sigs-controller-tools） |
 | 2025-04-29（二） | 0 | ░░░░░ | — |
-| **2025-04-30（三）** | **8** | ████████ | 8 项活动（thanos-io/thanos), raihanakbr/descheduler-custom, web38444/descheduler） |
+| **2025-04-30（三）** | **8** | ████████ | 8 项活动（kubernetes-sigs/controller-tools), thanos-io/thanos), raihanakbr/descheduler-custom） |
 | 2025-05-01（四） | 0 | ░░░░░ | — |
 | 2025-05-02（五） | 0 | ░░░░░ | — |
 | 2025-05-03（六） | 0 | ░░░░░ | — |
 | 2025-05-04（日） | 0 | ░░░░░ | — |
 | 2025-05-05（一） | 0 | ░░░░░ | — |
-| **2025-05-06（二）** | **28** | ████████████████████ | 28 项活动（kubeservice-stack/echo, grafana/mimir-prometheus, prometheus/prometheus） |
+| **2025-05-06（二）** | **33** | ████████████████████ | 33 项活动（mayhemheroes/prometheus, grafana/mimir-prometheus, pvlltvk/proxeus-prometheus） |
 | 2025-05-07（三） | 4 | ████░ | 4 项活动（bwplotka/mdox), prometheus-operator/prometheus-operator） |
-| **2025-05-08（四）** | **5** | █████ | 5 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
-| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/common), kubeservice-stack/common, kubeservice-stack/echo） |
+| **2025-05-08（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
+| **2025-05-09（五）** | **6** | ██████ | 6 项活动（kubeservice-stack/echo, kubeservice-stack/common, kubeservice-stack/common)） |
 | 2025-05-10（六） | 0 | ░░░░░ | — |
 | 2025-05-11（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-05-06（28 次活动）为最高峰。
+> **活跃高峰**：2025-05-06（33 次活动）为最高峰。
 
 ---
 
@@ -119,32 +124,37 @@ punith1006                     █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubernetes-sigs | 11 | 16.7% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/descheduler(4) | PR, Push |
-| kubeservice-stack | 11 | 16.7% | kubeservice-stack/echo(6), kubeservice-stack/common(5) | PR, Push |
-| prometheus-operator | 9 | 13.6% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| aimultiple-benchmark | 4 | 6.1% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| Project-HAMi | 3 | 4.5% | Project-HAMi/HAMi-core(3) | Issue, PR, Push |
-| web38444 | 3 | 4.5% | web38444/descheduler(3) | Push |
-| jacobsee | 3 | 4.5% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
-| raihanakbr | 3 | 4.5% | raihanakbr/descheduler-custom(3) | Push |
-| prometheus | 2 | 3.0% | prometheus/prometheus(2) | PR, Push |
-| bwplotka | 1 | 1.5% | bwplotka/mdox(1) | PR |
-| prometheus-community | 1 | 1.5% | prometheus-community/helm-charts(1) | PR |
-| thanos-io | 1 | 1.5% | thanos-io/thanos(1) | PR |
-| rhobs | 1 | 1.5% | rhobs/obo-prometheus(1) | Push |
-| rajendra-k10200 | 1 | 1.5% | rajendra-k10200/prometheus(1) | Push |
-| grafana | 1 | 1.5% | grafana/mimir-prometheus(1) | Push |
-| 0xkato | 1 | 1.5% | 0xkato/prometheus-fork(1) | Push |
-| mayhemheroes | 1 | 1.5% | mayhemheroes/prometheus(1) | Push |
-| aperturerobotics | 1 | 1.5% | aperturerobotics/prometheus-lite(1) | Push |
-| demogxp-mig | 1 | 1.5% | demogxp-mig/prometheus(1) | Push |
-| elouafi-abderrahmane-2002 | 1 | 1.5% | elouafi-abderrahmane-2002/prometheus(1) | Push |
-| Sanjaykumar2-creator | 1 | 1.5% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
-| demogxp-mig2 | 1 | 1.5% | demogxp-mig2/prometheus(1) | Push |
-| mlops143681 | 1 | 1.5% | mlops143681/prometheus(1) | Push |
-| SINDEKARHAS | 1 | 1.5% | SINDEKARHAS/Prometheus(1) | Push |
-| pvlltvk | 1 | 1.5% | pvlltvk/proxeus-prometheus(1) | Push |
-| punith1006 | 1 | 1.5% | punith1006/LaaS-Hami(1) | Push |
+| kubernetes-sigs | 11 | 15.5% | kubernetes-sigs/controller-tools(7), kubernetes-sigs/descheduler(4) | PR, Push |
+| kubeservice-stack | 11 | 15.5% | kubeservice-stack/echo(6), kubeservice-stack/common(5) | PR, Push |
+| prometheus-operator | 9 | 12.7% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| aimultiple-benchmark | 4 | 5.6% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| Project-HAMi | 3 | 4.2% | Project-HAMi/HAMi-core(3) | Issue, PR, Push |
+| web38444 | 3 | 4.2% | web38444/descheduler(3) | Push |
+| jacobsee | 3 | 4.2% | jacobsee/usr-kubernetes-sigs-controller-tools(3) | Push |
+| raihanakbr | 3 | 4.2% | raihanakbr/descheduler-custom(3) | Push |
+| prometheus | 2 | 2.8% | prometheus/prometheus(2) | PR, Push |
+| bwplotka | 1 | 1.4% | bwplotka/mdox(1) | PR |
+| prometheus-community | 1 | 1.4% | prometheus-community/helm-charts(1) | PR |
+| thanos-io | 1 | 1.4% | thanos-io/thanos(1) | PR |
+| rhobs | 1 | 1.4% | rhobs/obo-prometheus(1) | Push |
+| priyapaanchoco-boop | 1 | 1.4% | priyapaanchoco-boop/vcode-prometheus-typed-label-sorting(1) | Push |
+| rajendra-k10200 | 1 | 1.4% | rajendra-k10200/prometheus(1) | Push |
+| grafana | 1 | 1.4% | grafana/mimir-prometheus(1) | Push |
+| 0xkato | 1 | 1.4% | 0xkato/prometheus-fork(1) | Push |
+| mayhemheroes | 1 | 1.4% | mayhemheroes/prometheus(1) | Push |
+| niksingla | 1 | 1.4% | niksingla/finding-dory-prometheus-typed-label-sorting(1) | Push |
+| aperturerobotics | 1 | 1.4% | aperturerobotics/prometheus-lite(1) | Push |
+| sg-scale | 1 | 1.4% | sg-scale/prometheus--v3.8.1(1) | Push |
+| demogxp-mig | 1 | 1.4% | demogxp-mig/prometheus(1) | Push |
+| elouafi-abderrahmane-2002 | 1 | 1.4% | elouafi-abderrahmane-2002/prometheus(1) | Push |
+| shawnlinator | 1 | 1.4% | shawnlinator/beryl-seal(1) | Push |
+| Sanjaykumar2-creator | 1 | 1.4% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
+| demogxp-mig2 | 1 | 1.4% | demogxp-mig2/prometheus(1) | Push |
+| mlops143681 | 1 | 1.4% | mlops143681/prometheus(1) | Push |
+| SINDEKARHAS | 1 | 1.4% | SINDEKARHAS/Prometheus(1) | Push |
+| pvlltvk | 1 | 1.4% | pvlltvk/proxeus-prometheus(1) | Push |
+| punith1006 | 1 | 1.4% | punith1006/LaaS-Hami(1) | Push |
+| guilhermerossoni7-commits | 1 | 1.4% | guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -272,6 +282,7 @@ punith1006                     █                    2%
 | kubernetes-sigs/descheduler | 3 | 2025-05-06 | Merge branch 'kubernetes-sigs:master' into fix-sec; update k8s to v1.33; Update run-e2e-tests.sh |
 | raihanakbr/descheduler-custom | 3 | 2025-05-06 | Merge branch 'kubernetes-sigs:master' into fix-sec; update k8s to v1.33; Update run-e2e-tests.sh |
 | rhobs/obo-prometheus | 1 | 2025-05-06 | update fix configuration.md |
+| priyapaanchoco-boop/vcode-prometheus-typed-label-sorting | 1 | 2025-05-06 | update fix configuration.md |
 | aimultiple-benchmark/prometheus-bench-cur-2 | 1 | 2025-05-06 | update fix configuration.md |
 | rajendra-k10200/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | aimultiple-benchmark/prometheus-bench-cp-2 | 1 | 2025-05-06 | update fix configuration.md |
@@ -279,10 +290,13 @@ punith1006                     █                    2%
 | 0xkato/prometheus-fork | 1 | 2025-05-06 | update fix configuration.md |
 | mayhemheroes/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | aimultiple-benchmark/prometheus-bench-cr-2 | 1 | 2025-05-06 | update fix configuration.md |
+| niksingla/finding-dory-prometheus-typed-label-sorting | 1 | 2025-05-06 | update fix configuration.md |
 | aperturerobotics/prometheus-lite | 1 | 2025-05-06 | update fix configuration.md |
+| sg-scale/prometheus--v3.8.1 | 1 | 2025-05-06 | update fix configuration.md |
 | demogxp-mig/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | elouafi-abderrahmane-2002/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | aimultiple-benchmark/prometheus-bench-gre-2 | 1 | 2025-05-06 | update fix configuration.md |
+| shawnlinator/beryl-seal | 1 | 2025-05-06 | update fix configuration.md |
 | Sanjaykumar2-creator/aispm-test-33 | 1 | 2025-05-06 | update fix configuration.md |
 | demogxp-mig2/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | mlops143681/prometheus | 1 | 2025-05-06 | update fix configuration.md |
@@ -290,6 +304,7 @@ punith1006                     █                    2%
 | prometheus/prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | pvlltvk/proxeus-prometheus | 1 | 2025-05-06 | update fix configuration.md |
 | punith1006/LaaS-Hami | 1 | 2025-04-28 | add cuCtxCreate_v3 |
+| guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting | 1 | 2025-05-06 | update fix configuration.md |
 | Project-HAMi/HAMi-core | 1 | 2025-04-28 | add cuCtxCreate_v3 |
 
 ---
@@ -306,4 +321,4 @@ punith1006                     █                    2%
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*

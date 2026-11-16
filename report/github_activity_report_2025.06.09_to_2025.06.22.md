@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：106 | **Following**：43
+> **公开仓库数**：267 | **Followers**：108 | **Following**：44
 
 ---
 
@@ -83,7 +83,7 @@ Sign |
 | 2025-06-15（日） | 0 | ░░░░░ | — |
 | 2025-06-16（一） | 2 | ██░░░ | Issue #1712; dongjiang1989/dongjiang1989: Update README.md |
 | 2025-06-17（二） | 2 | ██░░░ | PR #7605 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update to |
-| 2025-06-18（三） | 4 | ████░ | 4 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools, kubernetes-sigs/controller-tools)） |
+| 2025-06-18（三） | 4 | ████░ | 4 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
 | 2025-06-19（四） | 0 | ░░░░░ | — |
 | 2025-06-20（五） | 0 | ░░░░░ | — |
 | 2025-06-21（六） | 0 | ░░░░░ | — |
@@ -209,4 +209,4 @@ Sign |
 
 ---
 
-*报告生成时间：2026-11-09 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
