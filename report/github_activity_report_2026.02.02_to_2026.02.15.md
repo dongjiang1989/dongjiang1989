@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -46,13 +46,13 @@ Project-HAMi                   █                    5%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 31 | **22** | -29% | 📉 -9 |
+| **总活动量** | 35 | **22** | -37% | 📉 -13 |
 | Pull Request | 9 | 8 | -11% | 📉 -1 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 21 | 13 | -38% | 📉 -8 |
+| Commit | 25 | 13 | -48% | 📉 -12 |
 
 - 🆕 **新增活跃仓库**：`Project-HAMi/community`, `dongjiang1989/myclawbot`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kueue`, `prometheus-operator/prometheus-operator`
-- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `virtual-kubelet/virtual-kubelet`
+- ❌ **不再活跃的仓库**：`Annie-Summer/HAMi-test`, `Dzkmobw/HAMi`, `Project-HAMi/HAMi`, `aniketpati1121/HAMi`, `dongjiang1989/dongjiang1989`, `helloworldjhb/HAMi`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/test-infra`, `kubeservice-stack/echo`, `lsj-x/HAMi`, `virtual-kubelet/virtual-kubelet`
 - 🔄 **工作重心转移**：从 **Project-HAMi** 转向 **kubernetes-sigs**
 
 ---
@@ -76,7 +76,7 @@ Project-HAMi                   █                    5%
 | 2026-02-03（二） | 0 | ░░░░░ | — |
 | 2026-02-04（三） | 0 | ░░░░░ | — |
 | **2026-02-05（四）** | **12** | ████████████ | 12 项活动（jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
-| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns)） |
+| **2026-02-06（五）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/external-dns), kubernetes-sigs/controller-runtime)） |
 | 2026-02-07（六） | 0 | ░░░░░ | — |
 | 2026-02-08（日） | 0 | ░░░░░ | — |
 | 2026-02-09（一） | 0 | ░░░░░ | — |
@@ -224,4 +224,4 @@ Project-HAMi                   █                    5%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

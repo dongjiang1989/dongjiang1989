@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,20 +15,20 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **25** 个 |
-| 涉及仓库数 | **33** 个 |
+| 涉及组织数 | **26** 个 |
+| 涉及仓库数 | **34** 个 |
 | Pull Request 数 | **13** 个（已合并 12，开放 1） |
 | Issue 数 | **4** 个 |
-| Commit 数 | **115** 次 |
-| 总活动量 | **132** |
+| Commit 数 | **119** 次 |
+| 总活动量 | **136** |
 
 ### 🎯 工作重心分布
 
 ```
-ACRT-EVAL                      ████                 23%
+ACRT-EVAL                      ████                 22%
 kubeservice-stack              ██                   14%
 volcano-sh                     █                    8%
-helm                           █                    5%
+helm                           █                    4%
 Apexmail                       █                    4%
 iv57yf034b                     █                    4%
 Govardhan988                   █                    4%
@@ -39,11 +39,12 @@ AhmaadKaleeem                  █                    3%
 bhcoder23                      █                    3%
 GsonZhao                       █                    3%
 handan-yxh                     █                    3%
+helloworldjhb                  █                    3%
 ckyuto                         █                    3%
 kev1N916                       █                    3%
-prometheus-operator            █                    2%
-prometheus-community           █                    2%
-karmada-io                     █                    2%
+prometheus-operator            █                    1%
+prometheus-community           █                    1%
+karmada-io                     █                    1%
 kubernetes                     █                    1%
 yunshenliu92                   █                    1%
 idadmin007                     █                    1%
@@ -54,12 +55,12 @@ cnloxiaoteng-ship-it           █                    1%
 
 ### 💡 核心总结
 
-1. **ACRT-EVAL** 是最大贡献方向（23%），涉及 6 个仓库，共 30 次活动。
+1. **ACRT-EVAL** 是最大贡献方向（22%），涉及 6 个仓库，共 30 次活动。
 2. 共 **12** 个 PR 已合并，覆盖 7 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-03-18**（34 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-03-18**（35 次活动），展现了高强度的工作节奏。
 5. 创建了 **4** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 31 个仓库提交了 **115** 次代码。
+6. 在 32 个仓库提交了 **119** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -67,10 +68,10 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 50 | **132** | +164% | 📈 +82 |
+| **总活动量** | 52 | **136** | +162% | 📈 +84 |
 | Pull Request | 13 | 13 | 0% | ➡️ 持平 |
 | Issue | 4 | 4 | 0% | ➡️ 持平 |
-| Commit | 33 | 115 | +248% | 📈 +82 |
+| Commit | 35 | 119 | +240% | 📈 +84 |
 
 - 🆕 **新增活跃仓库**：`ACRT-EVAL/helm-431-cr1`, `ACRT-EVAL/helm-431-cr10`, `ACRT-EVAL/helm-431-cr11`, `ACRT-EVAL/helm-431-cr5`, `ACRT-EVAL/helm-431-cr7`, `ACRT-EVAL/helm-431-cr9`, `Apexmail/helm`, `Govardhan988/helm-repo`, `Sanjaykumar2-creator/aispm-test-28`, `helm/helm`, `hoppipolla-dev/helm`, `iv57yf034b/helm__helm.bec5b06e`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/lxcfs-webhook`, `kubeservice-stack/network-doctor`, `sg-scale/helm--v4.0.4`
 - ❌ **不再活跃的仓库**：`jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/descheduler`, `raihanakbr/descheduler-custom`, `volcano-sh/apis`, `volcano-sh/community`, `web38444/descheduler`
@@ -82,10 +83,10 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **132** | PR + Issue + Commit |
+| 📊 **总活动** | **136** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 12，开放 1 |
 | 📋 **Issue** | 4 | 创建 Issue |
-| 💻 **Commit** | 115 | 代码提交 |
+| 💻 **Commit** | 119 | 代码提交 |
 
 ---
 
@@ -93,22 +94,22 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-17（一）** | **14** | ██████████████ | 14 项活动（Sanjaykumar2-creator/aispm-test-28, sg-scale/helm--v4.0.4, helm/helm)） |
-| **2025-03-18（二）** | **34** | ████████████████████ | 34 项活动（GsonZhao/volcano, ACRT-EVAL/helm-431-cr7, ACRT-EVAL/helm-431-cr11） |
-| **2025-03-19（三）** | **14** | ██████████████ | 14 项活动（Sanjaykumar2-creator/aispm-test-28, volcano-sh/volcano), sg-scale/helm--v4.0.4） |
-| **2025-03-20（四）** | **10** | ██████████ | 10 项活动（AhmaadKaleeem/volcano, ckyuto/volcano-upstream, volcano-sh/volcano)） |
-| **2025-03-21（五）** | **18** | ██████████████████ | 18 项活动（AhmaadKaleeem/volcano, ckyuto/volcano-upstream, volcano-sh/volcano)） |
+| **2025-03-17（一）** | **14** | ██████████████ | 14 项活动（Govardhan988/helm-repo, iv57yf034b/helm__helm.bec5b06e, ACRT-EVAL/helm-431-cr5） |
+| **2025-03-18（二）** | **35** | ████████████████████ | 35 项活动（bhcoder23/volcano, ACRT-EVAL/helm-431-cr10, volcano-sh/volcano)） |
+| **2025-03-19（三）** | **14** | ██████████████ | 14 项活动（Govardhan988/helm-repo, iv57yf034b/helm__helm.bec5b06e, ACRT-EVAL/helm-431-cr5） |
+| **2025-03-20（四）** | **11** | ███████████ | 11 项活动（karmada-io/karmada), bhcoder23/volcano, handan-yxh/volcano-old-test） |
+| **2025-03-21（五）** | **20** | ████████████████████ | 20 项活动（bhcoder23/volcano, handan-yxh/volcano-old-test, volcano-sh/volcano)） |
 | 2025-03-22（六） | 0 | ░░░░░ | — |
 | 2025-03-23（日） | 0 | ░░░░░ | — |
-| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/docker-image, prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor） |
+| **2025-03-24（一）** | **11** | ███████████ | 11 项活动（prometheus-operator/prometheus-operator), kubeservice-stack/network-doctor, kubeservice-stack/docker-image） |
 | 2025-03-25（二） | 1 | █░░░░ | Issue #532 |
-| **2025-03-26（三）** | **24** | ████████████████████ | 24 项活动（prometheus-community/helm-charts), ACRT-EVAL/helm-431-cr7, ACRT-EVAL/helm-431-cr11） |
+| **2025-03-26（三）** | **24** | ████████████████████ | 24 项活动（ACRT-EVAL/helm-431-cr10, ACRT-EVAL/helm-431-cr9, hoppipolla-dev/helm） |
 | **2025-03-27（四）** | **6** | ██████ | 6 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook)） |
 | 2025-03-28（五） | 0 | ░░░░░ | — |
 | 2025-03-29（六） | 0 | ░░░░░ | — |
 | 2025-03-30（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-03-18（34 次活动）为最高峰。
+> **活跃高峰**：2025-03-18（35 次活动）为最高峰。
 
 ---
 
@@ -118,31 +119,32 @@ cnloxiaoteng-ship-it           █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **ACRT-EVAL** | 30 | 22.7% | ACRT-EVAL/helm-431-cr7(5), ACRT-EVAL/helm-431-cr9(5), ACRT-EVAL/helm-431-cr5(5) | Push |
-| kubeservice-stack | 19 | 14.4% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
-| volcano-sh | 11 | 8.3% | volcano-sh/volcano(11) | Issue, PR, Push |
-| helm | 6 | 4.5% | helm/helm(6) | PR, Push |
-| Apexmail | 5 | 3.8% | Apexmail/helm(5) | Push |
-| iv57yf034b | 5 | 3.8% | iv57yf034b/helm__helm.bec5b06e(5) | Push |
-| Govardhan988 | 5 | 3.8% | Govardhan988/helm-repo(5) | Push |
-| sg-scale | 5 | 3.8% | sg-scale/helm--v4.0.4(5) | Push |
-| Sanjaykumar2-creator | 5 | 3.8% | Sanjaykumar2-creator/aispm-test-28(5) | Push |
-| hoppipolla-dev | 5 | 3.8% | hoppipolla-dev/helm(5) | Push |
-| AhmaadKaleeem | 4 | 3.0% | AhmaadKaleeem/volcano(4) | Push |
-| bhcoder23 | 4 | 3.0% | bhcoder23/volcano(4) | Push |
-| GsonZhao | 4 | 3.0% | GsonZhao/volcano(4) | Push |
-| handan-yxh | 4 | 3.0% | handan-yxh/volcano-old-test(4) | Push |
-| ckyuto | 4 | 3.0% | ckyuto/volcano-upstream(4) | Push |
-| kev1N916 | 4 | 3.0% | kev1N916/volcano(4) | Push |
+| **ACRT-EVAL** | 30 | 22.1% | ACRT-EVAL/helm-431-cr7(5), ACRT-EVAL/helm-431-cr9(5), ACRT-EVAL/helm-431-cr5(5) | Push |
+| kubeservice-stack | 19 | 14.0% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/docker-image(6), kubeservice-stack/network-doctor(4) | Issue, PR, Push |
+| volcano-sh | 11 | 8.1% | volcano-sh/volcano(11) | Issue, PR, Push |
+| helm | 6 | 4.4% | helm/helm(6) | PR, Push |
+| Apexmail | 5 | 3.7% | Apexmail/helm(5) | Push |
+| iv57yf034b | 5 | 3.7% | iv57yf034b/helm__helm.bec5b06e(5) | Push |
+| Govardhan988 | 5 | 3.7% | Govardhan988/helm-repo(5) | Push |
+| sg-scale | 5 | 3.7% | sg-scale/helm--v4.0.4(5) | Push |
+| Sanjaykumar2-creator | 5 | 3.7% | Sanjaykumar2-creator/aispm-test-28(5) | Push |
+| hoppipolla-dev | 5 | 3.7% | hoppipolla-dev/helm(5) | Push |
+| AhmaadKaleeem | 4 | 2.9% | AhmaadKaleeem/volcano(4) | Push |
+| bhcoder23 | 4 | 2.9% | bhcoder23/volcano(4) | Push |
+| GsonZhao | 4 | 2.9% | GsonZhao/volcano(4) | Push |
+| handan-yxh | 4 | 2.9% | handan-yxh/volcano-old-test(4) | Push |
+| helloworldjhb | 4 | 2.9% | helloworldjhb/volcano(4) | Push |
+| ckyuto | 4 | 2.9% | ckyuto/volcano-upstream(4) | Push |
+| kev1N916 | 4 | 2.9% | kev1N916/volcano(4) | Push |
 | prometheus-operator | 2 | 1.5% | prometheus-operator/prometheus-operator(2) | PR |
 | prometheus-community | 2 | 1.5% | prometheus-community/helm-charts(2) | PR, Push |
 | karmada-io | 2 | 1.5% | karmada-io/karmada(2) | PR, Push |
-| kubernetes | 1 | 0.8% | kubernetes/kube-openapi(1) | Issue |
-| yunshenliu92 | 1 | 0.8% | yunshenliu92/prometheus(1) | Push |
-| idadmin007 | 1 | 0.8% | idadmin007/prometheus(1) | Push |
-| Scaling-Smart | 1 | 0.8% | Scaling-Smart/prometheus-helm-charts(1) | Push |
-| psharma0905 | 1 | 0.8% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 0.8% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| kubernetes | 1 | 0.7% | kubernetes/kube-openapi(1) | Issue |
+| yunshenliu92 | 1 | 0.7% | yunshenliu92/prometheus(1) | Push |
+| idadmin007 | 1 | 0.7% | idadmin007/prometheus(1) | Push |
+| Scaling-Smart | 1 | 0.7% | Scaling-Smart/prometheus-helm-charts(1) | Push |
+| psharma0905 | 1 | 0.7% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 0.7% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -281,6 +283,7 @@ cnloxiaoteng-ship-it           █                    1%
 | bhcoder23/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | GsonZhao/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | handan-yxh/volcano-old-test | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
+| helloworldjhb/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | ckyuto/volcano-upstream | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | volcano-sh/volcano | 4 | 2025-03-20 | add jobflow flow dag validate; fix jobflow running to failed FSM; dependabot schedule interval to weekly |
 | kubeservice-stack/network-doctor | 4 | 2025-03-24 | Update README.md; Update Dockerfile; Update docker-image.yml |
@@ -311,4 +314,4 @@ cnloxiaoteng-ship-it           █                    1%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

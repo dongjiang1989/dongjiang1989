@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,35 +15,36 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **10** 个 |
-| 涉及仓库数 | **10** 个 |
+| 涉及组织数 | **11** 个 |
+| 涉及仓库数 | **11** 个 |
 | Pull Request 数 | **5** 个（已合并 5，开放 0） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **12** 次 |
-| 总活动量 | **18** |
+| Commit 数 | **13** 次 |
+| 总活动量 | **19** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████                 22%
-kubeservice-stack              ████                 22%
-volcano-sh                     ███                  17%
-AhmaadKaleeem                  █                    6%
-apecloud                       █                    6%
-bhcoder23                      █                    6%
-GsonZhao                       █                    6%
-handan-yxh                     █                    6%
-ckyuto                         █                    6%
-kev1N916                       █                    6%
+prometheus-operator            ████                 21%
+kubeservice-stack              ████                 21%
+volcano-sh                     ███                  16%
+AhmaadKaleeem                  █                    5%
+apecloud                       █                    5%
+bhcoder23                      █                    5%
+GsonZhao                       █                    5%
+handan-yxh                     █                    5%
+helloworldjhb                  █                    5%
+ckyuto                         █                    5%
+kev1N916                       █                    5%
 ```
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（22%），涉及 1 个仓库，共 4 次活动。
+1. **prometheus-operator** 是最大贡献方向（21%），涉及 1 个仓库，共 4 次活动。
 2. 共 **5** 个 PR 已合并，覆盖 3 个仓库。
-3. 活跃高峰出现在 **2025-07-09**（10 次活动），展现了高强度的工作节奏。
+3. 活跃高峰出现在 **2025-07-09**（11 次活动），展现了高强度的工作节奏。
 4. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-5. 在 10 个仓库提交了 **12** 次代码。
+5. 在 11 个仓库提交了 **13** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -51,12 +52,12 @@ kev1N916                       █                    6%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 20 | **18** | -10% | 📉 -2 |
+| **总活动量** | 20 | **19** | -5% | 📉 -1 |
 | Pull Request | 10 | 5 | -50% | 📉 -5 |
 | Issue | 0 | 1 | 🆕 新增 | 📈 +1 |
-| Commit | 10 | 12 | +20% | 📈 +2 |
+| Commit | 10 | 13 | +30% | 📈 +3 |
 
-- 🆕 **新增活跃仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `bhcoder23/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
+- 🆕 **新增活跃仓库**：`AhmaadKaleeem/volcano`, `GsonZhao/volcano`, `bhcoder23/volcano`, `ckyuto/volcano-upstream`, `handan-yxh/volcano-old-test`, `helloworldjhb/volcano`, `kev1N916/volcano`, `kubeservice-stack/golang-tools`, `volcano-sh/volcano`
 - ❌ **不再活跃的仓库**：`dongjiang1989/dongjiang1989`, `jacobsee/usr-kubernetes-sigs-controller-tools`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`
 - 🔄 **工作重心转移**：从 **apecloud** 转向 **prometheus-operator**
 
@@ -66,10 +67,10 @@ kev1N916                       █                    6%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **18** | PR + Issue + Commit |
+| 📊 **总活动** | **19** | PR + Issue + Commit |
 | 📝 **Pull Request** | 5 | 已合并 5，开放 0 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 12 | 代码提交 |
+| 💻 **Commit** | 13 | 代码提交 |
 
 ---
 
@@ -79,12 +80,12 @@ kev1N916                       █                    6%
 |------|--------|--------|----------|
 | 2025-07-07（一） | 1 | █░░░░ | apecloud/kubeblocks-addons: Fix: add redis shardin |
 | 2025-07-08（二） | 0 | ░░░░░ | — |
-| **2025-07-09（三）** | **10** | ██████████ | 10 项活动（AhmaadKaleeem/volcano, ckyuto/volcano-upstream, volcano-sh/volcano)） |
+| **2025-07-09（三）** | **11** | ███████████ | 11 项活动（bhcoder23/volcano, handan-yxh/volcano-old-test, volcano-sh/volcano)） |
 | 2025-07-10（四） | 1 | █░░░░ | prometheus-operator/prometheus-operator: update go |
 | 2025-07-11（五） | 0 | ░░░░░ | — |
 | 2025-07-12（六） | 0 | ░░░░░ | — |
 | 2025-07-13（日） | 0 | ░░░░░ | — |
-| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools), kubeservice-stack/golang-tools） |
+| 2025-07-14（一） | 4 | ████░ | 4 项活动（kubeservice-stack/golang-tools, kubeservice-stack/golang-tools)） |
 | 2025-07-15（二） | 0 | ░░░░░ | — |
 | 2025-07-16（三） | 2 | ██░░░ | PR #7728 (prometheus-operator/prometheus-operator); PR #7725 (prometheus-operator/prometheus-operator) |
 | 2025-07-17（四） | 0 | ░░░░░ | — |
@@ -92,7 +93,7 @@ kev1N916                       █                    6%
 | 2025-07-19（六） | 0 | ░░░░░ | — |
 | 2025-07-20（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-07-09（10 次活动）为最高峰。
+> **活跃高峰**：2025-07-09（11 次活动）为最高峰。
 
 ---
 
@@ -102,16 +103,17 @@ kev1N916                       █                    6%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 4 | 22.2% | prometheus-operator/prometheus-operator(4) | PR, Push |
-| **kubeservice-stack** | 4 | 22.2% | kubeservice-stack/golang-tools(4) | PR, Push |
-| volcano-sh | 3 | 16.7% | volcano-sh/volcano(3) | Issue, PR, Push |
-| AhmaadKaleeem | 1 | 5.6% | AhmaadKaleeem/volcano(1) | Push |
-| apecloud | 1 | 5.6% | apecloud/kubeblocks-addons(1) | Push |
-| bhcoder23 | 1 | 5.6% | bhcoder23/volcano(1) | Push |
-| GsonZhao | 1 | 5.6% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 5.6% | handan-yxh/volcano-old-test(1) | Push |
-| ckyuto | 1 | 5.6% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 5.6% | kev1N916/volcano(1) | Push |
+| **prometheus-operator** | 4 | 21.1% | prometheus-operator/prometheus-operator(4) | PR, Push |
+| **kubeservice-stack** | 4 | 21.1% | kubeservice-stack/golang-tools(4) | PR, Push |
+| volcano-sh | 3 | 15.8% | volcano-sh/volcano(3) | Issue, PR, Push |
+| AhmaadKaleeem | 1 | 5.3% | AhmaadKaleeem/volcano(1) | Push |
+| apecloud | 1 | 5.3% | apecloud/kubeblocks-addons(1) | Push |
+| bhcoder23 | 1 | 5.3% | bhcoder23/volcano(1) | Push |
+| GsonZhao | 1 | 5.3% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 5.3% | handan-yxh/volcano-old-test(1) | Push |
+| helloworldjhb | 1 | 5.3% | helloworldjhb/volcano(1) | Push |
+| ckyuto | 1 | 5.3% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 5.3% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -125,8 +127,8 @@ kev1N916                       █                    6%
 | 6 | **bhcoder23/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
 | 7 | **GsonZhao/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
 | 8 | **handan-yxh/volcano-old-test** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
-| 9 | **ckyuto/volcano-upstream** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
-| 10 | **kev1N916/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 9 | **helloworldjhb/volcano** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
+| 10 | **ckyuto/volcano-upstream** | 1 | 0 | 0 | 1 | Commit: fix jobflow status with vcjob Status Termi |
 
 ---
 
@@ -214,6 +216,7 @@ kev1N916                       █                    6%
 | GsonZhao/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | handan-yxh/volcano-old-test | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | prometheus-operator/prometheus-operator | 1 | 2025-07-10 | update golangci-lint version (#7695) |
+| helloworldjhb/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | ckyuto/volcano-upstream | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | volcano-sh/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
 | kev1N916/volcano | 1 | 2025-07-09 | fix jobflow status with vcjob Status Terminated |
@@ -234,4 +237,4 @@ kev1N916                       █                    6%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

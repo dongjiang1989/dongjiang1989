@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,12 +15,12 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **38** 个 |
-| 涉及仓库数 | **47** 个 |
+| 涉及组织数 | **39** 个 |
+| 涉及仓库数 | **48** 个 |
 | Pull Request 数 | **13** 个（已合并 11，开放 2） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **63** 次 |
-| 总活动量 | **77** |
+| Commit 数 | **64** 次 |
+| 总活动量 | **78** |
 
 ### 🎯 工作重心分布
 
@@ -58,6 +58,7 @@ shawnlinator                   █                    1%
 Sanjaykumar2-creator           █                    1%
 demogxp-mig2                   █                    1%
 mlops143681                    █                    1%
+embryo-zero                    █                    1%
 SINDEKARHAS                    █                    1%
 pvlltvk                        █                    1%
 CodeLinaro-mirror              █                    1%
@@ -70,9 +71,9 @@ guilhermerossoni7-commits      █                    1%
 1. **kubeservice-stack** 是最大贡献方向（19%），涉及 5 个仓库，共 15 次活动。
 2. 共 **11** 个 PR 已合并，覆盖 8 个仓库。
 3. **2** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-01-15**（31 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-01-15**（32 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 44 个仓库提交了 **63** 次代码。
+6. 在 45 个仓库提交了 **64** 次代码。
 
 ---
 
@@ -80,10 +81,10 @@ guilhermerossoni7-commits      █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **77** | PR + Issue + Commit |
+| 📊 **总活动** | **78** | PR + Issue + Commit |
 | 📝 **Pull Request** | 13 | 已合并 11，开放 2 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 63 | 代码提交 |
+| 💻 **Commit** | 64 | 代码提交 |
 
 ---
 
@@ -91,22 +92,22 @@ guilhermerossoni7-commits      █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator, kubeservice-stack/kubservice-charts） |
+| **2025-01-06（一）** | **11** | ███████████ | 11 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/kubservice-charts), kubeservice-stack/script_exporter） |
 | 2025-01-07（二） | 2 | ██░░░ | kubeservice-stack/script_exporter: update go.mod a; kubeservice-stack/script_exporter: add promu.yml f |
 | 2025-01-08（三） | 0 | ░░░░░ | — |
 | 2025-01-09（四） | 4 | ████░ | 4 项活动（prometheus/prometheus), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
-| **2025-01-10（五）** | **8** | ████████ | 8 项活动（Carson-Ax/alertmanager, prometheus/alertmanager, tennisleng/alertmanager） |
+| **2025-01-10（五）** | **8** | ████████ | 8 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, Benqacemsalah/alertmanager, tennisleng/alertmanager） |
 | 2025-01-11（六） | 0 | ░░░░░ | — |
 | 2025-01-12（日） | 0 | ░░░░░ | — |
-| **2025-01-13（一）** | **7** | ███████ | 7 项活动（Carson-Ax/alertmanager, tennisleng/alertmanager, prometheus/alertmanager） |
-| **2025-01-14（二）** | **5** | █████ | 5 项活动（kubernetes-sigs/controller-runtime), dongjiang1989/dongjiang1989, karmada-io/karmada)） |
-| **2025-01-15（三）** | **31** | ████████████████████ | 31 项活动（Synaptica-cor/prometheus, mayhemheroes/prometheus, grafana/mimir-prometheus） |
+| **2025-01-13（一）** | **7** | ███████ | 7 项活动（muhammedalimalik901-code/Alert-Manager-Experiment, Benqacemsalah/alertmanager, tennisleng/alertmanager） |
+| **2025-01-14（二）** | **5** | █████ | 5 项活动（karmada-io/karmada), kubernetes-sigs/controller-runtime), dongjiang1989/dongjiang1989） |
+| **2025-01-15（三）** | **32** | ████████████████████ | 32 项活动（aimultiple-benchmark/prometheus-bench-cr-2, shawnlinator/beryl-seal, sg-scale/prometheus--v3.8.1） |
 | 2025-01-16（四） | 2 | ██░░░ | PR #6059 (karmada-io/karmada); PR #128 (thockin/go-build-template) |
-| 2025-01-17（五） | 4 | ████░ | 4 项活动（thockin/go-build-template, prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
+| 2025-01-17（五） | 4 | ████░ | 4 项活动（prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator, thockin/go-build-template） |
 | 2025-01-18（六） | 3 | ███░░ | chromium-full-mirror/external_github.com_prometheu; CodeLinaro-mirror/yocto-mirrors_github_prometheus_; prometheus/common: making this map a public variab |
 | 2025-01-19（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-01-15（31 次活动）为最高峰。
+> **活跃高峰**：2025-01-15（32 次活动）为最高峰。
 
 ---
 
@@ -116,11 +117,11 @@ guilhermerossoni7-commits      █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| kubeservice-stack | 15 | 19.5% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
-| prometheus-operator | 9 | 11.7% | prometheus-operator/prometheus-operator(9) | PR, Push |
-| prometheus | 6 | 7.8% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
-| aimultiple-benchmark | 4 | 5.2% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| karmada-io | 3 | 3.9% | karmada-io/karmada(3) | PR |
+| kubeservice-stack | 15 | 19.2% | kubeservice-stack/lxcfs-webhook(6), kubeservice-stack/script_exporter(4), kubeservice-stack/kubservice-charts(2) | PR, Push |
+| prometheus-operator | 9 | 11.5% | prometheus-operator/prometheus-operator(9) | PR, Push |
+| prometheus | 6 | 7.7% | prometheus/alertmanager(3), prometheus/prometheus(2), prometheus/common(1) | PR, Push |
+| aimultiple-benchmark | 4 | 5.1% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| karmada-io | 3 | 3.8% | karmada-io/karmada(3) | PR |
 | thockin | 2 | 2.6% | thockin/go-build-template(2) | PR, Push |
 | Carson-Ax | 2 | 2.6% | Carson-Ax/alertmanager(2) | Push |
 | nallagondu | 2 | 2.6% | nallagondu/kob-alertmanager-v12(2) | Push |
@@ -149,6 +150,7 @@ guilhermerossoni7-commits      █                    1%
 | Sanjaykumar2-creator | 1 | 1.3% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
 | demogxp-mig2 | 1 | 1.3% | demogxp-mig2/prometheus(1) | Push |
 | mlops143681 | 1 | 1.3% | mlops143681/prometheus(1) | Push |
+| embryo-zero | 1 | 1.3% | embryo-zero/embryo-monitor(1) | Push |
 | SINDEKARHAS | 1 | 1.3% | SINDEKARHAS/Prometheus(1) | Push |
 | pvlltvk | 1 | 1.3% | pvlltvk/proxeus-prometheus(1) | Push |
 | CodeLinaro-mirror | 1 | 1.3% | CodeLinaro-mirror/yocto-mirrors_github_prometheus_common(1) | Push |
@@ -300,6 +302,7 @@ guilhermerossoni7-commits      █                    1%
 | Sanjaykumar2-creator/aispm-test-33 | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | demogxp-mig2/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | mlops143681/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
+| embryo-zero/embryo-monitor | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | SINDEKARHAS/Prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | prometheus/prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
 | pvlltvk/proxeus-prometheus | 1 | 2025-01-15 | chore: Upgrade to golangci-lint v1.63.4 (#15799) |
@@ -325,4 +328,4 @@ guilhermerossoni7-commits      █                    1%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

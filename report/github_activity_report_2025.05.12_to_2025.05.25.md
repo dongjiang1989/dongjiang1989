@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,17 +15,17 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **35** 个 |
-| 涉及仓库数 | **38** 个 |
+| 涉及组织数 | **36** 个 |
+| 涉及仓库数 | **39** 个 |
 | Pull Request 数 | **14** 个（已合并 13，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **45** 次 |
-| 总活动量 | **60** |
+| Commit 数 | **46** 次 |
+| 总活动量 | **61** |
 
 ### 🎯 工作重心分布
 
 ```
-prometheus-operator            ████                 22%
+prometheus-operator            ████                 21%
 prometheus                     █                    8%
 kubeservice-stack              █                    7%
 aimultiple-benchmark           █                    7%
@@ -52,6 +52,7 @@ Sanjaykumar2-creator           █                    2%
 demogxp-mig2                   █                    2%
 idadmin007                     █                    2%
 mlops143681                    █                    2%
+embryo-zero                    █                    2%
 Scaling-Smart                  █                    2%
 SINDEKARHAS                    █                    2%
 pvlltvk                        █                    2%
@@ -64,12 +65,12 @@ guilhermerossoni7-commits      █                    2%
 
 ### 💡 核心总结
 
-1. **prometheus-operator** 是最大贡献方向（22%），涉及 1 个仓库，共 13 次活动。
+1. **prometheus-operator** 是最大贡献方向（21%），涉及 1 个仓库，共 13 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 4 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-05-24**（23 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-05-24**（24 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 37 个仓库提交了 **45** 次代码。
+6. 在 38 个仓库提交了 **46** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -77,10 +78,10 @@ guilhermerossoni7-commits      █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 71 | **60** | -15% | 📉 -11 |
+| **总活动量** | 72 | **61** | -15% | 📉 -11 |
 | Pull Request | 16 | 14 | -12% | 📉 -2 |
 | Issue | 1 | 1 | 0% | ➡️ 持平 |
-| Commit | 54 | 45 | -17% | 📉 -9 |
+| Commit | 55 | 46 | -16% | 📉 -9 |
 
 - 🆕 **新增活跃仓库**：`ChristianTryti/thanos-fork-of-fork`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `dongjiang1989/dongjiang1989`, `idadmin007/prometheus`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `volcano-sh/community`, `wangw111/thanos`, `yunshenliu92/prometheus`
 - ❌ **不再活跃的仓库**：`Project-HAMi/HAMi-core`, `bwplotka/mdox`, `kubernetes-sigs/descheduler`, `kubeservice-stack/common`, `punith1006/LaaS-Hami`, `raihanakbr/descheduler-custom`, `web38444/descheduler`
@@ -92,10 +93,10 @@ guilhermerossoni7-commits      █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **60** | PR + Issue + Commit |
+| 📊 **总活动** | **61** | PR + Issue + Commit |
 | 📝 **Pull Request** | 14 | 已合并 13，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 45 | 代码提交 |
+| 💻 **Commit** | 46 | 代码提交 |
 
 ---
 
@@ -103,22 +104,22 @@ guilhermerossoni7-commits      █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-05-12（一）** | **9** | █████████ | 9 项活动（thanos-io/thanos), idadmin007/prometheus, prometheus-community/helm-charts） |
-| **2025-05-13（二）** | **7** | ███████ | 7 项活动（thanos-io/thanos, kubeservice-stack/echo, wangw111/thanos） |
+| **2025-05-12（一）** | **9** | █████████ | 9 项活动（yunshenliu92/prometheus, Scaling-Smart/prometheus-helm-charts, idadmin007/prometheus） |
+| **2025-05-13（二）** | **7** | ███████ | 7 项活动（wangw111/thanos, ChristianTryti/thanos-fork-of-fork, thanos-io/thanos） |
 | 2025-05-14（三） | 1 | █░░░░ | Issue #81 |
-| **2025-05-15（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), jacobsee/usr-kubernetes-sigs-controller-tools, kubernetes-sigs/controller-tools） |
+| **2025-05-15（四）** | **7** | ███████ | 7 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, prometheus-operator/prometheus-operator） |
 | 2025-05-16（五） | 2 | ██░░░ | PR #7526 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: ignore is |
 | 2025-05-17（六） | 0 | ░░░░░ | — |
 | 2025-05-18（日） | 0 | ░░░░░ | — |
-| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus/prometheus), prometheus-operator/prometheus-operator), dongjiang1989/dongjiang1989） |
+| **2025-05-19（一）** | **7** | ███████ | 7 项活动（prometheus/prometheus), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-05-20（二） | 3 | ███░░ | PR #7547 (prometheus-operator/prometheus-operator); PR #7543 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: add conve |
 | 2025-05-21（三） | 0 | ░░░░░ | — |
 | 2025-05-22（四） | 1 | █░░░░ | PR #16625 (prometheus/prometheus) |
 | 2025-05-23（五） | 0 | ░░░░░ | — |
-| **2025-05-24（六）** | **23** | ████████████████████ | 23 项活动（mayhemheroes/prometheus, grafana/mimir-prometheus, pvlltvk/proxeus-prometheus） |
+| **2025-05-24（六）** | **24** | ████████████████████ | 24 项活动（aimultiple-benchmark/prometheus-bench-cr-2, shawnlinator/beryl-seal, sg-scale/prometheus--v3.8.1） |
 | 2025-05-25（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-05-24（23 次活动）为最高峰。
+> **活跃高峰**：2025-05-24（24 次活动）为最高峰。
 
 ---
 
@@ -128,41 +129,42 @@ guilhermerossoni7-commits      █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **prometheus-operator** | 13 | 21.7% | prometheus-operator/prometheus-operator(13) | PR, Push |
-| prometheus | 5 | 8.3% | prometheus/prometheus(5) | PR, Push |
-| kubeservice-stack | 4 | 6.7% | kubeservice-stack/echo(4) | Push |
-| aimultiple-benchmark | 4 | 6.7% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
-| thanos-io | 3 | 5.0% | thanos-io/thanos(3) | PR, Push |
+| **prometheus-operator** | 13 | 21.3% | prometheus-operator/prometheus-operator(13) | PR, Push |
+| prometheus | 5 | 8.2% | prometheus/prometheus(5) | PR, Push |
+| kubeservice-stack | 4 | 6.6% | kubeservice-stack/echo(4) | Push |
+| aimultiple-benchmark | 4 | 6.6% | aimultiple-benchmark/prometheus-bench-cur-2(1), aimultiple-benchmark/prometheus-bench-cp-2(1), aimultiple-benchmark/prometheus-bench-cr-2(1) | Push |
+| thanos-io | 3 | 4.9% | thanos-io/thanos(3) | PR, Push |
 | kubernetes-sigs | 2 | 3.3% | kubernetes-sigs/controller-tools(2) | PR, Push |
-| volcano-sh | 1 | 1.7% | volcano-sh/community(1) | Issue |
-| rhobs | 1 | 1.7% | rhobs/obo-prometheus(1) | Push |
-| priyapaanchoco-boop | 1 | 1.7% | priyapaanchoco-boop/vcode-prometheus-typed-label-sorting(1) | Push |
-| rajendra-k10200 | 1 | 1.7% | rajendra-k10200/prometheus(1) | Push |
-| grafana | 1 | 1.7% | grafana/mimir-prometheus(1) | Push |
-| 0xkato | 1 | 1.7% | 0xkato/prometheus-fork(1) | Push |
-| mayhemheroes | 1 | 1.7% | mayhemheroes/prometheus(1) | Push |
-| niksingla | 1 | 1.7% | niksingla/finding-dory-prometheus-typed-label-sorting(1) | Push |
-| aperturerobotics | 1 | 1.7% | aperturerobotics/prometheus-lite(1) | Push |
-| wangw111 | 1 | 1.7% | wangw111/thanos(1) | Push |
-| sg-scale | 1 | 1.7% | sg-scale/prometheus--v3.8.1(1) | Push |
-| prometheus-community | 1 | 1.7% | prometheus-community/helm-charts(1) | Push |
-| jacobsee | 1 | 1.7% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
-| yunshenliu92 | 1 | 1.7% | yunshenliu92/prometheus(1) | Push |
-| demogxp-mig | 1 | 1.7% | demogxp-mig/prometheus(1) | Push |
-| elouafi-abderrahmane-2002 | 1 | 1.7% | elouafi-abderrahmane-2002/prometheus(1) | Push |
-| shawnlinator | 1 | 1.7% | shawnlinator/beryl-seal(1) | Push |
-| Sanjaykumar2-creator | 1 | 1.7% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
-| demogxp-mig2 | 1 | 1.7% | demogxp-mig2/prometheus(1) | Push |
-| idadmin007 | 1 | 1.7% | idadmin007/prometheus(1) | Push |
-| mlops143681 | 1 | 1.7% | mlops143681/prometheus(1) | Push |
-| Scaling-Smart | 1 | 1.7% | Scaling-Smart/prometheus-helm-charts(1) | Push |
-| SINDEKARHAS | 1 | 1.7% | SINDEKARHAS/Prometheus(1) | Push |
-| pvlltvk | 1 | 1.7% | pvlltvk/proxeus-prometheus(1) | Push |
-| psharma0905 | 1 | 1.7% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
-| dongjiang1989 | 1 | 1.7% | dongjiang1989/dongjiang1989(1) | Push |
-| ChristianTryti | 1 | 1.7% | ChristianTryti/thanos-fork-of-fork(1) | Push |
-| cnloxiaoteng-ship-it | 1 | 1.7% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
-| guilhermerossoni7-commits | 1 | 1.7% | guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting(1) | Push |
+| volcano-sh | 1 | 1.6% | volcano-sh/community(1) | Issue |
+| rhobs | 1 | 1.6% | rhobs/obo-prometheus(1) | Push |
+| priyapaanchoco-boop | 1 | 1.6% | priyapaanchoco-boop/vcode-prometheus-typed-label-sorting(1) | Push |
+| rajendra-k10200 | 1 | 1.6% | rajendra-k10200/prometheus(1) | Push |
+| grafana | 1 | 1.6% | grafana/mimir-prometheus(1) | Push |
+| 0xkato | 1 | 1.6% | 0xkato/prometheus-fork(1) | Push |
+| mayhemheroes | 1 | 1.6% | mayhemheroes/prometheus(1) | Push |
+| niksingla | 1 | 1.6% | niksingla/finding-dory-prometheus-typed-label-sorting(1) | Push |
+| aperturerobotics | 1 | 1.6% | aperturerobotics/prometheus-lite(1) | Push |
+| wangw111 | 1 | 1.6% | wangw111/thanos(1) | Push |
+| sg-scale | 1 | 1.6% | sg-scale/prometheus--v3.8.1(1) | Push |
+| prometheus-community | 1 | 1.6% | prometheus-community/helm-charts(1) | Push |
+| jacobsee | 1 | 1.6% | jacobsee/usr-kubernetes-sigs-controller-tools(1) | Push |
+| yunshenliu92 | 1 | 1.6% | yunshenliu92/prometheus(1) | Push |
+| demogxp-mig | 1 | 1.6% | demogxp-mig/prometheus(1) | Push |
+| elouafi-abderrahmane-2002 | 1 | 1.6% | elouafi-abderrahmane-2002/prometheus(1) | Push |
+| shawnlinator | 1 | 1.6% | shawnlinator/beryl-seal(1) | Push |
+| Sanjaykumar2-creator | 1 | 1.6% | Sanjaykumar2-creator/aispm-test-33(1) | Push |
+| demogxp-mig2 | 1 | 1.6% | demogxp-mig2/prometheus(1) | Push |
+| idadmin007 | 1 | 1.6% | idadmin007/prometheus(1) | Push |
+| mlops143681 | 1 | 1.6% | mlops143681/prometheus(1) | Push |
+| embryo-zero | 1 | 1.6% | embryo-zero/embryo-monitor(1) | Push |
+| Scaling-Smart | 1 | 1.6% | Scaling-Smart/prometheus-helm-charts(1) | Push |
+| SINDEKARHAS | 1 | 1.6% | SINDEKARHAS/Prometheus(1) | Push |
+| pvlltvk | 1 | 1.6% | pvlltvk/proxeus-prometheus(1) | Push |
+| psharma0905 | 1 | 1.6% | psharma0905/Prometheus-and-Grafana-helm-charts(1) | Push |
+| dongjiang1989 | 1 | 1.6% | dongjiang1989/dongjiang1989(1) | Push |
+| ChristianTryti | 1 | 1.6% | ChristianTryti/thanos-fork-of-fork(1) | Push |
+| cnloxiaoteng-ship-it | 1 | 1.6% | cnloxiaoteng-ship-it/helm-charts(1) | Push |
+| guilhermerossoni7-commits | 1 | 1.6% | guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -301,6 +303,7 @@ guilhermerossoni7-commits      █                    2%
 | demogxp-mig2/prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | idadmin007/prometheus | 1 | 2025-05-12 | [prometheus-pingmesh-exporter] add externalTraffic |
 | mlops143681/prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
+| embryo-zero/embryo-monitor | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | Scaling-Smart/prometheus-helm-charts | 1 | 2025-05-12 | [prometheus-pingmesh-exporter] add externalTraffic |
 | SINDEKARHAS/Prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
 | prometheus/prometheus | 1 | 2025-05-24 | fix metric_name_escaping_scheme option (#16625) |
@@ -329,4 +332,4 @@ guilhermerossoni7-commits      █                    2%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

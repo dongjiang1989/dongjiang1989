@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -49,13 +49,13 @@ anil7000                       █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 45 | **39** | -13% | 📉 -6 |
+| **总活动量** | 46 | **39** | -15% | 📉 -7 |
 | Pull Request | 7 | 15 | +114% | 📈 +8 |
 | Issue | 5 | 1 | -80% | 📉 -4 |
-| Commit | 33 | 23 | -30% | 📉 -10 |
+| Commit | 34 | 23 | -32% | 📉 -11 |
 
 - 🆕 **新增活跃仓库**：`anil7000/external-dns`, `dongjiang1989/zookeeper-registry`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/external-dns`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/kueue`, `kubeservice-stack/kubservice-charts`, `kubeservice-stack/lua-resty-zookeeper`, `kubeservice-stack/lxcfs-webhook`, `kumorion/external-dns`
-- ❌ **不再活跃的仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `aperturerobotics/prometheus-lite`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting`, `kagent-dev/kagent`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `niksingla/finding-dory-prometheus-typed-label-sorting`, `priyapaanchoco-boop/vcode-prometheus-typed-label-sorting`, `prometheus/prometheus`, `pukacho/kagent`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `shawnlinator/beryl-seal`, `tmohanvamsi/kagent`
+- ❌ **不再活跃的仓库**：`SINDEKARHAS/Prometheus`, `Sanjaykumar2-creator/aispm-test-33`, `apache/apisix`, `aperturerobotics/prometheus-lite`, `demogxp-mig/prometheus`, `demogxp-mig2/prometheus`, `dongjiang1989/dongjiang1989`, `elouafi-abderrahmane-2002/prometheus`, `embryo-zero/embryo-monitor`, `erauner12/kagent-detached`, `grafana/grafana`, `grafana/mimir-prometheus`, `guilhermerossoni7-commits/finding-dory-prometheus-typed-label-sorting`, `kagent-dev/kagent`, `kubernetes-sigs/metrics-server`, `kubernetes/org`, `niksingla/finding-dory-prometheus-typed-label-sorting`, `priyapaanchoco-boop/vcode-prometheus-typed-label-sorting`, `prometheus/prometheus`, `pukacho/kagent`, `rajendra-k10200/prometheus`, `rhobs/obo-prometheus`, `shawnlinator/beryl-seal`, `tmohanvamsi/kagent`
 - 🔄 **工作重心转移**：从 **kubernetes-sigs** 转向 **kubeservice-stack**
 
 ---
@@ -85,12 +85,12 @@ Signed-of; kubernetes-sigs/external-dns: fix typo (#6011)
 Si; anil7000/external-dns: fix typo (#6011)
 
 Signed-of |
-| 2025-12-12（五） | 4 | ████░ | 4 项活动（kubeservice-stack/kubservice-charts, prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator)） |
+| 2025-12-12（五） | 4 | ████░ | 4 项活动（kubernetes-sigs/kueue), prometheus-operator/prometheus-operator), prometheus-operator/prometheus-operator） |
 | 2025-12-13（六） | 0 | ░░░░░ | — |
 | 2025-12-14（日） | 0 | ░░░░░ | — |
-| **2025-12-15（一）** | **12** | ████████████ | 12 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools)） |
+| **2025-12-15（一）** | **12** | ████████████ | 12 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lua-resty-zookeeper, kubernetes-sigs/controller-tools)） |
 | 2025-12-16（二） | 3 | ███░░ | PR #8182 (prometheus-operator/prometheus-operator); PR #8181 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update ki |
-| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, prometheus-operator/prometheus-operator), dongjiang1989/zookeeper-registry） |
+| **2025-12-17（三）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubeservice-stack/lua-resty-zookeeper, prometheus-operator/prometheus-operator)） |
 | 2025-12-18（四） | 1 | █░░░░ | PR #8192 (prometheus-operator/prometheus-operator) |
 | 2025-12-19（五） | 3 | ███░░ | PR #1 (kubeservice-stack/lua-resty-zookeeper); kubeservice-stack/lua-resty-zookeeper: Merge pull ; kubeservice-stack/lua-resty-zookeeper: add lua lin |
 | 2025-12-20（六） | 0 | ░░░░░ | — |
@@ -259,4 +259,4 @@ Signed-of |
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

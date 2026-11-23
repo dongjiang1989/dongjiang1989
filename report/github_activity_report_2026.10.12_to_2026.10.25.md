@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **11** 个 |
-| 涉及仓库数 | **14** 个 |
+| 涉及组织数 | **10** 个 |
+| 涉及仓库数 | **13** 个 |
 | Pull Request 数 | **12** 个（已合并 11，开放 1） |
 | Issue 数 | **3** 个 |
-| Commit 数 | **18** 次 |
-| 总活动量 | **33** |
+| Commit 数 | **17** 次 |
+| 总活动量 | **32** |
 
 ### 🎯 工作重心分布
 
 ```
-kubernetes-sigs                ██████               33%
-ai-dynamo                      ███                  18%
+kubernetes-sigs                ██████               34%
+ai-dynamo                      ███                  19%
 agentgateway                   █                    9%
 prometheus-operator            █                    6%
 vllm-project                   █                    6%
@@ -35,17 +35,16 @@ dongjiang1989                  █                    6%
 XHToken                        █                    6%
 kubeai-project                 █                    3%
 BRIDGE-ALLAH                   █                    3%
-yhsmer                         █                    3%
 ```
 
 ### 💡 核心总结
 
-1. **kubernetes-sigs** 是最大贡献方向（33%），涉及 2 个仓库，共 11 次活动。
+1. **kubernetes-sigs** 是最大贡献方向（34%），涉及 2 个仓库，共 11 次活动。
 2. 共 **11** 个 PR 已合并，覆盖 7 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2026-10-23**（7 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2026-10-23**（6 次活动），展现了高强度的工作节奏。
 5. 创建了 **3** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 14 个仓库提交了 **18** 次代码。
+6. 在 13 个仓库提交了 **17** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -53,12 +52,12 @@ yhsmer                         █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 38 | **33** | -13% | 📉 -5 |
+| **总活动量** | 38 | **32** | -16% | 📉 -6 |
 | Pull Request | 19 | 12 | -37% | 📉 -7 |
 | Issue | 2 | 3 | +50% | 📈 +1 |
-| Commit | 17 | 18 | +6% | 📈 +1 |
+| Commit | 17 | 17 | 0% | ➡️ 持平 |
 
-- 🆕 **新增活跃仓库**：`BRIDGE-ALLAH/MW-GATEWAY`, `XHToken/Spark-X2.6`, `XHToken/dsh-intelligent-router`, `ai-dynamo/dynamo`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-tools`, `meta-pytorch/tokenizers`, `vllm-project/aibrix`, `yhsmer/dynamo`
+- 🆕 **新增活跃仓库**：`BRIDGE-ALLAH/MW-GATEWAY`, `XHToken/Spark-X2.6`, `XHToken/dsh-intelligent-router`, `ai-dynamo/dynamo`, `dongjiang1989/dongjiang1989`, `kubernetes-sigs/controller-tools`, `meta-pytorch/tokenizers`, `vllm-project/aibrix`
 - ❌ **不再活跃的仓库**：`TejasweeSulekh/executorch-dev`, `e2bgateway/e2bgateway`, `iflytek/.github`, `iflytek/website`, `kubernetes-sigs/controller-runtime`, `pytorch/executorch`
 - 🔄 **工作重心转移**：从 **e2bgateway** 转向 **kubernetes-sigs**
 
@@ -68,10 +67,10 @@ yhsmer                         █                    3%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **33** | PR + Issue + Commit |
+| 📊 **总活动** | **32** | PR + Issue + Commit |
 | 📝 **Pull Request** | 12 | 已合并 11，开放 1 |
 | 📋 **Issue** | 3 | 创建 Issue |
-| 💻 **Commit** | 18 | 代码提交 |
+| 💻 **Commit** | 17 | 代码提交 |
 
 ---
 
@@ -87,16 +86,16 @@ yhsmer                         █                    3%
 | 2026-10-17（六） | 3 | ███░░ | agentgateway/website: Fix PR review comments for b; vllm-project/aibrix: [Bug] Always download small r; XHToken/dsh-intelligent-router: feat: initial rele |
 | 2026-10-18（日） | 0 | ░░░░░ | — |
 | 2026-10-19（一） | 3 | ███░░ | PR #16771 (ai-dynamo/dynamo); Issue #16770; dongjiang1989/dongjiang1989: docs: add GOPS 2026 S |
-| **2026-10-20（二）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox), prometheus-operator/prometheus-operator)） |
+| **2026-10-20（二）** | **6** | ██████ | 6 项活动（dongjiang1989/dongjiang1989, meta-pytorch/tokenizers, prometheus-operator/prometheus-operator） |
 | 2026-10-21（三） | 3 | ███░░ | XHToken/Spark-X2.6: Release Spark X2.6
 
 Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/agent-sandbox: Bump: Update golang |
 | 2026-10-22（四） | 0 | ░░░░░ | — |
-| **2026-10-23（五）** | **7** | ███████ | 7 项活动（agentgateway/agentgateway), ai-dynamo/dynamo, ai-dynamo/dynamo)） |
+| **2026-10-23（五）** | **6** | ██████ | 6 项活动（ai-dynamo/dynamo, kubernetes-sigs/agent-sandbox), agentgateway/agentgateway)） |
 | 2026-10-24（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: examples: add deer- |
 | 2026-10-25（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2026-10-23（7 次活动）为最高峰。
+> **活跃高峰**：2026-10-23（6 次活动）为最高峰。
 
 ---
 
@@ -106,17 +105,16 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 11 | 33.3% | kubernetes-sigs/agent-sandbox(9), kubernetes-sigs/controller-tools(2) | PR, Push |
-| ai-dynamo | 6 | 18.2% | ai-dynamo/dynamo(6) | Issue, PR, Push |
-| agentgateway | 3 | 9.1% | agentgateway/agentgateway(2), agentgateway/website(1) | PR, Push |
-| prometheus-operator | 2 | 6.1% | prometheus-operator/prometheus-operator(2) | PR, Push |
-| vllm-project | 2 | 6.1% | vllm-project/aibrix(2) | PR, Push |
-| meta-pytorch | 2 | 6.1% | meta-pytorch/tokenizers(2) | PR, Push |
-| dongjiang1989 | 2 | 6.1% | dongjiang1989/dongjiang1989(2) | Push |
-| XHToken | 2 | 6.1% | XHToken/Spark-X2.6(1), XHToken/dsh-intelligent-router(1) | Push |
-| kubeai-project | 1 | 3.0% | kubeai-project/kubeai(1) | Push |
-| BRIDGE-ALLAH | 1 | 3.0% | BRIDGE-ALLAH/MW-GATEWAY(1) | Push |
-| yhsmer | 1 | 3.0% | yhsmer/dynamo(1) | Push |
+| **kubernetes-sigs** | 11 | 34.4% | kubernetes-sigs/agent-sandbox(9), kubernetes-sigs/controller-tools(2) | PR, Push |
+| ai-dynamo | 6 | 18.8% | ai-dynamo/dynamo(6) | Issue, PR, Push |
+| agentgateway | 3 | 9.4% | agentgateway/agentgateway(2), agentgateway/website(1) | PR, Push |
+| prometheus-operator | 2 | 6.2% | prometheus-operator/prometheus-operator(2) | PR, Push |
+| vllm-project | 2 | 6.2% | vllm-project/aibrix(2) | PR, Push |
+| meta-pytorch | 2 | 6.2% | meta-pytorch/tokenizers(2) | PR, Push |
+| dongjiang1989 | 2 | 6.2% | dongjiang1989/dongjiang1989(2) | Push |
+| XHToken | 2 | 6.2% | XHToken/Spark-X2.6(1), XHToken/dsh-intelligent-router(1) | Push |
+| kubeai-project | 1 | 3.1% | kubeai-project/kubeai(1) | Push |
+| BRIDGE-ALLAH | 1 | 3.1% | BRIDGE-ALLAH/MW-GATEWAY(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -239,7 +237,6 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 | vllm-project/aibrix | 1 | 2026-10-17 | [Bug] Always download small runtime-critical files |
 | prometheus-operator/prometheus-operator | 1 | 2026-10-20 | chore: Update golangci-linter version to v2.15.0 |
 | XHToken/dsh-intelligent-router | 1 | 2026-10-17 | feat: initial release — intelligent LLM routing pl |
-| yhsmer/dynamo | 1 | 2026-10-23 | build(operator): enable the modernize golangci-lin |
 | meta-pytorch/tokenizers | 1 | 2026-10-20 | Fix loading of HF tokenizers with no-op normalizer |
 
 ---
@@ -259,4 +256,4 @@ Signed-off; kubernetes-sigs/agent-sandbox: examples: add claud; kubernetes-sigs/
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

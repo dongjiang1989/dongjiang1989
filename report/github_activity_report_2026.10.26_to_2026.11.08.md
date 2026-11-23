@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,19 +15,19 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **17** 个 |
-| 涉及仓库数 | **22** 个 |
-| Pull Request 数 | **41** 个（已合并 26，开放 15） |
+| 涉及组织数 | **16** 个 |
+| 涉及仓库数 | **21** 个 |
+| Pull Request 数 | **41** 个（已合并 27，开放 14） |
 | Issue 数 | **7** 个 |
-| Commit 数 | **36** 次 |
-| 总活动量 | **84** |
+| Commit 数 | **35** 次 |
+| 总活动量 | **83** |
 
 ### 🎯 工作重心分布
 
 ```
 kubernetes-sigs                ████                 20%
 ai-dynamo                      ███                  17%
-prometheus-operator            ███                  15%
+prometheus-operator            ███                  16%
 agentgateway                   ██                   11%
 a2aproject                     █                    6%
 prometheus-community           █                    5%
@@ -41,17 +41,16 @@ dongjiang1989                  █                    2%
 prometheus                     █                    1%
 NVIDIA                         █                    1%
 XHToken                        █                    1%
-yhsmer                         █                    1%
 ```
 
 ### 💡 核心总结
 
 1. **kubernetes-sigs** 是最大贡献方向（20%），涉及 4 个仓库，共 17 次活动。
-2. 共 **26** 个 PR 已合并，覆盖 13 个仓库。
-3. **15** 个 PR 仍在开放/Review 中。
+2. 共 **27** 个 PR 已合并，覆盖 13 个仓库。
+3. **14** 个 PR 仍在开放/Review 中。
 4. 活跃高峰出现在 **2026-11-05**（17 次活动），展现了高强度的工作节奏。
 5. 创建了 **7** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 17 个仓库提交了 **36** 次代码。
+6. 在 16 个仓库提交了 **35** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -59,10 +58,10 @@ yhsmer                         █                    1%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 33 | **84** | +155% | 📈 +51 |
+| **总活动量** | 32 | **83** | +159% | 📈 +51 |
 | Pull Request | 12 | 41 | +242% | 📈 +29 |
 | Issue | 3 | 7 | +133% | 📈 +4 |
-| Commit | 18 | 36 | +100% | 📈 +18 |
+| Commit | 17 | 35 | +106% | 📈 +18 |
 
 - 🆕 **新增活跃仓库**：`NVIDIA/TensorRT-LLM`, `a-ghorbani/pocketpal-ai`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/a2a-go`, `agent-substrate/substrate`, `ai-dynamo/grove`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/kubebuilder`, `mybigday/llama.rn`, `openenv/OpenEnv`, `prometheus-community/prom-label-proxy`, `prometheus/prometheus`, `pytorch/executorch`
 - ❌ **不再活跃的仓库**：`XHToken/dsh-intelligent-router`, `agentgateway/website`, `kubeai-project/kubeai`, `meta-pytorch/tokenizers`, `vllm-project/aibrix`
@@ -74,10 +73,10 @@ yhsmer                         █                    1%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **84** | PR + Issue + Commit |
-| 📝 **Pull Request** | 41 | 已合并 26，开放 15 |
+| 📊 **总活动** | **83** | PR + Issue + Commit |
+| 📝 **Pull Request** | 41 | 已合并 27，开放 14 |
 | 📋 **Issue** | 7 | 创建 Issue |
-| 💻 **Commit** | 36 | 代码提交 |
+| 💻 **Commit** | 35 | 代码提交 |
 
 ---
 
@@ -85,18 +84,18 @@ yhsmer                         █                    1%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2026-10-26（一）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools） |
-| **2026-10-27（二）** | **8** | ████████ | 8 项活动（agentgateway/agentgateway), kubernetes-sigs/agent-sandbox), agent-substrate/substrate)） |
-| **2026-10-28（三）** | **6** | ██████ | 6 项活动（prometheus-operator/prometheus-operator, a-ghorbani/pocketpal-device-rules, prometheus-operator/prometheus-operator)） |
-| **2026-10-29（四）** | **9** | █████████ | 9 项活动（mybigday/llama.rn), agentgateway/agentgateway, ai-dynamo/dynamo)） |
+| **2026-10-26（一）** | **12** | ████████████ | 12 项活动（kubernetes-sigs/controller-tools), kubernetes-sigs/controller-tools, kubernetes-sigs/controller-runtime） |
+| **2026-10-27（二）** | **8** | ████████ | 8 项活动（kubernetes-sigs/agent-sandbox, agent-substrate/substrate), kubernetes-sigs/agent-sandbox)） |
+| **2026-10-28（三）** | **6** | ██████ | 6 项活动（a-ghorbani/pocketpal-device-rules), a-ghorbani/pocketpal-device-rules, prometheus-operator/prometheus-operator） |
+| **2026-10-29（四）** | **9** | █████████ | 9 项活动（kubernetes-sigs/agent-sandbox, pytorch/executorch), BRIDGE-ALLAH/MW-GATEWAY） |
 | 2026-10-30（五） | 2 | ██░░░ | mybigday/llama.rn: feat: sync llama.cpp to v0.8.0 ; kubernetes-sigs/agent-sandbox: examples: Add an ex |
 | 2026-10-31（六） | 1 | █░░░░ | pytorch/executorch: feat(example): Add Spark-X2.6  |
 | 2026-11-01（日） | 0 | ░░░░░ | — |
-| **2026-11-02（一）** | **10** | ██████████ | 10 项活动（agentgateway/agentgateway), ai-dynamo/dynamo, prometheus-operator/prometheus-operator） |
+| **2026-11-02（一）** | **9** | █████████ | 9 项活动（agentgateway/agentgateway), prometheus-operator/prometheus-operator, ai-dynamo/dynamo） |
 | 2026-11-03（二） | 4 | ████░ | 4 项活动（BRIDGE-ALLAH/MW-GATEWAY, agentgateway/agentgateway） |
-| **2026-11-04（三）** | **7** | ███████ | 7 项活动（NVIDIA/TensorRT-LLM), ai-dynamo/dynamo), openenv/OpenEnv)） |
-| **2026-11-05（四）** | **17** | █████████████████ | 17 项活动（kubernetes-sigs/kubebuilder, a2aproject/a2a-go, openenv/OpenEnv） |
-| **2026-11-06（五）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/agent-sandbox), prometheus-community/prom-label-proxy)） |
+| **2026-11-04（三）** | **7** | ███████ | 7 项活动（NVIDIA/TensorRT-LLM), openenv/OpenEnv), kubernetes-sigs/kubebuilder)） |
+| **2026-11-05（四）** | **17** | █████████████████ | 17 项活动（ai-dynamo/grove), kubernetes-sigs/agent-sandbox, kubernetes-sigs/kubebuilder） |
+| **2026-11-06（五）** | **7** | ███████ | 7 项活动（prometheus-operator/prometheus-operator, prometheus-community/prom-label-proxy), kubernetes-sigs/agent-sandbox)） |
 | 2026-11-07（六） | 1 | █░░░░ | kubernetes-sigs/agent-sandbox: fix(sandbox-router) |
 | 2026-11-08（日） | 0 | ░░░░░ | — |
 
@@ -110,10 +109,10 @@ yhsmer                         █                    1%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 17 | 20.2% | kubernetes-sigs/agent-sandbox(11), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
-| ai-dynamo | 14 | 16.7% | ai-dynamo/dynamo(8), ai-dynamo/grove(6) | Issue, PR, Push |
-| prometheus-operator | 13 | 15.5% | prometheus-operator/prometheus-operator(13) | PR, Push |
-| agentgateway | 9 | 10.7% | agentgateway/agentgateway(9) | PR, Push |
+| **kubernetes-sigs** | 17 | 20.5% | kubernetes-sigs/agent-sandbox(11), kubernetes-sigs/kubebuilder(2), kubernetes-sigs/controller-runtime(2) | PR, Push |
+| ai-dynamo | 14 | 16.9% | ai-dynamo/dynamo(8), ai-dynamo/grove(6) | Issue, PR, Push |
+| prometheus-operator | 13 | 15.7% | prometheus-operator/prometheus-operator(13) | PR, Push |
+| agentgateway | 9 | 10.8% | agentgateway/agentgateway(9) | PR, Push |
 | a2aproject | 5 | 6.0% | a2aproject/a2a-go(5) | PR, Push |
 | prometheus-community | 4 | 4.8% | prometheus-community/prom-label-proxy(4) | PR, Push |
 | BRIDGE-ALLAH | 4 | 4.8% | BRIDGE-ALLAH/MW-GATEWAY(4) | Push |
@@ -126,7 +125,6 @@ yhsmer                         █                    1%
 | prometheus | 1 | 1.2% | prometheus/prometheus(1) | PR |
 | NVIDIA | 1 | 1.2% | NVIDIA/TensorRT-LLM(1) | PR |
 | XHToken | 1 | 1.2% | XHToken/Spark-X2.6(1) | Push |
-| yhsmer | 1 | 1.2% | yhsmer/dynamo(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -134,7 +132,7 @@ yhsmer                         █                    1%
 |------|------|--------|------|---------|---------|----------|
 | 1 | **prometheus-operator/prometheus-operator** | 13 | 6 | 0 | 7 | PR #8949: chore: bump prom-label-proxy to v0.16.2 ; PR #8946: chore: bump controller-tools to v0.23.0; PR #8933: feat: Add support for the `web.cors.orig |
 | 2 | **kubernetes-sigs/agent-sandbox** | 11 | 6 | 0 | 5 | PR #2196: fix(sandbox-router): report DeadlineExce; PR #2143: feat(sandbox-router): transcode gRPC-Web; PR #2100: examples: Add an example that runs the O |
-| 3 | **agentgateway/agentgateway** | 9 | 5 | 0 | 4 | PR #4261: llm: inject propertyOrdering into Gemini; PR #4260: cel-fork: add missing README.md symlink ; PR #4259: feat(llm): support the ultrafast pricing |
+| 3 | **agentgateway/agentgateway** | 9 | 5 | 0 | 4 | PR #4261: llm: send structured-output schemas to G; PR #4260: cel-fork: add missing README.md symlink ; PR #4259: feat(llm): support the ultrafast pricing |
 | 4 | **ai-dynamo/dynamo** | 8 | 4 | 3 | 1 | PR #18187: test(operator): compare Kubernetes API ; PR #18012: feat(operator): bump controller-runtime; PR #17571: docs(examples): add out-of-tree vLLM pl |
 | 5 | **ai-dynamo/grove** | 6 | 3 | 3 | 0 | PR #981: build(lint): enable the modernize golangc; PR #977: chore(controller): use semantic equality ; PR #976: Bump k8s.io/* to v0.37.2 and regenerate C |
 | 6 | **a2aproject/a2a-go** | 5 | 3 | 0 | 2 | PR #531: feat(a2aclient): announce A2A-Version on ; PR #497: fix(a2aclient): honor API key security sc; PR #496: feat(a2asrv): agent card HTTP caching (ET |
@@ -159,24 +157,25 @@ yhsmer                         █                    1%
 | 6 | openenv/OpenEnv | [#1558](https://github.com/openenv/OpenEnv/pull/1558) | fix: harden HFSandboxProvider local auth proxy | ✅ 已合并 |
 | 7 | kubernetes-sigs/kubebuilder | [#6156](https://github.com/kubernetes-sigs/kubebuilder/pull/6156) | ✨ (go/v4): upgrade golangci-lint to v2.15.0 | ✅ 已合并 |
 | 8 | kubernetes-sigs/agent-sandbox | [#2143](https://github.com/kubernetes-sigs/agent-sandbox/pull/2143) | feat(sandbox-router): transcode gRPC-Web for browser clients | ✅ 已合并 |
-| 9 | agentgateway/agentgateway | [#4260](https://github.com/agentgateway/agentgateway/pull/4260) | cel-fork: add missing README.md symlink target | ✅ 已合并 |
-| 10 | agentgateway/agentgateway | [#4259](https://github.com/agentgateway/agentgateway/pull/4259) | feat(llm): support the ultrafast pricing tier for GPT models | ✅ 已合并 |
-| 11 | prometheus-operator/prometheus-operator | [#8933](https://github.com/prometheus-operator/prometheus-operator/pull/8933) | feat: Add support for the `web.cors.origin` flag in alertmanager | ✅ 已合并 |
-| 12 | prometheus-operator/prometheus-operator | [#8932](https://github.com/prometheus-operator/prometheus-operator/pull/8932) | chore: Bump alertmanager version to v0.34.2 | ✅ 已合并 |
-| 13 | kubernetes-sigs/agent-sandbox | [#2100](https://github.com/kubernetes-sigs/agent-sandbox/pull/2100) | examples: Add an example that runs the OpenCode coding agent in a sand | ✅ 已合并 |
-| 14 | prometheus-operator/prometheus-operator | [#8924](https://github.com/prometheus-operator/prometheus-operator/pull/8924) | Bump thanos version to v0.42.5 | ✅ 已合并 |
-| 15 | mybigday/llama.rn | [#423](https://github.com/mybigday/llama.rn/pull/423) | feat: sync llama.cpp to v0.8.0 & port its new decision models | ✅ 已合并 |
-| 16 | pytorch/executorch | [#24271](https://github.com/pytorch/executorch/pull/24271) | feat(example): Add Spark-X2.6 1.7B and 4B model support | ✅ 已合并 |
-| 17 | prometheus-operator/prometheus-operator | [#8923](https://github.com/prometheus-operator/prometheus-operator/pull/8923) | Bump prometheus lts version to v3.13.5 | ✅ 已合并 |
-| 18 | a-ghorbani/pocketpal-device-rules | [#11](https://github.com/a-ghorbani/pocketpal-device-rules/pull/11) | feat: Spark-X2.6 in iOS/Android v2 (mid/high 1.7B, flagship 4B), gated | ✅ 已合并 |
-| 19 | a2aproject/a2a-go | [#497](https://github.com/a2aproject/a2a-go/pull/497) | fix(a2aclient): honor API key security scheme Location | ✅ 已合并 |
-| 20 | a2aproject/a2a-go | [#496](https://github.com/a2aproject/a2a-go/pull/496) | feat(a2asrv): agent card HTTP caching (ETag/304, opt-in Cache-Control) | ✅ 已合并 |
-| 21 | kubernetes-sigs/agent-sandbox | [#2073](https://github.com/kubernetes-sigs/agent-sandbox/pull/2073) | Add dongjiang1989 to internal/metrics and packages/sandboxd OWNERS | 🔒 已关闭 |
-| 22 | agentgateway/agentgateway | [#4151](https://github.com/agentgateway/agentgateway/pull/4151) | llm: send thinkingLevel instead of thinkingBudget for gemma-4 and gemi | ✅ 已合并 |
-| 23 | ai-dynamo/dynamo | [#17304](https://github.com/ai-dynamo/dynamo/pull/17304) | feat(operator): add dynamo_operator_build_info metric | ✅ 已合并 |
-| 24 | kubernetes-sigs/controller-runtime | [#3626](https://github.com/kubernetes-sigs/controller-runtime/pull/3626) | 🌱 Update golangci-lint to v2.15.0 | ✅ 已合并 |
-| 25 | kubernetes-sigs/controller-tools | [#1496](https://github.com/kubernetes-sigs/controller-tools/pull/1496) | 🌱 Upgrade golangci-lint to v2.15.0 | ✅ 已合并 |
-| 26 | kubernetes-sigs/agent-sandbox | [#2064](https://github.com/kubernetes-sigs/agent-sandbox/pull/2064) | feat(examples): add deepagents example | ✅ 已合并 |
+| 9 | agentgateway/agentgateway | [#4261](https://github.com/agentgateway/agentgateway/pull/4261) | llm: send structured-output schemas to Gemini via responseJsonSchema | ✅ 已合并 |
+| 10 | agentgateway/agentgateway | [#4260](https://github.com/agentgateway/agentgateway/pull/4260) | cel-fork: add missing README.md symlink target | ✅ 已合并 |
+| 11 | agentgateway/agentgateway | [#4259](https://github.com/agentgateway/agentgateway/pull/4259) | feat(llm): support the ultrafast pricing tier for GPT models | ✅ 已合并 |
+| 12 | prometheus-operator/prometheus-operator | [#8933](https://github.com/prometheus-operator/prometheus-operator/pull/8933) | feat: Add support for the `web.cors.origin` flag in alertmanager | ✅ 已合并 |
+| 13 | prometheus-operator/prometheus-operator | [#8932](https://github.com/prometheus-operator/prometheus-operator/pull/8932) | chore: Bump alertmanager version to v0.34.2 | ✅ 已合并 |
+| 14 | kubernetes-sigs/agent-sandbox | [#2100](https://github.com/kubernetes-sigs/agent-sandbox/pull/2100) | examples: Add an example that runs the OpenCode coding agent in a sand | ✅ 已合并 |
+| 15 | prometheus-operator/prometheus-operator | [#8924](https://github.com/prometheus-operator/prometheus-operator/pull/8924) | Bump thanos version to v0.42.5 | ✅ 已合并 |
+| 16 | mybigday/llama.rn | [#423](https://github.com/mybigday/llama.rn/pull/423) | feat: sync llama.cpp to v0.8.0 & port its new decision models | ✅ 已合并 |
+| 17 | pytorch/executorch | [#24271](https://github.com/pytorch/executorch/pull/24271) | feat(example): Add Spark-X2.6 1.7B and 4B model support | ✅ 已合并 |
+| 18 | prometheus-operator/prometheus-operator | [#8923](https://github.com/prometheus-operator/prometheus-operator/pull/8923) | Bump prometheus lts version to v3.13.5 | ✅ 已合并 |
+| 19 | a-ghorbani/pocketpal-device-rules | [#11](https://github.com/a-ghorbani/pocketpal-device-rules/pull/11) | feat: Spark-X2.6 in iOS/Android v2 (mid/high 1.7B, flagship 4B), gated | ✅ 已合并 |
+| 20 | a2aproject/a2a-go | [#497](https://github.com/a2aproject/a2a-go/pull/497) | fix(a2aclient): honor API key security scheme Location | ✅ 已合并 |
+| 21 | a2aproject/a2a-go | [#496](https://github.com/a2aproject/a2a-go/pull/496) | feat(a2asrv): agent card HTTP caching (ETag/304, opt-in Cache-Control) | ✅ 已合并 |
+| 22 | kubernetes-sigs/agent-sandbox | [#2073](https://github.com/kubernetes-sigs/agent-sandbox/pull/2073) | Add dongjiang1989 to internal/metrics and packages/sandboxd OWNERS | 🔒 已关闭 |
+| 23 | agentgateway/agentgateway | [#4151](https://github.com/agentgateway/agentgateway/pull/4151) | llm: send thinkingLevel instead of thinkingBudget for gemma-4 and gemi | ✅ 已合并 |
+| 24 | ai-dynamo/dynamo | [#17304](https://github.com/ai-dynamo/dynamo/pull/17304) | feat(operator): add dynamo_operator_build_info metric | ✅ 已合并 |
+| 25 | kubernetes-sigs/controller-runtime | [#3626](https://github.com/kubernetes-sigs/controller-runtime/pull/3626) | 🌱 Update golangci-lint to v2.15.0 | ✅ 已合并 |
+| 26 | kubernetes-sigs/controller-tools | [#1496](https://github.com/kubernetes-sigs/controller-tools/pull/1496) | 🌱 Upgrade golangci-lint to v2.15.0 | ✅ 已合并 |
+| 27 | kubernetes-sigs/agent-sandbox | [#2064](https://github.com/kubernetes-sigs/agent-sandbox/pull/2064) | feat(examples): add deepagents example | ✅ 已合并 |
 
 ### 5.2 进行中 / 开放的 PR 🔄
 
@@ -191,12 +190,11 @@ yhsmer                         █                    1%
 | 7 | NVIDIA/TensorRT-LLM | [#21630](https://github.com/NVIDIA/TensorRT-LLM/pull/21630) | [None][feat] Support Spark-X2.5/X2.6 (Spark2_5ForCausalLM) in PyTorch  | 🔄 开放 |
 | 8 | openenv/OpenEnv | [#1556](https://github.com/openenv/OpenEnv/pull/1556) | feat: add AgentSandboxProvider for kubernetes-sigs agent-sandbox | 🔄 开放 |
 | 9 | ai-dynamo/dynamo | [#18012](https://github.com/ai-dynamo/dynamo/pull/18012) | feat(operator): bump controller-runtime to v0.25.2 and enable client-g | 🔄 开放 |
-| 10 | agentgateway/agentgateway | [#4261](https://github.com/agentgateway/agentgateway/pull/4261) | llm: inject propertyOrdering into Gemini schemas to prevent constraine | 🔄 开放 |
-| 11 | ai-dynamo/dynamo | [#17571](https://github.com/ai-dynamo/dynamo/pull/17571) | docs(examples): add out-of-tree vLLM plugin deployment recipe (e.g. Sp | 🔄 开放 |
-| 12 | agent-substrate/substrate | [#3305](https://github.com/agent-substrate/substrate/pull/3305) | ateapi: reject policy members that exceed OpenFGA's 512-byte user limi | 🔄 开放 |
-| 13 | agent-substrate/substrate | [#3304](https://github.com/agent-substrate/substrate/pull/3304) | ateapi: fix name the target template UID in the source Tag mismatch er | 🔄 开放 |
-| 14 | kubernetes-sigs/agent-sandbox | [#2072](https://github.com/kubernetes-sigs/agent-sandbox/pull/2072) | docs(kep-539.2): add exit event retention, Wait RPC, and detached proc | 🔄 开放 |
-| 15 | agentgateway/agentgateway | [#4172](https://github.com/agentgateway/agentgateway/pull/4172) | config: add storage.resyncInterval to bound hybrid config staleness | 🔄 开放 |
+| 10 | ai-dynamo/dynamo | [#17571](https://github.com/ai-dynamo/dynamo/pull/17571) | docs(examples): add out-of-tree vLLM plugin deployment recipe (e.g. Sp | 🔄 开放 |
+| 11 | agent-substrate/substrate | [#3305](https://github.com/agent-substrate/substrate/pull/3305) | ateapi: reject policy members that exceed OpenFGA's 512-byte user limi | 🔄 开放 |
+| 12 | agent-substrate/substrate | [#3304](https://github.com/agent-substrate/substrate/pull/3304) | ateapi: fix name the target template UID in the source Tag mismatch er | 🔄 开放 |
+| 13 | kubernetes-sigs/agent-sandbox | [#2072](https://github.com/kubernetes-sigs/agent-sandbox/pull/2072) | docs(kep-539.2): add exit event retention, Wait RPC, and detached proc | 🔄 开放 |
+| 14 | agentgateway/agentgateway | [#4172](https://github.com/agentgateway/agentgateway/pull/4172) | config: add storage.resyncInterval to bound hybrid config staleness | 🔄 开放 |
 
 ---
 
@@ -243,7 +241,7 @@ yhsmer                         █                    1%
 - **PR**: 5 个
 - **Commit**: 4 次
 - **主要工作**:
-  - PR #4261: llm: inject propertyOrdering into Gemini schemas to prevent 
+  - PR #4261: llm: send structured-output schemas to Gemini via responseJs
   - PR #4260: cel-fork: add missing README.md symlink target
   - PR #4259: feat(llm): support the ultrafast pricing tier for GPT models
   - PR #4172: config: add storage.resyncInterval to bound hybrid config st
@@ -279,7 +277,7 @@ yhsmer                         █                    1%
 
 | 仓库 | Commit数 | 最新提交 | 主要变更 |
 |------|---------|---------|---------|
-| prometheus-operator/prometheus-operator | 7 | 2026-10-28 | Merge pull request #8761 from kubeservice-stack/fe; Bump prometheus lts version to v3.13.5; chore: bump controller-tools to v0.23.0 |
+| prometheus-operator/prometheus-operator | 7 | 2026-10-29 | Bump thanos version to v0.42.5; Merge pull request #8761 from kubeservice-stack/fe; Bump prometheus lts version to v3.13.5 |
 | kubernetes-sigs/agent-sandbox | 5 | 2026-10-27 | feat(sandboxd): add FileWatcherService for real-ti; feat(sandbox-router): transcode gRPC-Web for brows; examples: Add an example that runs the OpenCode co |
 | agentgateway/agentgateway | 4 | 2026-11-03 | feat(llm): support the ultrafast pricing tier for ; cel-fork: add missing README.md symlink target (#4; build: update golangci-lint to v2.15.0 and kube-ap |
 | BRIDGE-ALLAH/MW-GATEWAY | 4 | 2026-11-03 | feat(llm): support the ultrafast pricing tier for ; cel-fork: add missing README.md symlink target (#4; llm: send thinkingLevel instead of thinkingBudget  |
@@ -295,7 +293,6 @@ yhsmer                         █                    1%
 | pytorch/executorch | 1 | 2026-10-31 | feat(example): Add Spark-X2.6 1.7B and 4B model su |
 | a-ghorbani/pocketpal-device-rules | 1 | 2026-10-28 | Add Spark-X2.6 to iOS/Android v2 (mid/high 1.7B, f |
 | ai-dynamo/dynamo | 1 | 2026-11-02 | feat(operator): add dynamo_operator_build_info met |
-| yhsmer/dynamo | 1 | 2026-11-02 | feat(operator): add dynamo_operator_build_info met |
 
 ---
 
@@ -320,4 +317,4 @@ yhsmer                         █                    1%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

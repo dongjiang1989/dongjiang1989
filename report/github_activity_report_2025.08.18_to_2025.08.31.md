@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -78,15 +78,15 @@ jimmidyson                     █                    4%
 |------|--------|--------|----------|
 | 2025-08-18（一） | 0 | ░░░░░ | — |
 | **2025-08-19（二）** | **5** | █████ | 5 项活动（dongjiang1989/dubbo-go-server） |
-| 2025-08-20（三） | 4 | ████░ | 4 项活动（apache/dubbo-go), dongjiang1989/dubbo-go-server） |
+| 2025-08-20（三） | 4 | ████░ | 4 项活动（dongjiang1989/dubbo-go-server, apache/dubbo-go)） |
 | 2025-08-21（四） | 2 | ██░░░ | Issue #6; apache/dubbo-go: fix urlString with muti addr trim |
 | 2025-08-22（五） | 0 | ░░░░░ | — |
 | 2025-08-23（六） | 0 | ░░░░░ | — |
 | 2025-08-24（日） | 0 | ░░░░░ | — |
 | 2025-08-25（一） | 0 | ░░░░░ | — |
-| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, bytebase/clabot-config), bytebase/bytebase） |
+| **2025-08-26（二）** | **6** | ██████ | 6 项活动（weedgit/bytebase, bytebase/clabot-config), brianlallen/bytebase） |
 | 2025-08-27（三） | 1 | █░░░░ | PR #7840 (prometheus-operator/prometheus-operator) |
-| **2025-08-28（四）** | **5** | █████ | 5 项活动（kubernetes-sigs/cluster-api, jimmidyson/kcp-cluster-api, kubernetes-sigs/cluster-api)） |
+| **2025-08-28（四）** | **5** | █████ | 5 项活动（prometheus-operator/prometheus-operator, kubernetes-sigs/cluster-api, jimmidyson/kcp-cluster-api） |
 | 2025-08-29（五） | 0 | ░░░░░ | — |
 | 2025-08-30（六） | 0 | ░░░░░ | — |
 | 2025-08-31（日） | 0 | ░░░░░ | — |
@@ -234,4 +234,4 @@ jimmidyson                     █                    4%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

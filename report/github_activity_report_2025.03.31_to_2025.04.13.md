@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -15,18 +15,18 @@
 
 | 维度 | 数值 |
 |------|------|
-| 涉及组织数 | **17** 个 |
-| 涉及仓库数 | **20** 个 |
+| 涉及组织数 | **18** 个 |
+| 涉及仓库数 | **21** 个 |
 | Pull Request 数 | **14** 个（已合并 13，开放 1） |
 | Issue 数 | **1** 个 |
-| Commit 数 | **25** 次 |
-| 总活动量 | **40** |
+| Commit 数 | **26** 次 |
+| 总活动量 | **41** |
 
 ### 🎯 工作重心分布
 
 ```
 kubernetes-sigs                ████                 22%
-kubeservice-stack              ████                 20%
+kubeservice-stack              ███                  20%
 koordinator-sh                 ██                   12%
 Project-HAMi                   █                    5%
 volcano-sh                     █                    5%
@@ -40,6 +40,7 @@ bhcoder23                      █                    2%
 GsonZhao                       █                    2%
 handan-yxh                     █                    2%
 punith1006                     █                    2%
+helloworldjhb                  █                    2%
 ckyuto                         █                    2%
 kev1N916                       █                    2%
 ```
@@ -49,9 +50,9 @@ kev1N916                       █                    2%
 1. **kubernetes-sigs** 是最大贡献方向（22%），涉及 4 个仓库，共 9 次活动。
 2. 共 **13** 个 PR 已合并，覆盖 9 个仓库。
 3. **1** 个 PR 仍在开放/Review 中。
-4. 活跃高峰出现在 **2025-04-02**（12 次活动），展现了高强度的工作节奏。
+4. 活跃高峰出现在 **2025-04-02**（13 次活动），展现了高强度的工作节奏。
 5. 创建了 **1** 个 Issue，涉及项目规划、Bug 追踪和社区互动。
-6. 在 15 个仓库提交了 **25** 次代码。
+6. 在 16 个仓库提交了 **26** 次代码。
 
 ### 📊 与上一个双周对比
 
@@ -59,10 +60,10 @@ kev1N916                       █                    2%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 132 | **40** | -70% | 📉 -92 |
+| **总活动量** | 136 | **41** | -70% | 📉 -95 |
 | Pull Request | 13 | 14 | +8% | 📈 +1 |
 | Issue | 4 | 1 | -75% | 📉 -3 |
-| Commit | 115 | 25 | -78% | 📉 -90 |
+| Commit | 119 | 26 | -78% | 📉 -93 |
 
 - 🆕 **新增活跃仓库**：`Project-HAMi/HAMi-core`, `golangci/golangci-lint`, `koordinator-sh/koordinator`, `kubernetes-sigs/controller-runtime`, `kubernetes-sigs/controller-tools`, `kubernetes-sigs/kubebuilder`, `kubernetes-sigs/scheduler-plugins`, `kubernetes/kubernetes`, `n2h9/fork-kubernetes-sigs-kubebuilder-debug-00`, `punith1006/LaaS-Hami`
 - ❌ **不再活跃的仓库**：`ACRT-EVAL/helm-431-cr1`, `ACRT-EVAL/helm-431-cr10`, `ACRT-EVAL/helm-431-cr11`, `ACRT-EVAL/helm-431-cr5`, `ACRT-EVAL/helm-431-cr7`, `ACRT-EVAL/helm-431-cr9`, `Apexmail/helm`, `Govardhan988/helm-repo`, `Sanjaykumar2-creator/aispm-test-28`, `Scaling-Smart/prometheus-helm-charts`, `cnloxiaoteng-ship-it/helm-charts`, `helm/helm`, `hoppipolla-dev/helm`, `idadmin007/prometheus`, `iv57yf034b/helm__helm.bec5b06e`, `kubernetes/kube-openapi`, `kubeservice-stack/docker-image`, `kubeservice-stack/echo`, `kubeservice-stack/network-doctor`, `prometheus-community/helm-charts`, `psharma0905/Prometheus-and-Grafana-helm-charts`, `sg-scale/helm--v4.0.4`, `yunshenliu92/prometheus`
@@ -74,10 +75,10 @@ kev1N916                       █                    2%
 
 | 指标 | 数量 | 说明 |
 |------|------|------|
-| 📊 **总活动** | **40** | PR + Issue + Commit |
+| 📊 **总活动** | **41** | PR + Issue + Commit |
 | 📝 **Pull Request** | 14 | 已合并 13，开放 1 |
 | 📋 **Issue** | 1 | 创建 Issue |
-| 💻 **Commit** | 25 | 代码提交 |
+| 💻 **Commit** | 26 | 代码提交 |
 
 ---
 
@@ -85,22 +86,22 @@ kev1N916                       █                    2%
 
 | 日期 | 活动数 | 活跃度 | 主要工作 |
 |------|--------|--------|----------|
-| **2025-03-31（一）** | **7** | ███████ | 7 项活动（kubeservice-stack/lxcfs-webhook, kubeservice-stack/lxcfs-webhook), karmada-io/karmada)） |
-| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/scheduler-plugins), prometheus-operator/prometheus-operator） |
-| **2025-04-02（三）** | **12** | ████████████ | 12 项活动（AhmaadKaleeem/volcano, kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-tools)） |
-| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00） |
+| **2025-03-31（一）** | **7** | ███████ | 7 项活动（karmada-io/karmada), kubeservice-stack/lxcfs-webhook), prometheus-operator/prometheus-operator） |
+| 2025-04-01（二） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, prometheus-operator/prometheus-operator, kubernetes-sigs/scheduler-plugins)） |
+| **2025-04-02（三）** | **13** | █████████████ | 13 项活动（bhcoder23/volcano, koordinator-sh/koordinator), kubernetes-sigs/controller-tools)） |
+| 2025-04-03（四） | 4 | ████░ | 4 项活动（kubernetes-sigs/kubebuilder, koordinator-sh/koordinator, n2h9/fork-kubernetes-sigs-kubebuilder-debug-00） |
 | 2025-04-04（五） | 0 | ░░░░░ | — |
 | 2025-04-05（六） | 0 | ░░░░░ | — |
 | 2025-04-06（日） | 0 | ░░░░░ | — |
 | 2025-04-07（一） | 0 | ░░░░░ | — |
 | 2025-04-08（二） | 3 | ███░░ | PR #2396 (koordinator-sh/koordinator); PR #131207 (kubernetes/kubernetes); PR #2395 (koordinator-sh/koordinator) |
 | 2025-04-09（三） | 0 | ░░░░░ | — |
-| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, kubernetes-sigs/kubebuilder), koordinator-sh/koordinator） |
-| **2025-04-11（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder, kubernetes-sigs/kubebuilder), n2h9/fork-kubernetes-sigs-kubebuilder-debug-00） |
+| 2025-04-10（四） | 4 | ████░ | 4 项活动（kubeservice-stack/lxcfs-webhook, koordinator-sh/koordinator, kubernetes-sigs/kubebuilder)） |
+| **2025-04-11（五）** | **6** | ██████ | 6 项活动（kubernetes-sigs/kubebuilder), kubernetes-sigs/kubebuilder, Project-HAMi/HAMi-core)） |
 | 2025-04-12（六） | 0 | ░░░░░ | — |
 | 2025-04-13（日） | 0 | ░░░░░ | — |
 
-> **活跃高峰**：2025-04-02（12 次活动）为最高峰。
+> **活跃高峰**：2025-04-02（13 次活动）为最高峰。
 
 ---
 
@@ -110,23 +111,24 @@ kev1N916                       █                    2%
 
 | 组织 | 活动数 | 占比 | 核心仓库 | 贡献类型 |
 |------|--------|------|----------|----------|
-| **kubernetes-sigs** | 9 | 22.5% | kubernetes-sigs/kubebuilder(5), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(1) | PR, Push |
-| kubeservice-stack | 8 | 20.0% | kubeservice-stack/lxcfs-webhook(8) | PR, Push |
-| koordinator-sh | 5 | 12.5% | koordinator-sh/koordinator(5) | PR, Push |
-| Project-HAMi | 2 | 5.0% | Project-HAMi/HAMi-core(2) | PR, Push |
-| volcano-sh | 2 | 5.0% | volcano-sh/volcano(2) | PR, Push |
-| prometheus-operator | 2 | 5.0% | prometheus-operator/prometheus-operator(2) | Push |
-| n2h9 | 2 | 5.0% | n2h9/fork-kubernetes-sigs-kubebuilder-debug-00(2) | Push |
-| kubernetes | 1 | 2.5% | kubernetes/kubernetes(1) | PR |
-| karmada-io | 1 | 2.5% | karmada-io/karmada(1) | PR |
-| golangci | 1 | 2.5% | golangci/golangci-lint(1) | Issue |
-| AhmaadKaleeem | 1 | 2.5% | AhmaadKaleeem/volcano(1) | Push |
-| bhcoder23 | 1 | 2.5% | bhcoder23/volcano(1) | Push |
-| GsonZhao | 1 | 2.5% | GsonZhao/volcano(1) | Push |
-| handan-yxh | 1 | 2.5% | handan-yxh/volcano-old-test(1) | Push |
-| punith1006 | 1 | 2.5% | punith1006/LaaS-Hami(1) | Push |
-| ckyuto | 1 | 2.5% | ckyuto/volcano-upstream(1) | Push |
-| kev1N916 | 1 | 2.5% | kev1N916/volcano(1) | Push |
+| **kubernetes-sigs** | 9 | 22.0% | kubernetes-sigs/kubebuilder(5), kubernetes-sigs/controller-runtime(2), kubernetes-sigs/controller-tools(1) | PR, Push |
+| kubeservice-stack | 8 | 19.5% | kubeservice-stack/lxcfs-webhook(8) | PR, Push |
+| koordinator-sh | 5 | 12.2% | koordinator-sh/koordinator(5) | PR, Push |
+| Project-HAMi | 2 | 4.9% | Project-HAMi/HAMi-core(2) | PR, Push |
+| volcano-sh | 2 | 4.9% | volcano-sh/volcano(2) | PR, Push |
+| prometheus-operator | 2 | 4.9% | prometheus-operator/prometheus-operator(2) | Push |
+| n2h9 | 2 | 4.9% | n2h9/fork-kubernetes-sigs-kubebuilder-debug-00(2) | Push |
+| kubernetes | 1 | 2.4% | kubernetes/kubernetes(1) | PR |
+| karmada-io | 1 | 2.4% | karmada-io/karmada(1) | PR |
+| golangci | 1 | 2.4% | golangci/golangci-lint(1) | Issue |
+| AhmaadKaleeem | 1 | 2.4% | AhmaadKaleeem/volcano(1) | Push |
+| bhcoder23 | 1 | 2.4% | bhcoder23/volcano(1) | Push |
+| GsonZhao | 1 | 2.4% | GsonZhao/volcano(1) | Push |
+| handan-yxh | 1 | 2.4% | handan-yxh/volcano-old-test(1) | Push |
+| punith1006 | 1 | 2.4% | punith1006/LaaS-Hami(1) | Push |
+| helloworldjhb | 1 | 2.4% | helloworldjhb/volcano(1) | Push |
+| ckyuto | 1 | 2.4% | ckyuto/volcano-upstream(1) | Push |
+| kev1N916 | 1 | 2.4% | kev1N916/volcano(1) | Push |
 
 ### 4.2 仓库详细 Top 10
 
@@ -250,6 +252,7 @@ kev1N916                       █                    2%
 | kubernetes-sigs/controller-runtime | 1 | 2025-04-02 | update golangci-lint to v2 |
 | handan-yxh/volcano-old-test | 1 | 2025-04-02 | add jobflow metrics |
 | punith1006/LaaS-Hami | 1 | 2025-04-11 | fix lock file loop and fd leak |
+| helloworldjhb/volcano | 1 | 2025-04-02 | add jobflow metrics |
 | ckyuto/volcano-upstream | 1 | 2025-04-02 | add jobflow metrics |
 | volcano-sh/volcano | 1 | 2025-04-02 | add jobflow metrics |
 | kev1N916/volcano | 1 | 2025-04-02 | add jobflow metrics |
@@ -269,4 +272,4 @@ kev1N916                       █                    2%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*

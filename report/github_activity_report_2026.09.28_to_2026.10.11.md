@@ -5,7 +5,7 @@
 > **身份**：Baidu && Alibaba && DiDi && Huawei | Beijing
 > **简介**：I like share！@prometheus & @agentgateway team member
 
-> **公开仓库数**：267 | **Followers**：108 | **Following**：44
+> **公开仓库数**：268 | **Followers**：108 | **Following**：42
 
 ---
 
@@ -50,13 +50,13 @@ TejasweeSulekh                 █                    3%
 
 | 指标 | 上双周 | 本双周 | 变化 | 趋势 |
 |------|--------|--------|------|------|
-| **总活动量** | 58 | **38** | -34% | 📉 -20 |
+| **总活动量** | 59 | **38** | -36% | 📉 -21 |
 | Pull Request | 29 | 19 | -34% | 📉 -10 |
 | Issue | 3 | 2 | -33% | 📉 -1 |
-| Commit | 26 | 17 | -35% | 📉 -9 |
+| Commit | 27 | 17 | -37% | 📉 -10 |
 
 - 🆕 **新增活跃仓库**：`TejasweeSulekh/executorch-dev`, `agentgateway/website`, `kubeai-project/kubeai`, `kubernetes-sigs/controller-runtime`
-- ❌ **不再活跃的仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `XHToken/Spark-X2.6`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/dongjiang1989`, `dongjiang1989/ospolandscape`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `grafana/mimir-prometheus`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `openshift-service-mesh/istio`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `prometheus/prometheus`, `shawnlinator/beryl-seal`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
+- ❌ **不再活跃的仓库**：`Aikido-pentest-benchmarks/istio`, `NVIDIA/pyxis`, `SlinkyProject/slurm-operator`, `XHToken/Spark-X2.6`, `a-ghorbani/pocketpal-device-rules`, `a2aproject/A2A`, `a2aproject/a2a-go`, `anomalyco/models.dev`, `dongjiang1989/dongjiang1989`, `dongjiang1989/ospolandscape`, `e7t1s2n9yo/kubernetes-sigs__agent-sandbox.82d410ef`, `embryo-zero/embryo-monitor`, `grafana/mimir-prometheus`, `istio/istio`, `kubernetes-sigs/kube-api-linter`, `openshift-service-mesh/istio`, `prabhawti/istio`, `prometheus-operator/website`, `prometheus/exporter-toolkit`, `prometheus/prometheus`, `shawnlinator/beryl-seal`, `theagentrouter/agent-router`, `todogroup/ospolandscape`
 - 🔄 **工作重心转移**：从 **iflytek** 转向 **e2bgateway**
 
 ---
@@ -85,10 +85,10 @@ TejasweeSulekh                 █                    3%
 | 2026-10-04（日） | 0 | ░░░░░ | — |
 | 2026-10-05（一） | 0 | ░░░░░ | — |
 | 2026-10-06（二） | 0 | ░░░░░ | — |
-| 2026-10-07（三） | 4 | ████░ | 4 项活动（pytorch/executorch), iflytek/website), iflytek/website） |
+| 2026-10-07（三） | 4 | ████░ | 4 项活动（iflytek/website), pytorch/executorch), iflytek/website） |
 | 2026-10-08（四） | 2 | ██░░░ | PR #8871 (prometheus-operator/prometheus-operator); prometheus-operator/prometheus-operator: update pr |
-| **2026-10-09（五）** | **8** | ████████ | 8 项活动（agentgateway/agentgateway), e2bgateway/e2bgateway, prometheus-operator/prometheus-operator） |
-| **2026-10-10（六）** | **21** | ████████████████████ | 21 项活动（kubernetes-sigs/controller-runtime, kubernetes-sigs/controller-runtime), e2bgateway/e2bgateway） |
+| **2026-10-09（五）** | **8** | ████████ | 8 项活动（kubernetes-sigs/agent-sandbox, e2bgateway/e2bgateway), prometheus-operator/prometheus-operator） |
+| **2026-10-10（六）** | **21** | ████████████████████ | 21 项活动（iflytek/.github, e2bgateway/e2bgateway), kubernetes-sigs/controller-runtime） |
 | 2026-10-11（日） | 0 | ░░░░░ | — |
 
 > **活跃高峰**：2026-10-10（21 次活动）为最高峰。
@@ -258,4 +258,4 @@ TejasweeSulekh                 █                    3%
 
 ---
 
-*报告生成时间：2026-11-16 | 数据来源：GitHub Search API, Events API*
+*报告生成时间：2026-11-23 | 数据来源：GitHub Search API, Events API*
